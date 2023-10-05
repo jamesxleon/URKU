@@ -1,0 +1,182 @@
+[
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka kuymimi kani', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Ñukaka kuymimi kani",
+        "Salida": "Yo Kuymi soy"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Imata yachakunki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Imata yachakunki?",
+        "Salida": "¿Qué aprendiendoestás?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka maypitak kawsanki?', en español?",
+        "Entrada": "Kanka maypitak kawsanki?",
+        "Salida": "¿Y tú en dónde vives?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ima shuti kanki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Ima shuti kanki?",
+        "Salida": "¿Qué nombre eres?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka maymanta kanki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Kanka maymanta kanki?",
+        "Salida": "¿Túy de dónde eres?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka ima shuti kanki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Kanka ima shuti kanki?",
+        "Salida": "¿Túy qué nombre eres?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Veintiunota charini', en español?",
+        "Entrada": "Veintiunota charini",
+        "Salida": "Tengo veintiuno"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Mashna watatakuna charinki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Mashna watatakuna charinki?",
+        "Salida": "¿Cuántos años tienes?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka maypitak kawsanki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Kanka maypitak kawsanki?",
+        "Salida": "¿Túy dóndeen vives?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Antropologiata yachakuni', en español?",
+        "Entrada": "Antropologiata yachakuni",
+        "Salida": "Estoy estudiando Antropología"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka Tumbacopi kawsani', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Ñukaka Tumbacopi kawsani",
+        "Salida": "Yo Tumbacoen vivo"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Quitomanta kani', en español?",
+        "Entrada": "Quitomanta kani",
+        "Salida": "Soy de Quito"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Maymanta kanki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Maymanta kanki?",
+        "Salida": "¿Dóndede eres?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka Quitomantami kani', en español?",
+        "Entrada": "Ñukaka Quitomantami kani",
+        "Salida": "Yo soy de Quito"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Veintiunota charini', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Veintiunota charini",
+        "Salida": "Veintiuno tengo"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Quitomanta kani', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Quitomanta kani",
+        "Salida": "Quitode soy"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka imata yachajunki?', en español?",
+        "Entrada": "Kanka imata yachajunki?",
+        "Salida": "¿Y tú qué estás estudiando?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, '¿Maypitak kawsanki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "¿Maypitak kawsanki?",
+        "Salida": "¿Dóndeen vives?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka Tumbacopi kawsani', en español?",
+        "Entrada": "Ñukaka Tumbacopi kawsani",
+        "Salida": "Yo vivo en Tumbaco"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Tumbacopi kawsani', en español?",
+        "Entrada": "Tumbacopi kawsani",
+        "Salida": "Vivo en Tumbaco"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka Antropologiata yachakunimi', en español?",
+        "Entrada": "Ñukaka Antropologiata yachakunimi",
+        "Salida": "Yo estoy estudiando Antropología"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka maymanta kanki?', en español?",
+        "Entrada": "Kanka maymanta kanki?",
+        "Salida": "¿Y tú de dónde eres?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Maymanta kanki?', en español?",
+        "Entrada": "Maymanta kanki?",
+        "Salida": "¿De dónde eres?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Antropologiata yachakuni', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Antropologiata yachakuni",
+        "Salida": "Antropología aprendiendoestoy"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka Antropologiata yachakunimi', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Ñukaka Antropologiata yachakunimi",
+        "Salida": "Yo Antropología aprendiendoestoy"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukapa shuti Kuymi kan', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Ñukapa shuti Kuymi kan",
+        "Salida": "Mi nombre Kuymi es"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka kuymimi kani', en español?",
+        "Entrada": "Ñukaka kuymimi kani",
+        "Salida": "Soy Kuymi"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ima shuti kanki?', en español?",
+        "Entrada": "Ima shuti kanki?",
+        "Salida": "¿Cuál es tu nombre?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Imata yachakunki?', en español?",
+        "Entrada": "Imata yachakunki?",
+        "Salida": "¿Qué estás estudiando?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Tumbacopi kawsani', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Tumbacopi kawsani",
+        "Salida": "Tumbacoen vivo"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka ima shuti kanki?', en español?",
+        "Entrada": "Kanka ima shuti kanki?",
+        "Salida": "¿Y tú cómo te llamas?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Kanka imata yachajunki?', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Kanka imata yachajunki?",
+        "Salida": "¿Túy qué aprendiendoestás?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, '¿Maypitak kawsanki?', en español?",
+        "Entrada": "¿Maypitak kawsanki?",
+        "Salida": "¿Dónde vives?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Mashna watatakuna charinki?', en español?",
+        "Entrada": "Mashna watatakuna charinki?",
+        "Salida": "¿Cuántos años tienes?"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukaka Quitomantami kani', en español conservando la estructura gramatical del kichwa?",
+        "Entrada": "Ñukaka Quitomantami kani",
+        "Salida": "Yo Quitode soy"
+    },
+    {
+        "Instrucción": "¿Cómo se diría la siguiente frase en kichwa, 'Ñukapa shuti Kuymi kan', en español?",
+        "Entrada": "Ñukapa shuti Kuymi kan",
+        "Salida": "Mi nombre es Kuymi"
+    }
+]

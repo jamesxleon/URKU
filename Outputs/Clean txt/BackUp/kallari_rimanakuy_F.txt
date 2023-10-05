@@ -1,0 +1,136 @@
+Kallari rimanakuy = Diálogo muy básico
+
+A:
+Kichwa
+Ima shuti kanki?
+Estructura del kichwa en español
+¿Qué nombre eres?
+Español
+¿Cuál es tu nombre?
+B:
+Kichwa
+Ñukaka kuymimi kani
+Estructura del kichwa en español
+Yo Kuymi soy
+Español
+Soy Kuymi
+
+A:
+Kichwa
+Kanka ima shuti kanki?
+Estructura del kichwa en español
+¿Túy qué nombre eres?
+Español
+¿Y tú cómo te llamas?
+B:
+Kichwa
+Ñukapa shuti Kuymi kan
+Estructura del kichwa en español
+Mi nombre Kuymi es
+Español
+Mi nombre es Kuymi
+
+A:
+Kichwa
+Maymanta kanki?
+Estructura del kichwa en español
+¿Dóndede eres?
+Español
+¿De dónde eres?
+B:
+Kichwa
+Quitomanta kani
+Estructura del kichwa en español
+Quitode soy
+Español
+Soy de Quito
+
+A:
+Kichwa
+Kanka maymanta kanki?
+Estructura del kichwa en español
+¿Túy de dónde eres?
+Español
+¿Y tú de dónde eres?
+B:
+Kichwa
+Ñukaka Quitomantami kani
+Estructura del kichwa en español
+Yo Quitode soy
+Español
+Yo soy de Quito
+
+A:
+Kichwa
+Imata yachakunki?
+Estructura del kichwa en español
+¿Qué aprendiendoestás?
+Español
+¿Qué estás estudiando?
+B:
+Kichwa
+Antropologiata yachakuni
+Estructura del kichwa en español
+Antropología aprendiendoestoy
+Español
+Estoy estudiando Antropología
+
+A:
+Kichwa
+Kanka imata yachajunki?
+Estructura del kichwa en español
+¿Túy qué aprendiendoestás?
+Español
+¿Y tú qué estás estudiando?
+B:
+Kichwa
+Ñukaka Antropologiata yachakunimi
+Estructura del kichwa en español
+Yo Antropología aprendiendoestoy
+Español
+Yo estoy estudiando Antropología
+
+A:
+Kichwa
+Mashna watatakuna charinki?
+Estructura del kichwa en español
+¿Cuántos años tienes?
+Español
+¿Cuántos años tienes?
+B:
+Kichwa
+Veintiunota charini
+Estructura del kichwa en español
+Veintiuno tengo
+Español
+Tengo veintiuno
+
+A:
+Kichwa
+¿Maypitak kawsanki?
+Estructura del kichwa en español
+¿Dóndeen vives?
+Español
+¿Dónde vives?
+B:
+Kichwa
+Tumbacopi kawsani
+Estructura del kichwa en español
+Tumbacoen vivo
+Español
+Vivo en Tumbaco
+
+A:
+Kichwa
+Kanka maypitak kawsanki?
+Estructura del kichwa en español
+¿Túy dóndeen vives?
+Español
+¿Y tú en dónde vives?
+B:
+Kichwa
+Ñukaka Tumbacopi kawsani
+Estructura del kichwa en español
+Yo Tumbacoen vivo
+Español
+Yo vivo en Tumbaco

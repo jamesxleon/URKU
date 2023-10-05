@@ -1,0 +1,242 @@
+[
+    {
+        "Instrucción": "Traduce la oración 'SHUKTA KILLAKAMAN' al español.",
+        "Entrada": "SHUKTA KILLAKAMAN",
+        "Salida": "Hasta el mes siguiente."
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'ALLIPACHA'.",
+        "Entrada": "ALLIPACHA",
+        "Salida": "Buenísimo."
+    },
+    {
+        "Instrucción": "Transcribe 'TUPARISHUN' al español.",
+        "Entrada": "TUPARISHUN",
+        "Salida": "Nos encontraremos. Nos encontramos."
+    },
+    {
+        "Instrucción": "Indica el significado en español de la oración 'KUTIN RIKURISHUN'.",
+        "Entrada": "KUTIN RIKURISHUN",
+        "Salida": "Nos veremos de nuevo. Nos vemos de nuevo."
+    },
+    {
+        "Instrucción": "¿Qué significa el kichwa 'PANIKA' en español?",
+        "Entrada": "PANIKA",
+        "Salida": "¿Y tu hermana? (de varón a mujer)."
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'KAYAKAMAN'.",
+        "Entrada": "KAYAKAMAN",
+        "Salida": "Hasta mañana. Adiós."
+    },
+    {
+        "Instrucción": "Traduce la oración 'SHINA-SHINALLA' al español.",
+        "Entrada": "SHINA-SHINALLA",
+        "Salida": "Así, más o menos (no más)."
+    },
+    {
+        "Instrucción": "¿Cómo se podría expresar 'KAWSANKICHU' en español?",
+        "Entrada": "KAWSANKICHU",
+        "Salida": "Estás vivo/a?"
+    },
+    {
+        "Instrucción": "¿Cómo se expresaría 'MANA' en términos españoles?",
+        "Entrada": "MANA",
+        "Salida": "No."
+    },
+    {
+        "Instrucción": "¿Cuál sería la equivalencia en español de la oración 'ALLILLACHU KANKI'?",
+        "Entrada": "ALLILLACHU KANKI",
+        "Salida": "¿Estás bien? (¿no más?)"
+    },
+    {
+        "Instrucción": "Traduce la oración 'ARI TIYANMI' al español.",
+        "Entrada": "ARI TIYANMI",
+        "Salida": "Si hay"
+    },
+    {
+        "Instrucción": "¿Cuál sería la equivalencia en español de la oración 'KAWSAJUNKICHIKCHU'?",
+        "Entrada": "KAWSAJUNKICHIKCHU",
+        "Salida": "Están viviendo?"
+    },
+    {
+        "Instrucción": "¿Qué significa la oración 'MAMAKA' en español?",
+        "Entrada": "MAMAKA",
+        "Salida": "¿Y tu mamá?"
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'LLAKI'.",
+        "Entrada": "LLAKI",
+        "Salida": "Triste."
+    },
+    {
+        "Instrucción": "Revela la traducción en español de 'KASHNA WATAKAMAN'.",
+        "Entrada": "KASHNA WATAKAMAN",
+        "Salida": "Hasta el próximo año."
+    },
+    {
+        "Instrucción": "¿Cómo se diría 'ENERO KILLAKAMAN' en español?",
+        "Entrada": "ENERO KILLAKAMAN",
+        "Salida": "Hasta enero."
+    },
+    {
+        "Instrucción": "¿Qué significa la oración 'ASHTA KASHKAMAN' en español?",
+        "Entrada": "ASHTA KASHKAMAN",
+        "Salida": "Hasta pronto. Hasta siempre."
+    },
+    {
+        "Instrucción": "¿Qué significa el kichwa 'RIKURISHUN' en español?",
+        "Entrada": "RIKURISHUN",
+        "Salida": "Nos veremos. Nos vemos. Adiós."
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'KUSHI'.",
+        "Entrada": "KUSHI",
+        "Salida": "Alegre, contento."
+    },
+    {
+        "Instrucción": "Dime cómo se expresa 'IMANALLA TUKUYLLAKUNAWAN' en español.",
+        "Entrada": "IMANALLA TUKUYLLAKUNAWAN",
+        "Salida": "¿Cómo está todo el mundo?"
+    },
+    {
+        "Instrucción": "¿Cuál es la versión en español de la oración 'UNKUSHKALLA'?",
+        "Entrada": "UNKUSHKALLA",
+        "Salida": "Enfermo (no más)."
+    },
+    {
+        "Instrucción": "Dime cómo se expresa 'ÑAÑAKA' en español.",
+        "Entrada": "ÑAÑAKA",
+        "Salida": "¿Y tu hermana? (entre mujeres)."
+    },
+    {
+        "Instrucción": "Dime cómo se expresa 'SHAMUK SEMANAKAMAN' en español.",
+        "Entrada": "SHAMUK SEMANAKAMAN",
+        "Salida": "Hasta la próxima semana."
+    },
+    {
+        "Instrucción": "¿Cómo se podría traducir 'LUNES PUNCHAKAMAN' al español?",
+        "Entrada": "LUNES PUNCHAKAMAN",
+        "Salida": "Hasta el lunes."
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'TURIKA'.",
+        "Entrada": "TURIKA",
+        "Salida": "¿Y tu hermano? (de mujer a varón"
+    },
+    {
+        "Instrucción": "Dime cómo se expresa 'MINCHAKAMAN' en español.",
+        "Entrada": "MINCHAKAMAN",
+        "Salida": "Hasta pasado mañana"
+    },
+    {
+        "Instrucción": "¿Qué frase en español se asemeja a 'SHUK WATAKAMAN'?",
+        "Entrada": "SHUK WATAKAMAN",
+        "Salida": "Hasta el año siguiente."
+    },
+    {
+        "Instrucción": "¿Qué oración en español corresponde a 'ARI' en Kichwa?",
+        "Entrada": "ARI",
+        "Salida": "Si."
+    },
+    {
+        "Instrucción": "¿Cómo se verbalizaría 'ALLI-TUTA' en español?",
+        "Entrada": "ALLI-TUTA",
+        "Salida": "Buenas noches."
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'UNKUSHKA'.",
+        "Entrada": "UNKUSHKA",
+        "Salida": "Enfermo."
+    },
+    {
+        "Instrucción": "¿Qué oración en español corresponde a 'KUTIN-TUPARISHUN' en Kichwa?",
+        "Entrada": "KUTIN-TUPARISHUN",
+        "Salida": "Nos encontraremos de nuevo."
+    },
+    {
+        "Instrucción": "Revela la traducción en español de 'SHUK PUNCHA TUPARISHUN'.",
+        "Entrada": "SHUK PUNCHA TUPARISHUN",
+        "Salida": "Nos encontramos otro día. Adiós."
+    },
+    {
+        "Instrucción": "Transcribe 'ALLI' al español.",
+        "Entrada": "ALLI",
+        "Salida": "Bien."
+    },
+    {
+        "Instrucción": "¿Cuál sería la equivalencia en español de la oración 'MANA TIYANCHU'?",
+        "Entrada": "MANA TIYANCHU",
+        "Salida": "No hay."
+    },
+    {
+        "Instrucción": "¿Qué significa el kichwa 'KASHNA PUNCHAKAMAN' en español?",
+        "Entrada": "KASHNA PUNCHAKAMAN",
+        "Salida": "Hasta otro día igual. Hasta un próximo día igual."
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'SHUK PUNCHA RIKURISHUN'.",
+        "Entrada": "SHUK PUNCHA RIKURISHUN",
+        "Salida": "Nos vemos otro día. Adiós."
+    },
+    {
+        "Instrucción": "¿Cuál es la versión en español de la oración 'IMANALLA'?",
+        "Entrada": "IMANALLA",
+        "Salida": "¿Cómo estás? ¿Qué tal?"
+    },
+    {
+        "Instrucción": "Ofrece la traducción en español para la oración 'ALLILLACHU KANCHIK'.",
+        "Entrada": "ALLILLACHU KANCHIK",
+        "Salida": "¿Estamos bien? (¿no más?)"
+    },
+    {
+        "Instrucción": "¿Cómo se podría traducir 'ALLILLA' al español?",
+        "Entrada": "ALLILLA",
+        "Salida": "Bien (no más)."
+    },
+    {
+        "Instrucción": "Explica en español el significado de la oración 'ALLI-PUNCHA'.",
+        "Entrada": "ALLI-PUNCHA",
+        "Salida": "Buenos días."
+    },
+    {
+        "Instrucción": "¿Cuál es la interpretación en español de la oración 'YAYAKA/TAYTAKA' en Kichwa?",
+        "Entrada": "YAYAKA/TAYTAKA",
+        "Salida": "¿Y tu papá?"
+    },
+    {
+        "Instrucción": "¿Cómo se expresaría 'ALLI-CHISHI' en términos españoles?",
+        "Entrada": "ALLI-CHISHI",
+        "Salida": "Buenas tardes."
+    },
+    {
+        "Instrucción": "Traduce la oración 'KUSHILLA' al español.",
+        "Entrada": "KUSHILLA",
+        "Salida": "Alegre, contento (no más)."
+    },
+    {
+        "Instrucción": "Convierte la oración 'SHUK PUNCHAKAMAN' al español.",
+        "Entrada": "SHUK PUNCHAKAMAN",
+        "Salida": "Hasta otro día. Adiós."
+    },
+    {
+        "Instrucción": "¿Qué oración en español corresponde a 'LLAKILLA' en Kichwa?",
+        "Entrada": "LLAKILLA",
+        "Salida": "Triste (no más)"
+    },
+    {
+        "Instrucción": "¿Cuál sería la equivalencia en español de la oración 'WAWKIKA'?",
+        "Entrada": "WAWKIKA",
+        "Salida": "¿Y tu hermano? (entre varones)."
+    },
+    {
+        "Instrucción": "¿Qué significa la oración 'SHINALLA' en español?",
+        "Entrada": "SHINALLA",
+        "Salida": "Más o menos (no más)."
+    },
+    {
+        "Instrucción": "¿Qué frase en español se asemeja a 'IMAPASH TIYANCHU'?",
+        "Entrada": "IMAPASH TIYANCHU",
+        "Salida": "¿Hay algo de nuevo? ¿Y de novedades?"
+    }
+]

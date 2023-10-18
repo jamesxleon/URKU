@@ -1,0 +1,2547 @@
+Speaker: simeon 
+  Tier Type: po, Annotations Count: 369
+    Time Stamp: ('ts1', 'ts2'), Annotation: ya ñukapash llukshisha
+    Time Stamp: ('ts3', 'ts4'), Annotation: entonces kaypi 
+    Time Stamp: ('ts5', 'ts6'), Annotation: ima shuti kan kay llakta 
+    Time Stamp: ('ts8', 'ts10'), Annotation: pamba marquita y ima shuti kangi
+    Time Stamp: ('ts14', 'ts16'), Annotation: lemayco 
+    Time Stamp: ('ts17', 'ts20'), Annotation: lemayco 
+    Time Stamp: ('ts21', 'ts23'), Annotation: chayshuk compañera ima shuti 
+    Time Stamp: ('ts25', 'ts26'), Annotation:  Chiquimba
+    Time Stamp: ('ts27', 'ts28'), Annotation: ari 
+    Time Stamp: ('ts29', 'ts30'), Annotation: shina ashka shina apellidokuna tyan kaypi 
+    Time Stamp: ('ts36', 'ts38'), Annotation: aaa
+    Time Stamp: ('ts39', 'ts40'), Annotation: eee bueno y washapi kikimba wasi nachu 
+    Time Stamp: ('ts42', 'ts44'), Annotation: o qui.. pipa wasi kan 
+    Time Stamp: ('ts46', 'ts48'), Annotation: kaychu 
+    Time Stamp: ('ts51', 'ts52'), Annotation: maypi 
+    Time Stamp: ('ts57', 'ts58'), Annotation: aaa
+    Time Stamp: ('ts59', 'ts60'), Annotation:  wasi illan ima maypi wasi 
+    Time Stamp: ('ts64', 'ts67'), Annotation: mmmm
+    Time Stamp: ('ts69', 'ts70'), Annotation: mmm
+    Time Stamp: ('ts71', 'ts72'), Annotation: ima ima shina wasi karka alpa wasi 
+    Time Stamp: ('ts75', 'ts76'), Annotation: tejachu 
+    Time Stamp: ('ts78', 'ts80'), Annotation: maypi kaypi 
+    Time Stamp: ('ts82', 'ts85'), Annotation: aja 
+    Time Stamp: ('ts89', 'ts90'), Annotation: mmm
+    Time Stamp: ('ts93', 'ts95'), Annotation: ari 
+    Time Stamp: ('ts96', 'ts99'), Annotation: piwan kawsarkangui chay 
+    Time Stamp: ('ts105', 'ts106'), Annotation: mjm
+    Time Stamp: ('ts112', 'ts114'), Annotation: mmmm
+    Time Stamp: ('ts116', 'ts117'), Annotation: cierto
+    Time Stamp: ('ts119', 'ts121'), Annotation: aaa yaa
+    Time Stamp: ('ts127', 'ts129'), Annotation: payka kusata charirkachu o paylla
+    Time Stamp: ('ts130', 'ts132'), Annotation: cierto
+    Time Stamp: ('ts143', 'ts144'), Annotation: cierto
+    Time Stamp: ('ts146', 'ts151'), Annotation: ufiangapaklla o oo jatungapak 
+    Time Stamp: ('ts157', 'ts159'), Annotation: mmm
+    Time Stamp: ('ts161', 'ts163'), Annotation: aja
+    Time Stamp: ('ts169', 'ts170'), Annotation: mmmm y maypi charirkangichi tar tarpushkia kayta 
+    Time Stamp: ('ts172', 'ts174'), Annotation: ari
+    Time Stamp: ('ts177', 'ts179'), Annotation: mmmm
+    Time Stamp: ('ts181', 'ts183'), Annotation: mmm
+    Time Stamp: ('ts185', 'ts186'), Annotation: cierto
+    Time Stamp: ('ts188', 'ts189'), Annotation: ari 
+    Time Stamp: ('ts192', 'ts195'), Annotation: mm
+    Time Stamp: ('ts198', 'ts201'), Annotation: mmm ari 
+    Time Stamp: ('ts205', 'ts206'), Annotation: aja
+    Time Stamp: ('ts211', 'ts212'), Annotation: mmm
+    Time Stamp: ('ts216', 'ts217'), Annotation: mishkita rriksirkangui ima shina trabajo
+    Time Stamp: ('ts219', 'ts220'), Annotation: mjmm
+    Time Stamp: ('ts223', 'ts224'), Annotation: mmmm
+    Time Stamp: ('ts229', 'ts230'), Annotation: mmm
+    Time Stamp: ('ts231', 'ts233'), Annotation: ari chaypi ña wiksata jundachu 
+    Time Stamp: ('ts234', 'ts236'), Annotation: paktan 
+    Time Stamp: ('ts241', 'ts242'), Annotation: mmm
+    Time Stamp: ('ts243', 'ts245'), Annotation: ari
+    Time Stamp: ('ts246', 'ts248'), Annotation: ari
+    Time Stamp: ('ts254', 'ts256'), Annotation: kunankaman chayta trabajangi
+    Time Stamp: ('ts261', 'ts263'), Annotation: ciertó 
+    Time Stamp: ('ts264', 'ts266'), Annotation: ima sisata 
+    Time Stamp: ('ts268', 'ts270'), Annotation: tos
+    Time Stamp: ('ts283', 'ts285'), Annotation: mmm
+    Time Stamp: ('ts293', 'ts294'), Annotation: a ya
+    Time Stamp: ('ts317', 'ts319'), Annotation: mishkita 
+    Time Stamp: ('ts320', 'ts323'), Annotation: maypi jatuna yachangi 
+    Time Stamp: ('ts326', 'ts327'), Annotation: mjmm
+    Time Stamp: ('ts347', 'ts349'), Annotation: aa ya 
+    Time Stamp: ('ts350', 'ts352'), Annotation: kunawras imasha trabajachin  trabajakringi cada  puncha o cada semana mishkita kushpa
+    Time Stamp: ('ts353', 'ts354'), Annotation: shina tandachishpa comunerokunawan ooo
+    Time Stamp: ('ts355', 'ts356'), Annotation: ima
+    Time Stamp: ('ts374', 'ts377'), Annotation: aja 
+    Time Stamp: ('ts393', 'ts395'), Annotation: mmm
+    Time Stamp: ('ts397', 'ts400'), Annotation: ashtawan alli alli kanga  nachu  kaypi jatunguichi  apanlla  wasipi 
+    Time Stamp: ('ts405', 'ts406'), Annotation: ari
+    Time Stamp: ('ts417', 'ts418'), Annotation: chuta eee bueno historiakunamandapash gentekuna apanchu
+    Time Stamp: ('ts421', 'ts423'), Annotation: mmmm aaa ari ña  gustangichi  kaypi shinangapak aaa
+    Time Stamp: ('ts424', 'ts426'), Annotation: ima shina trabajangi 
+    Time Stamp: ('ts427', 'ts428'), Annotation: maa  ishkay viaje punllapi  japingi ooo   ima shina trabajangi  (.....)rrurashpa
+    Time Stamp: ('ts433', 'ts434'), Annotation: mmm
+    Time Stamp: ('ts438', 'ts441'), Annotation: ari 
+    Time Stamp: ('ts445', 'ts447'), Annotation: y chaypi  ña shuk  uku rruashkia charingi   chay yakuta japingapa  o ima shina 
+    Time Stamp: ('ts451', 'ts452'), Annotation: kay kayta   charinguichu chayta 
+    Time Stamp: ('ts454', 'ts457'), Annotation: ari 
+    Time Stamp: ('ts458', 'ts459'), Annotation: cierto
+    Time Stamp: ('ts483', 'ts484'), Annotation: mmm
+    Time Stamp: ('ts486', 'ts489'), Annotation: mjm
+    Time Stamp: ('ts500', 'ts503'), Annotation: cierto 
+    Time Stamp: ('ts504', 'ts506'), Annotation:   ima chero pero mishki ashtawan  tyan  shuk ima  con la cabuya  chaykunata nachu japingichik 
+    Time Stamp: ('ts509', 'ts510'), Annotation: tsawarmanta ooo 
+    Time Stamp: ('ts513', 'ts515'), Annotation: mm,mm ya 
+    Time Stamp: ('ts522', 'ts524'), Annotation: pero nachu punda chay alpargartes   shinana yacharka chay  cabuyamanta chay
+    Time Stamp: ('ts525', 'ts526'), Annotation: oo naaa  na tyarka  punta ima shina  zapatos tyarka kaypi 
+    Time Stamp: ('ts531', 'ts534'), Annotation: yy alpargate de cabuya na rrikushkianguichu  otavalopi wakimpi rrikurin 
+    Time Stamp: ('ts536', 'ts539'), Annotation: aa ya
+    Time Stamp: ('ts541', 'ts543'), Annotation: entonces solo yakuta japingapak mas  aa chay 
+    Time Stamp: ('ts553', 'ts555'), Annotation: ari 
+    Time Stamp: ('ts557', 'ts559'), Annotation: shina niwarka   chay compañera parlarkanchi jawapi  tia nirka  kerosenta rrandina karka shina   chaykuna 
+    Time Stamp: ('ts565', 'ts567'), Annotation: mmm
+    Time Stamp: ('ts568', 'ts571'), Annotation: ari 
+    Time Stamp: ('ts575', 'ts577'), Annotation: mmmm
+    Time Stamp: ('ts578', 'ts580'), Annotation: ari 
+    Time Stamp: ('ts582', 'ts583'), Annotation: ña na rriksin chay tiempota 
+    Time Stamp: ('ts586', 'ts588'), Annotation: a yantata yanungapak
+    Time Stamp: ('ts589', 'ts591'), Annotation: chilka chilka yanta 
+    Time Stamp: ('ts593', 'ts595'), Annotation: ari 
+    Time Stamp: ('ts596', 'ts598'), Annotation: ari 
+    Time Stamp: ('ts605', 'ts607'), Annotation: ari 
+    Time Stamp: ('ts609', 'ts611'), Annotation: aaa cierto 
+    Time Stamp: ('ts613', 'ts615'), Annotation: aaa uksha wasipi yanungapak 
+    Time Stamp: ('ts622', 'ts625'), Annotation: kay puestomanta ari 
+    Time Stamp: ('ts626', 'ts629'), Annotation: y yakuta japirkanguichi chay waykomanta 
+    Time Stamp: ('ts630', 'ts632'), Annotation: chay jawapi nirka fakchakuna shutita charin 
+    Time Stamp: ('ts633', 'ts635'), Annotation: ciertó 
+    Time Stamp: ('ts637', 'ts639'), Annotation: jawapi 
+    Time Stamp: ('ts642', 'ts643'), Annotation: ari
+    Time Stamp: ('ts646', 'ts651'), Annotation:  aaa kay ladoman  warmi fakcha jari fakcha 
+    Time Stamp: ('ts658', 'ts660'), Annotation: ciertó imamanta 
+    Time Stamp: ('ts665', 'ts667'), Annotation: pero wañuchirka gentekuna wañuchirka
+    Time Stamp: ('ts668', 'ts670'), Annotation: shitashta
+    Time Stamp: ('ts673', 'ts675'), Annotation: chutaa
+    Time Stamp: ('ts682', 'ts685'), Annotation: a shina yanga llamakunawan purishpa oo ima shina
+    Time Stamp: ('ts686', 'ts691'), Annotation: chitawan shina  mm llushpi  alpapi ari
+    Time Stamp: ('ts692', 'ts695'), Annotation: ima shina chayan  chaymanga kayta rrishpa  washaman 
+    Time Stamp: ('ts698', 'ts699'), Annotation: chay
+    Time Stamp: ('ts701', 'ts703'), Annotation: aaa jawa jawa
+    Time Stamp: ('ts704', 'ts707'), Annotation: imamanta kari kari warmita nin 
+    Time Stamp: ('ts710', 'ts712'), Annotation: kay sectorpi paykuna charirka shuk shutikuna  urku ooo  wayko oo  yaku ima shutikuna  kanllu
+    Time Stamp: ('ts714', 'ts715'), Annotation: ari 
+    Time Stamp: ('ts716', 'ts719'), Annotation: yuruk rrumi 
+    Time Stamp: ('ts724', 'ts726'), Annotation: payla kocha
+    Time Stamp: ('ts729', 'ts731'), Annotation: kay washa waykopik ya
+    Time Stamp: ('ts733', 'ts735'), Annotation: sumak 
+    Time Stamp: ('ts737', 'ts738'), Annotation: y kay puesto  entero shutita charinllu o solo pamba marquito  nin 
+    Time Stamp: ('ts744', 'ts747'), Annotation: San Carloschu
+    Time Stamp: ('ts749', 'ts752'), Annotation: uchilla kashpaka chay shutitallachu charirka mas eee pamba marquito o shukta
+    Time Stamp: ('ts756', 'ts759'), Annotation: San Carlos
+    Time Stamp: ('ts760', 'ts763'), Annotation: pamba marquito
+    Time Stamp: ('ts764', 'ts765'), Annotation: ari 
+    Time Stamp: ('ts772', 'ts775'), Annotation: jawa ukshaman charinguichik chay llamakuna
+    Time Stamp: ('ts780', 'ts782'), Annotation: aja 
+    Time Stamp: ('ts784', 'ts787'), Annotation: haciendapi trabajarkangui 
+    Time Stamp: ('ts789', 'ts792'), Annotation: imata animalkunawan o ima 
+    Time Stamp: ('ts797', 'ts798'), Annotation: mjm 
+    Time Stamp: ('ts808', 'ts809'), Annotation: chaymantachu kan
+    Time Stamp: ('ts811', 'ts813'), Annotation: jari
+    Time Stamp: ('ts815', 'ts817'), Annotation: a aaa
+    Time Stamp: ('ts828', 'ts831'), Annotation: mjm
+    Time Stamp: ('ts832', 'ts834'), Annotation: kutin 
+    Time Stamp: ('ts845', 'ts847'), Annotation: chaypi chay escuelapi chayman 
+    Time Stamp: ('ts848', 'ts849'), Annotation: ari 
+    Time Stamp: ('ts854', 'ts855'), Annotation: mmm cierto 
+    Time Stamp: ('ts856', 'ts857'), Annotation: mjm
+    Time Stamp: ('ts859', 'ts860'), Annotation: y kunan horas tyan 
+    Time Stamp: ('ts862', 'ts863'), Annotation: tyancha 
+    Time Stamp: ('ts864', 'ts865'), Annotation: escuela colegio maypi tyan 
+    Time Stamp: ('ts868', 'ts869'), Annotation: octavo jipaman
+    Time Stamp: ('ts872', 'ts873'), Annotation: mjm 
+    Time Stamp: ('ts874', 'ts877'), Annotation: mayman otonman mayman 
+    Time Stamp: ('ts878', 'ts879'), Annotation: ari 
+    Time Stamp: ('ts882', 'ts884'), Annotation: a chay otonta tapuna munarkani chay  oton 
+    Time Stamp: ('ts885', 'ts887'), Annotation: chay parroquia kan nachu 
+    Time Stamp: ('ts888', 'ts890'), Annotation: oton 
+    Time Stamp: ('ts891', 'ts892'), Annotation: tayta mama abuelokuna nirka 
+    Time Stamp: ('ts893', 'ts894'), Annotation: ima significado charin oton 
+    Time Stamp: ('ts901', 'ts903'), Annotation: a chaycho cementerio tukuy kay comunidadkuna 
+    Time Stamp: ('ts905', 'ts907'), Annotation: finadospi rringuichik
+    Time Stamp: ('ts909', 'ts911'), Annotation: ari 
+    Time Stamp: ('ts920', 'ts922'), Annotation: jm
+    Time Stamp: ('ts925', 'ts926'), Annotation: a ya ya 
+    Time Stamp: ('ts928', 'ts929'), Annotation: mmm
+    Time Stamp: ('ts932', 'ts935'), Annotation: cierto kaypi ladulla chari charinkapak 
+    Time Stamp: ('ts936', 'ts939'), Annotation: mmm 
+    Time Stamp: ('ts940', 'ts942'), Annotation: mm 
+    Time Stamp: ('ts945', 'ts947'), Annotation: chay oton gentekuna mishuchu kan o rrunakuna 
+    Time Stamp: ('ts948', 'ts949'), Annotation: ña mishu llaktakan kan urapi chay urapi 
+    Time Stamp: ('ts950', 'ts952'), Annotation: chaypi o kay sectorpi a a 
+    Time Stamp: ('ts953', 'ts954'), Annotation: a a sapallu tarpuna yachanllu
+    Time Stamp: ('ts956', 'ts957'), Annotation: sandia a jan 
+    Time Stamp: ('ts958', 'ts959'), Annotation: kaypi 
+    Time Stamp: ('ts963', 'ts965'), Annotation: y urapi mashna tyan 
+    Time Stamp: ('ts968', 'ts971'), Annotation: tyanmi shuk otonpi tyan shuk  redondelpe tyan shuk zambokuna 
+    Time Stamp: ('ts972', 'ts974'), Annotation: estatua tyan ari nachu  ari 
+    Time Stamp: ('ts976', 'ts977'), Annotation: na mucho tiempo 
+    Time Stamp: ('ts979', 'ts980'), Annotation: mmm 
+    Time Stamp: ('ts983', 'ts985'), Annotation: buenas 
+    Time Stamp: ('ts996', 'ts998'), Annotation: ima tukurka 
+    Time Stamp: ('ts1005', 'ts1007'), Annotation: samuy parlangapak shamuy parlangapak 
+    Time Stamp: ('ts1026', 'ts1028'), Annotation: animalkuna ña rrikunguichik 
+    Time Stamp: ('ts1030', 'ts1031'), Annotation: ña shamujun a ya 
+    Time Stamp: ('ts1032', 'ts1035'), Annotation: ya 
+    Time Stamp: ('ts1037', 'ts1039'), Annotation: bueno ima horas kaypi casi kay ladopi kan kayta japisha porque animalkuna rringalla nachu wasiman 
+    Time Stamp: ('ts1041', 'ts1043'), Annotation: ya 
+    Time Stamp: ('ts1044', 'ts1046'), Annotation: ya ya bueno pero kay ima horas kayta shamun o nachu 
+    Time Stamp: ('ts1047', 'ts1051'), Annotation: tzawarkunata rikuchun rrikushun chayman asta asta paykuna shamuna kaman 
+    Time Stamp: ('ts1052', 'ts1055'), Annotation: quieren ir a verlos ya voy a acerlo mobil el
+    Time Stamp: ('ts1058', 'ts1060'), Annotation: paypash kichwata estudiajun 
+    Time Stamp: ('ts1062', 'ts1064'), Annotation: pero paypak yachachik shina oriente quichwata yachachine payta  shuk layata uyashkanguichu 
+    Time Stamp: ('ts1066', 'ts1069'), Annotation: cierto 
+    Time Stamp: ('ts1070', 'ts1073'), Annotation: parlan quichwa paypak 
+    Time Stamp: ('ts1075', 'ts1077'), Annotation: maypi kawsan pay 
+    Time Stamp: ('ts1078', 'ts1080'), Annotation: kikinba ushi ushiwan cierto 
+    Time Stamp: ('ts1082', 'ts1085'), Annotation: si e pero orientemanda 
+    Time Stamp: ('ts1086', 'ts1088'), Annotation: aa
+    Time Stamp: ('ts1089', 'ts1090'), Annotation: ya vecina 
+    Time Stamp: ('ts1095', 'ts1096'), Annotation: falta bastante 
+    Time Stamp: ('ts1098', 'ts1099'), Annotation: bueno 
+    Time Stamp: ('ts1133', 'ts1134'), Annotation: a chayta tapuna munarkani porque ishkayta uyarkani  kaypi 
+    Time Stamp: ('ts1135', 'ts1137'), Annotation: tzawar shuk 
+    Time Stamp: ('ts1138', 'ts1140'), Annotation: kuti shuk uyajurkanchi kaypi 
+    Time Stamp: ('ts1141', 'ts1143'), Annotation: eee tzawro 
+    Time Stamp: ('ts1145', 'ts1148'), Annotation: tzawur aa tzawur  aaa ya ya ya 
+    Time Stamp: ('ts1151', 'ts1153'), Annotation: wakinkuna kaypi ninga nachu tzawru 
+    Time Stamp: ('ts1156', 'ts1158'), Annotation: penco ari 
+    Time Stamp: ('ts1160', 'ts1162'), Annotation: jaku rrikungapak 
+    Time Stamp: ('ts1167', 'ts1168'), Annotation: aa ya 
+    Time Stamp: ('ts1170', 'ts1172'), Annotation: jaku 
+    Time Stamp: ('ts1173', 'ts1175'), Annotation: asha rriksingapak animalkuna shamuna kan 
+    Time Stamp: ('ts1177', 'ts1179'), Annotation: kikimbash animalkuna charinki 
+    Time Stamp: ('ts1180', 'ts1182'), Annotation: a ya 
+    Time Stamp: ('ts1184', 'ts1186'), Annotation: ari 
+    Time Stamp: ('ts1190', 'ts1193'), Annotation: rruna llama charin yachanki kaypi o na   
+    Time Stamp: ('ts1194', 'ts1197'), Annotation: tyan ari toparkani chay chumiospi 
+    Time Stamp: ('ts1198', 'ts1200'), Annotation: risa 
+    Time Stamp: ('ts1201', 'ts1202'), Annotation: a ya yay 
+    Time Stamp: ('ts1204', 'ts1206'), Annotation: aver aver 
+    Time Stamp: ('ts1207', 'ts1208'), Annotation: pudini pero camarawan 
+    Time Stamp: ('ts1212', 'ts1214'), Annotation: a ya 
+    Time Stamp: ('ts1217', 'ts1218'), Annotation: imamanta tapashkata charinki plasticowan 
+    Time Stamp: ('ts1220', 'ts1222'), Annotation: aa cierto chay tamya yaku mana valinchu 
+    Time Stamp: ('ts1225', 'ts1227'), Annotation: cierto chapun 
+    Time Stamp: ('ts1232', 'ts1233'), Annotation: ari 
+    Time Stamp: ('ts1234', 'ts1236'), Annotation: ja a 
+    Time Stamp: ('ts1237', 'ts1238'), Annotation: y shuklla utujuta shinankichi o 
+    Time Stamp: ('ts1239', 'ts1240'), Annotation: o yakuta maypi yakuta japinkichi shuklla tyan shuk puesto o achkka 
+    Time Stamp: ('ts1241', 'ts1244'), Annotation: o shuklla o maypi kan medio shunkupi 
+    Time Stamp: ('ts1247', 'ts1248'), Annotation: aja 
+    Time Stamp: ('ts1251', 'ts1252'), Annotation: shina tapa rrurrashpa 
+    Time Stamp: ('ts1253', 'ts1255'), Annotation: mjm 
+    Time Stamp: ('ts1258', 'ts1260'), Annotation: ari entonces chayta otojuta charinki chay hojawan tapashka 
+    Time Stamp: ('ts1262', 'ts1265'), Annotation: ama yaku yayjuchun 
+    Time Stamp: ('ts1268', 'ts1269'), Annotation: mm
+    Time Stamp: ('ts1270', 'ts1271'), Annotation: ari 
+    Time Stamp: ('ts1273', 'ts1274'), Annotation: mjm 
+    Time Stamp: ('ts1276', 'ts1277'), Annotation: mjm 
+    Time Stamp: ('ts1279', 'ts1280'), Annotation: y mashna llukshin punllapi kay shuk shuk yuramanta 
+    Time Stamp: ('ts1282', 'ts1283'), Annotation: ya 
+    Time Stamp: ('ts1286', 'ts1287'), Annotation: ya 
+    Time Stamp: ('ts1289', 'ts1291'), Annotation: ja aa 
+    Time Stamp: ('ts1293', 'ts1294'), Annotation: chawpi 
+    Time Stamp: ('ts1295', 'ts1297'), Annotation: osea qui shuk shuk rato ña wañunka mushukta tarpuna 
+    Time Stamp: ('ts1302', 'ts1304'), Annotation: ña tukurin aa ya 
+    Time Stamp: ('ts1305', 'ts1306'), Annotation: y chaypika mushukta ima shina mushukta tarinki kaykuna pura 
+    Time Stamp: ('ts1314', 'ts1315'), Annotation: mm
+    Time Stamp: ('ts1316', 'ts1317'), Annotation: mmm
+    Time Stamp: ('ts1321', 'ts1323'), Annotation: y chay horas mushukta 
+    Time Stamp: ('ts1325', 'ts1327'), Annotation: aa rrandina kanki 
+    Time Stamp: ('ts1328', 'ts1331'), Annotation: imashina alpa dueñomanta 
+    Time Stamp: ('ts1333', 'ts1335'), Annotation: cierto 
+    Time Stamp: ('ts1338', 'ts1341'), Annotation: mm y mashna mashna kan chayta 
+    Time Stamp: ('ts1342', 'ts1343'), Annotation: ajm 
+    Time Stamp: ('ts1344', 'ts1346'), Annotation: ari 
+    Time Stamp: ('ts1347', 'ts1351'), Annotation:  pero y chaypi ali ali yurata rrikukpika chayta rrikushpa tapunki dueñota nachu  jatuwanki shina 
+    Time Stamp: ('ts1354', 'ts1356'), Annotation: aaa
+    Time Stamp: ('ts1358', 'ts1360'), Annotation: mm pero imanishpa ajenokunaman rrina kanki nachu kikimba alpapi  tyanka 
+    Time Stamp: ('ts1364', 'ts1365'), Annotation: aja
+    Time Stamp: ('ts1366', 'ts1369'), Annotation: pero kutin tarpukpi 
+    Time Stamp: ('ts1370', 'ts1371'), Annotation: ari 
+    Time Stamp: ('ts1373', 'ts1374'), Annotation: ari por que kay chimbapi rrikukpi rrikuy kay filo tarpushka kan puro
+    Time Stamp: ('ts1375', 'ts1379'), Annotation: tzawar nachu pùro tukuy tuypi como ñan ladopi nachu 
+    Time Stamp: ('ts1380', 'ts1382'), Annotation: ari 
+    Time Stamp: ('ts1384', 'ts1385'), Annotation: shinachu karka punta 
+    Time Stamp: ('ts1386', 'ts1388'), Annotation: tukta ari 
+    Time Stamp: ('ts1390', 'ts1391'), Annotation: mjm 
+    Time Stamp: ('ts1392', 'ts1393'), Annotation: mmm
+    Time Stamp: ('ts1395', 'ts1397'), Annotation: como serca o ñan shina filo katishpa tarpuna yachan 
+    Time Stamp: ('ts1403', 'ts1405'), Annotation: ajam
+    Time Stamp: ('ts1406', 'ts1407'), Annotation: ari 
+    Time Stamp: ('ts1409', 'ts1410'), Annotation: ari rrikuni chaypipash tyan ari aaa
+    Time Stamp: ('ts1411', 'ts1412'), Annotation: pero ciempre tarpuna kan o paykuna yanga wiñanga 
+    Time Stamp: ('ts1414', 'ts1415'), Annotation: ajaa
+    Time Stamp: ('ts1417', 'ts1419'), Annotation: yanga pero ima shina filopi churan si no tarpushpa 
+    Time Stamp: ('ts1421', 'ts1425'), Annotation: aa lenderuta ña shitashka ña wiñanlla ña lenderupi 
+    Time Stamp: ('ts1426', 'ts1428'), Annotation: pero imata charin kayka muyo o imata kan  kay shina muyo imashina wiñan  
+    Time Stamp: ('ts1434', 'ts1435'), Annotation: mjm 
+    Time Stamp: ('ts1436', 'ts1437'), Annotation: mjm 
+    Time Stamp: ('ts1440', 'ts1442'), Annotation: aa
+    Time Stamp: ('ts1443', 'ts1447'), Annotation: entonces siempre tarirkanguichi na tarpurkanguichi siempre tarishka waoo 
+    Time Stamp: ('ts1449', 'ts1450'), Annotation: llamakunaka 
+    Time Stamp: ('ts1452', 'ts1454'), Annotation: (risa )
+    Time Stamp: ('ts1456', 'ts1457'), Annotation: paykunawan tupangapak 
+    Time Stamp: ('ts1458', 'ts1460'), Annotation: ya 
+    Time Stamp: ('ts1463', 'ts1465'), Annotation: bueno jaku chay uranipi tupashun paykuna 
+    Time Stamp: ('ts1466', 'ts1468'), Annotation: ari jaku 
+    Time Stamp: ('ts1469', 'ts1470'), Annotation: tupangapak 
+    Time Stamp: ('ts1473', 'ts1474'), Annotation: ña tunta shina tayta mamakunawa  ñampi tupakpika ima shina saludana yachan yacharkanguichik punta 
+    Time Stamp: ('ts1476', 'ts1477'), Annotation: aa chaypi 
+    Time Stamp: ('ts1479', 'ts1481'), Annotation: ña chayamujun ña chayamujun 
+    Time Stamp: ('ts1483', 'ts1484'), Annotation: ñanta mañachipay nirkanguichi o ima shina 
+    Time Stamp: ('ts1485', 'ts1487'), Annotation: parlana  yacharkanguichi 
+    Time Stamp: ('ts1488', 'ts1490'), Annotation: ari 
+    Time Stamp: ('ts1491', 'ts1492'), Annotation: imashna buenos dias 
+    Time Stamp: ('ts1494', 'ts1495'), Annotation: buenas tardes 
+    Time Stamp: ('ts1497', 'ts1498'), Annotation: kawsanguichu 
+    Time Stamp: ('ts1500', 'ts1501'), Annotation: ari 
+    Time Stamp: ('ts1503', 'ts1504'), Annotation: ari 
+    Time Stamp: ('ts1506', 'ts1508'), Annotation: ña chayamujun 
+    Time Stamp: ('ts1512', 'ts1514'), Annotation: ari 
+    Time Stamp: ('ts1516', 'ts1518'), Annotation: chaypi ñanta mañachi chaypi kutichikpi ima shina nina kanchi 
+    Time Stamp: ('ts1521', 'ts1525'), Annotation: yalilla ari yalilla  vecina yalilla mama  tayta chaykuna 
+    Time Stamp: ('ts1526', 'ts1528'), Annotation: tia vecina 
+    Time Stamp: ('ts1529', 'ts1530'), Annotation: chaytak kinguita ninguichik o ima shina ninguichik 
+    Time Stamp: ('ts1531', 'ts1532'), Annotation: otavalope ya wakinpi nin shamuy nikpi ña recto parlan 
+    Time Stamp: ('ts1533', 'ts1535'), Annotation: kayguman shamupay  tayta taytagu  chayta nikpi kingui nin 
+    Time Stamp: ('ts1536', 'ts1537'), Annotation: ari kinguchishpa rriman 
+    Time Stamp: ('ts1538', 'ts1540'), Annotation: ari 
+    Time Stamp: ('ts1543', 'ts1544'), Annotation: kunanka imata wasima apana kangui kangui kaykuna oo
+    Time Stamp: ('ts1546', 'ts1547'), Annotation: mikujun 
+    Time Stamp: ('ts1550', 'ts1552'), Annotation: mashna llamata charinki 
+    Time Stamp: ('ts1554', 'ts1555'), Annotation: ja a
+    Time Stamp: ('ts1556', 'ts1557'), Annotation: chunga 
+    Time Stamp: ('ts1561', 'ts1564'), Annotation: chunga diez kashpa 
+    Time Stamp: ('ts1566', 'ts1568'), Annotation: y shuk shuk wagra 
+    Time Stamp: ('ts1570', 'ts1571'), Annotation: chusku wahra 
+    Time Stamp: ('ts1573', 'ts1574'), Annotation: chaypi tyan 
+    Time Stamp: ('ts1575', 'ts1577'), Annotation: uju juy 
+    Time Stamp: ('ts1579', 'ts1580'), Annotation: alkukuna ayudanchu 
+    Time Stamp: ('ts1582', 'ts1585'), Annotation: chaypi shamun 
+    Time Stamp: ('ts1588', 'ts1590'), Annotation: yanga 
+    Time Stamp: ('ts1592', 'ts1594'), Annotation: ari 
+    Time Stamp: ('ts1604', 'ts1607'), Annotation: dañochina yachanllu 
+    Time Stamp: ('ts1608', 'ts1610'), Annotation: (risa) 
+    Time Stamp: ('ts1619', 'ts1621'), Annotation: ñapa ña purichishun asta karukaman chayta firmasha 
+    Time Stamp: ('ts1623', 'ts1624'), Annotation: ya 
+    Time Stamp: ('ts1627', 'ts1628'), Annotation: ari 
+    Time Stamp: ('ts1636', 'ts1638'), Annotation: ari (vamos aca nomas siguiendo)
+    Time Stamp: ('ts1639', 'ts1640'), Annotation: jaku jaku wasiman 
+    Time Stamp: ('ts1643', 'ts1647'), Annotation: watana tuta tuta watangui shina puñuchun 
+    Time Stamp: ('ts1651', 'ts1652'), Annotation: ari 
+    Time Stamp: ('ts1653', 'ts1654'), Annotation: shuwa tyanchu kaypi 
+    Time Stamp: ('ts1657', 'ts1659'), Annotation: wagra shuwa 
+    Time Stamp: ('ts1661', 'ts1662'), Annotation: ja a 
+    Time Stamp: ('ts1664', 'ts1666'), Annotation: ari 
+    Time Stamp: ('ts1691', 'ts1692'), Annotation: siempre kayman apamungui paykunata o shuk puestokunaman apangui 
+    Time Stamp: ('ts1694', 'ts1696'), Annotation: chay ajam 
+    Time Stamp: ('ts1698', 'ts1699'), Annotation: ari 
+    Time Stamp: ('ts1701', 'ts1703'), Annotation: mmm
+    Time Stamp: ('ts1704', 'ts1705'), Annotation: mmm bueno 
+    Time Stamp: ('ts1707', 'ts1711'), Annotation: chakilla cada tutamanda rringui 
+    Time Stamp: ('ts1714', 'ts1716'), Annotation: mmmm
+    Time Stamp: ('ts1717', 'ts1718'), Annotation: ima horas samangui domingopash rringui 
+    Time Stamp: ('ts1720', 'ts1721'), Annotation: oo
+    Time Stamp: ('ts1722', 'ts1723'), Annotation: ari
+    Time Stamp: ('ts1724', 'ts1726'), Annotation: ari
+    Time Stamp: ('ts1728', 'ts1729'), Annotation: mmm
+    Time Stamp: ('ts1739', 'ts1740'), Annotation: kay wagrakuna lecheta kun o no aychapak o imapak 
+    Time Stamp: ('ts1743', 'ts1746'), Annotation: aychapak jatungui feriapi shina 
+    Time Stamp: ('ts1750', 'ts1752'), Annotation: ari 
+    Time Stamp: ('ts1753', 'ts1755'), Annotation: ima feriaman rrinayachinguichi 
+    Time Stamp: ('ts1757', 'ts1758'), Annotation: a cierto como shuk 
+    Time Stamp: ('ts1759', 'ts1761'), Annotation: shuk amiguan shuk conocidowan rriksishka 
+    Time Stamp: ('ts1763', 'ts1764'), Annotation: e chaypi shuk preciota kushpa ña payka shamunga japingapak 
+    Time Stamp: ('ts1767', 'ts1770'), Annotation: ari jajaja  aa rrikungapak shamun ari 
+    Time Stamp: ('ts1771', 'ts1772'), Annotation: a ver nachu rrishkanguichi chay jatun otavalopi tyan no se camyambe tyangacha chay animal feria 
+    Time Stamp: ('ts1774', 'ts1775'), Annotation: tyanllu aja
+    Time Stamp: ('ts1776', 'ts1777'), Annotation: aaa chaypichu 
+    Time Stamp: ('ts1781', 'ts1783'), Annotation: aaa chaymanda ari 
+    Time Stamp: ('ts1784', 'ts1785'), Annotation: ya 
+    Time Stamp: ('ts1786', 'ts1789'), Annotation: entonces chayta katishpa wasiman rringuichi 
+    Time Stamp: ('ts1790', 'ts1792'), Annotation: ya ñukapa carrogo mana vichayman rringa ñuka urata rrisha 
+    Time Stamp: ('ts1794', 'ts1795'), Annotation: jejeje 
+    Time Stamp: ('ts1796', 'ts1799'), Annotation: pero diosolo pagui kuti shuk punlla shamusha 
+Speaker: A
+  Tier Type: dt, Annotations Count: 58
+    Time Stamp: a1, Annotation: ya ñukapash llukshisha 
+    Time Stamp: a2, Annotation: entonces kaypi 
+    Time Stamp: a3, Annotation: ima shuti kan kay llakta 
+    Time Stamp: a4, Annotation: pamba marquita y ima shuti kanki
+    Time Stamp: a5, Annotation: lemayco
+    Time Stamp: a7, Annotation: chay shuk compañera ima shuti 
+    Time Stamp: a8, Annotation: chiquimba 
+    Time Stamp: a9, Annotation: ari 
+    Time Stamp: a10, Annotation: shina ashka shina apellidokuna tyan kaypi
+    Time Stamp: a12, Annotation: eee bueno y washapi kikimpak wasi nachu 
+    Time Stamp: a13, Annotation: O qui pipak wasi kan 
+    Time Stamp: a14, Annotation: kaychu 
+    Time Stamp: a15, Annotation: maypi
+    Time Stamp: a17, Annotation: wasi illan ima maypi wasi 
+    Time Stamp: a20, Annotation: ima wasi ima shina wasi karka alpa wasi
+    Time Stamp: a21, Annotation: tejachu 
+    Time Stamp: a22, Annotation: maypi kaypi
+    Time Stamp: a25, Annotation: ari
+    Time Stamp: a26, Annotation: piwan kawsarkanki chay
+    Time Stamp: a31, Annotation: payka kusata charirkachu o paylla
+    Time Stamp: a34, Annotation: ufiangapaklla o o jatungapak
+    Time Stamp: a37, Annotation: MMM y maypi charirkankichi tar tarpushka kayta 
+    Time Stamp: a47, Annotation: mishkita riksirkanki ima shina trabajo
+    Time Stamp: a51, Annotation: ari chaypi ña wiksata jundachun
+    Time Stamp: a52, Annotation: paktan
+    Time Stamp: a57, Annotation: ari
+    Time Stamp: a58, Annotation: kunankaman chayta trabajanki
+    Time Stamp: a60, Annotation: ima sisata
+    Time Stamp: a277, Annotation: mishkita 
+    Time Stamp: a278, Annotation: maypi jatuna yachanki
+    Time Stamp: a281, Annotation: kunan horas imasha trabajachin trabajarinki cada puncha o cada semana mishkita kushpa 
+    Time Stamp: a282, Annotation: shina tandachishpa comunerokunawan o 
+    Time Stamp: a283, Annotation: ima
+    Time Stamp: a373, Annotation: ashtawan alli alli kanka nachu kaypi jatunkichi apanlla wasipi 
+    Time Stamp: a374, Annotation: ari
+    Time Stamp: a375, Annotation: chuta ee bueno historiakunamandapash gentekuna apanchu
+    Time Stamp: a376, Annotation: mmmm aaa ari ña gustankichi kaypi shinangapak aaa
+    Time Stamp: a377, Annotation: ima shina trabajanki
+    Time Stamp: a378, Annotation: ima ishkay viaje punllapi japinki ooo ima shina trabajanki rurashpa 
+    Time Stamp: a381, Annotation: y chaypi ña shuk uku rurashka charinki chay yakuta japingapa o ima shina 
+    Time Stamp: a382, Annotation: kay kayta charinkichu chayta
+    Time Stamp: a384, Annotation: cierto
+    Time Stamp: a387, Annotation: cierto
+    Time Stamp: a388, Annotation: ima chero pero mishki ashtawan tyan shuk ima con la cabuya chaykunata nachu japinkichik
+    Time Stamp: a389, Annotation: tswarmanta 
+    Time Stamp: a522, Annotation: pero nachu punda chay alpargates shinana yacharka chay cabuyamanta chay
+    Time Stamp: a523, Annotation: o na na tyarka punta ima shina zapatos tyarka kaypi
+    Time Stamp: a524, Annotation: y alpargate de cabuya na rikushkankichu otavalopi wakinpi rikurin
+    Time Stamp: a526, Annotation: entonces solo yakuta japingapak mas aa chay
+    Time Stamp: a527, Annotation: ari
+    Time Stamp: a528, Annotation: shina niwarka chay comapñera parlarkanchi jawapi tyan nirka kerosenta randina karka shina chaykuna
+    Time Stamp: a532, Annotation: ari
+    Time Stamp: a533, Annotation: ña na riksin chay tiempota
+    Time Stamp: a534, Annotation: a yantata yanungapak
+    Time Stamp: a535, Annotation: chilka chilka yanta
+    Time Stamp: a538, Annotation: ari
+    Time Stamp: a539, Annotation: aaa cierto
+    Time Stamp: a540, Annotation: None
+  Tier Type: mb, Annotations Count: 58
+    Time Stamp: a1, Annotation: ya ñuka-pash llukshi-sha
+    Time Stamp: a2, Annotation: entonces kay-pi
+    Time Stamp: a3, Annotation: ima shuti kan kay llakta 
+    Time Stamp: a4, Annotation: pamba marqu-ita y ima shuti ka-nki
+    Time Stamp: a5, Annotation: lemayco
+    Time Stamp: a7, Annotation: chay shuk compañera ima shuti 
+    Time Stamp: a8, Annotation: chiquimba 
+    Time Stamp: a9, Annotation: ari 
+    Time Stamp: a10, Annotation: shina ashka shina apellido-kuna tyan kay-pi 
+    Time Stamp: a12, Annotation: eee bueno y washa-pi kikim-pak wasi na-chu 
+    Time Stamp: a13, Annotation: o qui pi-pak wasi kan 
+    Time Stamp: a14, Annotation: kay-chu
+    Time Stamp: a15, Annotation: may-pi
+    Time Stamp: a17, Annotation: wasi illa-n ima may-pi wasi 
+    Time Stamp: a20, Annotation: ima asi ima shina wasi karka alpa wasi 
+    Time Stamp: a21, Annotation: teja-chu
+    Time Stamp: a22, Annotation: may-pi kay-pi
+    Time Stamp: a25, Annotation: ari 
+    Time Stamp: a26, Annotation: pi-wan kawsa-rka-nki chay 
+    Time Stamp: a31, Annotation: pay-ka kusa-ta chari-rka-chu o pay-lla
+    Time Stamp: a34, Annotation: ufia-nga-pak-lla o o jatu-nga-pak
+    Time Stamp: a37, Annotation: mmm y may-pi chari-rka-nki-chi tar tarpu-shka kay-ta
+    Time Stamp: a47, Annotation: mishki-ta riksi-rka-nki ima shina trabajo
+    Time Stamp: a51, Annotation: ari chay-pi ña wiksa-ta junda-chun
+    Time Stamp: a52, Annotation: pakta-n
+    Time Stamp: a57, Annotation: ari 
+    Time Stamp: a58, Annotation: kunan-ka-man chay-ta trabaja-nki
+    Time Stamp: a60, Annotation: ima sisa-ta
+    Time Stamp: a277, Annotation: mishki-ta 
+    Time Stamp: a278, Annotation: may-pi jatu-na yacha-nki
+    Time Stamp: a281, Annotation: kunan horas ima-sha trabaja-chi-n trabaja-ri-nki cada puncha o cada semana mishki-ta ku-shpa 
+    Time Stamp: a282, Annotation: shina tandachi-shpa comunero-kuna-wan
+    Time Stamp: a283, Annotation: ima
+    Time Stamp: a373, Annotation: ashta-wan alli alli kanka nachu kay-pi jatu-nki-chi apa-n-lla wasi-pi
+    Time Stamp: a374, Annotation: ari
+    Time Stamp: a375, Annotation: chuta ee bueno historia -kuna-man-ta-pash gente-kuna apa-n-chu
+    Time Stamp: a376, Annotation: mmm aa ari ña gusta-nki-chi kay-pi shina-nga-pak aaa
+    Time Stamp: a377, Annotation: ima shina trabaja-nki
+    Time Stamp: a378, Annotation: ima ishkay viaje punlla-pi japi-nki oo ima shina trabaja-nki rura-shpa 
+    Time Stamp: a381, Annotation: y chay-pi ña shuk uku rura-shka chari-nki chay yaku-ta japi-nga-pa o ima shina 
+    Time Stamp: a382, Annotation: kay kay-ta chari-nki-chu chay-ta
+    Time Stamp: a384, Annotation: cierto
+    Time Stamp: a387, Annotation: cierto
+    Time Stamp: a388, Annotation: ima chero pero mishki ashta-wan tya-n shuk ima con la cabuya chay-kuna-ta na-chu japi-nki-chi-k
+    Time Stamp: a389, Annotation: tsawar-manta
+    Time Stamp: a522, Annotation: pero na-chu punda chay alpargates shina-na yacha-rka chay cabuya-man-ta chay
+    Time Stamp: a523, Annotation: o na na tya-rka punta ima shina zapatos tya-rka kay-pi
+    Time Stamp: a524, Annotation: y alpargate de cabuya na riku-shka-nki-chu otavalo-pi wakin-pi riku-ri-n
+    Time Stamp: a526, Annotation: entonces solo yaku-ta japi-nga-pak mas aa chay
+    Time Stamp: a527, Annotation: ari 
+    Time Stamp: a528, Annotation: shina ni-wa-rka chay compañera parla-rka-nchi jawa-pi tya-n ni-rka kerosen-ta randi-na karka shina chay-kuna
+    Time Stamp: a532, Annotation: ari
+    Time Stamp: a533, Annotation: ña na riksi-n chay tiempo-ta
+    Time Stamp: a534, Annotation: a yanta-ta yanu-nga-pak
+    Time Stamp: a535, Annotation: chilka chilka yanta
+    Time Stamp: a538, Annotation: ari
+    Time Stamp: a539, Annotation: aaaa cierto
+    Time Stamp: a540, Annotation: None
+  Tier Type: gl, Annotations Count: 57
+    Time Stamp: a1809, Annotation: ya yo-AD salir-1FUT
+    Time Stamp: a1813, Annotation: entonces este-LOC 
+    Time Stamp: a1814, Annotation: que nombre es este pueblo  
+    Time Stamp: a1821, Annotation: tierra marco-DIM y que nombre es-2 
+    Time Stamp: a1831, Annotation: lemayco 
+    Time Stamp: a1834, Annotation: ese uno compañera que nombre 
+    Time Stamp: a1840, Annotation: chiquimba 
+    Time Stamp: a1841, Annotation: si  
+    Time Stamp: a1842, Annotation: asi poco asi apellido-PL hay este-LOC
+    Time Stamp: a1858, Annotation: eee bueno y atras-LOC usted-POS casa no-NEG,Q
+    Time Stamp: a1862, Annotation: o qui quien-POS casa es 
+    Time Stamp: a1868, Annotation: este-NEG,Q
+    Time Stamp: a1870, Annotation: donde-LOC
+    Time Stamp: a1882, Annotation: wasi no.hay-3 que donde-LOC casa 
+    Time Stamp: a1894, Annotation: que casa que asi casa era tierra casa
+    Time Stamp: a1900, Annotation: teja-NEG,Q 
+    Time Stamp: a1903, Annotation: donde-LOC este-LOC 
+    Time Stamp: a1918, Annotation: ari
+    Time Stamp: a1924, Annotation: quien-COM1 vivir-PAST-2 ese 
+    Time Stamp: a1954, Annotation: ella-FOC esposo-AC  tener-PAST-NEG,Q o ella-LIM
+    Time Stamp: a1979, Annotation: tomar-3FUT-POS-LIM o o vender-3FUT-POS
+    Time Stamp: a2005, Annotation: mm y donde-LOC tener-PAST-2-CAUS tar tarpu-PFV este-AC
+    Time Stamp: a2045, Annotation: dulce-AC conocer-PAST-2 que asi trabajo
+    Time Stamp: a2057, Annotation: si ese-LOC ya barriga-AC lleno-DR.P
+    Time Stamp: a2061, Annotation: llena-3
+    Time Stamp: a2078, Annotation: ari
+    Time Stamp: a2082, Annotation: ahora-FOC-AL ese-AC trabaja-2
+    Time Stamp: a2093, Annotation: que sisa-AC
+    Time Stamp: a2162, Annotation: dulce-AC 
+    Time Stamp: a2167, Annotation: donde-LOC vender-NMLZ sabe-2
+    Time Stamp: a2208, Annotation: ahora horas que-1FUT trabaja-CAUS-3 trabaja-RFLX-2 cada dia o cada  semana dulce-AC dar-SR
+    Time Stamp: a2211, Annotation: asi amontonar-SR comunero-PL-COM1 
+    Time Stamp: a2213, Annotation: que 
+    Time Stamp: a2265, Annotation: mas-COM1 bien bien es no.cierto este-LOC vende-2-CAUS llevar-3-LIM casa-LOC 
+    Time Stamp: a2276, Annotation: si 
+    Time Stamp: a2292, Annotation: chuta ee bueno historia-PL-AL-AC-AD gente-PL llevar-3-NEG,Q
+    Time Stamp: a2298, Annotation: mmm aa si ya gusta-2-CAUS este-LOC asi-3FUT-POS aaa 
+    Time Stamp: a2304, Annotation: ima asi trabaja-2
+    Time Stamp: a2307, Annotation: que dos viaje dia-LOC coger-2 o que asi trabaja-2 hacer-SR
+    Time Stamp: a2328, Annotation: y ese-LOC ya uno adentro hacer-PFV tener-2 ese agua-AC coger-3FUT-POS o que asi
+    Time Stamp: a2334, Annotation: este este-AC tener-2-NEG,Q ese-AC
+    Time Stamp: a2346, Annotation: cierto
+    Time Stamp: a2400, Annotation: ciertor
+    Time Stamp: a2403, Annotation: que chero pero dulce mas-COM1 hay-3 uno que con la cabuya ese-PL-AC no-NEG,Q coger-2-CAUS-AG
+    Time Stamp: a2406, Annotation: penco-ABL
+    Time Stamp: a2424, Annotation: pero no-NEG,Q antes ese alpargates asi-NMLZ saber-PAST ese cabuya-AL-AC ese
+    Time Stamp: a2428, Annotation: o no-NEG no-NEG hay-PAST antes que asi zapatos hay-PAST este-LOC
+    Time Stamp: a2437, Annotation: y alpargate de cabuya no-NEG ver-PFV-2NEG,Q otavalo-LOC aveces-LOC ver-RFLX-3
+    Time Stamp: a2449, Annotation: entonces solo agua-AC coger-3FUT-POS mas aa ese
+    Time Stamp: a2467, Annotation: si
+    Time Stamp: a2473, Annotation: asi di-HON-PAST ese compañera hablar-PAST-1PL arribaLOC hay-3 di-PAST kerosen-AC comprar-NMLZ era asi ese-PL
+    Time Stamp: a2498, Annotation: si
+    Time Stamp: a2499, Annotation: ya no-NEG conocer-3 ese tiempo-AC
+    Time Stamp: a2509, Annotation: a leña-AC cocinar-3FUT-POS
+    Time Stamp: a2512, Annotation: ramas ramas leña
+    Time Stamp: a2530, Annotation: si
+    Time Stamp: a2536, Annotation: aaa cierto
+Speaker: simeon _
+  Tier Type: tn, Annotations Count: 369
+    Time Stamp: a1, Annotation: ya yo también voy a salir 
+    Time Stamp: a2, Annotation: entonces aqui 
+    Time Stamp: a3, Annotation: como se llama esta comunidad 
+    Time Stamp: a4, Annotation: pamba marquita y como es tu nombre 
+    Time Stamp: a5, Annotation: imayco 
+    Time Stamp: a6, Annotation: loi7mayco  
+    Time Stamp: a7, Annotation: la otra compañera como se llama 
+    Time Stamp: a8, Annotation:  Chiquimba
+    Time Stamp: a9, Annotation: si
+    Time Stamp: a10, Annotation: asi apellidos hay muchos en aqui 
+    Time Stamp: a11, Annotation: aaa
+    Time Stamp: a12, Annotation: eee bueno por detras esta su casa verdad 
+    Time Stamp: a13, Annotation: a qui,  de quién es esa casa 
+    Time Stamp: a14, Annotation: este
+    Time Stamp: a15, Annotation: donde 
+    Time Stamp: a16, Annotation: aaaa
+    Time Stamp: a17, Annotation: no hay casa donde esta casa 
+    Time Stamp: a18, Annotation: mmm
+    Time Stamp: a19, Annotation: mmm 
+    Time Stamp: a20, Annotation: que que tipo de casa  era de tierra 
+    Time Stamp: a21, Annotation: es de teja?
+    Time Stamp: a22, Annotation: en donde aqui
+    Time Stamp: a23, Annotation: aja 
+    Time Stamp: a24, Annotation: mmm
+    Time Stamp: a25, Annotation: si
+    Time Stamp: a26, Annotation: con quién vivías ahí 
+    Time Stamp: a27, Annotation: mjm
+    Time Stamp: a28, Annotation: mmm
+    Time Stamp: a29, Annotation: cierto
+    Time Stamp: a30, Annotation: aaa yaa
+    Time Stamp: a31, Annotation: ella tenía esposo o solo ella 
+    Time Stamp: a32, Annotation: cierto
+    Time Stamp: a33, Annotation: cierto
+    Time Stamp: a34, Annotation: solo para tomar o para vender 
+    Time Stamp: a35, Annotation: mmm
+    Time Stamp: a36, Annotation: aja
+    Time Stamp: a37, Annotation: mmm y donde es que tenian sembrado eso 
+    Time Stamp: a38, Annotation: si
+    Time Stamp: a39, Annotation: mmmm
+    Time Stamp: a40, Annotation: mmm 
+    Time Stamp: a41, Annotation: cierto
+    Time Stamp: a42, Annotation: si
+    Time Stamp: a43, Annotation: mmm
+    Time Stamp: a44, Annotation: mmm si 
+    Time Stamp: a45, Annotation: aja
+    Time Stamp: a46, Annotation: mmm
+    Time Stamp: a47, Annotation: conociste como es el trabajo 
+    Time Stamp: a48, Annotation: mjmm
+    Time Stamp: a49, Annotation: mmmm
+    Time Stamp: a50, Annotation: mmm
+    Time Stamp: a51, Annotation: si para que llene el estomago 
+    Time Stamp: a52, Annotation: le llena 
+    Time Stamp: a55, Annotation: mmmm
+    Time Stamp: a56, Annotation: si 
+    Time Stamp: a57, Annotation: si
+    Time Stamp: a58, Annotation: y hasta ahora trabajas eso 
+    Time Stamp: a59, Annotation: ciertó
+    Time Stamp: a60, Annotation: en que la flor?
+    Time Stamp: a61, Annotation: (tos)
+    Time Stamp: a275, Annotation: mmm
+    Time Stamp: a276, Annotation: a ya
+    Time Stamp: a277, Annotation: el dulce 
+    Time Stamp: a278, Annotation: donde sueles vender 
+    Time Stamp: a279, Annotation: mjmm
+    Time Stamp: a280, Annotation: aa ya 
+    Time Stamp: a281, Annotation: ahora como es que trabajan cada día cada semana dando dulce 
+    Time Stamp: a282, Annotation: asi reuniendo entre comuneros oo 
+    Time Stamp: a283, Annotation: que 
+    Time Stamp: a371, Annotation: aja 
+    Time Stamp: a372, Annotation: mmm
+    Time Stamp: a373, Annotation: mas bueno debe ser vender aqui mismo en casa ya que llevan 
+    Time Stamp: a374, Annotation: si
+    Time Stamp: a375, Annotation: chuta eee bueno por historia también lleva la gente 
+    Time Stamp: a376, Annotation: mmm aaa si ya les gusta lo que aqui estaban haciendo 
+    Time Stamp: a377, Annotation: como asi es que trabajas 
+    Time Stamp: a378, Annotation: como dos veces al día  recoges  ooo como es que trabajas  (....)haciendo 
+    Time Stamp: a379, Annotation: mmm
+    Time Stamp: a380, Annotation: si
+    Time Stamp: a381, Annotation: y ya tienes elaborado el recipiente para recoger el agua  o como es que haces  
+    Time Stamp: a382, Annotation: este tienes este 
+    Time Stamp: a383, Annotation: si
+    Time Stamp: a384, Annotation: cierto
+    Time Stamp: a385, Annotation: mmm
+    Time Stamp: a386, Annotation: mjm
+    Time Stamp: a387, Annotation: ciertó 
+    Time Stamp: a388, Annotation: que pero el dulce es mas lo que hay pero otras cosas no aprovechan omo es la cabuya
+    Time Stamp: a389, Annotation: de penco ooo 
+    Time Stamp: a390, Annotation: mmm mmm ya 
+    Time Stamp: a522, Annotation: pero antes no sabian de hacer el alpargate con las cabuyas de eso 
+    Time Stamp: a523, Annotation: oo noo no había, antes como eran los calzados de aqui 
+    Time Stamp: a524, Annotation: yy no has visto el alpargate de cabuya  en otavalo a veces se ve 
+    Time Stamp: a525, Annotation: aa ya
+    Time Stamp: a526, Annotation: entonces solo aprovechna lo que es el agua 
+    Time Stamp: a527, Annotation: si
+    Time Stamp: a528, Annotation: asi me dijo su otra compañera de arriba que debian de comprar el kerosen  así, eso 
+    Time Stamp: a529, Annotation: mmm
+    Time Stamp: a530, Annotation: si
+    Time Stamp: a531, Annotation: mmm
+    Time Stamp: a532, Annotation: si 
+    Time Stamp: a533, Annotation: ya no conocen ese tiempo 
+    Time Stamp: a534, Annotation: a la leña para cocinar 
+    Time Stamp: a535, Annotation: la leña de planta de chilka 
+    Time Stamp: a536, Annotation: si 
+    Time Stamp: a537, Annotation: si 
+    Time Stamp: a538, Annotation: si
+    Time Stamp: a539, Annotation: aaa cierto 
+    Time Stamp: a540, Annotation: aaa para cocinar en  la casa de paja 
+    Time Stamp: a620, Annotation: de este punto, si
+    Time Stamp: a621, Annotation: y el agua sacaron de esa quebrada
+    Time Stamp: a622, Annotation: en arriba me dijo que las cascadas tienen nombre 
+    Time Stamp: a623, Annotation: ciertó 
+    Time Stamp: a624, Annotation: el de arriba
+    Time Stamp: a625, Annotation: si
+    Time Stamp: a626, Annotation: aaa de este lado cascada mujer y cascada hombre 
+    Time Stamp: a627, Annotation: ciertó porque
+    Time Stamp: a628, Annotation: pero les mataron a las personas les mataron
+    Time Stamp: a629, Annotation: se botaron
+    Time Stamp: a630, Annotation: chuta 
+    Time Stamp: a678, Annotation: así andando con las ovejas o como así
+    Time Stamp: a679, Annotation: con las cabras, asi en el suelo resbaloso
+    Time Stamp: a680, Annotation: como es que llegan alla, yendo por aqui atras 
+    Time Stamp: a681, Annotation: eso 
+    Time Stamp: a682, Annotation: aaa esta muy arriba 
+    Time Stamp: a683, Annotation: porque dicen que es hombre hombre mujer 
+    Time Stamp: a684, Annotation: en este sector estos tuvieron otro nombre como las montañas, la quebrada oo el agua que nombre es que tienen 
+    Time Stamp: a685, Annotation: si
+    Time Stamp: a686, Annotation: yuruk rrumi (piedra blanca ) 
+    Time Stamp: a687, Annotation: es payla kocha (cuchara de payla )
+    Time Stamp: a688, Annotation: de la quebrada de atras 
+    Time Stamp: a689, Annotation: que bién 
+    Time Stamp: a690, Annotation: y todo esto tiene nombre o es que solo dicen pamba marquito 
+    Time Stamp: a691, Annotation: es San Carlos
+    Time Stamp: a692, Annotation: cuando tu eras pequeña ese mismo nombre era pamba marquito o era otra 
+    Time Stamp: a693, Annotation: San Carlos
+    Time Stamp: a694, Annotation: pamba marquito
+    Time Stamp: a695, Annotation: si
+    Time Stamp: a696, Annotation: tiene arriba por los pajonales a las ovejas 
+    Time Stamp: a697, Annotation: aja 
+    Time Stamp: a698, Annotation: trabajaste en la hacienda 
+    Time Stamp: a792, Annotation: que con animales o que 
+    Time Stamp: a793, Annotation: mjm 
+    Time Stamp: a794, Annotation: es de ahí 
+    Time Stamp: a795, Annotation: hombre
+    Time Stamp: a796, Annotation: a aaa
+    Time Stamp: a832, Annotation: mjm
+    Time Stamp: a833, Annotation: otra vez
+    Time Stamp: a846, Annotation: en ahí en esa escuela, por alla
+    Time Stamp: a847, Annotation: si
+    Time Stamp: a848, Annotation: mmm de verdad
+    Time Stamp: a849, Annotation: mjm
+    Time Stamp: a850, Annotation: y si hay ahora
+    Time Stamp: a851, Annotation: si habrá
+    Time Stamp: a852, Annotation: escuela colegio donde hay
+    Time Stamp: a872, Annotation: octavo después
+    Time Stamp: a873, Annotation: mjm
+    Time Stamp: a874, Annotation: a donde a Oton, a donde
+    Time Stamp: a880, Annotation: si
+    Time Stamp: a881, Annotation: a de es Oton queria preguntar de Oton
+    Time Stamp: a882, Annotation: eso es parroquia, verdad
+    Time Stamp: a890, Annotation: Oton
+    Time Stamp: a891, Annotation: los padres y abuelos dijeron
+    Time Stamp: a892, Annotation: y que significado tiene Oton
+    Time Stamp: a893, Annotation: a eso es el cementerio de todas esta comunidades
+    Time Stamp: a894, Annotation: se van en finados
+    Time Stamp: a895, Annotation: si
+    Time Stamp: a896, Annotation: jm
+    Time Stamp: a897, Annotation: a ya ya
+    Time Stamp: a898, Annotation: mmm
+    Time Stamp: a899, Annotation:  cierto, para tenerlo mas cerca
+    Time Stamp: a900, Annotation: mmm
+    Time Stamp: a901, Annotation: mm
+    Time Stamp: a902, Annotation: las personas de Oton son mestizos o indigenas
+    Time Stamp: a903, Annotation: ya solo son mestizos abajo
+    Time Stamp: a904, Annotation: en ahí o en este sector aa
+    Time Stamp: a905, Annotation: aa siembran lo que es el sapallo
+    Time Stamp: a906, Annotation: sandia ajan
+    Time Stamp: a907, Annotation: aqui
+    Time Stamp: a908, Annotation: y en abajo cuanto habrá
+    Time Stamp: a909, Annotation: hay en oton en el redondel hay los zambos 
+    Time Stamp: a910, Annotation:  hay una estatua, si verdad si
+    Time Stamp: a911, Annotation: no mucho tiempo
+    Time Stamp: a912, Annotation: mmm 
+    Time Stamp: a914, Annotation: buenas
+    Time Stamp: a915, Annotation: que pasó
+    Time Stamp: a916, Annotation: ven para dialogar, ven para dialogar
+    Time Stamp: a917, Annotation: a los animales ya se van
+    Time Stamp: a918, Annotation: ya viene a ya
+    Time Stamp: a919, Annotation: ya
+    Time Stamp: a920, Annotation: bueno en que momento esta en este lado para  coger esto, porque los animales se han de irse a la casa verdad
+    Time Stamp: a921, Annotation: ya 
+    Time Stamp: a922, Annotation: ya ya bueno pero en que momento viene aqui
+    Time Stamp: a923, Annotation: hasta mientras observemos los pencos  allá hasta que vengan ellos
+    Time Stamp: a924, Annotation: quieren ir a verlos ya voy hacerle movil el
+    Time Stamp: a925, Annotation: ella también esta estudiando el kichwa
+    Time Stamp: a926, Annotation:  pero su profesor le enseño lo que es el kichwa del oriente
+    Time Stamp: a927, Annotation: cierto
+    Time Stamp: a928, Annotation: si habla el kichwa, él
+    Time Stamp: a1077, Annotation: donde vive el
+    Time Stamp: a1078, Annotation: de verdad y esta con su hija
+    Time Stamp: a1079, Annotation: si pero es de oriente
+    Time Stamp: a1080, Annotation: aa
+    Time Stamp: a1081, Annotation: ya vecina 
+    Time Stamp: a1082, Annotation: a falta bastante
+    Time Stamp: a1083, Annotation: bueno 
+    Time Stamp: a1084, Annotation: a eso es lo que queria preguntar porque dos formas escuche aqui
+    Time Stamp: a1138, Annotation: tsawar es uno
+    Time Stamp: a1139, Annotation: y de otra forma escuchamos aqui
+    Time Stamp: a1140, Annotation: eee tzauru
+    Time Stamp: a1141, Annotation:  tzawur aa tzawur aa ya ya ya
+    Time Stamp: a1142, Annotation: algunos aqui diran tzauru
+    Time Stamp: a1143, Annotation: penco si
+    Time Stamp: a1144, Annotation: vamos para ver
+    Time Stamp: a1145, Annotation: aa ya
+    Time Stamp: a1146, Annotation: vamos vamos
+    Time Stamp: a1147, Annotation: para conocer un poco los animales deben venir
+    Time Stamp: a1148, Annotation: usted también tiene anbimales
+    Time Stamp: a1149, Annotation: a ya 
+    Time Stamp: a1150, Annotation: ari 
+    Time Stamp: a1151, Annotation: las ovenas de indigenas tienen aqui o no
+    Time Stamp: a1152, Annotation: si lo encontre en Chumios
+    Time Stamp: a1153, Annotation: risa 
+    Time Stamp: a1154, Annotation: a ya yay 
+    Time Stamp: a1155, Annotation: a ver a ver
+    Time Stamp: a1156, Annotation: si puedo pero con la camara
+    Time Stamp: a1157, Annotation: a ya 
+    Time Stamp: a1158, Annotation: porque tienes tapado con el plastico
+    Time Stamp: a1159, Annotation: aa cierto, el agua de lluvia no vale
+    Time Stamp: a1160, Annotation: cierto, esta mesclado
+    Time Stamp: a1161, Annotation: si si
+    Time Stamp: a1162, Annotation: ja a
+    Time Stamp: a1163, Annotation: y solo un hueco es lo que hacen ooo
+    Time Stamp: a1164, Annotation: o el agua en donde es lo que cogen hay solo uno o muchos
+    Time Stamp: a1165, Annotation: o solo uno donde es en medio del corazon
+    Time Stamp: a1166, Annotation: aja 
+    Time Stamp: a1167, Annotation: así realizando la tapa
+    Time Stamp: a1168, Annotation: mjm
+    Time Stamp: a1169, Annotation: si entonces ese hueco lo tienes tapàdo conb las hojas
+    Time Stamp: a1170, Annotation: para que no ingrese el agua
+    Time Stamp: a1171, Annotation: mm 
+    Time Stamp: a1172, Annotation: si 
+    Time Stamp: a1173, Annotation: mjm 
+    Time Stamp: a1174, Annotation: mjm
+    Time Stamp: a1175, Annotation: y cuanto sale durante el día de una planta
+    Time Stamp: a1176, Annotation: ya 
+    Time Stamp: a1177, Annotation: ya 
+    Time Stamp: a1178, Annotation: ja aa 
+    Time Stamp: a1179, Annotation: chawpi 
+    Time Stamp: a1180, Annotation: osea que en un momento se muere y se debe sembrar nuevo
+    Time Stamp: a1305, Annotation: ya se acaba aa ya
+    Time Stamp: a1306, Annotation: y ahí son nuevos y como es que encuentras uno nuevo, son como estos,
+    Time Stamp: a1307, Annotation: mm
+    Time Stamp: a1308, Annotation: mmm
+    Time Stamp: a1309, Annotation: y en ese momento un nuevo
+    Time Stamp: a1310, Annotation: aa debes de comp`rar
+    Time Stamp: a1311, Annotation: como asi, al dueño del terreno
+    Time Stamp: a1312, Annotation: cierto
+    Time Stamp: a1313, Annotation: mm y cuantos cuesta eso
+    Time Stamp: a1314, Annotation: ajm 
+    Time Stamp: a1315, Annotation: si 
+    Time Stamp: a1316, Annotation:  pero y ahí cuando observas una buena planta le preguntas al dueño si te puede vender
+    Time Stamp: a1317, Annotation: aaa
+    Time Stamp: a1318, Annotation: mm pero como te vas donde los ajeno ya que en tu terreno hay
+    Time Stamp: a1319, Annotation: aja
+    Time Stamp: a1320, Annotation: pero sembrando nuevamente
+    Time Stamp: a1321, Annotation: si 
+    Time Stamp: a1322, Annotation: si porque viendo en este filo esta sembrado puro
+    Time Stamp: a1323, Annotation: penco, verdad, puro de eso de todo comop cerca del camino verdad
+    Time Stamp: a1324, Annotation: si 
+    Time Stamp: a1325, Annotation: asi era antes
+    Time Stamp: a1326, Annotation: todo si
+    Time Stamp: a1327, Annotation: mjm
+    Time Stamp: a1328, Annotation: mm 
+    Time Stamp: a1329, Annotation: como cerca o al filo del camino suelen sembrar
+    Time Stamp: a1330, Annotation: ajam
+    Time Stamp: a1331, Annotation: si 
+    Time Stamp: a1332, Annotation: si, ahí también hay si aa
+    Time Stamp: a1333, Annotation: pero siempre se debe sembrar o solo asi no mas crecen
+    Time Stamp: a1334, Annotation: ajaa 
+    Time Stamp: a1335, Annotation: solo asi pero como es que lo ponen en filos si no lo han sembrado
+    Time Stamp: a1336, Annotation: aa lo que esta puesto en el lendero suelen crecer en el lindero
+    Time Stamp: a1337, Annotation: pero que es lo que tiene este, tiene semillas o como es que crece
+    Time Stamp: a1338, Annotation: mjm 
+    Time Stamp: a1339, Annotation: mjm
+    Time Stamp: a1340, Annotation: aa
+    Time Stamp: a1341, Annotation: entonces siempre lo encontraron no sembraron, siempre enconrraron wao
+    Time Stamp: a1342, Annotation: y los borregos 
+    Time Stamp: a1343, Annotation: (risa)
+    Time Stamp: a1344, Annotation: vamos a encontrarnos con ellos
+    Time Stamp: a1345, Annotation: ya 
+    Time Stamp: a1346, Annotation: bueno vamos abajpo a encontrarnos con ellos
+    Time Stamp: a1347, Annotation: si vamos
+    Time Stamp: a1348, Annotation: para encontrarnos
+    Time Stamp: a1349, Annotation: ya antes cuando solian encontrarse con las señoras y señores como es que solian saludarse
+    Time Stamp: a1350, Annotation: aa ya esta ahí
+    Time Stamp: a1351, Annotation: ya viene ya viene
+    Time Stamp: a1352, Annotation: dijeron que empreste el camino o como asi
+    Time Stamp: a1353, Annotation: suelen hablar
+    Time Stamp: a1354, Annotation: si 
+    Time Stamp: a1355, Annotation: como buenos dias
+    Time Stamp: a1356, Annotation: buenas tardes
+    Time Stamp: a1357, Annotation: si vives
+    Time Stamp: a1358, Annotation: si 
+    Time Stamp: a1359, Annotation: si 
+    Time Stamp: a1360, Annotation: ya esta llegando
+    Time Stamp: a1361, Annotation: si 
+    Time Stamp: a1362, Annotation: en ahí le dicen empreste el caminito y cuando responden como es que le responde
+    Time Stamp: a1363, Annotation: pase si pase vecina pase señora, señor 
+    Time Stamp: a1364, Annotation: tia vecina
+    Time Stamp: a1365, Annotation: eso le dicen kinguy (hablar con cariño) por alla o como es que le dicen
+    Time Stamp: a1366, Annotation: en otavalo lo que dicen ven ya hablan recto
+    Time Stamp: a1367, Annotation: cuando dicen ven aqui mi estimado señor eso le dicen kinguy (hablar con cariño)
+    Time Stamp: a1368, Annotation: si con cariño
+    Time Stamp: a1369, Annotation: si 
+    Time Stamp: a1370, Annotation: ahora a casa debes de llevar estos oo
+    Time Stamp: a1549, Annotation: esta comiendo
+    Time Stamp: a1550, Annotation: cuantas ovejas tienes
+    Time Stamp: a1551, Annotation: ja a 
+    Time Stamp: a1552, Annotation: diez 
+    Time Stamp: a1553, Annotation: diez siendo diez
+    Time Stamp: a1554, Annotation: y un ganado 
+    Time Stamp: a1555, Annotation: cuatro ganados
+    Time Stamp: a1556, Annotation: ahí hay
+    Time Stamp: a1557, Annotation: uju juy
+    Time Stamp: a1558, Annotation: si ayudan los perros
+    Time Stamp: a1559, Annotation: ahí viene
+    Time Stamp: a1560, Annotation: solo asi
+    Time Stamp: a1561, Annotation: si 
+    Time Stamp: a1562, Annotation: sueles hacer comer (la cebada)
+    Time Stamp: a1563, Annotation: (risa )
+    Time Stamp: a1564, Annotation: ya mismo ya hagamos andar un poco lejos yo le filmo eso
+    Time Stamp: a1565, Annotation: ya 
+    Time Stamp: a1566, Annotation: si 
+    Time Stamp: a1567, Annotation: si (vamos aca no mas siguiendo)
+    Time Stamp: a1568, Annotation: vamos vamos a la casa 
+    Time Stamp: a1569, Annotation: se debe amarrar de noche para que duerman
+    Time Stamp: a1570, Annotation: si 
+    Time Stamp: a1571, Annotation: aqui hay ladron 
+    Time Stamp: a1572, Annotation: ladron de ganados
+    Time Stamp: a1573, Annotation: ja a 
+    Time Stamp: a1574, Annotation: si 
+    Time Stamp: a1575, Annotation: siempre traes a estos o tiene otro puesto
+    Time Stamp: a1576, Annotation: eso aja
+    Time Stamp: a1577, Annotation: si 
+    Time Stamp: a1578, Annotation: mmm
+    Time Stamp: a1579, Annotation: mm bueno
+    Time Stamp: a1580, Annotation: solo a pie cada mañana
+    Time Stamp: a1581, Annotation: mmmm
+    Time Stamp: a1582, Annotation: en que momento descanzas, también vas los domingos
+    Time Stamp: a1583, Annotation: oo
+    Time Stamp: a1584, Annotation: si
+    Time Stamp: a1585, Annotation: si 
+    Time Stamp: a1586, Annotation: mmm
+    Time Stamp: a1587, Annotation: estos ganados dan leche, carne o que?
+    Time Stamp: a1588, Annotation: para carne, vendes en las ferias, asi
+    Time Stamp: a1589, Annotation: si 
+    Time Stamp: a1590, Annotation: a que feria suelen irse
+    Time Stamp: a1591, Annotation: a de verdad como un
+    Time Stamp: a1592, Annotation: un conocido o un amigo
+    Time Stamp: a1593, Annotation: a el le pone un precio y viene a llevar
+    Time Stamp: a1594, Annotation: si aa viene a ver, si
+    Time Stamp: a1595, Annotation: haber tal vez se han ido a Otavalo a la gran feria, no sé si en Cayambe hay feria de animales
+    Time Stamp: a1596, Annotation: si hay aja
+    Time Stamp: a1597, Annotation: aaa si hay ahí
+    Time Stamp: a1598, Annotation: aaa por eso si
+    Time Stamp: a1599, Annotation: ya 
+    Time Stamp: a1600, Annotation: entonces siguiendo el camino se van a casa
+    Time Stamp: a1601, Annotation: ya mi carro no puede subir, me voy por abajo
+    Time Stamp: a1602, Annotation: (risa )
+    Time Stamp: a1603, Annotation: pero Dios le pague vendre en la proxima ocasion
+Speaker: mujer 1
+  Tier Type: po, Annotations Count: 482
+    Time Stamp: ('ts7', 'ts9'), Annotation: comunidad pamba marquito  
+    Time Stamp: ('ts11', 'ts12'), Annotation: ñuka ñuka nombremi
+    Time Stamp: ('ts13', 'ts15'), Annotation: Rosa Alimeyco 
+    Time Stamp: ('ts18', 'ts19'), Annotation: mjm 
+    Time Stamp: ('ts22', 'ts24'), Annotation: Laura Chiquimba
+    Time Stamp: ('ts31', 'ts32'), Annotation: aja shina apellido Cobacango Rojas 
+    Time Stamp: ('ts33', 'ts34'), Annotation: Chiquimba 
+    Time Stamp: ('ts35', 'ts37'), Annotation: tukuy nom... apellidokuna tyan 
+    Time Stamp: ('ts41', 'ts43'), Annotation: mmmm
+    Time Stamp: ('ts45', 'ts47'), Annotation: aaa ñuka kaypi nacirkani ñuka kaypi 
+    Time Stamp: ('ts49', 'ts50'), Annotation: kaypi kaypi 
+    Time Stamp: ('ts53', 'ts54'), Annotation: kaypi 
+    Time Stamp: ('ts55', 'ts56'), Annotation: kay atsilpi 
+    Time Stamp: ('ts61', 'ts62'), Annotation: wasitaka ñukunchi alpata alpata mmm
+    Time Stamp: ('ts63', 'ts65'), Annotation:  tractorachingapa wasita ñaa carreterata llukchingabu ñukunchi wasita  rruku wasita   ña shitarkanchi 
+    Time Stamp: ('ts66', 'ts68'), Annotation: naa nipi na atirirka 
+    Time Stamp: ('ts73', 'ts74'), Annotation: alpa wasi teja wasi 
+    Time Stamp: ('ts77', 'ts79'), Annotation: m mm
+    Time Stamp: ('ts81', 'ts83'), Annotation: kaypi  kaypi  kaypi  
+    Time Stamp: ('ts84', 'ts86'), Annotation: mjm chaypi
+    Time Stamp: ('ts87', 'ts88'), Annotation: kutin  shuk wasi kaypi shuk wasi puro uksha wasi tin  karka 
+    Time Stamp: ('ts91', 'ts92'), Annotation: chay apenas yarini chaytaka 
+    Time Stamp: ('ts94', 'ts97'), Annotation: apenas apenas 
+    Time Stamp: ('ts98', 'ts100'), Annotation: ñuka ñuka 
+    Time Stamp: ('ts101', 'ts102'), Annotation: wiñashka kani 
+    Time Stamp: ('ts103', 'ts104'), Annotation: ñuka abuelita  difunta Presentación  lemayco
+    Time Stamp: ('ts107', 'ts108'), Annotation: paymi ñukata wiñachishkia ñuka mama 
+    Time Stamp: ('ts109', 'ts110'), Annotation: sakishpa rrishkia 
+    Time Stamp: ('ts111', 'ts113'), Annotation: mmm nueve mesesta charishkani
+    Time Stamp: ('ts115', 'ts118'), Annotation: sakisha ñuka mama wañushka
+    Time Stamp: ('ts120', 'ts122'), Annotation: wañusha  enton... ña ñuka abuelita  ñaaa
+    Time Stamp: ('ts123', 'ts124'), Annotation: como mama wiñachishka
+    Time Stamp: ('ts125', 'ts126'), Annotation: ñukata 
+    Time Stamp: ('ts128', 'ts131'), Annotation: naa viudami
+    Time Stamp: ('ts133', 'ts134'), Annotation: a aa ñuka taytawan ñuka abuelitawan  wiñarkani 
+    Time Stamp: ('ts135', 'ts136'), Annotation: chaymunta kay alpaka na rrikun casi casi 
+    Time Stamp: ('ts137', 'ts138'), Annotation: casi 
+    Time Stamp: ('ts139', 'ts140'), Annotation: tsawarta na ña na rikunchi porque ñukunchi abuelita 
+    Time Stamp: ('ts141', 'ts142'), Annotation: ñukunchitaka puro mishki wiñachirka 
+    Time Stamp: ('ts145', 'ts147'), Annotation: puro mishki puro mishki 
+    Time Stamp: ('ts148', 'ts149'), Annotation: ufiangapaklla
+    Time Stamp: ('ts150', 'ts152'), Annotation: aa ufiangapaklla ufiangapaklla 
+    Time Stamp: ('ts153', 'ts154'), Annotation: warankuta
+    Time Stamp: ('ts155', 'ts156'), Annotation: veinte matakamanmi rrurran karka 
+    Time Stamp: ('ts158', 'ts160'), Annotation: waranguta veinte yurakaman 
+    Time Stamp: ('ts162', 'ts164'), Annotation: aaa veinte yura dee
+    Time Stamp: ('ts165', 'ts166'), Annotation: tsawarta rrukarka 
+    Time Stamp: ('ts167', 'ts168'), Annotation: mishkita 
+    Time Stamp: ('ts171', 'ts173'), Annotation: kay toc chay chashna shina rrikungui shina  shiuna 
+    Time Stamp: ('ts175', 'ts176'), Annotation: chay tukta ñukunchi  mishkita tukuchirkanchi 
+    Time Stamp: ('ts178', 'ts180'), Annotation: ñukunchi viñashkia kanchi puro mishki 
+    Time Stamp: ('ts182', 'ts184'), Annotation: puro warango 
+    Time Stamp: ('ts187', 'ts190'), Annotation: puroo puro arroz cebada 
+    Time Stamp: ('ts191', 'ts193'), Annotation: mikushpa kawsarkanchi  ñukanchi
+    Time Stamp: ('ts194', 'ts196'), Annotation:  shina kashpa shina wiñarkanchi  gracias aaa
+    Time Stamp: ('ts197', 'ts199'), Annotation:  asi como dice en castellano  gracias por mis abuelitas 
+    Time Stamp: ('ts200', 'ts202'), Annotation: entonces 
+    Time Stamp: ('ts203', 'ts204'), Annotation: eso es
+    Time Stamp: ('ts207', 'ts208'), Annotation: entonces ñuka ñukaa
+    Time Stamp: ('ts209', 'ts210'), Annotation: chay makita japishka
+    Time Stamp: ('ts213', 'ts214'), Annotation: ñuka
+    Time Stamp: ('ts215', 'ts218'), Annotation: mishkita mishkita rruani warangota rruani
+    Time Stamp: ('ts221', 'ts222'), Annotation: yakuñawraska  vasota japishpa upiani  ñukallate ñuka suegramanpash  asuwata karani
+    Time Stamp: ('ts225', 'ts226'), Annotation: yarkiawraspash 
+    Time Stamp: ('ts227', 'ts228'), Annotation: upiajuni vasowata
+    Time Stamp: ('ts232', 'ts235'), Annotation: ña chay ña viksata ñaaa ñaaa 
+    Time Stamp: ('ts237', 'ts238'), Annotation: plato de mikuna mikushpa
+    Time Stamp: ('ts239', 'ts240'), Annotation: ña vaso waranguwan ña viksa jundan 
+    Time Stamp: ('ts244', 'ts247'), Annotation: chay ñuka naa ñana arroztaka na yuyarin
+    Time Stamp: ('ts249', 'ts250'), Annotation: mjm 
+    Time Stamp: ('ts251', 'ts252'), Annotation: mmm
+    Time Stamp: ('ts253', 'ts255'), Annotation: shinami 
+    Time Stamp: ('ts257', 'ts258'), Annotation: kunankama ñaa ñuka   shina ñuka ñaa cuantoss  tiempota  trabajarkani
+    Time Stamp: ('ts259', 'ts260'), Annotation: plantacionbi 
+    Time Stamp: ('ts262', 'ts265'), Annotation: plantacionbi 
+    Time Stamp: ('ts267', 'ts269'), Annotation: sisata pallashpa 
+    Time Stamp: ('ts271', 'ts272'), Annotation: chay sisa tanto quimico ñuka ungurkani 
+    Time Stamp: ('ts273', 'ts274'), Annotation: doctorkuna nirka ñana  ñuka ñana  tanto pastillata doctorkuna  na
+    Time Stamp: ('ts275', 'ts276'), Annotation: ñuka ña tanto pastillasta chapash ña loka tukurkani 
+    Time Stamp: ('ts277', 'ts278'), Annotation: pastillata na upiana ushashpa 
+    Time Stamp: ('ts279', 'ts280'), Annotation: chaymanta doctor particularman rrirkani
+    Time Stamp: ('ts281', 'ts282'), Annotation: doctor particular recomendarka kay mishkita rri upiay
+    Time Stamp: ('ts284', 'ts286'), Annotation: kanga gente campomi kangi kanga tsaw tsawarta charingimi 
+    Time Stamp: ('ts287', 'ts288'), Annotation: rri chayta rruay upiay 
+    Time Stamp: ('ts289', 'ts290'), Annotation: cierto doctor po doctor poo
+    Time Stamp: ('ts291', 'ts292'), Annotation: doctor po ta uish ñuka shamushpa trabajumanta llukshishpa ñana rrirkani trabajoman 
+    Time Stamp: ('ts295', 'ts296'), Annotation: shamushpa trabajumanda llukshishpa 
+    Time Stamp: ('ts297', 'ts298'), Annotation: ña mishkita rruay rrurrarkani ñuka   ñuka rruashpa 
+    Time Stamp: ('ts299', 'ts300'), Annotation: mishkitaka l japi jatarirkani 
+    Time Stamp: ('ts301', 'ts302'), Annotation: chay mishkiwanmi dios bendito 
+    Time Stamp: ('ts303', 'ts304'), Annotation: curarkani 
+    Time Stamp: ('ts305', 'ts306'), Annotation: curé
+    Time Stamp: ('ts307', 'ts308'), Annotation: chaymanta ñuka ñaa
+    Time Stamp: ('ts309', 'ts310'), Annotation: ñaa particular  ñaaa  tanto mishkitaka imati rruasha  nirkani ña   ñukalla na usharkani ni  upingapak 
+    Time Stamp: ('ts311', 'ts312'), Annotation: vasowan vasowan  chaymanta ñuka ña llukshirkani ña jatungapak 
+    Time Stamp: ('ts313', 'ts314'), Annotation: mas fuera 
+    Time Stamp: ('ts315', 'ts316'), Annotation: llukchirkani ñuka 
+    Time Stamp: ('ts318', 'ts321'), Annotation: mishkita 
+    Time Stamp: ('ts322', 'ts324'), Annotation: ñukami jaturkani chaypimi jatujurkanimi ñuka 
+    Time Stamp: ('ts325', 'ts328'), Annotation: ri karkani hasta tumbacokaman 
+    Time Stamp: ('ts329', 'ts330'), Annotation: pero ñuka mishki jatu y wasipi 
+    Time Stamp: ('ts331', 'ts332'), Annotation: gracias papasito, diosito  ñuka compañero wilian 
+    Time Stamp: ('ts333', 'ts334'), Annotation: ñuka compañero Wilian villachishkia 
+    Time Stamp: ('ts335', 'ts336'), Annotation: ñuka ingenierokunapa 
+    Time Stamp: ('ts337', 'ts338'), Annotation:  aaa purijukpisha  villachikpi ñuka  rrugarkani payta  por dios  mingachiway ñukatapash 
+    Time Stamp: ('ts339', 'ts340'), Annotation: chay mishkita ñuka charini por dios 
+    Time Stamp: ('ts341', 'ts342'), Annotation: chaymi ñuka compañero Wilian mingachiparka 
+    Time Stamp: ('ts343', 'ts344'), Annotation: villachiparka chaymanda ñuka compañero  dios le pague 
+    Time Stamp: ('ts345', 'ts346'), Annotation: purijuni contento 
+    Time Stamp: ('ts348', 'ts351'), Annotation: contento kay mishkiwata llukchishpa 
+    Time Stamp: ('ts357', 'ts358'), Annotation: kunan ñukunchillami kanchi   cuatro chusku  personas  ñukunchi  ña tukuchirkanchi   ña entregajunchi 
+    Time Stamp: ('ts359', 'ts360'), Annotation: chusku persona 
+    Time Stamp: ('ts361', 'ts362'), Annotation: mm kayshuk compañerakunami nin 
+    Time Stamp: ('ts363', 'ts364'), Annotation: kutin compañerokuna nirka mm
+    Time Stamp: ('ts365', 'ts366'), Annotation: mmmm
+    Time Stamp: ('ts367', 'ts368'), Annotation: shuk mishukuna shamurka 
+    Time Stamp: ('ts369', 'ts370'), Annotation: chay parlachirkanchi
+    Time Stamp: ('ts371', 'ts372'), Annotation: CHAY PARLACHIKPIMI COMPAÑERA SHUK COMPAÑEROKUNAMI 
+    Time Stamp: ('ts373', 'ts375'), Annotation: kutin ingresashun nirka 
+    Time Stamp: ('ts376', 'ts378'), Annotation: chay kutin  si ñukunchi  compañero  
+    Time Stamp: ('ts379', 'ts380'), Annotation:  nijurka  mmm parlajurka 
+    Time Stamp: ('ts381', 'ts382'), Annotation: hasta 
+    Time Stamp: ('ts383', 'ts384'), Annotation: ishkay killakaman 
+    Time Stamp: ('ts385', 'ts386'), Annotation: naa naa pallashun  nin mishkita 
+    Time Stamp: ('ts387', 'ts388'), Annotation: chaymanta ñukunchi pina kunchi 
+    Time Stamp: ('ts389', 'ts390'), Annotation: pina  mishkita imata rruashun  mayman kutin  claro jatungapa ri rin 
+    Time Stamp: ('ts391', 'ts392'), Annotation: peroo tiempo tiempo perderin 
+    Time Stamp: ('ts394', 'ts396'), Annotation: wasipi 
+    Time Stamp: ('ts398', 'ts399'), Annotation: aaaa
+    Time Stamp: ('ts401', 'ts402'), Annotation: ña pallangapak shamun ña apangapak shamun
+    Time Stamp: ('ts403', 'ts404'), Annotation: autopi 
+    Time Stamp: ('ts407', 'ts408'), Annotation: chayka ña entregashpa ña wasiman ña rrinchi 
+    Time Stamp: ('ts409', 'ts410'), Annotation: ñaa   toqueta rruarin  wasipi 
+    Time Stamp: ('ts411', 'ts412'), Annotation: kunun kunun ña jatun pina   vierneskamanllami  pallashun ninajun  mishkita 
+    Time Stamp: ('ts413', 'ts414'), Annotation: chaymi apena purinajunchi 
+    Time Stamp: ('ts415', 'ts416'), Annotation: maypi maypi jatugringapak kutin  
+    Time Stamp: ('ts419', 'ts420'), Annotation: apytaka apan pero ñaaa kutinlla  pingañangamari puringapak 
+    Time Stamp: ('ts422', 'ts425'), Annotation: entregangapak ña
+    Time Stamp: ('ts429', 'ts430'), Annotation: naa tiempo na tyan de rrepente tiempo tykpika 
+    Time Stamp: ('ts431', 'ts432'), Annotation: mmmmmm  madrugadupash pallarin  madrugado como siempre pallarin 
+    Time Stamp: ('ts435', 'ts436'), Annotation: chawpi punlla de repente tiempo tyakpikia pallarin 
+    Time Stamp: ('ts437', 'ts439'), Annotation: de repente  na tiempo tyakpikia  na pallarin 
+    Time Stamp: ('ts440', 'ts442'), Annotation: ishkay ishkay viaje punlla
+    Time Stamp: ('ts443', 'ts444'), Annotation: pallarin 
+    Time Stamp: ('ts446', 'ts448'), Annotation: aa chay chay 
+    Time Stamp: ('ts449', 'ts450'), Annotation: chay 
+    Time Stamp: ('ts453', 'ts455'), Annotation: chaymi ñuka yura 
+    Time Stamp: ('ts456', 'ts460'), Annotation: mmm ñuka yura antes   ñuka kusami ayudan   ñuka kusami ayudan 
+    Time Stamp: ('ts461', 'ts462'), Annotation:   chaymiri aspinka manchanikia  aspin  ñukunchi compañero  kutin  nina shina aspina kisha  kunun yachakpika 
+    Time Stamp: ('ts463', 'ts464'), Annotation: ñukunchi aaaa
+    Time Stamp: ('ts465', 'ts466'), Annotation: chay aspi 
+    Time Stamp: ('ts467', 'ts468'), Annotation: manchanayta llukchishpa gasokunata 
+    Time Stamp: ('ts469', 'ts470'), Annotation: chayka naa shina kisha llukchingapa bagazokunata   shinaka 
+    Time Stamp: ('ts471', 'ts472'), Annotation: naaa
+    Time Stamp: ('ts473', 'ts474'), Annotation: apenas pulunwatami limpiachina kashkanchi
+    Time Stamp: ('ts475', 'ts476'), Annotation: chaymanta chay bagazotaka kuchiman apana  kisha 
+    Time Stamp: ('ts477', 'ts478'), Annotation: ñukanchika na yachay  queda shitanchi  queda shitashka shina   ñuka kusa aydashkia kan 
+    Time Stamp: ('ts479', 'ts480'), Annotation: pay bagazotaka  ashta chashpa pobre polontaka aspishpa  chaypi montonashpa charin 
+    Time Stamp: ('ts481', 'ts482'), Annotation: ñuka kusa aydashpa 
+    Time Stamp: ('ts485', 'ts487'), Annotation: pero ñuka shamushpaka apenas limpiachini polonwata 
+    Time Stamp: ('ts488', 'ts490'), Annotation: shinami  manejo de yurakunataka  kish kunun yachikpi  ñukunchik kutin 
+    Time Stamp: ('ts491', 'ts492'), Annotation: ñukanchi abuelitakunawan viñashkiaka kutin jatun  o que de la gana   chaylla aspirin l
+    Time Stamp: ('ts493', 'ts494'), Annotation: kunun yachikpikia na shinaka kishkia  shina  shinaa shinaa chay trabajuwa  dios dios   diso le pague chay trabajuwata contento 
+    Time Stamp: ('ts495', 'ts496'), Annotation: purinajunchi 
+    Time Stamp: ('ts497', 'ts498'), Annotation: mmm
+    Time Stamp: ('ts499', 'ts501'), Annotation: chayka hace  imacha  tiempokunaka   kay trabajuka  naa tyarishkiaka 
+    Time Stamp: ('ts502', 'ts505'), Annotation: naaa
+    Time Stamp: ('ts507', 'ts508'), Annotation: aaa
+    Time Stamp: ('ts511', 'ts512'), Annotation: tsawarmantaka solo yakugullata pallana 
+    Time Stamp: ('ts514', 'ts516'), Annotation: yakugullata pallanchi ñukanchikia
+    Time Stamp: ('ts517', 'ts518'), Annotation: chaymanta
+    Time Stamp: ('ts519', 'ts520'), Annotation: yachakpikia tukuymi tikishun  shina mmm 
+    Time Stamp: ('ts521', 'ts523'), Annotation: compañerokuna parlachijun 
+    Time Stamp: ('ts527', 'ts528'), Annotation: puntaka    zapatos siete vida 
+    Time Stamp: ('ts529', 'ts530'), Annotation: zapato de caucho siete vida nishkia 
+    Time Stamp: ('ts532', 'ts533'), Annotation: mmm na chay 
+    Time Stamp: ('ts535', 'ts537'), Annotation: chaytasi na chapishkianichu 
+    Time Stamp: ('ts538', 'ts540'), Annotation: imapata deganaka llullasha na ushanichu 
+    Time Stamp: ('ts542', 'ts544'), Annotation: solo y mas yakutami japishkani 
+    Time Stamp: ('ts545', 'ts546'), Annotation: ñukanchi abuelitaka yakutaaa mmm
+    Time Stamp: ('ts547', 'ts548'), Annotation: chay tiempoka 
+    Time Stamp: ('ts549', 'ts550'), Annotation: kunan kunanmi wasipi 
+    Time Stamp: ('ts551', 'ts552'), Annotation: yakupash , chay tiempoka na ni micha , ni yaku 
+    Time Stamp: ('ts554', 'ts556'), Annotation: na tyarka 
+    Time Stamp: ('ts558', 'ts560'), Annotation: shina ñukunchikia  ñukunchi kaypi ñuka  papasito ñuka abuelita que en paz descanse   mmm kawsishkia kan 
+    Time Stamp: ('ts561', 'ts562'), Annotation: kayllapikia waycomanta 
+    Time Stamp: ('ts563', 'ts564'), Annotation: las tres de la mañana aparishkia purin karkanchi ñukanchi yakuta 
+    Time Stamp: ('ts566', 'ts569'), Annotation: micha na tya karka kunanmi micha todo 
+    Time Stamp: ('ts570', 'ts572'), Annotation: alumbrado publicokuna tin 
+    Time Stamp: ('ts573', 'ts574'), Annotation: ñukunchikia na ñukunchikia na viñashkia kanchikchu chaykunawanga 
+    Time Stamp: ('ts576', 'ts579'), Annotation: naa viñashkianchi  ñukunchikia   ñukunchi churikuna  ñukunchi churikunaka   ña mishuyashkia mari 
+    Time Stamp: ('ts581', 'ts584'), Annotation: naaa naaa riksin chay categoriataka na rriksin 
+    Time Stamp: ('ts585', 'ts587'), Annotation:  ñuka pobree lastima yantakunata  chay lomakunamanta aparishpa shamushkiani 
+    Time Stamp: ('ts590', 'ts592'), Annotation: chilka kasha 
+    Time Stamp: ('ts594', 'ts597'), Annotation: morlan nishkia 
+    Time Stamp: ('ts599', 'ts600'), Annotation: purga nishkia chaykunami ñukanchi yanta 
+    Time Stamp: ('ts601', 'ts602'), Annotation: chay karka cabuyu mmm ña chay  tsawar yura mishki  tukurishkia 
+    Time Stamp: ('ts603', 'ts604'), Annotation: chaytami kutin ashta ñukunchikia yanta karkanchi 
+    Time Stamp: ('ts606', 'ts608'), Annotation: cabuyu yantatami  muntuna karkanchi  kaymi patio de yanta karka 
+    Time Stamp: ('ts610', 'ts612'), Annotation: mjm 
+    Time Stamp: ('ts614', 'ts616'), Annotation:  uksha wasipi yanungapak chaymanta kutin  chayman ña wasita rrurrarka  ñuka papasito ña rrurrka 
+    Time Stamp: ('ts617', 'ts618'), Annotation: kuti ña ñukanchikia ña teja wasipi tyarkanchi 
+    Time Stamp: ('ts619', 'ts620'), Annotation: ñukami kaymuntami kani 
+    Time Stamp: ('ts621', 'ts623'), Annotation: kaymunta kaymunta 
+    Time Stamp: ('ts624', 'ts627'), Annotation: kay puesto
+    Time Stamp: ('ts628', 'ts631'), Annotation: waykomunta
+    Time Stamp: ('ts634', 'ts636'), Annotation: chaymi kari jari fakcha 
+    Time Stamp: ('ts638', 'ts640'), Annotation: chay rrikuy  kay rrikuy 
+    Time Stamp: ('ts641', 'ts644'), Annotation: chaymi jari fakcha 
+    Time Stamp: ('ts645', 'ts647'), Annotation: kaymi warmi fakcha 
+    Time Stamp: ('ts648', 'ts649'), Annotation: a aa
+    Time Stamp: ('ts650', 'ts652'), Annotation: chaymi jari fakcha 
+    Time Stamp: ('ts653', 'ts654'), Annotation: chaypimi aaa
+    Time Stamp: ('ts655', 'ts656'), Annotation: ashka gente  chay jawa frentemunta  rrevolkashpa wañushka nin 
+    Time Stamp: ('ts657', 'ts659'), Annotation: chjay waykopika 
+    Time Stamp: ('ts661', 'ts662'), Annotation: imamuntachari 
+    Time Stamp: ('ts663', 'ts664'), Annotation: revolkashpa wañun karka
+    Time Stamp: ('ts666', 'ts669'), Annotation:  a aaa gentekunaka ashkami wañushkia chay waykopika 
+    Time Stamp: ('ts671', 'ts672'), Annotation: shitarishpa chay laderamanta rrevolkashpa 
+    Time Stamp: ('ts674', 'ts676'), Annotation: m mm ñuka chaypimi 
+    Time Stamp: ('ts677', 'ts678'), Annotation: ñuka chitata chari karkani chaypi 
+    Time Stamp: ('ts679', 'ts680'), Annotation:  chay kaymanta shitakpi  shitayana karka  chay ladraman  rri karka ñukaka ñalla ñalla  washkia karkani  ukuman 
+    Time Stamp: ('ts681', 'ts683'), Annotation: chaymanta  shitaguna 
+    Time Stamp: ('ts684', 'ts687'), Annotation: chitawan 
+    Time Stamp: ('ts688', 'ts689'), Annotation: m mmm 
+    Time Stamp: ('ts690', 'ts693'), Annotation: chakilla rrishpa shina chaymunta chay nunca ñukunchikia ni chay waykomanga ñana rrinchichu 
+    Time Stamp: ('ts694', 'ts696'), Annotation: mmm kayta muyun 
+    Time Stamp: ('ts697', 'ts700'), Annotation: chay tin chayta ñanta 
+    Time Stamp: ('ts702', 'ts705'), Annotation: chaymantami chayta shina llukshuina
+    Time Stamp: ('ts706', 'ts708'), Annotation: mmmm
+    Time Stamp: ('ts709', 'ts711'), Annotation: ñukanchimanlla ñuka abuelita ñuka papasitomi  shina ni karka  chaymanta  no sé imamantachari jari jaka  fakcha
+    Time Stamp: ('ts713', 'ts717'), Annotation: aaa peee shutikunataka chaymi  charin chay lomapimi  shuk rrumu tijun   chaymi yuruk rrumi
+    Time Stamp: ('ts718', 'ts720'), Annotation: yuruk rrumi 
+    Time Stamp: ('ts721', 'ts722'), Annotation:  chay washa chayyypiii shamujun llama   chay ñlanta katishpa kutin shuk   chay kuchamiii
+    Time Stamp: ('ts723', 'ts725'), Annotation: payla kocha
+    Time Stamp: ('ts727', 'ts728'), Annotation: chaymunta chayllapi kutin  vertiente  tyajun chaymuntami  ñukunchikia  yakuta mikunchi   chay vertientemanta 
+    Time Stamp: ('ts730', 'ts732'), Annotation: chay jarii  fakcha chay payla kucha  chaypimi un vertiente tin 
+    Time Stamp: ('ts734', 'ts736'), Annotation: chaymantami ñukanchikia mikunchi   yakuta  vertiente yakuta  mikunchimi  ñukanchikia jari fakcha 
+    Time Stamp: ('ts739', 'ts740'), Annotation: naaa chimbakaa
+    Time Stamp: ('ts741', 'ts742'), Annotation: mmmm
+    Time Stamp: ('ts743', 'ts745'), Annotation: San Carlos
+    Time Stamp: ('ts746', 'ts748'), Annotation:  San Carlosme llaman  shinami nin karka ñukanchi mayores 
+    Time Stamp: ('ts750', 'ts751'), Annotation: mmmmm
+    Time Stamp: ('ts753', 'ts754'), Annotation: ñuka uyshani 
+    Time Stamp: ('ts755', 'ts757'), Annotation: ñukaaa mmmm  desde que juicio japishpa  uyishkianikia   chay tuktami san carlos 
+    Time Stamp: ('ts758', 'ts761'), Annotation: kay tukta pamba marquito 
+    Time Stamp: ('ts762', 'ts766'), Annotation: pamba marquito 
+    Time Stamp: ('ts767', 'ts768'), Annotation: chaytami ñuka ña shina 
+    Time Stamp: ('ts769', 'ts770'), Annotation: uyishkani  shina viñashkani  mishkiwan   yantawan llamakunawan 
+    Time Stamp: ('ts771', 'ts773'), Annotation: kuykunawan, kuchikunawan  viñashkani ñuka 
+    Time Stamp: ('ts774', 'ts776'), Annotation: mmm chayka chayka kutin chay jawamantaka kutin 
+    Time Stamp: ('ts777', 'ts778'), Annotation: mmmm
+    Time Stamp: ('ts779', 'ts781'), Annotation: censo hacienda llaman 
+    Time Stamp: ('ts783', 'ts785'), Annotation: ñuka chaykunapi trabajashkiani  uchilagu kashpa karin  trabajumanda chaykunapi purirkani
+    Time Stamp: ('ts786', 'ts788'), Annotation:  aja haciendakunapi o si no kay chimba chay lomakunapi trabajashpa purirkani  ñuka uchilla kashpa  
+    Time Stamp: ('ts790', 'ts791'), Annotation: naaa
+    Time Stamp: ('ts793', 'ts794'), Annotation: cevada kuchuy 
+    Time Stamp: ('ts795', 'ts796'), Annotation: papa allay 
+    Time Stamp: ('ts799', 'ts800'), Annotation: mmmm chaykunapi shina purishkiani 
+    Time Stamp: ('ts801', 'ts802'), Annotation: trabajashpa una lastima purishkianchi  lastima purishkianchi  shinlli 
+    Time Stamp: ('ts803', 'ts804'), Annotation: shina viñashkianchi 
+    Time Stamp: ('ts805', 'ts806'), Annotation: shina viñashkianchi  y shina  viñashhh  ñuka kusa chaymanmi 
+    Time Stamp: ('ts807', 'ts810'), Annotation: vecino pura cazararkanchi 
+    Time Stamp: ('ts812', 'ts814'), Annotation: m mm ñuka kusa chaynigumanta 
+    Time Stamp: ('ts816', 'ts818'), Annotation: vezino 
+    Time Stamp: ('ts819', 'ts820'), Annotation: kazara kazarashpa tinchi 
+    Time Stamp: ('ts821', 'ts822'), Annotation: chaymunta ñaa ñuka ñaaa   ñuka churikuna ñaaa ña kunun ñaaa
+    Time Stamp: ('ts823', 'ts824'), Annotation: ñuka  alpapi na trabajashpa 
+    Time Stamp: ('ts825', 'ts826'), Annotation: ñukunchi kusa warmi na intindirishpa rrishpa trabajaspa plantacionkuna na desde ungushpa 
+    Time Stamp: ('ts827', 'ts829'), Annotation: chaykaman  alpakunapash tukta na tarpushkia 
+    Time Stamp: ('ts830', 'ts833'), Annotation: lastiman kuna kunan chayra kutin tractor yachishka ña cebadawa ña 
+    Time Stamp: ('ts835', 'ts836'), Annotation: ña wiñamujun contento purijuni 
+    Time Stamp: ('ts837', 'ts838'), Annotation: shinami chay 
+    Time Stamp: ('ts839', 'ts840'), Annotation: ñukanchi estoria comunidad pamba marquito nati karka ñuka 
+    Time Stamp: ('ts841', 'ts842'), Annotation: ñukaka na estudiashka kani ñuka na ashta 
+    Time Stamp: ('ts843', 'ts844'), Annotation: segundo primer grado ña tukuchishpa ña llukshirkani 
+    Time Stamp: ('ts846', 'ts850'), Annotation: loma na ñukanchika na escuelapika estudiashkaka kanchichu ñukanchika 
+    Time Stamp: ('ts851', 'ts852'), Annotation: ñukanchika estudiashka yanga wasi particularpi
+    Time Stamp: ('ts853', 'ts858'), Annotation: arrindashpa estudiashkami mm na chay tiempoka na tyarka escuela 
+    Time Stamp: ('ts861', 'ts866'), Annotation: na tyarka kunansi tyan todo escuela 
+    Time Stamp: ('ts867', 'ts870'), Annotation: escuela     hasta 
+    Time Stamp: ('ts871', 'ts875'), Annotation: tercero o no se chay kaman tyan kaypika chaymantaka ña fuera ña colegiokunaman rrinkuna 
+    Time Stamp: ('ts876', 'ts880'), Annotation: otonman cayambiman (...........)rrin 
+    Time Stamp: ('ts881', 'ts883'), Annotation: mmm
+    Time Stamp: ('ts886', 'ts889'), Annotation: parroquia oton 
+    Time Stamp: ('ts895', 'ts896'), Annotation: parroquia oton mm 
+    Time Stamp: ('ts897', 'ts898'), Annotation: chaymi ñukanchi chaypi ñukanchi wasi 
+    Time Stamp: ('ts899', 'ts900'), Annotation: ña ñukanchi cementerio 
+    Time Stamp: ('ts902', 'ts904'), Annotation: ña rrinchi 
+    Time Stamp: ('ts906', 'ts908'), Annotation: aa finadospi rrinchi jatun punchapi 
+    Time Stamp: ('ts910', 'ts912'), Annotation: rrinchi 
+    Time Stamp: ('ts913', 'ts914'), Annotation: pero ña ña kay 
+    Time Stamp: ('ts915', 'ts916'), Annotation: presidentikuna ña proyectamujun ña ojala
+    Time Stamp: ('ts917', 'ts918'), Annotation: ojala ayudash ayudachun compañerokuna ojala ayudan 
+    Time Stamp: ('ts919', 'ts921'), Annotation: chaymanta cementeriotaka kay pambama markitulla llukchishun nin 
+    Time Stamp: ('ts923', 'ts924'), Annotation: shunami parlachijun 
+    Time Stamp: ('ts927', 'ts930'), Annotation: shina cada cada secsion chaypimi parlajun ñukanchi conpañerokuna 
+    Time Stamp: ('ts931', 'ts933'), Annotation: charinchi chay 
+    Time Stamp: ('ts934', 'ts937'), Annotation: mm a a a ladulla chay kay pamba markitullapita 
+    Time Stamp: ('ts938', 'ts941'), Annotation: mjm shinami parlachin 
+    Time Stamp: ('ts943', 'ts944'), Annotation: chayta ñukanchishlla uyanchi 
+    Time Stamp: ('ts946', 'ts951'), Annotation: ña ña mishukunaka ña ña mishu puro mishulla  llakta ña aa 
+    Time Stamp: ('ts955', 'ts960'), Annotation: sandi sandiata sandiatami mas chapani ña kaypi  kaypi  igual 
+    Time Stamp: ('ts961', 'ts962'), Annotation: sapallu tarpukpi pachaka sapallu 
+    Time Stamp: ('ts964', 'ts966'), Annotation: sandia urapipash tarpukpika 
+    Time Stamp: ('ts967', 'ts969'), Annotation: maduranmi 
+    Time Stamp: ('ts970', 'ts973'), Annotation: mmm redondelpe a jam tin tin 
+    Time Stamp: ('ts975', 'ts978'), Annotation: aa pero na mucho tiempo na mucho tiempo chayra chayrik 
+    Time Stamp: ('ts981', 'ts982'), Annotation: ña wata ña ishkay wata 
+    Time Stamp: ('ts984', 'ts986'), Annotation: vesina 
+    Time Stamp: ('ts987', 'ts988'), Annotation: mande 
+    Time Stamp: ('ts989', 'ts991'), Annotation: no se a la casa se fue serio 
+    Time Stamp: ('ts995', 'ts997'), Annotation: hijoles ya se va ya se van 
+    Time Stamp: ('ts999', 'ts1000'), Annotation: Dany 
+    Time Stamp: ('ts1001', 'ts1003'), Annotation: ya ya aque estoy comversando  con los compañeros que an venido mm 
+    Time Stamp: ('ts1006', 'ts1008'), Annotation: aaa
+    Time Stamp: ('ts1010', 'ts1012'), Annotation: ya ya 
+    Time Stamp: ('ts1013', 'ts1016'), Annotation: ya vecina bueno 
+    Time Stamp: ('ts1018', 'ts1019'), Annotation: ya 
+    Time Stamp: ('ts1022', 'ts1024'), Annotation: ya mismo aqui ya acabamos de comversar 
+    Time Stamp: ('ts1029', 'ts1033'), Annotation: ña samun ña chaypi  señora ña uray shitamujun animalkunata 
+    Time Stamp: ('ts1034', 'ts1036'), Annotation: mmm  chaypi 
+    Time Stamp: ('ts1038', 'ts1040'), Annotation: aaa kaytami yalin 
+    Time Stamp: ('ts1042', 'ts1045'), Annotation: kaytami yalingapa munan 
+    Time Stamp: ('ts1048', 'ts1049'), Annotation: aaa
+    Time Stamp: ('ts1050', 'ts1053'), Annotation: ashta kayman shamuna kaman 
+    Time Stamp: ('ts1056', 'ts1059'), Annotation: risa 
+    Time Stamp: ('ts1061', 'ts1063'), Annotation: aaa 
+    Time Stamp: ('ts1065', 'ts1067'), Annotation: ñuka yernomi orientano kan
+    Time Stamp: ('ts1068', 'ts1071'), Annotation: chay shuk idioma quichwa 
+    Time Stamp: ('ts1072', 'ts1074'), Annotation: pay parlan pero ñukaka na entendene paypa quichwataka 
+    Time Stamp: ('ts1076', 'ts1079'), Annotation: payka quinchipi kawsan  na kaypi kawsanllu 
+    Time Stamp: ('ts1081', 'ts1083'), Annotation: a ñukapa ushiwan 
+    Time Stamp: ('ts1084', 'ts1087'), Annotation: orientano es 
+    Time Stamp: ('ts1091', 'ts1092'), Annotation: alla viene vea 
+    Time Stamp: ('ts1097', 'ts1100'), Annotation: allapimi ganado tyanata yachan 
+    Time Stamp: ('ts1101', 'ts1102'), Annotation: ya ese es de otro señor 
+    Time Stamp: ('ts1104', 'ts1106'), Annotation: si 
+    Time Stamp: ('ts1109', 'ts1110'), Annotation: esta zona hacienda 
+    Time Stamp: ('ts1111', 'ts1112'), Annotation: hacienda censo hacienda 
+    Time Stamp: ('ts1114', 'ts1117'), Annotation: si  censo 
+    Time Stamp: ('ts1118', 'ts1123'), Annotation: ya si este es todo hacienda ya es de censo 
+    Time Stamp: ('ts1125', 'ts1127'), Annotation: de aqui si de hay desde aqui esto ya es de ya cada quien se parcela 
+    Time Stamp: ('ts1131', 'ts1132'), Annotation: este 
+    Time Stamp: ('ts1136', 'ts1139'), Annotation: tzawar 
+    Time Stamp: ('ts1142', 'ts1144'), Annotation: tzawar tzawar tzawar 
+    Time Stamp: ('ts1146', 'ts1147'), Annotation: tzawar 
+    Time Stamp: ('ts1149', 'ts1150'), Annotation: tzawar tzawar 
+    Time Stamp: ('ts1152', 'ts1154'), Annotation: mayorkunaka ña tzawar 
+    Time Stamp: ('ts1155', 'ts1157'), Annotation: ñukanchi kutin castellanopika penco  ninchik 
+    Time Stamp: ('ts1159', 'ts1161'), Annotation: chay shina 
+    Time Stamp: ('ts1163', 'ts1164'), Annotation: aaa jaku rrikungapak manllarinkimi pero yurata chapashpa ñuka kusami shamun 
+    Time Stamp: ('ts1165', 'ts1166'), Annotation: rraspangapaka karatami llukchin 
+    Time Stamp: ('ts1169', 'ts1171'), Annotation: shamuy jaku chapangapak 
+    Time Stamp: ('ts1174', 'ts1176'), Annotation: ña ña shamujun ña shamujun 
+    Time Stamp: ('ts1178', 'ts1181'), Annotation: ñukaka na todavia nara rrandini llamata  
+    Time Stamp: ('ts1183', 'ts1185'), Annotation: ñukaka  solo cuy kuchi pollokunata charini y 
+    Time Stamp: ('ts1187', 'ts1188'), Annotation: mm 
+    Time Stamp: ('ts1189', 'ts1191'), Annotation: y 
+    Time Stamp: ('ts1192', 'ts1195'), Annotation: rruna llamataka jawa lomapin tin 
+    Time Stamp: ('ts1196', 'ts1199'), Annotation: a ya 
+    Time Stamp: ('ts1203', 'ts1205'), Annotation: kaytami vitzay sikashpa purini 
+    Time Stamp: ('ts1209', 'ts1210'), Annotation: risa 
+    Time Stamp: ('ts1211', 'ts1213'), Annotation: kaypimi ñuka mishki 
+    Time Stamp: ('ts1215', 'ts1216'), Annotation: kay mishki ñuka tzawar 
+    Time Stamp: ('ts1219', 'ts1221'), Annotation: plastikuwan ñuka tapani tamyashpa ama yaku yaykuchun 
+    Time Stamp: ('ts1223', 'ts1224'), Annotation: yakuwan ña ña ñukanchi ingeñerokuna ñana rrisivin 
+    Time Stamp: ('ts1226', 'ts1228'), Annotation: ña ña ñana 
+    Time Stamp: ('ts1229', 'ts1230'), Annotation: ñana japin mishkita chaymanta 
+    Time Stamp: ('ts1231', 'ts1235'), Annotation: mm protejingapa ñukanchi tapashpa charinchi mishkita 
+    Time Stamp: ('ts1242', 'ts1243'), Annotation: mmm 
+    Time Stamp: ('ts1245', 'ts1246'), Annotation: nn na medio shunkupika na yurata por ejemplo ñukanchika contanchi  hojata 
+    Time Stamp: ('ts1249', 'ts1250'), Annotation: hojata cuentashpami ñukanchika guiquianchi 
+    Time Stamp: ('ts1254', 'ts1256'), Annotation: shinami ñukanchi tradicion 
+    Time Stamp: ('ts1257', 'ts1259'), Annotation: rruanchi mishkita 
+    Time Stamp: ('ts1261', 'ts1263'), Annotation: mjm 
+    Time Stamp: ('ts1264', 'ts1266'), Annotation: ama yaku yayjuchun 
+    Time Stamp: ('ts1267', 'ts1272'), Annotation: ama desabrido tukuchun ñukanchi mishki 
+    Time Stamp: ('ts1275', 'ts1278'), Annotation: shinami tradiciones de nosotros ñukanchi 
+    Time Stamp: ('ts1281', 'ts1284'), Annotation: mmm medio lecheromi llukshin 
+    Time Stamp: ('ts1285', 'ts1288'), Annotation: ña como ña chawpi yura kunan kunan ña chawpi yura 
+    Time Stamp: ('ts1290', 'ts1292'), Annotation: chawpi 
+    Time Stamp: ('ts1296', 'ts1298'), Annotation: ña kaymanta todavia shuk killawan ña 
+    Time Stamp: ('ts1299', 'ts1300'), Annotation: tukta tukuringa ña ñana jugota karanka 
+    Time Stamp: ('ts1301', 'ts1303'), Annotation: mmm ña tukurinka
+    Time Stamp: ('ts1307', 'ts1308'), Annotation: mushuktaa
+    Time Stamp: ('ts1309', 'ts1310'), Annotation: ña kayta tukuchishpaka  como 
+    Time Stamp: ('ts1311', 'ts1312'), Annotation: ñukanchi compañero nin dos mesestaka ña 
+    Time Stamp: ('ts1313', 'ts1318'), Annotation: ñana rruana tukunka mishkitaka na shuyanangami ñukanchi compañero 
+    Time Stamp: ('ts1319', 'ts1320'), Annotation: segunda ordengaman shuyana kanka
+    Time Stamp: ('ts1322', 'ts1324'), Annotation: chaymi kutin ñuka kutin shuk ladopi rrandishpami kutin ña guiquiasha 
+    Time Stamp: ('ts1326', 'ts1329'), Annotation: ñuka rrandini 
+    Time Stamp: ('ts1330', 'ts1332'), Annotation: aa alpa ñuka shuk ladopimi rrandini ñuka yurata 
+    Time Stamp: ('ts1334', 'ts1336'), Annotation: ñuka ñuka mishkita entregankapa ñuka  ñuka churiman escuelapi kan 
+    Time Stamp: ('ts1337', 'ts1339'), Annotation: maski centavitota ganankapak mm
+    Time Stamp: ('ts1340', 'ts1345'), Annotation: mm chay yuraa yura kaypika antes diosito venditoka na na tan karuchu  pero aa digana llullankapa nawshani mm nawshani 
+    Time Stamp: ('ts1348', 'ts1349'), Annotation: mjm 
+    Time Stamp: ('ts1350', 'ts1352'), Annotation: ja jatuy jatuyka 
+    Time Stamp: ('ts1353', 'ts1355'), Annotation: rrimagashpi jatupay nini chay chay yurakunaka  medio ñam mishkimunka ña diganami kiru llukshinka nin  
+    Time Stamp: ('ts1357', 'ts1359'), Annotation: kiru llukshinka degana 
+    Time Stamp: ('ts1361', 'ts1362'), Annotation: na na yurakuna na tin chaymanta ñuka parlajuni ñukanchi abuelitakuna tuta 
+    Time Stamp: ('ts1363', 'ts1367'), Annotation: puro mishkita rrurrashpa tukuchishka ñuka na kasi ñana chay 
+    Time Stamp: ('ts1368', 'ts1372'), Annotation: ya kutin tarpukpika  ojala dios vendito chaytami ñukanchi shuyanchi 
+    Time Stamp: ('ts1376', 'ts1377'), Annotation: chayka 
+    Time Stamp: ('ts1378', 'ts1381'), Annotation: mjm
+    Time Stamp: ('ts1383', 'ts1387'), Annotation: chayka shinami karka tukta tukta shina 
+    Time Stamp: ('ts1389', 'ts1394'), Annotation: sanka junda limpio sanka mm shinami kakarka  shina 
+    Time Stamp: ('ts1396', 'ts1398'), Annotation: mm  shina aa shina shina 
+    Time Stamp: ('ts1399', 'ts1400'), Annotation: shina 
+    Time Stamp: ('ts1401', 'ts1402'), Annotation: chimbapi rrikun shinallatami  ka karka kaypi
+    Time Stamp: ('ts1404', 'ts1408'), Annotation: nove kaypi shina rrikuy chaypi 
+    Time Stamp: ('ts1413', 'ts1416'), Annotation: yura selva yura ñukanchika na tarpushkanchi para que mm
+    Time Stamp: ('ts1418', 'ts1420'), Annotation: chaykunaka lenderuta shitashka ña 
+    Time Stamp: ('ts1422', 'ts1423'), Annotation: mmm
+    Time Stamp: ('ts1424', 'ts1427'), Annotation: chaymi ña lenderos lenderasje ña aaa puro lenderos chaykunaka 
+    Time Stamp: ('ts1429', 'ts1430'), Annotation: mm nose chaysi ñuka chayri chayrimari  entendijuni chay 
+    Time Stamp: ('ts1431', 'ts1432'), Annotation: chay tzawar kiru wiñashka chaymi 
+    Time Stamp: ('ts1433', 'ts1438'), Annotation: semillakunaka rriga kashka chaymanda wiñan kashka ñukapash na  yachashkani tanto kaytaka na 
+    Time Stamp: ('ts1439', 'ts1441'), Annotation: rricien chay ñuka  enterajuni 
+    Time Stamp: ('ts1444', 'ts1445'), Annotation: na 
+    Time Stamp: ('ts1446', 'ts1448'), Annotation: mm
+    Time Stamp: ('ts1451', 'ts1453'), Annotation: ña ña apachisha ña apachisha shamukpi 
+    Time Stamp: ('ts1455', 'ts1459'), Annotation: ña ña ñuka compañera ña ñuka compañera ña apachishpa chayamun 
+    Time Stamp: ('ts1461', 'ts1462'), Annotation: mm 
+    Time Stamp: ('ts1464', 'ts1467'), Annotation: a jaku ña pacha cerkayamunga jaku 
+    Time Stamp: ('ts1471', 'ts1472'), Annotation: tupangapak jaku jaku 
+    Time Stamp: ('ts1475', 'ts1478'), Annotation: ña ña chaypi chayamurka ña chayamurka ña 
+    Time Stamp: ('ts1480', 'ts1482'), Annotation: ña chayamujun ña chayamujun jaku jaku 
+    Time Stamp: ('ts1486', 'ts1489'), Annotation: ñuka compañera ñanta mañachi nishpami purirka aa
+    Time Stamp: ('ts1493', 'ts1496'), Annotation: mmm buenas tardes buenos dias nijun 
+    Time Stamp: ('ts1499', 'ts1502'), Annotation: alillachu purijungui nin  ñanta mañachi 
+    Time Stamp: ('ts1505', 'ts1507'), Annotation: mm ña chayamujun ñuka compañera 
+    Time Stamp: ('ts1509', 'ts1510'), Annotation: paymi kay como ñuka alpa kan 
+    Time Stamp: ('ts1511', 'ts1513'), Annotation: paymi ña pay yalin kayta con animalkunawan 
+    Time Stamp: ('ts1515', 'ts1517'), Annotation: ñanta mañachi nishpa yalin ñanta mañachi 
+    Time Stamp: ('ts1522', 'ts1523'), Annotation: yalilla nin 
+    Time Stamp: ('ts1524', 'ts1527'), Annotation: yalilla vecina nin  mm 
+    Time Stamp: ('ts1534', 'ts1539'), Annotation: chayka kinguchishpa rriman ajam kinguchishpa 
+    Time Stamp: ('ts1541', 'ts1542'), Annotation: venga aca
+    Time Stamp: ('ts1545', 'ts1548'), Annotation: wasiman apana kani ñuka animalkunata aaa
+    Time Stamp: ('ts1549', 'ts1551'), Annotation: aaa chaypi mikujun llamakuna 
+    Time Stamp: ('ts1553', 'ts1558'), Annotation: diez shukta imashnati kishwapi imashnati imashnati 
+    Time Stamp: ('ts1559', 'ts1560'), Annotation: shuk ishkay kimsa pusak 
+    Time Stamp: ('ts1562', 'ts1563'), Annotation: chunga 
+    Time Stamp: ('ts1565', 'ts1567'), Annotation: chunga chunga 
+    Time Stamp: ('ts1569', 'ts1572'), Annotation: chusku wagra a jam 
+    Time Stamp: ('ts1576', 'ts1578'), Annotation: botellakunata ña shitarka 
+    Time Stamp: ('ts1581', 'ts1583'), Annotation: ari kimsa charini kimsa alku 
+    Time Stamp: ('ts1584', 'ts1586'), Annotation: shuk sukita na na ñukapakchu 
+    Time Stamp: ('ts1587', 'ts1589'), Annotation: na na na ñukapak wasipi 
+    Time Stamp: ('ts1591', 'ts1593'), Annotation: wasipi sakirishka 
+    Time Stamp: ('ts1595', 'ts1596'), Annotation: mm 
+    Time Stamp: ('ts1597', 'ts1598'), Annotation: shinalla ñuka wasiman muyushpa jakulla 
+    Time Stamp: ('ts1599', 'ts1600'), Annotation: jaku mama 
+    Time Stamp: ('ts1601', 'ts1602'), Annotation: ñuka cebadaman ama daño rrurranguichu 
+    Time Stamp: ('ts1606', 'ts1609'), Annotation: si noka paganguimi cebadamanta 
+    Time Stamp: ('ts1611', 'ts1612'), Annotation: ñukaka cobrashami 
+    Time Stamp: ('ts1617', 'ts1618'), Annotation: ña shinalla rrishunlla o shuyashunrachu 
+    Time Stamp: ('ts1620', 'ts1622'), Annotation: ñawpachishun 
+    Time Stamp: ('ts1625', 'ts1626'), Annotation: ña mishki tardiajupan 
+    Time Stamp: ('ts1629', 'ts1630'), Annotation: mishki baldeta apashpa shamuy alilla kaypi pallangapa 
+    Time Stamp: ('ts1631', 'ts1632'), Annotation: na yachani na pensarishkani 
+    Time Stamp: ('ts1633', 'ts1634'), Annotation: ay sali pues 
+    Time Stamp: ('ts1635', 'ts1637'), Annotation: rrurrajurkanimari triguta kutashpa 
+    Time Stamp: ('ts1641', 'ts1642'), Annotation: watana watana 
+    Time Stamp: ('ts1644', 'ts1645'), Annotation: ari 
+    Time Stamp: ('ts1646', 'ts1648'), Annotation: ari 
+    Time Stamp: ('ts1649', 'ts1650'), Annotation: ama makachun wawata 
+    Time Stamp: ('ts1655', 'ts1656'), Annotation: shuwakunaka tyan tyanmi 
+    Time Stamp: ('ts1658', 'ts1660'), Annotation: wagra shuwa 
+    Time Stamp: ('ts1663', 'ts1665'), Annotation: chaymanta segurana kanchi corralpi 
+    Time Stamp: ('ts1667', 'ts1668'), Annotation: chay wampra chaytami apamusha animalkunataka 
+    Time Stamp: ('ts1669', 'ts1670'), Annotation: na ñanta mañachinika 
+    Time Stamp: ('ts1671', 'ts1672'), Annotation: paymi upalla wambra
+    Time Stamp: ('ts1673', 'ts1674'), Annotation: ya va llover 
+    Time Stamp: ('ts1675', 'ts1676'), Annotation: (...................................)
+    Time Stamp: ('ts1677', 'ts1678'), Annotation: esoka otavalo es 
+    Time Stamp: ('ts1679', 'ts1680'), Annotation: jalaoo 
+    Time Stamp: ('ts1681', 'ts1682'), Annotation: wambritawa 
+    Time Stamp: ('ts1683', 'ts1684'), Annotation: mashnata ganangapa munanguichu 
+    Time Stamp: ('ts1687', 'ts1688'), Annotation: si come
+    Time Stamp: ('ts1737', 'ts1738'), Annotation: killanimi nin 
+  Tier Type: tn, Annotations Count: 480
+    Time Stamp: a123, Annotation: comunidad pamba marquito 
+    Time Stamp: a124, Annotation: yo, mi nombre es 
+    Time Stamp: a125, Annotation: Rosa Alimeyco 
+    Time Stamp: a126, Annotation: mjm  
+    Time Stamp: a127, Annotation: Laura Chiquimba
+    Time Stamp: a128, Annotation: si asi apellidos Cobacango Rojas  
+    Time Stamp: a129, Annotation: Chiquimba 
+    Time Stamp: a130, Annotation: todo nom... apellidos hay 
+    Time Stamp: a131, Annotation: mmm
+    Time Stamp: a132, Annotation: aaa yo nací aqui  yo aqui 
+    Time Stamp: a133, Annotation: aqui aqui 
+    Time Stamp: a134, Annotation: aqui 
+    Time Stamp: a135, Annotation: en este atsil
+    Time Stamp: a136, Annotation: la casa nosotros hacemos la tierra la tierra
+    Time Stamp: a137, Annotation: para hacer ingresar el tractor  yaaa para  sacar la carretera  le derrumbamos la casa vieja 
+    Time Stamp: a138, Annotation: noo no había nadie 
+    Time Stamp: a139, Annotation: era de tierra y teja 
+    Time Stamp: a140, Annotation: si
+    Time Stamp: a141, Annotation: aqui aqui aqui 
+    Time Stamp: a142, Annotation: mjm en ahí 
+    Time Stamp: a143, Annotation: en cambio aqui otra casa había de puro paja 
+    Time Stamp: a144, Annotation: eso muy poco me acuerdo de eso
+    Time Stamp: a145, Annotation: muy poco 
+    Time Stamp: a146, Annotation: yo yo 
+    Time Stamp: a147, Annotation: he crecidio 
+    Time Stamp: a148, Annotation: Mi difunta abuelita  Presentación  Imauco 
+    Time Stamp: a149, Annotation: ella me ha criado  porque mi madre
+    Time Stamp: a150, Annotation: se ha ido dejanome 
+    Time Stamp: a151, Annotation: mmm tenía nueve meses 
+    Time Stamp: a152, Annotation: dejandome mi madre a muerto 
+    Time Stamp: a153, Annotation: se ha mueto entonces mi abuelita yaaa
+    Time Stamp: a154, Annotation: como madre me ha criado 
+    Time Stamp: a155, Annotation: a mi 
+    Time Stamp: a156, Annotation: noo es viuda
+    Time Stamp: a157, Annotation:  a aa con mi padre y mi abuela me han criado 
+    Time Stamp: a158, Annotation: por eso estas tierras ya no los ven son casi casi 
+    Time Stamp: a159, Annotation: casi 
+    Time Stamp: a160, Annotation: ya no vemos los penco porque nuestra abuelita 
+    Time Stamp: a161, Annotation: a nosotros nos crío  a punta de dulce de agave
+    Time Stamp: a162, Annotation: puro dulkce puro dulce 
+    Time Stamp: a163, Annotation: solo para tomar 
+    Time Stamp: a164, Annotation: aa solo para beber solo para beber 
+    Time Stamp: a165, Annotation: el warango 
+    Time Stamp: a166, Annotation: hasta veinte matas realizaba 
+    Time Stamp: a167, Annotation: el warango hasta veinte plantas 
+    Time Stamp: a168, Annotation: aaa veinte plantas dee
+    Time Stamp: a169, Annotation: plantas de penco lo hacía 
+    Time Stamp: a170, Annotation: el dulce 
+    Time Stamp: a171, Annotation: este mira por alla asi asi 
+    Time Stamp: a172, Annotation: todo eso terminamos el dulce de agave 
+    Time Stamp: a173, Annotation: nosotros hemos crecido con puro dulce 
+    Time Stamp: a174, Annotation: puro warango
+    Time Stamp: a175, Annotation: puroo puro arroz cebada 
+    Time Stamp: a176, Annotation: vivamos comiendo eso 
+    Time Stamp: a177, Annotation: así estabamos y asi crecimos gracias aaa
+    Time Stamp: a178, Annotation:  asi como dice en castellano  gracias por mis abuelitas 
+    Time Stamp: a179, Annotation: entonces 
+    Time Stamp: a180, Annotation: eso es
+    Time Stamp: a181, Annotation: entonces mi mi 
+    Time Stamp: a182, Annotation: ese he heredado 
+    Time Stamp: a183, Annotation: yoo
+    Time Stamp: a184, Annotation: hago lo que es el dulce y warango 
+    Time Stamp: a185, Annotation: cuando se tiene sed cojo en un vasito y mi tomo incluso a mi suegra lo rregalo 
+    Time Stamp: a186, Annotation: cuando se tiene hambre 
+    Time Stamp: a187, Annotation: suelo tomar en vasito 
+    Time Stamp: a188, Annotation: ya para que eso le llene yaaa
+    Time Stamp: a189, Annotation: por eso del arroz no me olvido
+    Time Stamp: a190, Annotation: mjm  
+    Time Stamp: a191, Annotation: mmmm
+    Time Stamp: a192, Annotation: asi es
+    Time Stamp: a193, Annotation: hasta ahora ya yo no sé cuanto tiempo  trabajé
+    Time Stamp: a194, Annotation: en plantación
+    Time Stamp: a195, Annotation: en plantación 
+    Time Stamp: a196, Annotation: recogiendo las flores 
+    Time Stamp: a197, Annotation: en esas flores por mucho quimico yo me enferme 
+    Time Stamp: a198, Annotation: los doctores me dijeron ya no ya no muchas pastillas los doctores dijeron ya no
+    Time Stamp: a293, Annotation: yo por consumir tantas pastillas me hice la loca 
+    Time Stamp: a294, Annotation: por no poder tomar las pastillas 
+    Time Stamp: a295, Annotation: por eso me fui donde un doctor particular 
+    Time Stamp: a296, Annotation: el doctor particular me recomendo  que tomara ese dulce 
+    Time Stamp: a297, Annotation: tu ertes persona de que campo por lo tanto debes de tener pencos 
+    Time Stamp: a298, Annotation: ve y has eso y bebelo 
+    Time Stamp: a299, Annotation: en verdad era el doctor po doctor poo
+    Time Stamp: a300, Annotation: me fui donde el doctor y después que vine aqui ya no me fui al trabajo 
+    Time Stamp: a301, Annotation: despues vine del trabajo y sali 
+    Time Stamp: a302, Annotation: ya empece a sacar el dulce  yo mismo 
+    Time Stamp: a303, Annotation: ya desde entonces enpece recogiendo 
+    Time Stamp: a304, Annotation: con ese dulce dios bendito 
+    Time Stamp: a305, Annotation: me sane 
+    Time Stamp: a306, Annotation: me sane 
+    Time Stamp: a307, Annotation: de ahí yo 
+    Time Stamp: a308, Annotation: ya en particular ya dije tanto dulce que hare, yo sola no podia beber tanto 
+    Time Stamp: a309, Annotation: en vasos de ahí me fui a vender 
+    Time Stamp: a310, Annotation: mas fuera 
+    Time Stamp: a311, Annotation: saque yo 
+    Time Stamp: a312, Annotation: el dulce 
+    Time Stamp: a313, Annotation: yo vendía yo vendía por alla vendía yo 
+    Time Stamp: a314, Annotation: solia ir hasta Tumbaco 
+    Time Stamp: a315, Annotation: pero yo con la venta y en la casa 
+    Time Stamp: a316, Annotation: gracias papasito , diosito mi cimpañero Wilian 
+    Time Stamp: a317, Annotation: mi compañero wilian le ha a comucado 
+    Time Stamp: a318, Annotation: a mis ingenieros
+    Time Stamp: a319, Annotation: aa lo que estuvo andando le rrogue que a mi también me una  a ellos 
+    Time Stamp: a320, Annotation: ya que yo tengo dulce por dios 
+    Time Stamp: a321, Annotation: por eso el compañero Wilian me unió al grupo 
+    Time Stamp: a322, Annotation: el lo comunico y por eso al compañero dios le pague 
+    Time Stamp: a323, Annotation: estoy andando contento 
+    Time Stamp: a324, Annotation: contento saxcando este dulce 
+    Time Stamp: a325, Annotation: aaa ahora estamos solo nosotras  entre cuatro personas sdomos socios y estamos entregando 
+    Time Stamp: a326, Annotation: entre cuatro personas 
+    Time Stamp: a327, Annotation: mm las otras compañeras dicen 
+    Time Stamp: a328, Annotation: lo que dijeron los compañeros 
+    Time Stamp: a329, Annotation: mmmmm
+    Time Stamp: a330, Annotation: que han venido unos mishus 
+    Time Stamp: a331, Annotation: y entablamos dialogo
+    Time Stamp: a411, Annotation: despues de ese dialogo  las otras compañeras
+    Time Stamp: a412, Annotation: dijeron que iban a ingresar 
+    Time Stamp: a413, Annotation: ahí no ´se nuestro compañero
+    Time Stamp: a414, Annotation: estuvo diciendo mm hoy estuvo habalndo
+    Time Stamp: a415, Annotation: hasta  
+    Time Stamp: a416, Annotation: dos meses 
+    Time Stamp: a417, Annotation: que no recojamos el dulce
+    Time Stamp: a418, Annotation: por eso nuestra preucupación 
+    Time Stamp: a419, Annotation: estabamos preucupados por el que ibamos hacer con el dulce, donde podemos ir a vender  
+    Time Stamp: a420, Annotation: pero se pierde el tiempo 
+    Time Stamp: a421, Annotation: en casa 
+    Time Stamp: a422, Annotation: aaaa
+    Time Stamp: a424, Annotation: ya lo que se viene recogiendo vienen a llevar 
+    Time Stamp: a425, Annotation: en el carro
+    Time Stamp: a426, Annotation: entonces entregando nos vamos a casa 
+    Time Stamp: a427, Annotation: ya se puede hacer de todo en  casa 
+    Time Stamp: a428, Annotation: ahora estamos con gran preucupación  ya que dicen que solo hasta vierne saquemos el dulce 
+    Time Stamp: a429, Annotation: por eso estamos andando preucupados 
+    Time Stamp: a430, Annotation: en donde no mas se podria ir a vender 
+    Time Stamp: a431, Annotation: de llevar si llevaran  pero da verguenza de estar andando nuevamente 
+    Time Stamp: a432, Annotation: para entregar 
+    Time Stamp: a433, Annotation: noo tiempo no hay, si de repente hay tiempo 
+    Time Stamp: a434, Annotation: mmmmm en la madrugada se recoge  en  la madrugada como siempre se recoge 
+    Time Stamp: a435, Annotation: al medio día si de repente hay tiempo se lo recoge 
+    Time Stamp: a436, Annotation: si de repente no hay tiempo no se lo recoge 
+    Time Stamp: a437, Annotation: dos, dos veces al día 
+    Time Stamp: a438, Annotation: se recoge 
+    Time Stamp: a439, Annotation: aaa este este
+    Time Stamp: a440, Annotation: este 
+    Time Stamp: a441, Annotation: esa es mi planta 
+    Time Stamp: a442, Annotation: mmm es mi planta, lo bueno es que me ayuda mi esposo 
+    Time Stamp: a443, Annotation: por eso tengo miedo de raspar, uno de mis compañeros   no lo hace de esa manera   por lo que sabemos 
+    Time Stamp: a444, Annotation: nosotros aaaa
+    Time Stamp: a445, Annotation: ese raspado 
+    Time Stamp: a446, Annotation: mucho le sacan los (gabazos )
+    Time Stamp: a447, Annotation: entonces no ha sido de sacar tanto gabazo  así 
+    Time Stamp: a448, Annotation: naaa
+    Time Stamp: a449, Annotation: apeñas el polon (el orificio del agave le raspan ) ha sido de limpiar 
+    Time Stamp: a450, Annotation: de ahí el bagazo es de llevar al chancho 
+    Time Stamp: a451, Annotation: nosotros por no saber  ahí lo dejabamos botado, asi mi esposo me ha ayudado 
+    Time Stamp: a452, Annotation: el le raspa mucho el polon y los bagazos tiene amontonado ahí 
+    Time Stamp: a453, Annotation: ayudando mi esposo 
+    Time Stamp: a454, Annotation: pero si yo me vengo apenitas le limpio el polon 
+    Time Stamp: a455, Annotation: asi es el manejo de las plantas lo que se sabe hoy 
+    Time Stamp: a456, Annotation: y lo que nosotros crecimos con nuestras abuelas muy grandes lo que de la gana se raspaba
+    Time Stamp: a457, Annotation: ahora que se sabe no ha sido asi, gracias a dios ese trabajito nos mantiene contentos 
+    Time Stamp: a458, Annotation: andamos 
+    Time Stamp: a459, Annotation: mmmm
+    Time Stamp: a460, Annotation: eso hace tiempos ha de ser, este trabajo no había 
+    Time Stamp: a461, Annotation: nooo 
+    Time Stamp: a462, Annotation: aaa
+    Time Stamp: a463, Annotation: del agabde solo el agua es lo que se recoge 
+    Time Stamp: a464, Annotation: solo el agua es lo que recogemos nosotros 
+    Time Stamp: a465, Annotation: los de afuera 
+    Time Stamp: a466, Annotation: sabiendo de todo ha de ser de aprovechar  asi mmm 
+    Time Stamp: a560, Annotation: los compañeros estan hablando 
+    Time Stamp: a561, Annotation: antes eran los zapatos de siete vida 
+    Time Stamp: a562, Annotation: zapatos de caucho dicho siete vidas
+    Time Stamp: a563, Annotation: mmm no eso 
+    Time Stamp: a564, Annotation: eso si no lo he visto 
+    Time Stamp: a565, Annotation: para que voy a mentir yo no puedo mentir 
+    Time Stamp: a566, Annotation: solo y mas el agua es lo que he cojido 
+    Time Stamp: a567, Annotation: con mi abuelita el agua mm m
+    Time Stamp: a568, Annotation: ese tiempo 
+    Time Stamp: a569, Annotation: ahora ahora en casa 
+    Time Stamp: a570, Annotation: el agua, en ese tiempo no había ni luz ni agua 
+    Time Stamp: a571, Annotation: no hubo 
+    Time Stamp: a572, Annotation: así nosotros, aqui mi padre y mi abuela  que en paz descanse mm vivieron 
+    Time Stamp: a573, Annotation: en aqui de la quebrada 
+    Time Stamp: a574, Annotation: desde las tres de la mañana soliamos ir  cargar el agua 
+    Time Stamp: a575, Annotation: ni luz no había ahora es luz y todo 
+    Time Stamp: a576, Annotation: hay los alumbrados publicos 
+    Time Stamp: a577, Annotation: nosotros no, nosotros no hemos crecido con eso 
+    Time Stamp: a578, Annotation: no hemos crecido nosotros asi, mientras que nuestros hijos son como ya hecho los mestizos 
+    Time Stamp: a579, Annotation: nooo noo no conocen esa categoria  no conocen 
+    Time Stamp: a580, Annotation: yo pobre sufriendo las leñas he venido cargando desde esa loma 
+    Time Stamp: a582, Annotation: chilka espina 
+    Time Stamp: a583, Annotation: dicho morlan 
+    Time Stamp: a584, Annotation: dicho purga esos eran nuestras leñas 
+    Time Stamp: a585, Annotation: este era este cabuyo , la planta de penco ya terminado el dulce 
+    Time Stamp: a586, Annotation: eso es lo que nosotros le leñabamos 
+    Time Stamp: a587, Annotation: le reuniamos la leña  de cabuyu, esta erta el patio de leña 
+    Time Stamp: a588, Annotation: mjm 
+    Time Stamp: a589, Annotation:  para cocinar en casa de paja  de ahí le pusieron alla hicieron otra casa mi papasito 
+    Time Stamp: a642, Annotation: ya en cambio nosotras vivimos en la casa de teja 
+    Time Stamp: a643, Annotation: yo soy de aqui 
+    Time Stamp: a644, Annotation: de aqui de aqui 
+    Time Stamp: a645, Annotation: de este puesto
+    Time Stamp: a646, Annotation: de la quebrada 
+    Time Stamp: a647, Annotation: esa es la cascada hombre 
+    Time Stamp: a648, Annotation: esa es mira, este mira 
+    Time Stamp: a649, Annotation: esa es la cascada hombre
+    Time Stamp: a650, Annotation: esta es la cascada mujer 
+    Time Stamp: a651, Annotation: a aa
+    Time Stamp: a652, Annotation: esa es la cascada mujer 
+    Time Stamp: a653, Annotation: en ahí  aaa
+    Time Stamp: a654, Annotation: dicen que ahí en frente  han muerto mucha gente cayendose 
+    Time Stamp: a655, Annotation: en esa quebrada 
+    Time Stamp: a656, Annotation: porque seráaa
+    Time Stamp: a657, Annotation: solian morirse rrevolcandose
+    Time Stamp: a658, Annotation: asi es se murieron mucha genete en esa quebrada 
+    Time Stamp: a659, Annotation: se botaron desde esa ladera 
+    Time Stamp: a720, Annotation: m mm yo ahí 
+    Time Stamp: a721, Annotation: yo solía tener chita ahí 
+    Time Stamp: a722, Annotation: de esa ladera se podía botarse, a esa ladera solía irme  pero uno de esos casi me ahí para bajo 
+    Time Stamp: a723, Annotation: de ahí se botaba
+    Time Stamp: a724, Annotation: con las cbras 
+    Time Stamp: a725, Annotation: m mmm 
+    Time Stamp: a726, Annotation: solia ir a pie y por esas cosas a esa quebrada ya nunca nos vamos 
+    Time Stamp: a727, Annotation: mmm por aqui se van a dar vuelta
+    Time Stamp: a728, Annotation: por ahí hay un camino 
+    Time Stamp: a729, Annotation: de ahí se debe salir por alla 
+    Time Stamp: a730, Annotation: mmmm
+    Time Stamp: a731, Annotation: a nosostros mi abuela y mi padre me decían asi de ahí si no sé porque es que decian así cascada hombre  
+    Time Stamp: a732, Annotation: aaa peee los nombres eso es lo que tiene, en esa loma esta una piedra  esa se llama yuruk rrumi (piedra blanca )
+    Time Stamp: a733, Annotation: yuruk rrumi (piedra blanca )
+    Time Stamp: a734, Annotation: esa lo de atras  que esta viniendo es  oveja, siguiendo ese camino   hay una laguna 
+    Time Stamp: a735, Annotation: es payla kocha
+    Time Stamp: a736, Annotation: de ahí solo ahí hay una vertiente de ahí es que nosotros comemos  de esa vertiente 
+    Time Stamp: a737, Annotation: en esa cascada, ese laguna de payla, en ahí hay una vertiente 
+    Time Stamp: a738, Annotation: de ahí es lo que comemos, esa agua de la vertiente comemos de esa cascada hombre 
+    Time Stamp: a739, Annotation: nooo lo de frente
+    Time Stamp: a740, Annotation: mmmmm
+    Time Stamp: a741, Annotation: San Carlos
+    Time Stamp: a742, Annotation: es San Carlos asi se llaman y así decían nuestros mayores 
+    Time Stamp: a743, Annotation: mmmmm
+    Time Stamp: a744, Annotation: yo he escuchado 
+    Time Stamp: a745, Annotation: yo mmmm desde que tengo razón, eso es lo que he escuchado San Carlos
+    Time Stamp: a746, Annotation: este es tukta pamba marquito 
+    Time Stamp: a747, Annotation: pamba marquito
+    Time Stamp: a748, Annotation: eso yo ya así
+    Time Stamp: a749, Annotation: he escuchado así he crecido con dulce, leñas y con ovejas 
+    Time Stamp: a750, Annotation: con kuyes, chanchos he crecido  yo 
+    Time Stamp: a751, Annotation: mmm entonces de ahí arriba en cambio 
+    Time Stamp: a752, Annotation: mmm
+    Time Stamp: a753, Annotation: censo hacienda se llama 
+    Time Stamp: a754, Annotation: yo ahí es que he trabajado cuando era pequeña por el trabajo es que andaba por ahí 
+    Time Stamp: a755, Annotation: aja en las haciendas  o si no  en frente en esas lomas  andaba trabajando cuando era niña 
+    Time Stamp: a802, Annotation: nooo
+    Time Stamp: a803, Annotation: en loq eu es de cortar la cebada 
+    Time Stamp: a804, Annotation: lo de rharar  las papas 
+    Time Stamp: a805, Annotation: mmmm en ahí es lo que he andado así 
+    Time Stamp: a806, Annotation: trabajando sufriendo hemos andado muy duro 
+    Time Stamp: a807, Annotation: así hemos crecido 
+    Time Stamp: a808, Annotation: asi he crecido y asi creciendo,.. mi espose es de alla
+    Time Stamp: a809, Annotation: entre vecinos nos hemos casado 
+    Time Stamp: a810, Annotation: m mm mi esposo es de ahí 
+    Time Stamp: a811, Annotation: es vecino 
+    Time Stamp: a812, Annotation: nos casamos y así vivimos 
+    Time Stamp: a813, Annotation: de ahí yaaa yo yaaa mis hijos yaaaa ahora yaaa
+    Time Stamp: a814, Annotation: en mis terrenos sin trabajar 
+    Time Stamp: a815, Annotation: nosotros entre esposos sin entendernos  me fui a las plantaciones de flores y en ahí me enferme 
+    Time Stamp: a816, Annotation: hasta mientras todos los terrenos estan sin  sembrar 
+    Time Stamp: a836, Annotation: estaba  botadas, ahora recientemente  removimos la tierra con un tractor y sembraremos cevada
+    Time Stamp: a837, Annotation: ya lo que esta creciendo, ando contenta
+    Time Stamp: a838, Annotation: asi este
+    Time Stamp: a839, Annotation: así nuestra historia de Pamba Marquito no hubo
+    Time Stamp: a840, Annotation: yo no he estediado, no mucho
+    Time Stamp: a860, Annotation: segundo o primer grado creo lo termine
+    Time Stamp: a861, Annotation: en la lomaaa noooo, nosotros no hemos estudiadon en la escuela nosotros,
+    Time Stamp: a862, Annotation: nosotros hemos estuidado en casa particularmente
+    Time Stamp: a863, Annotation: hemos estudiado arrendando espacio ya que en ese tiempo no hubo escuela. 
+    Time Stamp: a864, Annotation: no hubo en ese entonces pero ahora si hay todo escuela
+    Time Stamp: a865, Annotation: escuela hasta
+    Time Stamp: a878, Annotation: hasta tercero solo hasta ahí hay aqui de ahí el colegio se  van a fuera
+    Time Stamp: a886, Annotation: a Oton a Cayambe  (.....) se van
+    Time Stamp: a887, Annotation: mmm 
+    Time Stamp: a967, Annotation: es parroquia Oton
+    Time Stamp: a968, Annotation: mm parroquia Oton mmm
+    Time Stamp: a969, Annotation: ahí nuestra ahí esta nuestra casa
+    Time Stamp: a970, Annotation: ya nuestro cementerio
+    Time Stamp: a971, Annotation: allá vamos
+    Time Stamp: a972, Annotation: asi es nos vamos en finados, dias grandes
+    Time Stamp: a973, Annotation: nos vamos
+    Time Stamp: a974, Annotation: pero ya ya ya este
+    Time Stamp: a975, Annotation: los presidentes estan proyectando ya ojala
+    Time Stamp: a976, Annotation: espero que los compañeros lo ayuden
+    Time Stamp: a977, Annotation: de ahí para que el cementerio solo este en Pamba Marquito
+    Time Stamp: a978, Annotation: asi estan hablando
+    Time Stamp: a979, Annotation: así cada sector ahí estan en dialogo nuestros compañeros
+    Time Stamp: a980, Annotation: tenemos  este
+    Time Stamp: a981, Annotation: mm aa a si para tener cerca aqui mismo en pamba marquito
+    Time Stamp: a982, Annotation: mjm asi estan hablamdo
+    Time Stamp: a983, Annotation: eso es lo que escuchamos nosotros
+    Time Stamp: a984, Annotation:  ya ya son mestizos  puro mestizos ya aa
+    Time Stamp: a985, Annotation:  sandía mas la sandia se espera, aqui igual
+    Time Stamp: a986, Annotation: sapallo si sembrara mismo el sapallo
+    Time Stamp: a987, Annotation: sandía en abajo si se sembrara
+    Time Stamp: a988, Annotation: si maduran
+    Time Stamp: a989, Annotation: mmm en elk redondel a si hay
+    Time Stamp: a990, Annotation: aa pero no mucho tiempo recientemente
+    Time Stamp: a991, Annotation: ya es un año o dos años
+    Time Stamp: a992, Annotation: vesina
+    Time Stamp: a993, Annotation: diga
+    Time Stamp: a994, Annotation: no sé a la casa se fue    serio...?
+    Time Stamp: a995, Annotation: hijoles ya se van ya se van 
+    Time Stamp: a996, Annotation: Dany
+    Time Stamp: a997, Annotation: yaya aqui estoy conversando con los compañeros que han venido
+    Time Stamp: a998, Annotation: aaa
+    Time Stamp: a999, Annotation: ya ya
+    Time Stamp: a1000, Annotation: ya vecina, bueno
+    Time Stamp: a1001, Annotation: ya
+    Time Stamp: a1002, Annotation: ya mismo aqui ya acavamos de conversar
+    Time Stamp: a1003, Annotation: ya viene, la señora de ahi ya viene con sus animales
+    Time Stamp: a1004, Annotation:  mmm ahí
+    Time Stamp: a1005, Annotation: aaa por aqui pasa
+    Time Stamp: a1006, Annotation: por aqui ha de querer pasar
+    Time Stamp: a1007, Annotation: aaa
+    Time Stamp: a1008, Annotation: hasta que vengan
+    Time Stamp: a1009, Annotation: (risa)
+    Time Stamp: a1010, Annotation: aaa
+    Time Stamp: a1011, Annotation: mi yerno es de oriente
+    Time Stamp: a1012, Annotation: eso es otro idioma kichwa
+    Time Stamp: a1093, Annotation: el habla pero yo no lo entiendo su kichwa
+    Time Stamp: a1094, Annotation:  el vive en Quinche, no vive aqui
+    Time Stamp: a1095, Annotation: si con mi hija
+    Time Stamp: a1096, Annotation: es orientano
+    Time Stamp: a1097, Annotation: alla viene vea
+    Time Stamp: a1098, Annotation: en alla hay ganados
+    Time Stamp: a1099, Annotation: ya es es de otro señor 
+    Time Stamp: a1100, Annotation: si 
+    Time Stamp: a1101, Annotation: esta zona hacienda
+    Time Stamp: a1102, Annotation: hacienda censo hacienda
+    Time Stamp: a1103, Annotation: si  censo 
+    Time Stamp: a1104, Annotation: ya si este es todo hacienda ya es de censo 
+    Time Stamp: a1105, Annotation: de aqui si de hay desde aqui esto ya es de ya cada quien se parcela 
+    Time Stamp: a1106, Annotation: este
+    Time Stamp: a1224, Annotation: tzawar
+    Time Stamp: a1225, Annotation: tzawar tzawar tzawar
+    Time Stamp: a1226, Annotation: tzawar 
+    Time Stamp: a1227, Annotation: tzawar  tzawar 
+    Time Stamp: a1228, Annotation: las mayores dicen tzawar
+    Time Stamp: a1229, Annotation:  nosotros en cambio en castellano decimos penco
+    Time Stamp: a1230, Annotation: asi 
+    Time Stamp: a1231, Annotation: aaa vamos para ver pero te has de asustar ya que viene mi esposo
+    Time Stamp: a1232, Annotation: para raspar la piel le saca
+    Time Stamp: a1233, Annotation: vamos para observar
+    Time Stamp: a1234, Annotation: ya ya ya viene 
+    Time Stamp: a1235, Annotation: yo aún no todavía aun no he comprado las ovejas
+    Time Stamp: a1236, Annotation: yo solo kuy, pollo, cerdo eso es lo que tengo
+    Time Stamp: a1237, Annotation: mm
+    Time Stamp: a1238, Annotation: y 
+    Time Stamp: a1239, Annotation: la oveja de indigenas en la loma de arriba es lo que hay
+    Time Stamp: a1240, Annotation: a ya 
+    Time Stamp: a1241, Annotation: por aqui subiendo se andar
+    Time Stamp: a1242, Annotation: risa 
+    Time Stamp: a1243, Annotation: aqui es mi dulce
+    Time Stamp: a1244, Annotation: este dulce es mi penco
+    Time Stamp: a1245, Annotation: tengo con el plastico para que cuando llueva no ingrese el agua
+    Time Stamp: a1246, Annotation: con el agua nuestros ingenieros ya no reciben
+    Time Stamp: a1247, Annotation: ya ya ya no
+    Time Stamp: a1248, Annotation: ya no reciben el dulce, por eso
+    Time Stamp: a1249, Annotation: mm para proteger al dulce nosotros tenemos tapado con el plastico
+    Time Stamp: a1250, Annotation: mmm 
+    Time Stamp: a1251, Annotation: nn no en medio del corazon no nosotros por ejemplo contamos lo que son las hojas
+    Time Stamp: a1252, Annotation: contando las hojas nosotros realizamos la perforación
+    Time Stamp: a1253, Annotation: asi es nuestra tradicion
+    Time Stamp: a1254, Annotation: hacemos el dulce
+    Time Stamp: a1255, Annotation: mjm 
+    Time Stamp: a1256, Annotation: parea que no ingrese el agua
+    Time Stamp: a1257, Annotation: a que no se haga desabrido nuestro dulce
+    Time Stamp: a1258, Annotation: asi es la tradicion de nosotros
+    Time Stamp: a1259, Annotation: mm  sala medio lechera
+    Time Stamp: a1260, Annotation: ya compo es la mitad de la planta, mitad de la planta
+    Time Stamp: a1261, Annotation: mitad
+    Time Stamp: a1262, Annotation: ya de aqui en un mes yaa
+    Time Stamp: a1263, Annotation: se termina de todo ya no dara el jugo
+    Time Stamp: a1264, Annotation: mmm ya se acaba
+    Time Stamp: a1437, Annotation: nuevo
+    Time Stamp: a1438, Annotation: ya tereminado esto ya como
+    Time Stamp: a1439, Annotation: nuestyro compañero dice que ya en dos meses ya
+    Time Stamp: a1440, Annotation: ya no se debe hacer  ya que debemos esperar a nuestro compañero
+    Time Stamp: a1441, Annotation: se debe esperar hasta segunda orden
+    Time Stamp: a1442, Annotation: en ese momento yo voy a hacer la perforación comprando en otro lado
+    Time Stamp: a1443, Annotation: yo suelo comprar
+    Time Stamp: a1444, Annotation: al dueño del terreno en otro lado compro la planta
+    Time Stamp: a1445, Annotation: para poder entregar el dulce ya que mi hijo esta en la escuela
+    Time Stamp: a1446, Annotation: aunque para ganar centavitos
+    Time Stamp: a1447, Annotation:  mm una planta aqui no es tan caro, no le puedo mentir en vano
+    Time Stamp: a1448, Annotation: mjm 
+    Time Stamp: a1449, Annotation: le digo que me venda
+    Time Stamp: a1450, Annotation:  le hablo diciendio que me venda ya que eso en vano ha de salir el arbol le digo
+    Time Stamp: a1451, Annotation: de gana va salir el arbol
+    Time Stamp: a1452, Annotation: no no, aun no hay plantas por eso suelo hablar que mis abuelitas de todo
+    Time Stamp: a1453, Annotation: han terminado haciendo el dulce yop no tengo casi nada
+    Time Stamp: a1454, Annotation: ya si sembramos nuevamente ojala Dios bendiga
+    Time Stamp: a1455, Annotation: eso
+    Time Stamp: a1456, Annotation: mjm
+    Time Stamp: a1457, Annotation: asi era de todo
+    Time Stamp: a1458, Annotation:  todo estaba lleno de pencos mm asi era antes
+    Time Stamp: a1459, Annotation: mm asi asi es 
+    Time Stamp: a1460, Annotation: asi
+    Time Stamp: a1461, Annotation: asi como vers alla asi mismo era antes
+    Time Stamp: a1462, Annotation: no ve ahí esta asi mismo
+    Time Stamp: a1463, Annotation: las plantas de selva son nosotros no hemos sembrado para que
+    Time Stamp: a1464, Annotation: eso son los que son de lendero
+    Time Stamp: a1465, Annotation: mmm
+    Time Stamp: a1466, Annotation: eso son los linderos linderajes ya puro linderos son esos
+    Time Stamp: a1467, Annotation: mm no sé aHI SI LO QUE ENTIENDO ES QUE TIENEN
+    Time Stamp: a1468, Annotation: lo que ese arbol de chawarquro sale eso
+    Time Stamp: a1469, Annotation: tiene semillas  y lo rriega  yo tampoco he sabido tanto de eso
+    Time Stamp: a1470, Annotation: rrecien me estoy dandome cuenta 
+    Time Stamp: a1472, Annotation: no 
+    Time Stamp: a1473, Annotation: mm 
+    Time Stamp: a1474, Annotation: ya viene, ya viene
+    Time Stamp: a1475, Annotation: ya ya viene mi otra compañera
+    Time Stamp: a1476, Annotation: mm 
+    Time Stamp: a1477, Annotation: a vamos ya miosmo se acerca vamos
+    Time Stamp: a1478, Annotation: para encontrarnos vamos vamos
+    Time Stamp: a1479, Annotation: ya ya viene ahí
+    Time Stamp: a1480, Annotation: ya llega ya llega vamos vamos
+    Time Stamp: a1481, Annotation: mi compañera solia andar diciendo que enpreste el caminito
+    Time Stamp: a1482, Annotation: mmm buenas tardes o buenos dias dice
+    Time Stamp: a1483, Annotation:  si estas andando bien, enpreste el camino
+    Time Stamp: a1484, Annotation: mmm ya esta llegando mi compañera
+    Time Stamp: a1485, Annotation: ella, este comop es mi terreno
+    Time Stamp: a1486, Annotation: ella es la pasa por aqui con los animales
+    Time Stamp: a1487, Annotation: pasa diciendo que enpreste el caminito
+    Time Stamp: a1488, Annotation: pase se dice
+    Time Stamp: a1489, Annotation:  pase vecina le dice
+    Time Stamp: a1490, Annotation: si eso se le dice con cariño
+    Time Stamp: a1491, Annotation: venga aca 
+    Time Stamp: a1492, Annotation: a casa debo de llevar mis animales aaa
+    Time Stamp: a1658, Annotation: aa si estan comiendo alla las ovejas
+    Time Stamp: a1659, Annotation: diez, otro como es que se dice en kichwa como es como es?
+    Time Stamp: a1660, Annotation: uno dos, tres ocho
+    Time Stamp: a1661, Annotation: diez 
+    Time Stamp: a1662, Annotation: diez diez 
+    Time Stamp: a1663, Annotation: tierne cuatro ganados
+    Time Stamp: a1664, Annotation: botaron las botellas
+    Time Stamp: a1665, Annotation: si, tengo tres perros
+    Time Stamp: a1666, Annotation: la de color medio plomo no es mio
+    Time Stamp: a1667, Annotation: no no no es mía
+    Time Stamp: a1668, Annotation: en casa se ha quedado
+    Time Stamp: a1669, Annotation: mm 
+    Time Stamp: a1670, Annotation: asi no mas vamos a casa
+    Time Stamp: a1671, Annotation: vamos señora
+    Time Stamp: a1672, Annotation: no le haras comer la cebada de mío
+    Time Stamp: a1673, Annotation: si no me pagas de la cevada
+    Time Stamp: a1674, Annotation: yo he de cobrar
+    Time Stamp: a1675, Annotation: ya asi no mas nos vamos o esperamos
+    Time Stamp: a1676, Annotation: le adelantamos
+    Time Stamp: a1677, Annotation: para coger el dulce se hace tarde
+    Time Stamp: a1678, Annotation: no traje el balde de dulce para recogerlo aqui mismo
+    Time Stamp: a1679, Annotation: no sabía, no he pensado
+    Time Stamp: a1680, Annotation: ayy sali pues
+    Time Stamp: a1681, Annotation: estuve haciendo el molido de trigo
+    Time Stamp: a1682, Annotation: se debe de amarrar
+    Time Stamp: a1683, Annotation: si 
+    Time Stamp: a1684, Annotation: si 
+    Time Stamp: a1685, Annotation: para que no le pegue al bebe
+    Time Stamp: a1686, Annotation: si hay ladrones 
+    Time Stamp: a1687, Annotation: ladron de ganados
+    Time Stamp: a1688, Annotation: por eso debemos asegurar en el corral
+    Time Stamp: a1689, Annotation: ese joven por eso a traido a los ganados
+    Time Stamp: a1690, Annotation: pero no le enpresto el camino
+    Time Stamp: a1691, Annotation: el es un joven callado
+    Time Stamp: a1692, Annotation: ya va llover 
+    Time Stamp: a1693, Annotation: (.....................................)
+    Time Stamp: a1694, Annotation: eso es de Otavalo
+    Time Stamp: a1695, Annotation: vea
+    Time Stamp: a1696, Annotation: jovensita
+    Time Stamp: a1697, Annotation: cuanto quieres ganar
+    Time Stamp: a1698, Annotation: si come 
+    Time Stamp: a1699, Annotation: me da pereza dice
+Speaker: B
+  Tier Type: dt, Annotations Count: 186
+    Time Stamp: a123, Annotation: comunidad pampa marquito 
+    Time Stamp: a124, Annotation: ñuka ñuka nombremi 
+    Time Stamp: a125, Annotation: Rosa alimeyco
+    Time Stamp: a127, Annotation: Laura chiquimba 
+    Time Stamp: a128, Annotation: aja shina apellido cobacango rojas 
+    Time Stamp: a129, Annotation: chiquimba
+    Time Stamp: a130, Annotation: tukuy nom apellidukuna tyan 
+    Time Stamp: a132, Annotation: aaa ñuka kaypi nacirkani ñuka kaypi
+    Time Stamp: a133, Annotation: kaypi kaypi 
+    Time Stamp: a134, Annotation: kaypi 
+    Time Stamp: a135, Annotation: kay atsilpi 
+    Time Stamp: a136, Annotation: wasitaka ñukanchi alpata alpata 
+    Time Stamp: a137, Annotation: tractorachingapak wasita ña carreterata llukchingapa ñukanchi wasita ruku wasita ña shitarkanchi
+    Time Stamp: a138, Annotation: na nipi na tyarka
+    Time Stamp: a139, Annotation: alpa wasi teja wasi 
+    Time Stamp: a141, Annotation: kaypi kaypi kaypi
+    Time Stamp: a142, Annotation: MM chaypi
+    Time Stamp: a143, Annotation: kutin shuk wasi kaypi shuk wasi puro uksha wasi tyan karka 
+    Time Stamp: a144, Annotation: chay apenas yarini chaytaka 
+    Time Stamp: a145, Annotation: apenas apenas
+    Time Stamp: a146, Annotation: ñuka ñuka
+    Time Stamp: a147, Annotation: wiñashka kani
+    Time Stamp: a148, Annotation: ñuka abuelita difunta presentacion lemayco
+    Time Stamp: a149, Annotation: paymi ñukata wiñachishka ñuka mama
+    Time Stamp: a150, Annotation: sakishpa rishka
+    Time Stamp: a151, Annotation: mmm nueve mesesta charishkani
+    Time Stamp: a152, Annotation: sakisha ñuka mama wañushka
+    Time Stamp: a153, Annotation: wañusha enton ña ñuka abuelita ña 
+    Time Stamp: a154, Annotation: como mama wiñachishka
+    Time Stamp: a155, Annotation: ñukata
+    Time Stamp: a156, Annotation: na viudami
+    Time Stamp: a157, Annotation: aa ñuka taytawan ñuka abuelitawan ñuka wiñarkani
+    Time Stamp: a158, Annotation: chaymanta kay alpaka na rikun casi casi
+    Time Stamp: a160, Annotation: tsawarta na ña na rikunchi porque ñukanchi abuelita 
+    Time Stamp: a161, Annotation: ñukanchitaka puro mishki wiñachirka
+    Time Stamp: a162, Annotation: puro mishki puro mishki
+    Time Stamp: a163, Annotation: ufiangapaklla
+    Time Stamp: a164, Annotation: ufiangapaklla ufiangapaklla
+    Time Stamp: a165, Annotation: warankuta
+    Time Stamp: a166, Annotation: veinte matakamanmi ruran karka
+    Time Stamp: a167, Annotation: warankuta veinte yurakaman 
+    Time Stamp: a168, Annotation: veinte yura de
+    Time Stamp: a169, Annotation: tsawarta rukarka 
+    Time Stamp: a170, Annotation: mishkita
+    Time Stamp: a171, Annotation: kay toc chay chay shina rikunchi shina shina
+    Time Stamp: a172, Annotation: chay tukuyta ñukanchi mishkita tukuchirkanchi
+    Time Stamp: a173, Annotation: ñukanchi wiñashkakanchi puro mishki
+    Time Stamp: a174, Annotation: puro waranko
+    Time Stamp: a175, Annotation: puro puro arroz cebada
+    Time Stamp: a176, Annotation: mikushpa kawsarkanchi ñukanchi
+    Time Stamp: a177, Annotation: shina kashpa shina wiñarkanchi gracias
+    Time Stamp: a178, Annotation: asi como dice en castellano gracias por mis abuelitas
+    Time Stamp: a180, Annotation: eso es
+    Time Stamp: a181, Annotation: entonces ñuka ñuka
+    Time Stamp: a182, Annotation: chay makita japishka
+    Time Stamp: a183, Annotation: ñuka 
+    Time Stamp: a184, Annotation: mishkita mishkita rurani warankuta rurani
+    Time Stamp: a185, Annotation: yaku ña horaska vasota japishpa upiani ñukallata ñuka suegramanpash asuwata karani
+    Time Stamp: a186, Annotation: yarki horaspash
+    Time Stamp: a187, Annotation: upiakuni vasowata
+    Time Stamp: a188, Annotation: ña chay ña wiksata ña 
+    Time Stamp: a2066, Annotation: plato de mikuna mikushpa
+    Time Stamp: a2070, Annotation: ña vaso warankuwan ña viksa jundan
+    Time Stamp: a189, Annotation: chay ñuka na ña na arroztaka na yuyarin 
+    Time Stamp: a192, Annotation: shinami
+    Time Stamp: a193, Annotation: kunankaman ña ñuka shina ñuka ña cuantos tiempota trabajarkani
+    Time Stamp: a194, Annotation: plantacionbi
+    Time Stamp: a195, Annotation: plantacionbi 
+    Time Stamp: a196, Annotation: sisata pallashpa
+    Time Stamp: a197, Annotation: chay sisa tanto quimico ñuka ungurkani
+    Time Stamp: a198, Annotation: doctorkuna nirka ña na ñuka ña na tanto pastillata doctorkuna na
+    Time Stamp: a293, Annotation: ñuka ña tanto pastillasta chapash ña loka tukurkani
+    Time Stamp: a294, Annotation: pastillata na upiana ushashpa
+    Time Stamp: a295, Annotation: chaymanta doctor particularman rirkani
+    Time Stamp: a296, Annotation: doctor particular recomendarka kay mishkita ri upiay
+    Time Stamp: a297, Annotation: kanka gente campomi kanki kanka tsaw tsawarta charinkimi
+    Time Stamp: a298, Annotation: ri chayta ruray upiay
+    Time Stamp: a299, Annotation: cierto doctor po doctor po
+    Time Stamp: a300, Annotation: doctor po ta uish ñuka shamushpa trabajumanta llukshishpa ña na rirkani trabajoman
+    Time Stamp: a301, Annotation: shamushpa trabajumanta llukshishpa
+    Time Stamp: a302, Annotation: ña mishkita ruray rurarkani ñuka ñuka rurashpa
+    Time Stamp: a303, Annotation: mishkitaka japi jatarirkani
+    Time Stamp: a304, Annotation: chay mishkiwanmi Dios bendito
+    Time Stamp: a305, Annotation: curarkani
+    Time Stamp: a307, Annotation: chaymanta ñuka ña
+    Time Stamp: a308, Annotation: ña particular ña tanto mishkitaka  imata rurasha nirkani ña ñukalla na usharkani ni upiangapak
+    Time Stamp: a309, Annotation: vasowan vasowan chaymanta ñuka ña llukshirkani ña jatungapak
+    Time Stamp: a310, Annotation: mas fuera
+    Time Stamp: a311, Annotation: llukchirkani ñuka
+    Time Stamp: a312, Annotation: mishkita 
+    Time Stamp: a313, Annotation: ñukami jaturkani chaypimi jatujurkanimi ñuka
+    Time Stamp: a314, Annotation: ri karkani hasta tumbacokaman 
+    Time Stamp: a315, Annotation: pero ñuka mishki jatu y wasipi
+    Time Stamp: a316, Annotation: gracias papasito Diosito ñuka compañero wiliian
+    Time Stamp: a317, Annotation: ñuka compañero wilian villachishka
+    Time Stamp: a318, Annotation: ñuka ingenierokunapa
+    Time Stamp: a319, Annotation: aaa purijukpisha villachikpi ñuka rugarkani payta por Dios mingachiway ñukatapash 
+    Time Stamp: a320, Annotation: chay mishkita ñuka charini por Dios
+    Time Stamp: a321, Annotation: chaymi ñuka compañero wilian mingachiparka
+    Time Stamp: a322, Annotation: villachiparka chaymanta ñuka compañero Dios le pague
+    Time Stamp: a323, Annotation: purikuni contento
+    Time Stamp: a324, Annotation: contento kay mishkiwata llukchishpa
+    Time Stamp: a325, Annotation: kunan ñukanchillami kanchi cuatro chusku personas ñukanchi ña tukuchirkanchi ña entregajunchi
+    Time Stamp: a326, Annotation: chushku persona
+    Time Stamp: a327, Annotation: mmm kayshuk compañerakunami nin 
+    Time Stamp: a328, Annotation: kutin compañerokuna nirka 
+    Time Stamp: a330, Annotation: shuk mishukuna shamurka 
+    Time Stamp: a331, Annotation: chay parlachirkanchi
+    Time Stamp: a411, Annotation: chay parlachikpimi compañera shuk compañerokunami
+    Time Stamp: a412, Annotation: kutin ingresashun nirka 
+    Time Stamp: a413, Annotation: chay kutin si ñukanchi compañero
+    Time Stamp: a414, Annotation: nikurka mmm parlakurka 
+    Time Stamp: a416, Annotation: ishay killakaman 
+    Time Stamp: a417, Annotation: na na pallashun nin mishkita 
+    Time Stamp: a418, Annotation: chaymanta ñukanchi pina kanchi
+    Time Stamp: a419, Annotation: pina mishkita imata rurashun mayman kutin claro jatungapa ri rin
+    Time Stamp: a420, Annotation: pero tiempo tiempo perderin 
+    Time Stamp: a421, Annotation: wasipi
+    Time Stamp: a424, Annotation: ña pallangapak shamun ña apangapak shamun 
+    Time Stamp: a425, Annotation: autopi
+    Time Stamp: a426, Annotation: chayka ña entregashpa ña wasiman ña rinchi
+    Time Stamp: a427, Annotation: ña tukuyta rurarin wasipi
+    Time Stamp: a428, Annotation: kunan kunan ña jatun pina vierneskamanllami pallashun ninajun mishkita 
+    Time Stamp: a429, Annotation: chaymi apena purinajunchi
+    Time Stamp: a430, Annotation: maypi maypi jaturingapak kutin
+    Time Stamp: a431, Annotation: apaytaka apan pero ña kutinlla pingañangamari purinkapak
+    Time Stamp: a432, Annotation: entregangapak ña
+    Time Stamp: a433, Annotation: na tiempo na tyan de repente tiempo tyakpika 
+    Time Stamp: a434, Annotation: mmmm magrugadupash pallarin madrugado como siempre pallarin 
+    Time Stamp: a435, Annotation: chawpi punlla de repente tiempo tyakpika pallarin
+    Time Stamp: a436, Annotation: de repente na tiempo tyakpika na pallarin 
+    Time Stamp: a437, Annotation: ishkay ishakay viaje punlla
+    Time Stamp: a438, Annotation: pallarin
+    Time Stamp: a439, Annotation: aaa chay chay
+    Time Stamp: a440, Annotation: chay
+    Time Stamp: a441, Annotation: chaymi ñuka yura
+    Time Stamp: a442, Annotation: mmm ñuka yura antes ñuka kusami ayudan ñuka kusami ayudan
+    Time Stamp: a443, Annotation: chaymari aspinka manchanayta aspin ñukanchi compañero kutin nina shina aspina kisha kunan yachakpika
+    Time Stamp: a444, Annotation: ñukanchi aaa
+    Time Stamp: a445, Annotation: chay aspi
+    Time Stamp: a446, Annotation: manchanayta llukchishpa gasokunata
+    Time Stamp: a447, Annotation: chayka na shina kisha llukchingapa bagazokunata shinaka 
+    Time Stamp: a448, Annotation: na
+    Time Stamp: a449, Annotation: apenas pulunwatami limpiachina kashkanchi
+    Time Stamp: a450, Annotation: chaymanta chay bagazotaka kuchiman apana kashka
+    Time Stamp: a451, Annotation: ñukanchika na yachay queda shitanchi queda shitashka shina ñuka kusa aydashka kan
+    Time Stamp: a452, Annotation: pay bagazotaka ashta chashpa pobre polontaka aspishpa chaypi montonashpa charin
+    Time Stamp: a453, Annotation: ñuka kusa ayudashpa
+    Time Stamp: a454, Annotation: pero ñuka shamushpaka apenas limpiachini polonwata 
+    Time Stamp: a455, Annotation: shinami manejo de yurakunataka kashka kunan yachakpi ñukanchik kutin
+    Time Stamp: a456, Annotation: ñukanchi abuelitakunawan viñashkaka kutin jatun o que de la gana chay aspirin 
+    Time Stamp: a457, Annotation: kunan yachakpika na shinaka kashka shina shina shina chay trabajuwa Dios Dios Dios le pague chay trabajuwata contento 
+    Time Stamp: a458, Annotation: purinajunchi
+    Time Stamp: a460, Annotation: chayka hace imacha tiempokunaka kay trabajuka na tyarishkaka
+    Time Stamp: a463, Annotation: tsawarmantaka solo yakukullata pallana
+    Time Stamp: a464, Annotation: yakukullata pallanchi ñukanchika 
+    Time Stamp: a465, Annotation: chaymanta
+    Time Stamp: a466, Annotation: yachakpika tukuymi tikishun shina
+    Time Stamp: a560, Annotation: compañerokuna parlachikun
+    Time Stamp: a561, Annotation: puntaka zapatos siete vida
+    Time Stamp: a562, Annotation: zapatos de caucho siete vida nishka
+    Time Stamp: a563, Annotation: mmmm na chay
+    Time Stamp: a564, Annotation: chayta si na chapashkanichu
+    Time Stamp: a565, Annotation: imapata deganaka llullasha na ushanichu
+    Time Stamp: a566, Annotation: solo y mas yakutami japishkani
+    Time Stamp: a567, Annotation: ñukanchi abuelitaka yakuta mm
+    Time Stamp: a568, Annotation: chay tiempoka
+    Time Stamp: a569, Annotation: kunan kunanmi wasipi
+    Time Stamp: a570, Annotation: yakupash chay tiempoka na ni micha ni yaku 
+    Time Stamp: a571, Annotation: na tyarka
+    Time Stamp: a572, Annotation: shina ñukanchika ñukanchi kaypi ñuka papasito ñuka abuelita que en paz descanse mmm kawsashka kan
+    Time Stamp: a573, Annotation: kayllapika waycumanta
+    Time Stamp: a574, Annotation: las tres de la mañana aparishka purin karkanchi ñukanchi yakuta 
+    Time Stamp: a575, Annotation: micha na tyan karka kunanmi micha todo
+    Time Stamp: a576, Annotation: alumbrado publicokuna tyan
+    Time Stamp: a577, Annotation: ñukanchika na ñukanchika na viñashka kanchikchu chaykunawanka
+    Time Stamp: a578, Annotation: na viñashkanchi ñukanchika ñukanchi churikuna ñukanchi churikunaka ña mishuyashka mari 
+    Time Stamp: a579, Annotation: na na riksin chay categoriataka na riksin
+    Time Stamp: a580, Annotation: ñuka pobre lastima yantakunata chay lomakunamanta aparishpa shamushkani
+    Time Stamp: a582, Annotation: chilka kasha
+    Time Stamp: a583, Annotation: morlan nishka
+    Time Stamp: a584, Annotation: purga nishka chaykunami ñukanchi yanta 
+    Time Stamp: a585, Annotation: chay karka cabuyu mm ña chay tswar  yura mishki tukurishka
+    Time Stamp: a586, Annotation: chaytami kutin ashta ñukanchika yanta karkanchi
+    Time Stamp: a587, Annotation: cabuyu yantatami muntuna karkanchi kaymi patio de yanta karka 
+    Time Stamp: a588, Annotation: mmmm
+  Tier Type: mb, Annotations Count: 187
+    Time Stamp: a123, Annotation: comunidad pamba marqu-ito
+    Time Stamp: a124, Annotation: ñuka ñuka nombre-mi
+    Time Stamp: a125, Annotation: rosa alimeyco
+    Time Stamp: a126, Annotation: None
+    Time Stamp: a127, Annotation: laura chiquimba 
+    Time Stamp: a128, Annotation: aja shina apellido cobacango rojas 
+    Time Stamp: a129, Annotation: chiquimba
+    Time Stamp: a130, Annotation: tukuy nom apellidu-kuna tyan 
+    Time Stamp: a132, Annotation: aaa ñuka kay-pi naci-rka-ni ñuka kay-pi 
+    Time Stamp: a133, Annotation: kay-pi kay-pi
+    Time Stamp: a134, Annotation: kay-pi
+    Time Stamp: a135, Annotation: kay atsil-pi
+    Time Stamp: a136, Annotation: wasi-ta-ka ñuka-nchi alpa-ta alpa-ta 
+    Time Stamp: a137, Annotation: tractora-chi-nga-pak wasi-ta ña carretera-ta  llukchi-nga-pa ñuka-nchi wasi-ta ruku wasi-ta ña shita-rka-nchi
+    Time Stamp: a138, Annotation: na ni-pi na tya-rka 
+    Time Stamp: a139, Annotation: alpa wasi teja wasi 
+    Time Stamp: a141, Annotation: kay-pi kay-pi kay-pi
+    Time Stamp: a142, Annotation: mm chay-pi 
+    Time Stamp: a143, Annotation: kutin shuk wasi kay-pi shuk wasi puro uksha wasi tyan ka-rka
+    Time Stamp: a144, Annotation: chay apenas yari-ni chay-ta-ka
+    Time Stamp: a145, Annotation: apenas apenas
+    Time Stamp: a146, Annotation: ñuka ñuka 
+    Time Stamp: a147, Annotation: wiña-shka kani 
+    Time Stamp: a148, Annotation: ñuka abuel-ita difunta presentacion lemayco
+    Time Stamp: a149, Annotation: pay-mi ñuka-ta wiña-chi-shka ñuka mama
+    Time Stamp: a150, Annotation: saki-shpa ri-shka 
+    Time Stamp: a151, Annotation: mmm nueve meses-ta chari-shka-ni
+    Time Stamp: a152, Annotation: saki-sha ñuka mama wañu-shka
+    Time Stamp: a153, Annotation: wañu-sha enton ña ñuka abuel-ita ña 
+    Time Stamp: a154, Annotation: como mama wiña-chi-shka
+    Time Stamp: a155, Annotation: ñuka-ta
+    Time Stamp: a156, Annotation: na viuda-mi
+    Time Stamp: a157, Annotation: aa ñuka tayta-wan ñuka abuel-ita-wan ñuka wiña-rka-ni
+    Time Stamp: a158, Annotation: chay-man-ta kay alpa-ka na riku-n casi casi 
+    Time Stamp: a160, Annotation: tsawar-ta na ña na riku-nchi porque ñuka-nchi abuel-ita 
+    Time Stamp: a161, Annotation: ñuka-nchi-ta-ka puro mishki wiña-chi-rka
+    Time Stamp: a162, Annotation: puro mishki puro mishki
+    Time Stamp: a163, Annotation: ufia-nga-pak-lla
+    Time Stamp: a164, Annotation: ufia-nga-pak-lla
+    Time Stamp: a165, Annotation: waran-ku-ta
+    Time Stamp: a166, Annotation: veinte mata-ka-man-mi rura-n karka 
+    Time Stamp: a167, Annotation: waran-ku-ta veinte yura-ka-man
+    Time Stamp: a168, Annotation: veinte yura de
+    Time Stamp: a169, Annotation: tsawar-ta ru-ka-rka
+    Time Stamp: a170, Annotation: mishki-ta
+    Time Stamp: a171, Annotation: kay toc chay chay shina riku-nchi shina shina
+    Time Stamp: a172, Annotation: chay tukuy-ta ñuka-nchi mishki-ta tukuchi-rka-nchi
+    Time Stamp: a173, Annotation: ñuka-nchi wiña-shka-ka-nchi puro mishki
+    Time Stamp: a174, Annotation: puro waranko
+    Time Stamp: a175, Annotation: puro puro arroz cebada
+    Time Stamp: a176, Annotation: miku-shpa kawsa-rka-nchi ñuka-nchi
+    Time Stamp: a177, Annotation: shina kashpa shina wiña-rka-nchi gracias
+    Time Stamp: a178, Annotation: asi como dice en castellano gracias por mis abuelitas
+    Time Stamp: a181, Annotation: entonces ñuka ñuka
+    Time Stamp: a182, Annotation: chay maki-ta japi-shka
+    Time Stamp: a183, Annotation: ñuka
+    Time Stamp: a184, Annotation: mishki-ta mishki-ta rura-ni waranku-ta rura-ni
+    Time Stamp: a185, Annotation: yaku ña horas-ka vasota japi-shpa upia-ni ñuka-lla-ta ñuka suegra-man-pash asu-wa-ta kara-ni
+    Time Stamp: a186, Annotation: yarki horas-pash
+    Time Stamp: a187, Annotation: upia-ku-ni vaso-wa-ta 
+    Time Stamp: a188, Annotation: ña chay ña wiksa-ta ña
+    Time Stamp: a2066, Annotation: plato de miku-na miku-shpa
+    Time Stamp: a2070, Annotation: ña vaso waranku-wan ña viksa junda-n
+    Time Stamp: a189, Annotation: chay ñuka ña na na arroz-ta-ka na yuya-ri-n
+    Time Stamp: a192, Annotation: shina-mi
+    Time Stamp: a193, Annotation: kunan-ka-man ña ñuka shina ñuka ña cuantos tiempo-ta trabaja-rka-ni
+    Time Stamp: a194, Annotation: plantacioN-bi
+    Time Stamp: a195, Annotation: plantacion-bi
+    Time Stamp: a196, Annotation: sisa-ta palla-shpa
+    Time Stamp: a197, Annotation: chay sisa tanto quimico ñuka ungu-rka-ni
+    Time Stamp: a198, Annotation: doctor-kuna ni-rka ña na ñuka ña na tanto pastilla-ta docto-kuna na
+    Time Stamp: a293, Annotation: ñuka ña tanto pastillas-ta chapash ña loka tuku-rka-ni
+    Time Stamp: a294, Annotation: pastilla-ta na upia-na usha-shpa
+    Time Stamp: a295, Annotation: chay-man-ta doctor particular-man ri-rka-ni
+    Time Stamp: a296, Annotation: doctor particular recomenda-rka kay mishki-ta ri upia-y
+    Time Stamp: a297, Annotation: kan-ka gente campo-mi ka-nki kan-ka tsaw tsawar-ta chari-nki-mi
+    Time Stamp: a298, Annotation: ri chay-ta rura-y upia-y
+    Time Stamp: a299, Annotation: cierto doctor po doctor po
+    Time Stamp: a300, Annotation: doctor po ta uish ñuka shamu-shpa trabaju-man-ta llukshi-shpa ña na ri-rka-ni trabajo-man
+    Time Stamp: a301, Annotation: shamu-shpa trabaju-man-ta llukshi-shpa
+    Time Stamp: a302, Annotation: ña mishki-ta rura-y rura-rka-ni ñuka ñuka rura-shpa
+    Time Stamp: a303, Annotation: mishki-ta-ka japi jatari-rka-ni
+    Time Stamp: a304, Annotation: chay mishki-wan-mi Dios bendito
+    Time Stamp: a305, Annotation: curar-ka-ni
+    Time Stamp: a306, Annotation: None
+    Time Stamp: a307, Annotation: chay-man-ta ñuka ña
+    Time Stamp: a308, Annotation: ña particular ña tanto mishki-ta ima-ta rura-sha ni-rka-ni ña ñuka-lla na usha-rka-ni ni upia-nga-pak
+    Time Stamp: a309, Annotation: vaso-wan vaso-wan chay-man-ta ñuka ña llukshi-rka-ni ña jatu-nga-pak
+    Time Stamp: a310, Annotation: mas fuera 
+    Time Stamp: a311, Annotation: llukchi-rka-ni ñuka
+    Time Stamp: a312, Annotation: mishki-ta
+    Time Stamp: a313, Annotation: ñuka-mi jatu-rka-ni chay-pi-mi jatu-ju-rka-ni-mi ñuka
+    Time Stamp: a314, Annotation: ri karka-ni hata tumbaco-ka-man
+    Time Stamp: a315, Annotation: pero ñuka mishki jatu y wasi-pi
+    Time Stamp: a316, Annotation: gracias papas-ito Dios-ito ñuka compañero wilian
+    Time Stamp: a317, Annotation: ñuka compañero wilian villa-chi-shka
+    Time Stamp: a318, Annotation: ñuka ingeniero-kuna-pa
+    Time Stamp: a319, Annotation: aa puri-ju-kpi-sha villa-chi-kpi ñuka ruga-rka-ni pay-ta por Dios minga-chi-wa-y ñuka-ta-pash
+    Time Stamp: a320, Annotation: chay mishki-ta ñuka chari-ni por Dios
+    Time Stamp: a321, Annotation: chay-mi ñuka compañero wilian minga-chi-pa-rka
+    Time Stamp: a322, Annotation: villa-chi-pa-rka chay-man-ta ñuka compañero Dios le pague 
+    Time Stamp: a323, Annotation: puri-k u-ni contento
+    Time Stamp: a324, Annotation: contento kay mishki-wa-ta llukchi-shpa 
+    Time Stamp: a325, Annotation: kunan ñuka-nchi-lla-mi kanchi cuatro chusku personas ñuka-nchi ña tukuchi-rka-nchi ña entrega-ju-nchi
+    Time Stamp: a326, Annotation: chusku persona
+    Time Stamp: a327, Annotation:  mmm kay-shuk compañera-kuna-mi ni-n 
+    Time Stamp: a328, Annotation: kutin compañero-kuna ni-rka 
+    Time Stamp: a330, Annotation: shuk mishu-kuna shamu-rka
+    Time Stamp: a331, Annotation: chay parla-chi-rka-nchi
+    Time Stamp: a411, Annotation: chay parla-chi-kpi-mi compañera shuk compañero-kuna-mi
+    Time Stamp: a412, Annotation: kutin ingresa-shun ni-rka
+    Time Stamp: a413, Annotation: chay kutin si ñuka-nchi compañero
+    Time Stamp: a414, Annotation: ni-ku-rka mm parla-ku-rka
+    Time Stamp: a416, Annotation: ishkay killa-ka-man
+    Time Stamp: a417, Annotation: na na palla-shun ni-n mishki-ta 
+    Time Stamp: a418, Annotation: chay-man-ta ñuka-nchi pina kanchi
+    Time Stamp: a419, Annotation: pina mishki-ta ima-ta rura-shun may-man kutin claro jatu-nga-pa ri ri-n 
+    Time Stamp: a420, Annotation: pero tiempo tiempo perde-ri-n
+    Time Stamp: a421, Annotation: wasi-pi
+    Time Stamp: a424, Annotation: ña palla-nga-pak shamu-n ña apa-nga-pak shamu-n 
+    Time Stamp: a425, Annotation: auto-pi
+    Time Stamp: a426, Annotation: chay-ka ña entrega-shpa ña wasi-man ña ri-nchi
+    Time Stamp: a427, Annotation: ña tukuy-ta rura-ri-n wasi-pi
+    Time Stamp: a428, Annotation: kunan kunan ña jatun pina viernes-ka-man-lla-mi palla-shun ni-na-ju-n mishki-ta 
+    Time Stamp: a429, Annotation: chay-mi apena puri-na-ju-n-chi
+    Time Stamp: a430, Annotation: may-pi may-pi jatu-ri-nga-pak kutin
+    Time Stamp: a431, Annotation: apa-y-ta-ka apa-n pero ña kutin-lla pinga-ña-nga-mari puri-n-ka-pak
+    Time Stamp: a432, Annotation: entrega-nga-pak ña 
+    Time Stamp: a433, Annotation: na tiempo na tya-n de repente tiempo tya-k-pi-ka
+    Time Stamp: a434, Annotation: mmm madrugadu-pash palla-ri-n madrugado como siempre palla-ri-n
+    Time Stamp: a435, Annotation: chawpi punlla de repente tiempo tya-k-pi-ka palla-ri-n
+    Time Stamp: a436, Annotation: de repente na tiempo tya-kpi-ka na palla-ri-n
+    Time Stamp: a437, Annotation: ishkay ishkay viaje punlla
+    Time Stamp: a438, Annotation: palla-ri-n
+    Time Stamp: a439, Annotation: aaaa chay chay
+    Time Stamp: a440, Annotation: chay
+    Time Stamp: a441, Annotation: chay-mi ñuka yura 
+    Time Stamp: a442, Annotation: mm ñuka yura antes ñuka kusa-mi ayuda-n ñuka kusa-mi ayuda-n
+    Time Stamp: a443, Annotation: chay-mari aspi-nka manchana-y-ta aspi-n ñuka-nchi compañero kutin nina shina aspi-na kisha kunan yacha-kpi-ka
+    Time Stamp: a444, Annotation: ñuka-nchi
+    Time Stamp: a445, Annotation: chay aspi
+    Time Stamp: a446, Annotation: manchana-y-ta llukchi-shpa gaso-kuna-ta
+    Time Stamp: a447, Annotation: chay-ka na shina kisha llukchi-nga-pa bagazo-kuna-ta shina-ka
+    Time Stamp: a448, Annotation: na
+    Time Stamp: a449, Annotation: apenas pulun-wa-ta-mi limpia-chi-na kashka-nchi
+    Time Stamp: a450, Annotation: chay-man-ta chay bagazo-ta-ka kuchi-man apa-na kashka
+    Time Stamp: a451, Annotation: ñuka-nchi-ka na yacha-y queda shita-nchi queda shita-shka shina ñuka kusa ayda-shka kan
+    Time Stamp: a452, Annotation: pay bagazo-ta-ka ashta chashpa pobre polon-ta-ka aspi-shpa chay-pi montona-shpa chari-n
+    Time Stamp: a453, Annotation: ñuka kusa ayuda-shpa
+    Time Stamp: a454, Annotation: pero ñuka shamu-shpa-ka apenas limpia-chi-ni polon-wa-ta
+    Time Stamp: a455, Annotation: shina-mi manejo de yura-kuna-ta-ka kashka kunan yacha-kpi ñuka-nchik kutin
+    Time Stamp: a456, Annotation: ñuka-nchi abuelita-kuna-wan viña-shka-ka kutin grande o que de la gana chay aspi-ri-n
+    Time Stamp: a457, Annotation: kunan yacha-kpi-ka na shina-ka kashka shina shina shina chay trabaju-wa Dios Dios Dios le pague chay trabaju-wa-ta contento 
+    Time Stamp: a458, Annotation: puri-na-ju-nchi
+    Time Stamp: a460, Annotation: chay-ka hace ima-cha tiempo-kuna-ka kay trabaju-ka na tya-ri-shka-ka
+    Time Stamp: a463, Annotation: tsawar-manta-ka solo yaku-ku-lla-ta palla-na
+    Time Stamp: a464, Annotation: yaku-ku-lla-ta palla-nchi ñuka-nchi-ka
+    Time Stamp: a465, Annotation: chay-man-ta
+    Time Stamp: a466, Annotation: yacha-kpi-ka tuku-y-mi tiki-shun shina
+    Time Stamp: a560, Annotation: compañero-kuna parla-chi-ku-n
+    Time Stamp: a561, Annotation: punta-ka zapatos siete vida
+    Time Stamp: a562, Annotation: zapatos de caucho siete vida ni-shka
+    Time Stamp: a563, Annotation: mmm na chay
+    Time Stamp: a564, Annotation: chay-ta si na chapa-shka-ni-chu
+    Time Stamp: a565, Annotation: ima-pa-ta dega-na-ka llulla-sha na usha-ni-chu
+    Time Stamp: a566, Annotation: solo y mas yaku-ta-mi japi-shka-ni
+    Time Stamp: a567, Annotation: ñuka-nchi abuel-ita-ka yaku-ta
+    Time Stamp: a568, Annotation: chay tiempo-ka
+    Time Stamp: a569, Annotation: kunan kunan-mi wasi-pi
+    Time Stamp: a570, Annotation: yaku-pash chay tiempo-ka na ni micha ni yaku
+    Time Stamp: a571, Annotation: na tya-rka
+    Time Stamp: a572, Annotation: shina ñuka-nchi-ka ñuka-nchi kay-pi ñuka papas-ito ñuka abuel-ita que en paz descanse mmmm kawsa-shka kan
+    Time Stamp: a573, Annotation: kay-lla-pi-ka wayco-man-ta
+    Time Stamp: a574, Annotation: las tres de la mañana apari-shka puri-n karka-nchi ñuka-nchi yaku-ta
+    Time Stamp: a575, Annotation: micha na tya-n karka kunan-mi micha todo
+    Time Stamp: a576, Annotation: alumbrado publico-kuna tya-n
+    Time Stamp: a577, Annotation: ñuka-nchi-ka na ñuka-nchi-ka na viña-shka kan-chi-k-chu chay-kuna-wa-nka
+    Time Stamp: a578, Annotation: no viña-shka-nchi nuka-nchi-ka ñuka-nchi churi-kuna ñuka-nchi churi-kuna-ka ña mishu-ya-shka mari
+    Time Stamp: a579, Annotation: na na riksi-n chay categoria-ta-ka na riksi-n
+    Time Stamp: a580, Annotation: ñuka pobre lastima yanta-kuna-ta chay loma-kuna-man-ta apari-shpa shamu-shka-ni
+    Time Stamp: a582, Annotation: chilka kasha
+    Time Stamp: a583, Annotation: morlan ni-shka
+    Time Stamp: a584, Annotation: purga ni-shka chay-kuna-mi ñuka-nchi yanta
+    Time Stamp: a585, Annotation: chay karka cabuyu mmm ña chay tswar yura mishki tukuri-shka
+    Time Stamp: a586, Annotation: chay-ta-mi kutin ashta ñuka-nchi-ka yanta karka-nchi
+    Time Stamp: a587, Annotation: cabuyu yanta-ta-mi muntu-na karka-nchi kay-mi patio de yanta karka 
+    Time Stamp: a588, Annotation: mmm
+  Tier Type: gl, Annotations Count: 185
+    Time Stamp: a1818, Annotation: comunidad tierra marco-DIM 
+    Time Stamp: a1824, Annotation: yo yo nombre-AF.EV
+    Time Stamp: a1828, Annotation: rosa alimeyco  
+    Time Stamp: a1837, Annotation: laura chiquimba 
+    Time Stamp: a1849, Annotation: aja asi apellido cobacango rojas    
+    Time Stamp: a1853, Annotation: chiquimba
+    Time Stamp: a1854, Annotation: todo nom apellido-PL hay
+    Time Stamp: a1865, Annotation: aaa  yo este-LOC nacer-PAST yo este-LOC
+    Time Stamp: a1873, Annotation: este-LOC este-LOC 
+    Time Stamp: a1876, Annotation: este-LOC
+    Time Stamp: a1879, Annotation: este atsil-LOC
+    Time Stamp: a1885, Annotation: casa-AC-FOC yo-1PL tierra-AC tierra-AC 
+    Time Stamp: a1888, Annotation: tracto-CAUS-3FUT-POS casa-AC ya carretera-AC salir-3FUT-POS yo-1PL casa-AC viejo casa-AC ya botar-PAST-1PL 
+    Time Stamp: a1891, Annotation: na no-LOC hay-PAST
+    Time Stamp: a1897, Annotation: tierra casa teja wasi 
+    Time Stamp: a1906, Annotation: este-LOC este-LOC este-LOC
+    Time Stamp: a1907, Annotation: este-LOC
+    Time Stamp: a1912, Annotation: otra.vez uno casa este-LOC uno casa puro paja casa hay era-PAST
+    Time Stamp: a1915, Annotation: chay apenas yari-1 ese-AC-FOC 
+    Time Stamp: a1921, Annotation: apenas apenas
+    Time Stamp: a1927, Annotation: yo yo 
+    Time Stamp: a1930, Annotation: vivir-PFV soy
+    Time Stamp: a1933, Annotation: yo abuela-DIM difunta presentacion lemayco 
+    Time Stamp: a1936, Annotation: ella-AF.EV yo-AC crecer-CAUS-PFV yo mama 
+    Time Stamp: a1939, Annotation: dejar-SR ir-PFV
+    Time Stamp: a1943, Annotation: mmm nueve meses-AC tener-PFV-1
+    Time Stamp: a1945, Annotation: dejar-1FUT yo mama morir-PFV
+    Time Stamp: a1948, Annotation: morir-1FUT enton ya yo abuela-DIM ya 
+    Time Stamp: a1951, Annotation: como mama crecer-CAUS-PFV
+    Time Stamp: a1956, Annotation: yo-AC
+    Time Stamp: a1960, Annotation: no-NEG viuda-AF.EV
+    Time Stamp: a1963, Annotation: aa ñuka señor-COM1 yo abuela-DIM-COM1 yo crecer-PAST-1
+    Time Stamp: a1966, Annotation: ese-AL-AC este tierra-FOC no-NEG ver-3 casi casi
+    Time Stamp: a1969, Annotation: penco-AC no-NEG ya no-NEG ver-1PL porque yo-1PL abuela-DIM
+    Time Stamp: a1972, Annotation: yo-1PL-AC-FOC puro dulce crecer-CAUS-PAST
+    Time Stamp: a1975, Annotation: puro dulce puro dulce
+    Time Stamp: a1976, Annotation: tomar-3FUT-POS-LIM
+    Time Stamp: a1984, Annotation: tomar-3FUT-POS-LIM
+    Time Stamp: a1987, Annotation: warango-DIM-AC
+    Time Stamp: a1990, Annotation: veinte mata-FOC-AL-AF.EV hacer-3 era
+    Time Stamp: a1994, Annotation: warango-DIM-AC veinte hoja-FOC-AL
+    Time Stamp: a1997, Annotation: veinte hoja de
+    Time Stamp: a1999, Annotation: penco-AC hacer-FOC-PAST 
+    Time Stamp: a2003, Annotation: mishki-AC
+    Time Stamp: a2008, Annotation: este toc ese ese asi ver-1PL asi asi 
+    Time Stamp: a2011, Annotation: ese todo-AC yo-1PL dulce-AC terminar-PAST-1PL
+    Time Stamp: a2014, Annotation: yo-1PL crecer-PFV-FOC-1PL puro dulce
+    Time Stamp: a2017, Annotation: purowaranko
+    Time Stamp: a2018, Annotation: puro puro arroz cebada
+    Time Stamp: a2023, Annotation: comer-SR vivir-PAST-1PL yo-1PL
+    Time Stamp: a2026, Annotation: asi siendo asi crecer-PAST-1PL gracias
+    Time Stamp: a2030, Annotation: asi como dice en castellano gracias por mis abuelitas
+    Time Stamp: a2031, Annotation: entonces yo yo 
+    Time Stamp: a2035, Annotation: ese mano-AC coger-PFV
+    Time Stamp: a2039, Annotation: yo
+    Time Stamp: a2040, Annotation: dulce-AC dulce-AC hacer-1 waranku-AC hacer-1
+    Time Stamp: a2048, Annotation: agua ya horas-FOC vaso-AC coger-SR tomar-1 yo-LIM-AC yo suegra-AL-AD chica-DIM-AC  regalar-1
+    Time Stamp: a2052, Annotation: hambre horas-AD
+    Time Stamp: a2053, Annotation: tomar-DIM-1 vaso-DIM-AC
+    Time Stamp: a2063, Annotation: ya ese ya barriga-AC ya
+    Time Stamp: a2068, Annotation: plato de comer-NMLZ comer-SR
+    Time Stamp: a2072, Annotation: ña vaso waranku-COM1 ya barriga llena-3
+    Time Stamp: a2075, Annotation: ese yo ya no-NEG no-NEG arroz-AC-FOC no-NEG acuerdo-RFLX-3
+    Time Stamp: a2083, Annotation: asi-AF.EV
+    Time Stamp: a2088, Annotation: ahora-FOC-AL ya yo asi yo ya cuantos tiempo-AC trabaja-PAST-1
+    Time Stamp: a2089, Annotation: platacion-LOC
+    Time Stamp: a2095, Annotation: plantacion-LOC
+    Time Stamp: a2099, Annotation: sisa-AC recoger-SR
+    Time Stamp: a2102, Annotation: ese flor tanto quimico yo enfermo-PAST-1
+    Time Stamp: a2105, Annotation: doctor-PL di-PAST ya no-NEG yo ya no-NEG tanto pastilla-AC doctor-PL no-NEG
+    Time Stamp: a2108, Annotation: yo ya tanto pastillas-AC consumir ya loka hacer-PAST-1
+    Time Stamp: a2111, Annotation: pastilla-AC no-NEG tomar-NEG,Q  poder-SR
+    Time Stamp: a2114, Annotation: chay-AL-AC doctor particular-AL ir-PAST-1
+    Time Stamp: a2117, Annotation: doctor particula recomenda-PAST este dulce-AC tomar-NMZL
+    Time Stamp: a2120, Annotation: tu-FOC gente campo-AF.EV es-2 tu-FOC penco penco-AC tener-2-AF.EV
+    Time Stamp: a2123, Annotation: ir ese-AC hacer-NMZL tomar-NMZL
+    Time Stamp: a2126, Annotation: cierto doctor po doctor po 
+    Time Stamp: a2129, Annotation: doctor po ta oir yo venir-SR trabajo-AL-AC salir-SR ya no-NEG ir-PAST-1 trabajo-AL
+    Time Stamp: a2132, Annotation: venir-SR trabajo-AL-AC salir-SR
+    Time Stamp: a2135, Annotation: ya dulce-AC hacer-NMZL hacer-PAST-1 yo yo hacer-SR
+    Time Stamp: a2138, Annotation: dulce-AC-FOC coger levantar-PAST-1
+    Time Stamp: a2141, Annotation: ese dulce-COM1-AF.EV Dios bendito
+    Time Stamp: a2145, Annotation: curar-FOC-1
+    Time Stamp: a2148, Annotation: ese-AL-AC yo ya
+    Time Stamp: a2151, Annotation: ya particular ya tanto dulce-AC que-INT,Q hacer-1FUT di-PAST-1 ya yo-LIM no-NEG poder-PAST-1 ni tomar-3FUT-POS
+    Time Stamp: a2154, Annotation: vaso-COM1 vaso-COM1 ese-AL-AC yo ya salir-PAST-1 ya vender-3FUT-POS
+    Time Stamp: a2158, Annotation: mas fuera 
+    Time Stamp: a2159, Annotation: sacar-PAST-1 yo   
+    Time Stamp: a2169, Annotation: dulce-AC 
+    Time Stamp: a2172, Annotation: yo-AF.EV vende-PAST-1 ese-LOC-AF.EV vende-PRG-PAST-1-AF.EV yo 
+    Time Stamp: a2175, Annotation: ir era-1 hasta tumbaco-FOC-AL 
+    Time Stamp: a2179, Annotation: pero yo dulce vende y casa-LOC   
+    Time Stamp: a2181, Annotation: gracias papa-DIM Dios-DIM yo compañero wilian 
+    Time Stamp: a2184, Annotation: yo compañero wilian avisar-CAUS-PFV
+    Time Stamp: a2186, Annotation: yo ingeniero-PL-POS
+    Time Stamp: a2190, Annotation: aaa caminar-PRG-DR-1FUT avisar-CAUS-DR yo rogar-PAST-1 el-AC por Dios minga-CAUS-DIM-NMZL yo-AC-AD 
+    Time Stamp: a2194, Annotation: ese dulce-AC yo tener-1 por Dios
+    Time Stamp: a2196, Annotation: ese-AF.EV yo compañero wilian minga-CAUS-POS-PAST 
+    Time Stamp: a2199, Annotation: villa-CAUS-POS-PAST eso-AL-AC yo compañero Dios le pague 
+    Time Stamp: a2202, Annotation: caminar-PRG-1 contento 
+    Time Stamp: a2205, Annotation: contento este dulce-DIM-AC sacar-SR
+    Time Stamp: a2217, Annotation: ahora yo-1PL-LIM-AF.EV somo cuatro cuatro personas yo-1PL ya acabar-PAST-1PL ya entrega-PRG-1PL
+    Time Stamp: a2220, Annotation: cuatro persona  
+    Time Stamp: a2221, Annotation: mmm este.otro compañera-PL-AF.EV di-3
+    Time Stamp: a2226, Annotation: otra.vez compañero-PL di-PAST 
+    Time Stamp: a2228, Annotation: uno señor-PL venir-PAST
+    Time Stamp: a2232, Annotation: ese hablar-CAUS-PAST-1PL
+    Time Stamp: a2233, Annotation: ese hablar-CAUS-DR-AF.EV compañera uno compañero-PL-AF.EV
+    Time Stamp: a2238, Annotation: otra.vez ingresa-1PL.FUT di-PAST 
+    Time Stamp: a2241, Annotation: ese otra.vez si yo-1PL compañero 
+    Time Stamp: a2244, Annotation: di-PRG-PAST mm hablar-PRG-PAST
+    Time Stamp: a2246, Annotation: dos mes-FOC-AL 
+    Time Stamp: a2249, Annotation: no-NEG no-NEG recoger-1PL.FUT di-3 dulce-AC
+    Time Stamp: a2253, Annotation: ese-AL-AC yo-1PL pina somos
+    Time Stamp: a2256, Annotation: pina dulce-AC que-INT,Q hacer-1PL.FUT donde-AL otra.vez claro vender-3FUT-POS ir ir-3
+    Time Stamp: a2259, Annotation: pero tiempo tiempo pierde-RFLX-3
+    Time Stamp: a2262, Annotation: casa-LOC
+    Time Stamp: a2268, Annotation: ya recoger-3FUT-POS venir-3 ya llevar-3FUT-POS venir-3
+    Time Stamp: a2271, Annotation: auto-LOC 
+    Time Stamp: a2272, Annotation: ese-FOC ya entrega-SR ña casa-AL ya ir-1PL
+    Time Stamp: a2273, Annotation: ña todo-AC hacer-RFLX-3casa-LOC
+    Time Stamp: a2283, Annotation: ahora ahora ya grande pena viernes-FOC-AL-LIM-AF.EV recoger-1PL.FUT di-NMLZ-PRG-3 dulce-AC
+    Time Stamp: a2286, Annotation: ese-AF.EV apena andar-NMLZ-PRG-3-CAUS
+    Time Stamp: a2289, Annotation: donde-LOC donde-LOC vender-RFLX-3FUT-POS otra.vez
+    Time Stamp: a2295, Annotation: llevar-NMZL-AC-FOC llevar-3 pero ya otra.vez-LIM verguenza-ya-3FUT-AF.EV andar-3-FOC-POS
+    Time Stamp: a2301, Annotation: entrega-3FUT-POS
+    Time Stamp: a2310, Annotation: no-NEG tiempo no-NEG hay-3 de repente tiempo hay-AG-LOC-FOC
+    Time Stamp: a2313, Annotation: mmm madrugado-AD recoger-RFLX-3 madrugado como siempre recoger-RFLX-3
+    Time Stamp: a2316, Annotation: mitar dia de repente tiempo hay-AG-LOC-FOC recoger-RFLX-3
+    Time Stamp: a2319, Annotation: de repente no-NEG tiempo hay-DR-FOC no-NEG recoger-RFLX-3
+    Time Stamp: a2322, Annotation: dos dos viaje dia 
+    Time Stamp: a2324, Annotation: recoger-RFLX-3
+    Time Stamp: a2331, Annotation: aaa ese ese  
+    Time Stamp: a2336, Annotation: ese
+    Time Stamp: a2341, Annotation: ese-AF.EV yo plantañvhnhfrffñrrñññ¿ñ¿ññ´++}ñ+¡¿+{{l99ol...........ñ-{
+    Time Stamp: a2342, Annotation: mm yo plata antes yo esposo-AF.EV ayuda-3 yo esposo-AF.EV ayuda-3
+    Time Stamp: a2349, Annotation: ese-AF.EV raspar-3FUTbastante-NMZL-AC raspar-3 yo-1PL compañero otra.vez fuego asi raspar-3 ahora saber-SR-FOC
+    Time Stamp: a2353, Annotation: yo-1PL
+    Time Stamp: a2354, Annotation: ese raspar 
+    Time Stamp: a2355, Annotation: bastante-NMZL-AC sacar-SR gaso-PL-AC
+    Time Stamp: a2361, Annotation: ese-FOC no-NEG asi kisha sacar-3FUT-POS bagazo-PL-AC asi-FOC
+    Time Stamp: a2365, Annotation: no-NEG
+    Time Stamp: a2367, Annotation: apenas polon-DIM-AC-AF.EV limpia-CAUS-NMLZ ha.sido-1PL
+    Time Stamp: a2370, Annotation: ese-AL-AC ese bagazo-AC-FOC cerdo-AL llevar-NMLZ ha.sido
+    Time Stamp: a2373, Annotation: yo-1PL-FOC no-NEG saber-NMZL queda botar-1PL asi yo esposo ayuda-PFV es 
+    Time Stamp: a2376, Annotation: ella- bagazo-AC-FOC bastante sacudir pobre polon-AC-FOC raspar-SR ese-LOC montonar-SR tener--3
+    Time Stamp: a2379, Annotation: yo esposo ayuda-SR
+    Time Stamp: a2382, Annotation: pero yo venir-SR-FOC apenas limpia--CAUS-1 polon-DIM-AC
+    Time Stamp: a2385, Annotation: asi-AF.EV manejor de planta-PL-AC-FOC ha.sido ahora saber-DR yo-1PL otra.vez
+    Time Stamp: a2388, Annotation: yo-1PL abuelita-PLCOM1 crecer-PFV-FOC otra.vez grande o que de la gana ese raspar-RFLX-3
+    Time Stamp: a2394, Annotation: ahora saber-DR-FOC no-NEG asi-FOC ha.sido asi asi asi ese trabajo-DIM Dios Dios Dios le pague ese trabajo-DIM-AC contento qn 
+    Time Stamp: a2391, Annotation: caminar-NMLZ-PRG-1PL
+    Time Stamp: a2397, Annotation: ese-FOC hace que-CNJ.EV tiempo-PL-FOC este trabajo-FOC na hay-RFLX-FOC
+    Time Stamp: a2409, Annotation: penco-ABL-FOC solo agua-DIM-AC recoger-NMLZ
+    Time Stamp: a2412, Annotation: agua-DIM-LIM-AC recoger-1PL yo-1PL-FOC
+    Time Stamp: a2415, Annotation: ese-AL-AC
+    Time Stamp: a2418, Annotation: saber-DR-FOC todo-NMZL-AF.EV aprovechar-1PL.FUT asi
+    Time Stamp: a2421, Annotation: compañero-PL hablar-CAUS-PRG-3
+    Time Stamp: a2431, Annotation: antes-FOC zapatos siete vida
+    Time Stamp: a2434, Annotation: zapato de caucho siete vida di-PFV
+    Time Stamp: a2440, Annotation: mmm no-NEG eso
+    Time Stamp: a2443, Annotation: eso-AC si no-NEG espiar-PFV-1-NEG,Q
+    Time Stamp: a2446, Annotation: que-POS-AC degana-FOC mentir-1FUT no-NEG poder-1-NEG,Q no-NEG poder-1-NEG,Q
+    Time Stamp: a2452, Annotation: solo y mas agua-AC-AF.EV coger-PFV-1
+    Time Stamp: a2455, Annotation: yo-1PL abuela-DIM-AC agua-AC
+    Time Stamp: a2459, Annotation: ese tiempo-FOC
+    Time Stamp: a2460, Annotation: ahora ahora-AF.EV casa-LOC
+    Time Stamp: a2463, Annotation: agua-AD ese tiempo-FOC no-NEG ni luz  ni agua
+    Time Stamp: a2470, Annotation: no-NEG hay-PAST
+    Time Stamp: a2476, Annotation: asi yo-1PL-FOC yo-1PL este-LOC YO papa-DIM abuela-DIM que en paz descanse mmm vivir-PFV es
+    Time Stamp: a2479, Annotation: este-LIM-LOC-FOC hueco-AL-AC
+    Time Stamp: a2482, Annotation: las tres de la mañana cargar-PFV andar-3 era-1PL yo-1PL agua-AC
+    Time Stamp: a2485, Annotation: luz no-NEG hay-3 era ahora-AF.EV luz todo
+    Time Stamp: a2488, Annotation: alumbrado publico-PL hay-3
+    Time Stamp: a2491, Annotation: yo-1PL-FOC no-NEG yo-1PL-FOC no-NEG crecer-PFV es-CAUS-AG-NEG,Q eso-PL-DIM-3FUT
+    Time Stamp: a2494, Annotation: no-NEG crecer-PFV-1PL yo-1PL-FOC yo-1PL-FOC hijo-PL yo-1PL hijo-PL-FOC ya señor-PROV-PFV es-AF.EV
+    Time Stamp: a2503, Annotation: no-NEG no-NEG conocer-3 esa categoria-AC-FOC no-NEG conocer-3
+    Time Stamp: a2506, Annotation: yo pobre lastima leña-PL-AC esa loma-PL-AL-AC cargar-SR venir-PFV-1
+    Time Stamp: a2516, Annotation: ramas espina
+    Time Stamp: a2520, Annotation: morlan di-PFV
+    Time Stamp: a2517, Annotation: purga di-PFV eso-PLAF.EV yo-1PL leña
+    Time Stamp: a2524, Annotation: ese ese cabuyu mmm ña ese penco planta dulce acabar-PFV
+    Time Stamp: a2527, Annotation: ese-AC-AF.EV otra.vez bastante yo-1PL-FOC leñan era-1PL
+    Time Stamp: a2533, Annotation: cabuya leña-AC-AF.EV monton-NMLZ era-1PL este-AF.EV patio de leña era 
+    Time Stamp: a2541, Annotation: mmmm
+Speaker: C
+  Tier Type: po, Annotations Count: 49
+    Time Stamp: ('ts990', 'ts992'), Annotation: no asoma 
+    Time Stamp: ('ts993', 'ts994'), Annotation: puerta abierta para que no quede este  altabachido no mas vi
+    Time Stamp: ('ts1002', 'ts1004'), Annotation: aa ya 
+    Time Stamp: ('ts1009', 'ts1011'), Annotation: altabadito  no mas quedo puertita dios le pagui 
+    Time Stamp: ('ts1014', 'ts1015'), Annotation: ya 
+    Time Stamp: ('ts1017', 'ts1020'), Annotation: suegraka pero ay esta suegraka ay esta 
+    Time Stamp: ('ts1021', 'ts1023'), Annotation: ya mismo vas a ir 
+    Time Stamp: ('ts1025', 'ts1027'), Annotation: buenas tardes 
+    Time Stamp: ('ts1054', 'ts1057'), Annotation: si entiendo risa 
+    Time Stamp: ('ts1093', 'ts1094'), Annotation: alla arriba 
+    Time Stamp: ('ts1103', 'ts1105'), Annotation: ese es de otro zona mm
+    Time Stamp: ('ts1107', 'ts1108'), Annotation: y como se llama esta señor 
+    Time Stamp: ('ts1113', 'ts1115'), Annotation: censo hacienda 
+    Time Stamp: ('ts1116', 'ts1119'), Annotation: ya osoa que todo esto es hacienda todavia 
+    Time Stamp: ('ts1120', 'ts1121'), Annotation: aa ya 
+    Time Stamp: ('ts1122', 'ts1124'), Annotation: y de aqui ya impiesa de la gente 
+    Time Stamp: ('ts1126', 'ts1128'), Annotation: mmm ya ya 
+    Time Stamp: ('ts1129', 'ts1130'), Annotation: shamuy como se dice shawar 
+    Time Stamp: ('ts1519', 'ts1520'), Annotation: yalilla 
+    Time Stamp: ('ts1603', 'ts1605'), Annotation: na na na yalichishachu 
+    Time Stamp: ('ts1613', 'ts1614'), Annotation: na yalichishachu 
+    Time Stamp: ('ts1615', 'ts1616'), Annotation: ayayay 
+    Time Stamp: ('ts1685', 'ts1686'), Annotation: si se sabra cojerr 
+    Time Stamp: ('ts1689', 'ts1690'), Annotation: bueno 
+    Time Stamp: ('ts1693', 'ts1695'), Annotation: shuk jazindamambash chay ladoman 
+    Time Stamp: ('ts1697', 'ts1700'), Annotation: y comuna villa alpa chay chay mayta shamurkangui chay curva curvata chay  chaypish karkani 
+    Time Stamp: ('ts1702', 'ts1706'), Annotation: jawa jawa jawakunaman rrishka karkanchi  aaa
+    Time Stamp: ('ts1708', 'ts1709'), Annotation: chakilla rrishpa 
+    Time Stamp: ('ts1710', 'ts1712'), Annotation: cada tutamanda tutamanda rrini shina kay horas kutin tandachimuni 
+    Time Stamp: ('ts1713', 'ts1715'), Annotation: mmm
+    Time Stamp: ('ts1719', 'ts1725'), Annotation: domingo a domingo nima horas na samay tyanllu ;ukanchipa wawakuna wasipi kashpa chay aidan 
+    Time Stamp: ('ts1727', 'ts1730'), Annotation: chaymantaka  mayjan na  ayudanchu jajajaja
+    Time Stamp: ('ts1731', 'ts1732'), Annotation: llaqui 
+    Time Stamp: ('ts1733', 'ts1734'), Annotation: quieres ganar un dolar 
+    Time Stamp: ('ts1735', 'ts1736'), Annotation: ja  ja 
+    Time Stamp: ('ts1741', 'ts1742'), Annotation: aychapak 
+    Time Stamp: ('ts1744', 'ts1745'), Annotation: ajam wachuqui   jatuni  
+    Time Stamp: ('ts1747', 'ts1748'), Annotation: ajam 
+    Time Stamp: ('ts1749', 'ts1751'), Annotation: shina enteruta jatuni 
+    Time Stamp: ('ts1754', 'ts1756'), Annotation: kaymanda apangapak  shamun quinchimunta  kayakpi si no cayambimanda kayakpi  
+    Time Stamp: ('ts1760', 'ts1762'), Annotation: ajam 
+    Time Stamp: ('ts1765', 'ts1766'), Annotation: si es que ali kakpi apan nali kakpika na apan 
+    Time Stamp: ('ts1768', 'ts1769'), Annotation: ajam 
+    Time Stamp: ('ts1773', 'ts1778'), Annotation: tyanmi tyanmi aa juan montalvopi tyan aa chaypi tyan 
+    Time Stamp: ('ts1779', 'ts1780'), Annotation: pero na na apan na autota charini 
+    Time Stamp: ('ts1782', 'ts1787'), Annotation: mm chaymanda na rrinichu mm
+    Time Stamp: ('ts1788', 'ts1791'), Annotation: ajam kayta  katishpa shina rrinchi 
+    Time Stamp: ('ts1793', 'ts1797'), Annotation: ya ari ari 
+    Time Stamp: ('ts1798', 'ts1800'), Annotation: shuk punlla 
+  Tier Type: tn, Annotations Count: 49
+    Time Stamp: a1059, Annotation: no asoma
+    Time Stamp: a1060, Annotation: puerta abierto para que no quede a medio cerrado  no mas vi
+    Time Stamp: a1061, Annotation: aaa ya
+    Time Stamp: a1062, Annotation: solo a medio cerrado no mas quedo dios le pague
+    Time Stamp: a1063, Annotation: ya
+    Time Stamp: a1064, Annotation: la suegra ahí esta la suegra
+    Time Stamp: a1065, Annotation: ya mismo vas a ir
+    Time Stamp: a1066, Annotation: buenas tardes
+    Time Stamp: a1067, Annotation: si entiendo (risa)
+    Time Stamp: a1120, Annotation: alla arriba 
+    Time Stamp: a1121, Annotation: ese es de otro señor mm
+    Time Stamp: a1122, Annotation: y como se llama este zona
+    Time Stamp: a1123, Annotation: censo hacienda 
+    Time Stamp: a1124, Annotation: ya osea que todo esto es hacienda todavia 
+    Time Stamp: a1125, Annotation: aa ya 
+    Time Stamp: a1126, Annotation: y de aqui ya impiesa de la gente 
+    Time Stamp: a1127, Annotation: mmm ya ya 
+    Time Stamp: a1128, Annotation: venga como se dice shawar
+    Time Stamp: a1547, Annotation: pàse
+    Time Stamp: a1741, Annotation: no no no le voy a dañar
+    Time Stamp: a1742, Annotation: no le hare pasar
+    Time Stamp: a1743, Annotation: ayayay 
+    Time Stamp: a1744, Annotation: si se sabra coger
+    Time Stamp: a1745, Annotation: bueno
+    Time Stamp: a1746, Annotation: hay otra haciendo del otro lado
+    Time Stamp: a1747, Annotation:  y la comuna villa alpa  por donde tu venistes en esa curva, ahí también estuve
+    Time Stamp: a1748, Annotation: nos fuimos muy arriba aaa
+    Time Stamp: a1749, Annotation: solo a pie se anda
+    Time Stamp: a1750, Annotation: cada mañana y a esta hora suelo venir
+    Time Stamp: a1751, Annotation: mmm
+    Time Stamp: a1752, Annotation: domindo a domingo no tenemos descanzo a veces cuando los hijos estan en casa nos ayudan
+    Time Stamp: a1753, Annotation: de ahí nadie mas nos ayuda
+    Time Stamp: a1754, Annotation: llaqui
+    Time Stamp: a1755, Annotation: quieres ganar un dolar
+    Time Stamp: a1756, Annotation: ja  ja 
+    Time Stamp: a1757, Annotation: para carne 
+    Time Stamp: a1758, Annotation: aja vendo en wachuqui
+    Time Stamp: a1759, Annotation: ajam 
+    Time Stamp: a1760, Annotation: asi entero le vendo
+    Time Stamp: a1761, Annotation: de aqui vienen a llevar del Quinche o si no de Cayambe cuando se les llama
+    Time Stamp: a1762, Annotation: ajam 
+    Time Stamp: a1763, Annotation: si es que esta bueno le lleva o si no no se lleva
+    Time Stamp: a1764, Annotation: ajam 
+    Time Stamp: a1765, Annotation: si hay en juan montalvo, ahí hay
+    Time Stamp: a1766, Annotation: pero no le llevo ahí no tengo un auto
+    Time Stamp: a1767, Annotation: m m por eso no nos vamos
+    Time Stamp: a1768, Annotation: asi es siguiendo por aqui nos vamos
+    Time Stamp: a1769, Annotation: ya bueno bueno 
+    Time Stamp: a1770, Annotation: otro día

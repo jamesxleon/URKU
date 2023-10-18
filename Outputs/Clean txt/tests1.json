@@ -1,0 +1,2544 @@
+{
+    "conversations": [
+        {
+            "speaker": "Simeon_po",
+            "annotations": [
+                {
+                    "start": "ts1",
+                    "end": "ts2",
+                    "text": "Entonces grabaciunpi imashuti kapangui"
+                },
+                {
+                    "start": "ts3",
+                    "end": "ts5",
+                    "text": "kikin"
+                },
+                {
+                    "start": "ts6",
+                    "end": "ts8",
+                    "text": "kikinka"
+                },
+                {
+                    "start": "ts11",
+                    "end": "ts13",
+                    "text": "Ishkanti kay oyacutumanta"
+                },
+                {
+                    "start": "ts16",
+                    "end": "ts19",
+                    "text": "maypi"
+                },
+                {
+                    "start": "ts23",
+                    "end": "ts24",
+                    "text": "y ashalla parlayta ushapanguichi imashina karka wawa kuitza uras"
+                },
+                {
+                    "start": "ts25",
+                    "end": "ts26",
+                    "text": "kunankaman imashina kawsay tiyarka  kaypi chaykuna"
+                },
+                {
+                    "start": "ts27",
+                    "end": "ts28",
+                    "text": "uchila kashpa"
+                },
+                {
+                    "start": "ts30",
+                    "end": "ts32",
+                    "text": "uchila kashpa imashina karka kay Oyacotopi"
+                },
+                {
+                    "start": "ts57",
+                    "end": "ts58",
+                    "text": "y kaypi kay imashina chay horas"
+                },
+                {
+                    "start": "ts59",
+                    "end": "ts60",
+                    "text": "jatun ñan tiyarkachu, o ima chakilla rina karka."
+                },
+                {
+                    "start": "ts85",
+                    "end": "ts86",
+                    "text": "maypi mas jatunguichi shina feriaman ringuichi, tianch kaypi feria"
+                },
+                {
+                    "start": "ts87",
+                    "end": "ts88",
+                    "text": "calderonpi o maypi mayman rina yachanguichi"
+                },
+                {
+                    "start": "ts107",
+                    "end": "ts109",
+                    "text": "domingo punchachu"
+                },
+                {
+                    "start": "ts115",
+                    "end": "ts116",
+                    "text": "Entonce ima animalkunata charipanguichi kaypi, kuchi kuy"
+                },
+                {
+                    "start": "ts117",
+                    "end": "ts119",
+                    "text": "Kuyta charin atalpa"
+                },
+                {
+                    "start": "ts120",
+                    "end": "ts121",
+                    "text": "conejopash"
+                },
+                {
+                    "start": "ts123",
+                    "end": "ts124",
+                    "text": "maijan"
+                },
+                {
+                    "start": "ts127",
+                    "end": "ts128",
+                    "text": "llama"
+                },
+                {
+                    "start": "ts130",
+                    "end": "ts133",
+                    "text": "ni llama oveja ni runa llama?"
+                },
+                {
+                    "start": "ts139",
+                    "end": "ts140",
+                    "text": "chakrakuna tarpuykunata imata tarpunguichik"
+                },
+                {
+                    "start": "ts162",
+                    "end": "ts164",
+                    "text": "charki, imati kan charkina"
+                },
+                {
+                    "start": "ts185",
+                    "end": "ts186",
+                    "text": "chaypi wakurin shina chakichina sara chukllukunata"
+                },
+                {
+                    "start": "ts197",
+                    "end": "ts198",
+                    "text": "payka ashaguta parlachishun , may ima kaypipish"
+                },
+                {
+                    "start": "ts199",
+                    "end": "ts200",
+                    "text": "wiñarkangui nacirkangui kay secturpi, talvez parlayta ushapangui maypi kawsarkangui"
+                },
+                {
+                    "start": "ts201",
+                    "end": "ts202",
+                    "text": "chayhora"
+                },
+                {
+                    "start": "ts209",
+                    "end": "ts210",
+                    "text": "y piwan kawsarkangui"
+                },
+                {
+                    "start": "ts214",
+                    "end": "ts216",
+                    "text": "kimsa wawa, ya mashna watata charin paykuna"
+                },
+                {
+                    "start": "ts221",
+                    "end": "ts222",
+                    "text": "ah uchilagu , alimi"
+                },
+                {
+                    "start": "ts223",
+                    "end": "ts224",
+                    "text": "kaypi wawakuna mana quichua shimita parlancho"
+                },
+                {
+                    "start": "ts227",
+                    "end": "ts228",
+                    "text": "ima imashina tukurka chayka porque imauras kikinkuna uchilla karkanguichi parlarka"
+                },
+                {
+                    "start": "ts229",
+                    "end": "ts230",
+                    "text": "wawakuna, pero kunaoras mana munanchu"
+                },
+                {
+                    "start": "ts231",
+                    "end": "ts232",
+                    "text": "ima tukurka chaypi"
+                },
+                {
+                    "start": "ts239",
+                    "end": "ts240",
+                    "text": "shuk llaktamanta runakuna riksinguichi shina kichwa parlakkuna"
+                },
+                {
+                    "start": "ts241",
+                    "end": "ts242",
+                    "text": "Otavalu, cutupaxi, chimborazo chaykuna"
+                },
+                {
+                    "start": "ts245",
+                    "end": "ts246",
+                    "text": "purungapug"
+                },
+                {
+                    "start": "ts255",
+                    "end": "ts256",
+                    "text": "ah maymanpish"
+                },
+                {
+                    "start": "ts257",
+                    "end": "ts258",
+                    "text": "chay rimay chay kichwa intindirichu kikinkunawan o"
+                },
+                {
+                    "start": "ts263",
+                    "end": "ts265",
+                    "text": "y intindirin chay cotopaxi chimburazukunawan parlashpa"
+                },
+                {
+                    "start": "ts267",
+                    "end": "ts268",
+                    "text": "ah ah, imashina uyarn como kay pacha o shuk laya"
+                },
+                {
+                    "start": "ts273",
+                    "end": "ts274",
+                    "text": "kay secturpi maypi ima llaktakunapi kichuata parlan"
+                },
+                {
+                    "start": "ts275",
+                    "end": "ts276",
+                    "text": "Oyacoto tiyanchu, Calderonpi tiyanchu"
+                },
+                {
+                    "start": "ts283",
+                    "end": "ts285",
+                    "text": "llano grande, Cocotog"
+                },
+                {
+                    "start": "ts288",
+                    "end": "ts289",
+                    "text": "cierto?"
+                },
+                {
+                    "start": "ts291",
+                    "end": "ts292",
+                    "text": "chay Zambizawan, Zambiza gintikuna parlanchu?"
+                },
+                {
+                    "start": "ts295",
+                    "end": "ts296",
+                    "text": "ima ima ashtawan parlana"
+                },
+                {
+                    "start": "ts297",
+                    "end": "ts298",
+                    "text": "ima cuintayta ushanguichi, shuk cuintukuna historia de la comunidad"
+                },
+                {
+                    "start": "ts299",
+                    "end": "ts300",
+                    "text": "o imata, imata parlasha"
+                },
+                {
+                    "start": "ts304",
+                    "end": "ts306",
+                    "text": "ari shuk historiakuna tiyan kaymanta, cumu ñuka na riksinichu"
+                },
+                {
+                    "start": "ts307",
+                    "end": "ts311",
+                    "text": "talvez cuintawangui ashtawan Oyacotomanta"
+                },
+                {
+                    "start": "ts337",
+                    "end": "ts339",
+                    "text": "kaypi kan en comuna presidentewan"
+                },
+                {
+                    "start": "ts351",
+                    "end": "ts353",
+                    "text": "Ima killapik"
+                },
+                {
+                    "start": "ts359",
+                    "end": "ts361",
+                    "text": "minga tiyanchu"
+                },
+                {
+                    "start": "ts367",
+                    "end": "ts370",
+                    "text": "Votaciun tianchu shina directivata churangapa o imashina"
+                },
+                {
+                    "start": "ts393",
+                    "end": "ts394",
+                    "text": "tonces chay doctorkuna jawapi tiyan nirkangui nachu"
+                },
+                {
+                    "start": "ts395",
+                    "end": "ts396",
+                    "text": "kaypi tiyanga jambidurkuna yachakkuna shina"
+                },
+                {
+                    "start": "ts397",
+                    "end": "ts398",
+                    "text": "wichina yachak fichana chaykuna tiyanchu"
+                },
+                {
+                    "start": "ts411",
+                    "end": "ts412",
+                    "text": "pero chay shina lulunwan fichana chaykuna yachanchu kaypi"
+                },
+                {
+                    "start": "ts419",
+                    "end": "ts420",
+                    "text": "Igual talvez yapa historiamanta parlashun"
+                },
+                {
+                    "start": "ts421",
+                    "end": "ts422",
+                    "text": "comunamanta"
+                },
+                {
+                    "start": "ts423",
+                    "end": "ts424",
+                    "text": "nose ima"
+                },
+                {
+                    "start": "ts425",
+                    "end": "ts428",
+                    "text": "kayajunchu?"
+                },
+                {
+                    "start": "ts429",
+                    "end": "ts432",
+                    "text": "kusa"
+                },
+                {
+                    "start": "ts435",
+                    "end": "ts437",
+                    "text": "kusapa kikinkunapa kusakuna parlanchu kichwa shimita"
+                },
+                {
+                    "start": "ts438",
+                    "end": "ts439",
+                    "text": "parlanchu"
+                },
+                {
+                    "start": "ts451",
+                    "end": "ts452",
+                    "text": "alli kanman kutin shuk puncha talvez kausakuna kusa munanga jarikunawan"
+                },
+                {
+                    "start": "ts453",
+                    "end": "ts454",
+                    "text": "shinangapa, filmangapa kuti shuk punlla shamusha"
+                },
+                {
+                    "start": "ts457",
+                    "end": "ts459",
+                    "text": "pero shuk punlla shuk cita shina churasha"
+                },
+                {
+                    "start": "ts465",
+                    "end": "ts466",
+                    "text": "pero nachu asha kullki pagasha nikpi"
+                },
+                {
+                    "start": "ts467",
+                    "end": "ts468",
+                    "text": "shamunga media horagu shuk puncha cita rurashun"
+                },
+                {
+                    "start": "ts473",
+                    "end": "ts474",
+                    "text": "ñuka yuyaypi, shamusha ñuka centrupi kausani"
+                },
+                {
+                    "start": "ts475",
+                    "end": "ts476",
+                    "text": "riksinguichi chay plaza de santo domingo, chay uranipi kawsani"
+                },
+                {
+                    "start": "ts477",
+                    "end": "ts478",
+                    "text": "entonces imauras ñuka shamungapa munani, casi cada fin de semana o cada ishkay semana"
+                },
+                {
+                    "start": "ts479",
+                    "end": "ts481",
+                    "text": "chishi,  vicinukunata"
+                },
+                {
+                    "start": "ts483",
+                    "end": "ts484",
+                    "text": "ari as 4 kunata shamuyta ushapani shuk sabado domingo, wakinpi viernes"
+                },
+                {
+                    "start": "ts485",
+                    "end": "ts486",
+                    "text": "lunes a jueves trabajani chishikunaka viernes sabado domingo ushapani"
+                },
+                {
+                    "start": "ts488",
+                    "end": "ts489",
+                    "text": "Ari ñuka willasha"
+                },
+                {
+                    "start": "ts491",
+                    "end": "ts492",
+                    "text": "Ñuka willasha"
+                },
+                {
+                    "start": "ts493",
+                    "end": "ts494",
+                    "text": "bueno shuk tapuykunata charini, solo parlaymanta kayma kay parlaymanta"
+                },
+                {
+                    "start": "ts495",
+                    "end": "ts496",
+                    "text": "kaypi  imashina ninguichi barrer"
+                },
+                {
+                    "start": "ts497",
+                    "end": "ts498",
+                    "text": "barrer kichwapi"
+                },
+                {
+                    "start": "ts500",
+                    "end": "ts503",
+                    "text": "pichana"
+                },
+                {
+                    "start": "ts505",
+                    "end": "ts506",
+                    "text": "pichana"
+                },
+                {
+                    "start": "ts509",
+                    "end": "ts513",
+                    "text": "nube imashina nin, puyu ari"
+                },
+                {
+                    "start": "ts515",
+                    "end": "ts516",
+                    "text": "imashina, hombre imashina nin kaypi"
+                },
+                {
+                    "start": "ts519",
+                    "end": "ts521",
+                    "text": "jari"
+                },
+                {
+                    "start": "ts524",
+                    "end": "ts526",
+                    "text": "y hiervita, hierba"
+                },
+                {
+                    "start": "ts528",
+                    "end": "ts529",
+                    "text": "jiwa"
+                },
+                {
+                    "start": "ts534",
+                    "end": "ts536",
+                    "text": "y chay planta chayman sara chagra washaman tiyan"
+                },
+                {
+                    "start": "ts537",
+                    "end": "ts538",
+                    "text": "ishki jatun como paypak sisa shina ukumanta shamun"
+                },
+                {
+                    "start": "ts540",
+                    "end": "ts541",
+                    "text": "imashuti kan chay"
+                },
+                {
+                    "start": "ts549",
+                    "end": "ts550",
+                    "text": "imashuti kan chay, penco nirkangui"
+                },
+                {
+                    "start": "ts551",
+                    "end": "ts552",
+                    "text": "cabuya, pero planta entero imashuti kan"
+                },
+                {
+                    "start": "ts556",
+                    "end": "ts558",
+                    "text": "y penco"
+                },
+                {
+                    "start": "ts563",
+                    "end": "ts565",
+                    "text": "chay ishki planta imashuti kan, shuk shutita charipanchu"
+                },
+                {
+                    "start": "ts567",
+                    "end": "ts570",
+                    "text": "uyashkanguichi chawar nikpi, chawar mishki"
+                },
+                {
+                    "start": "ts571",
+                    "end": "ts573",
+                    "text": "chay yaku llukshin chaymanta"
+                },
+                {
+                    "start": "ts579",
+                    "end": "ts580",
+                    "text": "a ima shina ninguichi kaypi hoja"
+                },
+                {
+                    "start": "ts581",
+                    "end": "ts582",
+                    "text": "hoja kichwapi"
+                },
+                {
+                    "start": "ts583",
+                    "end": "ts585",
+                    "text": "yura kan como tukuyta"
+                },
+                {
+                    "start": "ts586",
+                    "end": "ts588",
+                    "text": "hojita, panga nikpi panga"
+                },
+                {
+                    "start": "ts590",
+                    "end": "ts593",
+                    "text": "jatunkunalla"
+                },
+                {
+                    "start": "ts594",
+                    "end": "ts595",
+                    "text": "ynaga jiwa"
+                },
+                {
+                    "start": "ts599",
+                    "end": "ts600",
+                    "text": "y frio kaypi, imashina parlan frio"
+                },
+                {
+                    "start": "ts602",
+                    "end": "ts605",
+                    "text": "ari chiri chiri"
+                },
+                {
+                    "start": "ts612",
+                    "end": "ts615",
+                    "text": "y shukuna nin tziri o chiri"
+                },
+                {
+                    "start": "ts617",
+                    "end": "ts618",
+                    "text": "ashalla faltan 5 mintukukaman faltan paktangapa chawpi media hora"
+                },
+                {
+                    "start": "ts619",
+                    "end": "ts620",
+                    "text": "entonces chay cuentukunata yachapanguichi atug"
+                },
+                {
+                    "start": "ts621",
+                    "end": "ts623",
+                    "text": "cundur cuentukuna o"
+                },
+                {
+                    "start": "ts642",
+                    "end": "ts644",
+                    "text": "nachu abuelukuna parlana yacharka shina atug"
+                },
+                {
+                    "start": "ts645",
+                    "end": "ts646",
+                    "text": "kunu atukta umachina yachan"
+                },
+                {
+                    "start": "ts647",
+                    "end": "ts649",
+                    "text": "shina cuentukuna unaymanta uyashkanguichi"
+                },
+                {
+                    "start": "ts650",
+                    "end": "ts652",
+                    "text": "cuentukuna tiyanchu shina"
+                },
+                {
+                    "start": "ts653",
+                    "end": "ts654",
+                    "text": "abuelukula parlarka chayuras television illarka y solo cuentukuna rurana yacharka wakimpi"
+                },
+                {
+                    "start": "ts655",
+                    "end": "ts656",
+                    "text": "no se si shina karka kay sectorpi"
+                },
+                {
+                    "start": "ts663",
+                    "end": "ts665",
+                    "text": "tayta mama ni tayta"
+                },
+                {
+                    "start": "ts695",
+                    "end": "ts697",
+                    "text": "tonces kikimpa mama tianran nirkangui"
+                },
+                {
+                    "start": "ts703",
+                    "end": "ts704",
+                    "text": "chayuras warmikuna shina churana yacharka, uchila kashpa warmikuna chay shina churana"
+                },
+                {
+                    "start": "ts709",
+                    "end": "ts711",
+                    "text": "nachu kay shuk kuti puncha nachu kikimpa mama unanga shina entrevistata rurangapa"
+                },
+                {
+                    "start": "ts713",
+                    "end": "ts715",
+                    "text": "illanga ama manllachu"
+                },
+                {
+                    "start": "ts716",
+                    "end": "ts718",
+                    "text": "ama manchaychu, shuk gringu kan runa shimita parlan ningui shuk gringu kan nima tukunga"
+                },
+                {
+                    "start": "ts719",
+                    "end": "ts721",
+                    "text": "ama manchapangui ningui"
+                },
+                {
+                    "start": "ts723",
+                    "end": "ts725",
+                    "text": "shamungapa kuti"
+                },
+                {
+                    "start": "ts727",
+                    "end": "ts728",
+                    "text": "kikinka ashtawan parlayta ushapangui ashaguta"
+                },
+                {
+                    "start": "ts729",
+                    "end": "ts730",
+                    "text": "talvez chay viajikunamanta maykaman rishkangui iglesiamanta"
+                },
+                {
+                    "start": "ts731",
+                    "end": "ts732",
+                    "text": "ma ima llaktakunata riksingui"
+                },
+                {
+                    "start": "ts751",
+                    "end": "ts753",
+                    "text": "ima ashnawan rishkagui Santo Dominguman"
+                },
+                {
+                    "start": "ts760",
+                    "end": "ts762",
+                    "text": "ah chaypi"
+                },
+                {
+                    "start": "ts765",
+                    "end": "ts766",
+                    "text": "ari ari"
+                },
+                {
+                    "start": "ts768",
+                    "end": "ts770",
+                    "text": "chay Quinchi ladupi tiyan runakuna kichwata yachanchu"
+                },
+                {
+                    "start": "ts773",
+                    "end": "ts775",
+                    "text": "chayta riksini Chumillu"
+                },
+                {
+                    "start": "ts777",
+                    "end": "ts778",
+                    "text": "ya chay ñan tiyan jawa Quinchimanta, riksini"
+                },
+                {
+                    "start": "ts780",
+                    "end": "ts782",
+                    "text": "ari filu filu karka chayman wakimbi manchani chayta"
+                },
+                {
+                    "start": "ts787",
+                    "end": "ts788",
+                    "text": "ñuka rita yachani Oyacachiman"
+                },
+                {
+                    "start": "ts789",
+                    "end": "ts790",
+                    "text": "uyashkanguichu Oyacachi"
+                },
+                {
+                    "start": "ts793",
+                    "end": "ts795",
+                    "text": "ari, tiyan achika evangeliokuna chaypi"
+                },
+                {
+                    "start": "ts797",
+                    "end": "ts798",
+                    "text": "ñuka amigukuna chaypi familia Pariun"
+                },
+                {
+                    "start": "ts799",
+                    "end": "ts800",
+                    "text": "achika Pariunkuna tiyan chaypi"
+                },
+                {
+                    "start": "ts803",
+                    "end": "ts805",
+                    "text": "ah tonces rigsipangui Oyacachita"
+                },
+                {
+                    "start": "ts806",
+                    "end": "ts808",
+                    "text": "sumak llakta chaypi gustanimi ñuka"
+                },
+                {
+                    "start": "ts811",
+                    "end": "ts812",
+                    "text": "ah"
+                },
+                {
+                    "start": "ts813",
+                    "end": "ts814",
+                    "text": "Oyacachipi shuk riman nachu"
+                },
+                {
+                    "start": "ts816",
+                    "end": "ts818",
+                    "text": "como cantaditu shinalla uyarin chaykunapi"
+                },
+                {
+                    "start": "ts823",
+                    "end": "ts824",
+                    "text": "jaja, ñuka uchila kashapa taytamama apamuwarka  Quituman kawsangapag"
+                },
+                {
+                    "start": "ts825",
+                    "end": "ts826",
+                    "text": "chawpi wata familianti, gustarkani alli alli llakta kan gustani Ecuadurta"
+                },
+                {
+                    "start": "ts829",
+                    "end": "ts830",
+                    "text": "ari chaypish ali kan pero kipaman universidad kipa"
+                },
+                {
+                    "start": "ts831",
+                    "end": "ts832",
+                    "text": "ñuka shuk, bueno ñuka warmi kaymanda kan paypa taytamama"
+                },
+                {
+                    "start": "ts833",
+                    "end": "ts834",
+                    "text": "turi, ñaña tukuy kaypi kan, entonces"
+                },
+                {
+                    "start": "ts835",
+                    "end": "ts836",
+                    "text": "kawsarkanchi ñukapa tayta mamawan Estados Unidospi"
+                },
+                {
+                    "start": "ts837",
+                    "end": "ts838",
+                    "text": "asha shuk watakuna, chay kipa Europakman rirkanchi trabajangapag"
+                },
+                {
+                    "start": "ts839",
+                    "end": "ts840",
+                    "text": "Holandaman, y chay kipa shuk trabajo llukshirka kaypi"
+                },
+                {
+                    "start": "ts841",
+                    "end": "ts842",
+                    "text": "Chaymanta shamurkanchi kutin kaypa ñuka warmipa familiapakman"
+                },
+                {
+                    "start": "ts843",
+                    "end": "ts844",
+                    "text": "chayuras ñuka tayta mama kawsarka Quitupi"
+                },
+                {
+                    "start": "ts845",
+                    "end": "ts846",
+                    "text": "jubilakpi pay, jubilashpa rirka kutin Estados Unidusman"
+                },
+                {
+                    "start": "ts849",
+                    "end": "ts850",
+                    "text": "paykunapash unayta kawsarka Quitupi"
+                },
+                {
+                    "start": "ts851",
+                    "end": "ts852",
+                    "text": "ñuka familia siempre Ecuadurwan shuk relacion charirka, shamurkanchi ñakanchi bueno"
+                },
+                {
+                    "start": "ts853",
+                    "end": "ts854",
+                    "text": "shina como kaypi casararkani kaypi sakisha wawawan kani trabajuwan"
+                },
+                {
+                    "start": "ts855",
+                    "end": "ts856",
+                    "text": "warmiwan wawawan kaypi sakisha"
+                },
+                {
+                    "start": "ts857",
+                    "end": "ts858",
+                    "text": "cada wata rini shukviaje chayman cada wata shamun ishay viaje ñuka taytamama chaypi tupanchi"
+                },
+                {
+                    "start": "ts861",
+                    "end": "ts863",
+                    "text": "estados uniduspi"
+                },
+                {
+                    "start": "ts864",
+                    "end": "ts866",
+                    "text": "na charinchik allpata, tayta mama wasita charin"
+                },
+                {
+                    "start": "ts868",
+                    "end": "ts870",
+                    "text": "ñuka paniwan kawsan shina shuk lado tayta mama"
+                },
+                {
+                    "start": "ts871",
+                    "end": "ts872",
+                    "text": "shuk lado pani paypa kusa y  ñuka subrinukuna"
+                },
+                {
+                    "start": "ts873",
+                    "end": "ts874",
+                    "text": "tukuy paykuna shuk familia ishka lado"
+                },
+                {
+                    "start": "ts875",
+                    "end": "ts877",
+                    "text": "chaypi kawsan"
+                },
+                {
+                    "start": "ts878",
+                    "end": "ts880",
+                    "text": "imashina"
+                },
+                {
+                    "start": "ts882",
+                    "end": "ts884",
+                    "text": "wakimpi, como setecientos llukshin rina shamunapash"
+                },
+                {
+                    "start": "ts886",
+                    "end": "ts888",
+                    "text": "ashalla valishka, wakimpi ashalla yalishka kan como mil yalli"
+                },
+                {
+                    "start": "ts889",
+                    "end": "ts890",
+                    "text": "pero ñuka maskani baratukuna boletukuna mas baratukunata maskani"
+                },
+                {
+                    "start": "ts891",
+                    "end": "ts892",
+                    "text": "ah chaymanta mana paktani, ña shuk solo viaji watapi rin porque valishka kan"
+                },
+                {
+                    "start": "ts893",
+                    "end": "ts894",
+                    "text": "wawawan wawa ishkay watakama na paganllu, chay kipa wawapash paganga"
+                },
+                {
+                    "start": "ts895",
+                    "end": "ts897",
+                    "text": "kunan na aparkanchi navidadpi"
+                },
+                {
+                    "start": "ts898",
+                    "end": "ts900",
+                    "text": "na ishkay watakaman na paganchi"
+                },
+                {
+                    "start": "ts901",
+                    "end": "ts902",
+                    "text": "pero mamapa shina changakunapi shina rina kan"
+                },
+                {
+                    "start": "ts903",
+                    "end": "ts905",
+                    "text": "ña ishakay wata kipa ña asientupi churana, paipash pagana kan"
+                },
+                {
+                    "start": "ts906",
+                    "end": "ts908",
+                    "text": "ari, sinu makipi shina aparkanchi payta"
+                },
+                {
+                    "start": "ts909",
+                    "end": "ts910",
+                    "text": "wawata Estados Unidusman paypak abuelukuna visabuelukunata riksingapa chaypi"
+                },
+                {
+                    "start": "ts913",
+                    "end": "ts914",
+                    "text": "mm bueno como ñuka siempre ciudad okupi kawsarkani mana yapa tarpurkanichu"
+                },
+                {
+                    "start": "ts915",
+                    "end": "ts916",
+                    "text": "pero tiyan, ñuka llaktapi tiyan"
+                },
+                {
+                    "start": "ts917",
+                    "end": "ts918",
+                    "text": "algodon tarpuna yachan achikata, algodon churana ruran apangapa"
+                },
+                {
+                    "start": "ts919",
+                    "end": "ts920",
+                    "text": "e tiyan verduras, shina brocolikuna chaykuna tiyan"
+                },
+                {
+                    "start": "ts921",
+                    "end": "ts922",
+                    "text": "tiyan avena trigo, chaykunapash tiyan"
+                },
+                {
+                    "start": "ts923",
+                    "end": "ts924",
+                    "text": "i mas surman rishpa como costashnalla toronga, chashna frutakuna"
+                },
+                {
+                    "start": "ts925",
+                    "end": "ts926",
+                    "text": "casi costalaya ñuka llakta, como kunug llakta kan"
+                },
+                {
+                    "start": "ts927",
+                    "end": "ts928",
+                    "text": "na papa mana wiñanchu ñuka llaktapika"
+                },
+                {
+                    "start": "ts929",
+                    "end": "ts930",
+                    "text": "papa ni cebolla na yapa mas kunug kunug plantakuna"
+                },
+                {
+                    "start": "ts931",
+                    "end": "ts933",
+                    "text": "nara wiñanga ña"
+                },
+                {
+                    "start": "ts934",
+                    "end": "ts936",
+                    "text": "tiyanmi piru chay yapa uchilla killu sarakuna nose"
+                },
+                {
+                    "start": "ts937",
+                    "end": "ts938",
+                    "text": "mishki mishki como dulcishinalla shuk sara"
+                },
+                {
+                    "start": "ts940",
+                    "end": "ts942",
+                    "text": "kuykuna pero paykuna mana mikunchik kuyta chayta"
+                },
+                {
+                    "start": "ts943",
+                    "end": "ts944",
+                    "text": "kuchi tiyan,kuchi, atalpa chaykuna tiyan kuykuna mascota shinalla wawakuna charin"
+                },
+                {
+                    "start": "ts946",
+                    "end": "ts949",
+                    "text": "kaypi ña yachajurkani"
+                },
+                {
+                    "start": "ts950",
+                    "end": "ts952",
+                    "text": "ñuka compadrekuna paykunaka siempre apamun"
+                },
+                {
+                    "start": "ts953",
+                    "end": "ts954",
+                    "text": "mikuypa y chaypi mikuni"
+                },
+                {
+                    "start": "ts956",
+                    "end": "ts958",
+                    "text": "ari mishkimi, pero ninawan kusashka munan"
+                },
+                {
+                    "start": "ts959",
+                    "end": "ts960",
+                    "text": "yamtawan shina gustani, shuk laya sopa shinakuna na yapa gustani"
+                },
+                {
+                    "start": "ts961",
+                    "end": "ts962",
+                    "text": "yamtawan ña sumak mishkimi"
+                },
+                {
+                    "start": "ts968",
+                    "end": "ts970",
+                    "text": "haber ari pero ashaguta tapuna munarkani kay kanchamanta"
+                },
+                {
+                    "start": "ts971",
+                    "end": "ts972",
+                    "text": "kay kay kancha  kaypimannta kaymantachu"
+                },
+                {
+                    "start": "ts973",
+                    "end": "ts974",
+                    "text": "kaymanta sara o shuk rantishkachu"
+                },
+                {
+                    "start": "ts978",
+                    "end": "ts979",
+                    "text": "kaymanta"
+                },
+                {
+                    "start": "ts991",
+                    "end": "ts992",
+                    "text": "sumakmi aguacatipash uchupash kaymantachu"
+                },
+                {
+                    "start": "ts993",
+                    "end": "ts994",
+                    "text": "o randishka"
+                },
+                {
+                    "start": "ts997",
+                    "end": "ts998",
+                    "text": "y shuk clasekuna tiyanchu, roco y chaykuna"
+                },
+                {
+                    "start": "ts1006",
+                    "end": "ts1008",
+                    "text": "ari"
+                }
+            ]
+        },
+        {
+            "speaker": "Rosario Tupiza_po",
+            "annotations": [
+                {
+                    "start": "ts4",
+                    "end": "ts7",
+                    "text": "Rosario Tupizami kani"
+                },
+                {
+                    "start": "ts12",
+                    "end": "ts14",
+                    "text": "Kaypi nacidumimchi kuanchika"
+                },
+                {
+                    "start": "ts15",
+                    "end": "ts17",
+                    "text": "ñuka mamagarin kay jananuwalabi kawsan"
+                },
+                {
+                    "start": "ts18",
+                    "end": "ts20",
+                    "text": "Kaywalabi, mamita ñuka suedrunash wakta walabi kawsan"
+                },
+                {
+                    "start": "ts21",
+                    "end": "ts22",
+                    "text": "aqui nacido somos"
+                },
+                {
+                    "start": "ts29",
+                    "end": "ts31",
+                    "text": "ah nosotros como vivimos, mas antes"
+                },
+                {
+                    "start": "ts33",
+                    "end": "ts35",
+                    "text": "None"
+                },
+                {
+                    "start": "ts37",
+                    "end": "ts38",
+                    "text": "ukchikilawami kawzukanchi, escuilamash manash ushak"
+                },
+                {
+                    "start": "ts39",
+                    "end": "ts40",
+                    "text": "ñuka mamahunaka mana churashi nirkachu iscuilapi, alfabetami kani"
+                },
+                {
+                    "start": "ts41",
+                    "end": "ts42",
+                    "text": "chirukulami mashti alfabetizaciunman rukani estudianga"
+                },
+                {
+                    "start": "ts43",
+                    "end": "ts44",
+                    "text": "chimi firmawaltash yachani"
+                },
+                {
+                    "start": "ts45",
+                    "end": "ts46",
+                    "text": "antiska tiemputaka mana munajukachu churungapag iscuilaman kullki illinmi nisha"
+                },
+                {
+                    "start": "ts47",
+                    "end": "ts48",
+                    "text": "chika ñukaka mana yachishkanichu"
+                },
+                {
+                    "start": "ts49",
+                    "end": "ts50",
+                    "text": "wawki yuka wawki jatunkunataka churarinmi"
+                },
+                {
+                    "start": "ts51",
+                    "end": "ts52",
+                    "text": "jariunami nisha, warmiunataka mana"
+                },
+                {
+                    "start": "ts53",
+                    "end": "ts54",
+                    "text": "warmiunaka wawata cuidungawla nisha mana munushka ñuka mamita"
+                },
+                {
+                    "start": "ts55",
+                    "end": "ts56",
+                    "text": "chika mana ñukaka culigiuima escuela tukuchishkachu kani"
+                },
+                {
+                    "start": "ts61",
+                    "end": "ts62",
+                    "text": "januk kunun kunun piajipi chilapimi tikan uchuklala ñanwa"
+                },
+                {
+                    "start": "ts63",
+                    "end": "ts64",
+                    "text": "natikachu jatunga, chyruk"
+                },
+                {
+                    "start": "ts65",
+                    "end": "ts66",
+                    "text": "unos diez añuwalami amplika ñantaka"
+                },
+                {
+                    "start": "ts67",
+                    "end": "ts68",
+                    "text": "ñuka alpash chaypi tikami alpatash vulpitami apuka panapu"
+                },
+                {
+                    "start": "ts69",
+                    "end": "ts70",
+                    "text": "chaymuntaka chaywapi chakiñan walatika uchikila auto yaykunawala"
+                },
+                {
+                    "start": "ts71",
+                    "end": "ts72",
+                    "text": "kununka ya jatun adoquinadumi ura parquikaman"
+                },
+                {
+                    "start": "ts73",
+                    "end": "ts74",
+                    "text": "m, ahoraka ya tenemos"
+                },
+                {
+                    "start": "ts75",
+                    "end": "ts76",
+                    "text": "ñankunata jatunla ñanwata"
+                },
+                {
+                    "start": "ts77",
+                    "end": "ts78",
+                    "text": "autunuan lla buscunasha urujunmi"
+                },
+                {
+                    "start": "ts79",
+                    "end": "ts80",
+                    "text": "mashti Carcelinmunta, kay Carcelin jawamuntash urujunmunami shuk azul"
+                },
+                {
+                    "start": "ts81",
+                    "end": "ts82",
+                    "text": "Guadalajara urujumuna cada 15 minutumi lukshinajun"
+                },
+                {
+                    "start": "ts83",
+                    "end": "ts84",
+                    "text": "Quituma maima rugajush, kununka facilidad sia tinimos"
+                },
+                {
+                    "start": "ts89",
+                    "end": "ts90",
+                    "text": "Ñukanchi kaypi, kay pambapi tihinchik"
+                },
+                {
+                    "start": "ts91",
+                    "end": "ts92",
+                    "text": "Ñukanchika na mashti trabajunchichu Empleada"
+                },
+                {
+                    "start": "ts93",
+                    "end": "ts94",
+                    "text": "no nosotroska no trabajanchichu, kaypi tinchi kuchiwata cuidisha"
+                },
+                {
+                    "start": "ts95",
+                    "end": "ts96",
+                    "text": "Atalpakunata cuidisha , kushiwakunata cuidisha, cunijuhanta cuidishami tinchi"
+                },
+                {
+                    "start": "ts97",
+                    "end": "ts98",
+                    "text": "ashkuwakunamanda, misiwakunamanda, shinisha feriaman lukshinchik"
+                },
+                {
+                    "start": "ts99",
+                    "end": "ts100",
+                    "text": "Calderunma, kuchinka kutin kay jananu curvalaman murunchi"
+                },
+                {
+                    "start": "ts101",
+                    "end": "ts102",
+                    "text": "domingukunata kuchi jatungaka, sinuka kaypi wañuchisha jatunchi aychabi"
+                },
+                {
+                    "start": "ts103",
+                    "end": "ts104",
+                    "text": "ah shina ñuka jatun, kuti atalpakunata caldiruntami lukshinchik"
+                },
+                {
+                    "start": "ts105",
+                    "end": "ts106",
+                    "text": "Kuywakuna ashkuhuna misiwakunawanka calderon feriamanmi rinchi domingulta"
+                },
+                {
+                    "start": "ts108",
+                    "end": "ts110",
+                    "text": "Domingu punchalta jatukmi kuchi, kuywakuna jatuna"
+                },
+                {
+                    "start": "ts111",
+                    "end": "ts112",
+                    "text": "kayash rinami nan atalpata jatungapa, sarata tarpushkatami mikujunla"
+                },
+                {
+                    "start": "ts113",
+                    "end": "ts114",
+                    "text": "ashata riba(..."
+                },
+                {
+                    "start": "ts118",
+                    "end": "ts122",
+                    "text": "cuniju, chita, llamaltami mana charin"
+                },
+                {
+                    "start": "ts125",
+                    "end": "ts126",
+                    "text": "llama"
+                },
+                {
+                    "start": "ts129",
+                    "end": "ts131",
+                    "text": "na kaypika tiyanllu"
+                },
+                {
+                    "start": "ts132",
+                    "end": "ts134",
+                    "text": "no, solo chitawakunata wagratash na charinchichu"
+                },
+                {
+                    "start": "ts135",
+                    "end": "ts136",
+                    "text": "maypi mikuna no hay jiwa"
+                },
+                {
+                    "start": "ts137",
+                    "end": "ts138",
+                    "text": "na charinchichu pish chitawakunash wakinwala charina"
+                },
+                {
+                    "start": "ts141",
+                    "end": "ts142",
+                    "text": "chagrakunataka tarpunchigmi cada"
+                },
+                {
+                    "start": "ts143",
+                    "end": "ts144",
+                    "text": "cada enero, cada noviembre chypi tarpukpimi wakimpi tamia watikpika pudin"
+                },
+                {
+                    "start": "ts145",
+                    "end": "ts146",
+                    "text": "tarpunchikmi sarawa purutuwa, sapalluwa, sambua"
+                },
+                {
+                    "start": "ts147",
+                    "end": "ts148",
+                    "text": "inchiwa, inchiwata tarpukani kayna wata chimi inchingunka chan"
+                },
+                {
+                    "start": "ts149",
+                    "end": "ts150",
+                    "text": "kayna wataka tukukami inchiwata tarpukanimi kayna wataka tamirkami"
+                },
+                {
+                    "start": "ts151",
+                    "end": "ts152",
+                    "text": "kunun wataka na tamigrilayachu"
+                },
+                {
+                    "start": "ts153",
+                    "end": "ts154",
+                    "text": "deahika cushichamu sarata tipinchi"
+                },
+                {
+                    "start": "ts155",
+                    "end": "ts156",
+                    "text": "mashti charki wawata japinchi cuyipi wakichingapu"
+                },
+                {
+                    "start": "ts157",
+                    "end": "ts158",
+                    "text": "alfaka alfaka mana shamunlachu"
+                },
+                {
+                    "start": "ts159",
+                    "end": "ts160",
+                    "text": "charki chakishkawatami karunchi kuymun cunijumun"
+                },
+                {
+                    "start": "ts161",
+                    "end": "ts163",
+                    "text": "ah ah"
+                },
+                {
+                    "start": "ts165",
+                    "end": "ts166",
+                    "text": "chikta jatunmi tukunga chukllumunta wichimunmi fakinchi wakichingapa"
+                },
+                {
+                    "start": "ts167",
+                    "end": "ts168",
+                    "text": "kuyinamunya jiwa ishtimpu karangapu"
+                },
+                {
+                    "start": "ts169",
+                    "end": "ts170",
+                    "text": "chiwatami ayudachinchi, chimantaka alfaka wakimpi mana shamun wakimpika shamun"
+                },
+                {
+                    "start": "ts171",
+                    "end": "ts172",
+                    "text": "chimuntaka chiwatami karunchi wakimpika"
+                },
+                {
+                    "start": "ts173",
+                    "end": "ts174",
+                    "text": "chshinaka sarata tipinchi ishkunchi wakichinchi kanchawata mikungapa"
+                },
+                {
+                    "start": "ts175",
+                    "end": "ts176",
+                    "text": "sara maskawata turungapa"
+                },
+                {
+                    "start": "ts177",
+                    "end": "ts178",
+                    "text": "chaitami tarpunchi na jabusma ima kinua imata na tarpunchichu"
+                },
+                {
+                    "start": "ts179",
+                    "end": "ts180",
+                    "text": "chayka utavalukunapimi chiimi tarpunga, cibadakuna"
+                },
+                {
+                    "start": "ts181",
+                    "end": "ts182",
+                    "text": "muruchukuna kaypika na, sarawakta sara amarilluwaltami tarpunchi, chaymantaka mana tarpunchichu"
+                },
+                {
+                    "start": "ts183",
+                    "end": "ts184",
+                    "text": "mana tamian alli"
+                },
+                {
+                    "start": "ts187",
+                    "end": "ts188",
+                    "text": "chuchukata urungapa wakimpika sarata rurungapa warkunchi"
+                },
+                {
+                    "start": "ts189",
+                    "end": "ts190",
+                    "text": "na jatunchichu jatuytapash, atalpagukunapug kuchiwakunapukmi wakichinchi"
+                },
+                {
+                    "start": "ts191",
+                    "end": "ts192",
+                    "text": "sarawataka, na jatunchichu kaypika"
+                },
+                {
+                    "start": "ts193",
+                    "end": "ts194",
+                    "text": "kaypika uchikila apagukunami cayambikunapika jatun alparuku chymuntami jatuna, ñukanchika mana jatunchichu"
+                },
+                {
+                    "start": "ts195",
+                    "end": "ts196",
+                    "text": "mikungapa anchawata wakichinchi"
+                },
+                {
+                    "start": "ts277",
+                    "end": "ts279",
+                    "text": "miguelpi"
+                },
+                {
+                    "start": "ts281",
+                    "end": "ts282",
+                    "text": "Capillaa, llano grande"
+                },
+                {
+                    "start": "ts284",
+                    "end": "ts286",
+                    "text": "Cocotogkunash parlanaunma"
+                },
+                {
+                    "start": "ts287",
+                    "end": "ts290",
+                    "text": "ah pero otru, utru idioma"
+                },
+                {
+                    "start": "ts293",
+                    "end": "ts294",
+                    "text": "tiangami mayurkuna, mayurkunaka parlanaurunmi"
+                },
+                {
+                    "start": "ts301",
+                    "end": "ts302",
+                    "text": "imatatug parlashuk, comunata?"
+                },
+                {
+                    "start": "ts303",
+                    "end": "ts305",
+                    "text": "imata"
+                },
+                {
+                    "start": "ts308",
+                    "end": "ts309",
+                    "text": "Ñukanchika"
+                },
+                {
+                    "start": "ts310",
+                    "end": "ts312",
+                    "text": "Afiliada minchi sigurupi"
+                },
+                {
+                    "start": "ts313",
+                    "end": "ts314",
+                    "text": "y siguro campesino minchi ñukanchikka"
+                },
+                {
+                    "start": "ts315",
+                    "end": "ts316",
+                    "text": "ungushalla rinala ninchi hospitalkunaman"
+                },
+                {
+                    "start": "ts317",
+                    "end": "ts318",
+                    "text": "ña kaypi comunidadpi firmachisha rinalami ninchi"
+                },
+                {
+                    "start": "ts319",
+                    "end": "ts320",
+                    "text": "jambiringapa chipika, yalli antindina ñukanchi campesinukunata"
+                },
+                {
+                    "start": "ts321",
+                    "end": "ts322",
+                    "text": "chika comuna presidentikunata mañishami rinchi"
+                },
+                {
+                    "start": "ts323",
+                    "end": "ts324",
+                    "text": "permisuta, ducturpish tinmi"
+                },
+                {
+                    "start": "ts325",
+                    "end": "ts326",
+                    "text": "ña seguro campesino, anteska antendia aqui"
+                },
+                {
+                    "start": "ts327",
+                    "end": "ts328",
+                    "text": "Uyakutu parquimi, kununka wasi illan doctorpo"
+                },
+                {
+                    "start": "ts329",
+                    "end": "ts330",
+                    "text": "shinashpa jawa san Miguelmanmi rinchi kunun jambiringapaka"
+                },
+                {
+                    "start": "ts331",
+                    "end": "ts332",
+                    "text": "imata jambirinata yña chimanmi rinchi, kunanga ducturpash illin"
+                },
+                {
+                    "start": "ts333",
+                    "end": "ts334",
+                    "text": "jawa comunapika antindinmi piru"
+                },
+                {
+                    "start": "ts335",
+                    "end": "ts336",
+                    "text": "kay Uyakutupimi mana tiyan"
+                },
+                {
+                    "start": "ts338",
+                    "end": "ts340",
+                    "text": "Comunata pishtata runchimi"
+                },
+                {
+                    "start": "ts341",
+                    "end": "ts342",
+                    "text": "cada san, kayka san Francisco de Oyakutumi shutika"
+                },
+                {
+                    "start": "ts343",
+                    "end": "ts344",
+                    "text": "chika cada watami runchi pishtata kay barrio pishtata"
+                },
+                {
+                    "start": "ts345",
+                    "end": "ts346",
+                    "text": "bandakunawan, orquestakunawan"
+                },
+                {
+                    "start": "ts347",
+                    "end": "ts348",
+                    "text": "cervezakunawan , tragukunawan runchi"
+                },
+                {
+                    "start": "ts349",
+                    "end": "ts350",
+                    "text": "wakimpika shingayanchichu, wakimpika na shingayanchichu"
+                },
+                {
+                    "start": "ts352",
+                    "end": "ts354",
+                    "text": "en 4 de octubre"
+                },
+                {
+                    "start": "ts355",
+                    "end": "ts356",
+                    "text": "dia de san francisco, ahi es 4 de octubre"
+                },
+                {
+                    "start": "ts357",
+                    "end": "ts358",
+                    "text": "chimuntaka na imata runchichu ashtawan comunapika  migaukuna tiakpi mingaman lukshinchi"
+                },
+                {
+                    "start": "ts360",
+                    "end": "ts362",
+                    "text": "minga tinmi wakimpi cimintiriuta limpiangapa, calliukunata limpiangapug"
+                },
+                {
+                    "start": "ts363",
+                    "end": "ts364",
+                    "text": "rinchikmi mingama, wakinlapi piru mana"
+                },
+                {
+                    "start": "ts365",
+                    "end": "ts366",
+                    "text": "kallarisha rinchichu"
+                },
+                {
+                    "start": "ts368",
+                    "end": "ts369",
+                    "text": "ah tinmi"
+                },
+                {
+                    "start": "ts371",
+                    "end": "ts372",
+                    "text": "chiru kay enewaltami cambiarinajurka directiva"
+                },
+                {
+                    "start": "ts373",
+                    "end": "ts374",
+                    "text": "pero mana rikanichu, chayka ñuka primu niglatami uyani presidentipaka"
+                },
+                {
+                    "start": "ts375",
+                    "end": "ts376",
+                    "text": "primumi"
+                },
+                {
+                    "start": "ts377",
+                    "end": "ts378",
+                    "text": "chimuntaka piro mana rirkanichu mana ñukaka kay waktalapi kawsani"
+                },
+                {
+                    "start": "ts379",
+                    "end": "ts380",
+                    "text": "kaparukta mana uyani wichimun run urimun run chingunlami yalli"
+                },
+                {
+                    "start": "ts381",
+                    "end": "ts382",
+                    "text": "chika mana uyishaka mana rishkanchu"
+                },
+                {
+                    "start": "ts383",
+                    "end": "ts384",
+                    "text": "primumi presidenti niglata uyani"
+                },
+                {
+                    "start": "ts385",
+                    "end": "ts386",
+                    "text": "chimuntaka, warmikuna jarikunami yaykunchi"
+                },
+                {
+                    "start": "ts387",
+                    "end": "ts388",
+                    "text": "shina siguro campesinupika warmikunala kanchi"
+                },
+                {
+                    "start": "ts389",
+                    "end": "ts390",
+                    "text": "prisidenti, vicepresidente shina warmikunala"
+                },
+                {
+                    "start": "ts391",
+                    "end": "ts392",
+                    "text": "nada mas"
+                },
+                {
+                    "start": "ts399",
+                    "end": "ts400",
+                    "text": "mana kaypika ashta ofrecinchichu"
+                },
+                {
+                    "start": "ts401",
+                    "end": "ts402",
+                    "text": "piru doctorkunala shina"
+                },
+                {
+                    "start": "ts403",
+                    "end": "ts404",
+                    "text": "spantuk wawakunata mancharishka nishka wawata Caldirunpi rizachiklayami rinchi"
+                },
+                {
+                    "start": "ts405",
+                    "end": "ts406",
+                    "text": "chaymantaka na ofrecinchichu chi yachakkuna Otavulupi uyashkanchi chikuna"
+                },
+                {
+                    "start": "ts407",
+                    "end": "ts408",
+                    "text": "kaypika na, kaypika yachikkunapachash na tinchu"
+                },
+                {
+                    "start": "ts409",
+                    "end": "ts410",
+                    "text": "kay barriupika, shuk barriukunapika tinmi piru kaypi na uyashkanichuma"
+                },
+                {
+                    "start": "ts413",
+                    "end": "ts414",
+                    "text": "wakinkunala chaymantaka na yachanchichu"
+                },
+                {
+                    "start": "ts415",
+                    "end": "ts416",
+                    "text": "docturlama rinchi, ungushama nanukpimash ducturlaman"
+                },
+                {
+                    "start": "ts417",
+                    "end": "ts418",
+                    "text": "chimuntaka na, na maytash rinchichuk"
+                },
+                {
+                    "start": "ts426",
+                    "end": "ts430",
+                    "text": "kayamujunmi kusalla kayamujunmi"
+                },
+                {
+                    "start": "ts436",
+                    "end": "ts440",
+                    "text": "parlanami, paykunaka"
+                },
+                {
+                    "start": "ts441",
+                    "end": "ts442",
+                    "text": "Ñukanchi edadlatuka mamakuna yachachishkami"
+                },
+                {
+                    "start": "ts443",
+                    "end": "ts444",
+                    "text": "wawara kuti mana uyitaka uyanakunmi parlanami wawata"
+                },
+                {
+                    "start": "ts445",
+                    "end": "ts446",
+                    "text": "chika intinanmi vultachitami mana pudin"
+                },
+                {
+                    "start": "ts447",
+                    "end": "ts448",
+                    "text": "intindinmi, ñuka mamitakarun kichwalapimi parlan kununkama"
+                },
+                {
+                    "start": "ts449",
+                    "end": "ts450",
+                    "text": "ah ah chaymuntaka intindinimi nimu tigrachitaka mana pudina"
+                },
+                {
+                    "start": "ts455",
+                    "end": "ts456",
+                    "text": "kusakunawan parlangapug"
+                },
+                {
+                    "start": "ts458",
+                    "end": "ts460",
+                    "text": "o ñuka kusaka de lunes a sabado"
+                },
+                {
+                    "start": "ts461",
+                    "end": "ts462",
+                    "text": "o aveceska domingutan trabaja, no tiene tiempu, mana tiempu charinchu"
+                },
+                {
+                    "start": "ts463",
+                    "end": "ts464",
+                    "text": "timputa charishash pukllangapakmi rin fulblta bulita pukllan payka"
+                },
+                {
+                    "start": "ts469",
+                    "end": "ts470",
+                    "text": "shamungui ñakuti imaura kayamunguilama mariaman"
+                },
+                {
+                    "start": "ts471",
+                    "end": "ts472",
+                    "text": "imawrash kaypika tandanajungapa, jarimambash willangapa"
+                },
+                {
+                    "start": "ts480",
+                    "end": "ts482",
+                    "text": "tardikunata, kusaka las 4kunata ña chayamun ña"
+                },
+                {
+                    "start": "ts487",
+                    "end": "ts490",
+                    "text": "tiyanajungami shinaka, willajunguila mariamun"
+                },
+                {
+                    "start": "ts499",
+                    "end": "ts501",
+                    "text": "uktsha pichingui ninchi"
+                },
+                {
+                    "start": "ts502",
+                    "end": "ts504",
+                    "text": "o pichana"
+                },
+                {
+                    "start": "ts507",
+                    "end": "ts508",
+                    "text": "pichana, escobata japisha uktasha japichingui nishami wawakunata mandasha wakimpika rin"
+                },
+                {
+                    "start": "ts510",
+                    "end": "ts511",
+                    "text": "puyu"
+                },
+                {
+                    "start": "ts512",
+                    "end": "ts514",
+                    "text": "puyu ninchi, puyu jundamunmi ñala tamiangami ninchi"
+                },
+                {
+                    "start": "ts517",
+                    "end": "ts518",
+                    "text": "jari"
+                },
+                {
+                    "start": "ts520",
+                    "end": "ts522",
+                    "text": "jarika shamungami uktusha yanungui mikunata ninchi"
+                },
+                {
+                    "start": "ts523",
+                    "end": "ts525",
+                    "text": "yarjingui shamunga nisha"
+                },
+                {
+                    "start": "ts527",
+                    "end": "ts530",
+                    "text": "jiwa, o libu"
+                },
+                {
+                    "start": "ts531",
+                    "end": "ts532",
+                    "text": "jiwa, wakimpika runchimi"
+                },
+                {
+                    "start": "ts533",
+                    "end": "ts535",
+                    "text": "kuywakunaman karangapug alfa mana shamukpi"
+                },
+                {
+                    "start": "ts539",
+                    "end": "ts542",
+                    "text": "chika kabuyami, cabuyata llukchinamuntami takiru lukshin"
+                },
+                {
+                    "start": "ts543",
+                    "end": "ts544",
+                    "text": "ña tukuylla waskata ruanami chayka (..."
+                },
+                {
+                    "start": "ts545",
+                    "end": "ts546",
+                    "text": "chimuntaka ña fukushaka kiru lukshijun, kirutaka wakimpika wakichinchimi aguakatica pakita pallangapug"
+                },
+                {
+                    "start": "ts547",
+                    "end": "ts548",
+                    "text": "chi kaspiwan pallanchi"
+                },
+                {
+                    "start": "ts553",
+                    "end": "ts554",
+                    "text": "por eso la planta entero se llama cabuya"
+                },
+                {
+                    "start": "ts555",
+                    "end": "ts557",
+                    "text": "para hacer cabuya lo que sea"
+                },
+                {
+                    "start": "ts559",
+                    "end": "ts560",
+                    "text": "pincuka otro es para sacar mishki"
+                },
+                {
+                    "start": "ts561",
+                    "end": "ts562",
+                    "text": "mishkilatami lukshinchi pencumuntaka, kayka kuti cabuyata waskata ruanami"
+                },
+                {
+                    "start": "ts564",
+                    "end": "ts566",
+                    "text": "na pinculami ninchi chimuntami mishkita uktunchi, chaymuntami mishkika lukshin"
+                },
+                {
+                    "start": "ts568",
+                    "end": "ts569",
+                    "text": "chawar mishki"
+                },
+                {
+                    "start": "ts572",
+                    "end": "ts574",
+                    "text": "ha yaku lukshin baldi uchukilawan kimsa litro chusku litrumi lukshin"
+                },
+                {
+                    "start": "ts575",
+                    "end": "ts576",
+                    "text": "chimunta cuzinunchi mashti upinchi, wakinkunaka jatugrinami"
+                },
+                {
+                    "start": "ts577",
+                    "end": "ts578",
+                    "text": "tullupa allinumi kunug jatunchimi chaytash wakimpika"
+                },
+                {
+                    "start": "ts584",
+                    "end": "ts587",
+                    "text": "hojita"
+                },
+                {
+                    "start": "ts589",
+                    "end": "ts591",
+                    "text": "pangaka chay sara pangatami ninchi panga"
+                },
+                {
+                    "start": "ts592",
+                    "end": "ts596",
+                    "text": "ah ah, kay wataka na imata ninchichu, yanga jiwa"
+                },
+                {
+                    "start": "ts597",
+                    "end": "ts598",
+                    "text": "alpa jiwa ninchi"
+                },
+                {
+                    "start": "ts601",
+                    "end": "ts603",
+                    "text": "wayra wayrami chiri chirimi ninchi"
+                },
+                {
+                    "start": "ts604",
+                    "end": "ts606",
+                    "text": "ari, chiri chiri, pero"
+                },
+                {
+                    "start": "ts607",
+                    "end": "ts608",
+                    "text": "shina lumala wasikunapimi chiri, undunalakunapika kunuglami"
+                },
+                {
+                    "start": "ts609",
+                    "end": "ts610",
+                    "text": "ah cunuglami, chirigpika chalinata fachalinchi"
+                },
+                {
+                    "start": "ts611",
+                    "end": "ts613",
+                    "text": "ama chirichun"
+                },
+                {
+                    "start": "ts614",
+                    "end": "ts616",
+                    "text": "chiri ninchi, asha chiri chirimi ninchi"
+                },
+                {
+                    "start": "ts622",
+                    "end": "ts624",
+                    "text": "atugta, kununka timpu timpu uchulagpika"
+                },
+                {
+                    "start": "ts625",
+                    "end": "ts626",
+                    "text": "tigmi yukaka (chulashaka..."
+                },
+                {
+                    "start": "ts627",
+                    "end": "ts628",
+                    "text": "chipika mashti wakanajunmi atugkunaka jarjin"
+                },
+                {
+                    "start": "ts629",
+                    "end": "ts630",
+                    "text": "kununka mana runchichu ya churuma kaywalapi runchiya imata runayashayma tarpunchi"
+                },
+                {
+                    "start": "ts631",
+                    "end": "ts632",
+                    "text": "takshinchi, shina pasunchi mana churumanka rinchichu, kununka atugpash mana rikurinchu"
+                },
+                {
+                    "start": "ts633",
+                    "end": "ts634",
+                    "text": "timputaka atalpagukunata apuglami atugka"
+                },
+                {
+                    "start": "ts635",
+                    "end": "ts636",
+                    "text": "yarijin, chika chimkachin atalputaka  kununka kay"
+                },
+                {
+                    "start": "ts637",
+                    "end": "ts638",
+                    "text": "aeropuertumun rungapug callita rushka kay kunugpi, chaymuntak atugka chingashkami"
+                },
+                {
+                    "start": "ts639",
+                    "end": "ts640",
+                    "text": "atugsh manchari maitash riringa, kununka illinmi atugka"
+                },
+                {
+                    "start": "ts641",
+                    "end": "ts643",
+                    "text": "na rikunichu"
+                },
+                {
+                    "start": "ts648",
+                    "end": "ts651",
+                    "text": "na uyishkanichu"
+                },
+                {
+                    "start": "ts657",
+                    "end": "ts658",
+                    "text": "shina shinatakmi karka, pero mana ñukaka abuelukunata riksishkanichu"
+                },
+                {
+                    "start": "ts659",
+                    "end": "ts660",
+                    "text": "no na riksinichu ni mamagu ni yayagukta na riksirinichu"
+                },
+                {
+                    "start": "ts661",
+                    "end": "ts662",
+                    "text": "de ahika nu no me han conversado nada"
+                },
+                {
+                    "start": "ts664",
+                    "end": "ts666",
+                    "text": "mamaka chituku yachachirinmi shina kichwapi parlana pambakunapi rurana"
+                },
+                {
+                    "start": "ts667",
+                    "end": "ts668",
+                    "text": "shinawantaka yacharinmi mama, mama como kawsanra kununkama"
+                },
+                {
+                    "start": "ts669",
+                    "end": "ts670",
+                    "text": "chimuntami ñukanchi shinalla rusha tinchi mama cuinta mama yachachishkaka"
+                },
+                {
+                    "start": "ts671",
+                    "end": "ts672",
+                    "text": "sakishka ñukanchika kaypi wasipi tiyanchi kusalta chapusha kulkitapush"
+                },
+                {
+                    "start": "ts673",
+                    "end": "ts674",
+                    "text": "chika kullkish yalli tukurijun kusala trabajukpika jakumta pagana luzmunta pagana"
+                },
+                {
+                    "start": "ts675",
+                    "end": "ts676",
+                    "text": "tukurunla kullkika"
+                },
+                {
+                    "start": "ts677",
+                    "end": "ts678",
+                    "text": "trakturkunama pagana yapuchingapa"
+                },
+                {
+                    "start": "ts679",
+                    "end": "ts680",
+                    "text": "piunkunata churanchi jalmachun na paktashpaka kuanchika sulituwaka na paktunchi"
+                },
+                {
+                    "start": "ts681",
+                    "end": "ts682",
+                    "text": "piunkunata churushami jalmachinchi jalmachisha wakimpika"
+                },
+                {
+                    "start": "ts683",
+                    "end": "ts684",
+                    "text": "sinuka mingawatami runchi, ñukanchi familiapura, ñukanchi visinu pura"
+                },
+                {
+                    "start": "ts685",
+                    "end": "ts686",
+                    "text": "makiwata mañachishami tarpunchi ayudachun ñukash randi ayudaytukungapa"
+                },
+                {
+                    "start": "ts687",
+                    "end": "ts688",
+                    "text": "chilami runchi kusakunaka na aydasha ninchu, shaykushkami shamunchi nin trabajumanta"
+                },
+                {
+                    "start": "ts689",
+                    "end": "ts690",
+                    "text": "shinashaka mana ayudashun ninachu pamba ruraytaka"
+                },
+                {
+                    "start": "ts691",
+                    "end": "ts692",
+                    "text": "shajushkami nin tiyanajunmi paykunaka teleta rikusha"
+                },
+                {
+                    "start": "ts693",
+                    "end": "ts694",
+                    "text": "jajaja"
+                },
+                {
+                    "start": "ts696",
+                    "end": "ts698",
+                    "text": "tianrami mamaka ñukapaka"
+                },
+                {
+                    "start": "ts699",
+                    "end": "ts700",
+                    "text": "paykunaka anakuwannami ñukanchilami calsunkunata churakushka tiyanchi kunanka"
+                },
+                {
+                    "start": "ts701",
+                    "end": "ts702",
+                    "text": "anakutami payka umawatishkami kan(..."
+                },
+                {
+                    "start": "ts705",
+                    "end": "ts706",
+                    "text": "ari ñuka mamitala shinarakmi todavia anakun , ñukalami calzun churakuni ama chuspi mikuchun"
+                },
+                {
+                    "start": "ts707",
+                    "end": "ts708",
+                    "text": "a chuspi mikunga, chakita jajaj"
+                },
+                {
+                    "start": "ts710",
+                    "end": "ts712",
+                    "text": "uyangami"
+                },
+                {
+                    "start": "ts714",
+                    "end": "ts717",
+                    "text": "pinganinmi nrkami nin"
+                },
+                {
+                    "start": "ts720",
+                    "end": "ts722",
+                    "text": "ya"
+                },
+                {
+                    "start": "ts819",
+                    "end": "ts820",
+                    "text": "ñukash wawkita tapuni, tapusha parlajunguichu ñukawan"
+                },
+                {
+                    "start": "ts821",
+                    "end": "ts822",
+                    "text": "ya imata nishata kaymana shamurkangui mama yayata shitashaka"
+                },
+                {
+                    "start": "ts827",
+                    "end": "ts828",
+                    "text": "kuti chaypi kambug llaktaka kuti imatig"
+                },
+                {
+                    "start": "ts847",
+                    "end": "ts848",
+                    "text": "ah yachu jubilaka"
+                },
+                {
+                    "start": "ts859",
+                    "end": "ts860",
+                    "text": "chaypika allpakunataka charinguichu"
+                },
+                {
+                    "start": "ts862",
+                    "end": "ts865",
+                    "text": "ah ah"
+                },
+                {
+                    "start": "ts867",
+                    "end": "ts869",
+                    "text": "wasiwatachu charinguichi"
+                },
+                {
+                    "start": "ts876",
+                    "end": "ts879",
+                    "text": "aviunpika imashinatata pagungui"
+                },
+                {
+                    "start": "ts881",
+                    "end": "ts883",
+                    "text": "Aviumpika imashinata valin pasajika"
+                },
+                {
+                    "start": "ts885",
+                    "end": "ts887",
+                    "text": "shukpika"
+                },
+                {
+                    "start": "ts896",
+                    "end": "ts899",
+                    "text": "llulluwaka nacha pagan"
+                },
+                {
+                    "start": "ts904",
+                    "end": "ts907",
+                    "text": "paylla pagana"
+                },
+                {
+                    "start": "ts911",
+                    "end": "ts912",
+                    "text": "kuti kan kambug llaktapika imatatak tarpunguichik"
+                },
+                {
+                    "start": "ts932",
+                    "end": "ts935",
+                    "text": "sara tinchu"
+                },
+                {
+                    "start": "ts939",
+                    "end": "ts941",
+                    "text": "chaypika tinchuri kuchikuna kuykuna tinchuri"
+                },
+                {
+                    "start": "ts945",
+                    "end": "ts947",
+                    "text": "mikunataka nachu yachanguichi"
+                },
+                {
+                    "start": "ts948",
+                    "end": "ts951",
+                    "text": "ah ya cunanka mikunata yachingichu"
+                },
+                {
+                    "start": "ts955",
+                    "end": "ts957",
+                    "text": "mishkitu"
+                },
+                {
+                    "start": "ts963",
+                    "end": "ts964",
+                    "text": "ah"
+                },
+                {
+                    "start": "ts965",
+                    "end": "ts966",
+                    "text": "ya pues parlakanchi"
+                },
+                {
+                    "start": "ts967",
+                    "end": "ts969",
+                    "text": "samashun samashun kanchawata mikungapa"
+                },
+                {
+                    "start": "ts975",
+                    "end": "ts976",
+                    "text": "kaymunta sarami kun"
+                },
+                {
+                    "start": "ts977",
+                    "end": "ts980",
+                    "text": "kaishuk aguakatish kaylmuntami kan, kay wanta walapika kawsani"
+                },
+                {
+                    "start": "ts981",
+                    "end": "ts982",
+                    "text": "yurakunata charini, chaymuntami pallakani"
+                },
+                {
+                    "start": "ts983",
+                    "end": "ts984",
+                    "text": "kukagug(..."
+                },
+                {
+                    "start": "ts985",
+                    "end": "ts986",
+                    "text": "inchikta tarpukani janag pambapi, chika tukukami"
+                },
+                {
+                    "start": "ts987",
+                    "end": "ts988",
+                    "text": "ari tukushkatami wakichiryani quinchi uchupug"
+                },
+                {
+                    "start": "ts989",
+                    "end": "ts990",
+                    "text": "kanchawan mikungapa, kay kanchaka kaymanta nacidu sarami"
+                },
+                {
+                    "start": "ts995",
+                    "end": "ts996",
+                    "text": "randishkami uchuka, wakimpika pero charinchimi tarpusha yurawalitaka"
+                },
+                {
+                    "start": "ts999",
+                    "end": "ts1000",
+                    "text": "na tarpunchichu"
+                },
+                {
+                    "start": "ts1001",
+                    "end": "ts1002",
+                    "text": "jaku mana tiyan agua potablewalaka no alcanza"
+                },
+                {
+                    "start": "ts1003",
+                    "end": "ts1004",
+                    "text": "sembra nada...na tarpunchichu, yaku tikpi riegu de aga tikpika tarpunchimanmi"
+                },
+                {
+                    "start": "ts1005",
+                    "end": "ts1007",
+                    "text": "tukiy  clase de plantitagukunata, yaku mana tikpika mana tarpunchichu"
+                },
+                {
+                    "start": "ts1009",
+                    "end": "ts1010",
+                    "text": "Chimuntaka tayta Dios yakuwalami sarawanalta  tarpunchi"
+                }
+            ]
+        },
+        {
+            "speaker": "Hermelinda Tituaña_po",
+            "annotations": [
+                {
+                    "start": "ts9",
+                    "end": "ts10",
+                    "text": "Hermelinda Tituaña"
+                },
+                {
+                    "start": "ts34",
+                    "end": "ts36",
+                    "text": "Taza umala kawsakani jajaj"
+                },
+                {
+                    "start": "ts203",
+                    "end": "ts204",
+                    "text": "ñukaka kaymunta shinatu nachishkami, ñuka mamitaka ña wañurkan"
+                },
+                {
+                    "start": "ts205",
+                    "end": "ts206",
+                    "text": "ñuka kaypi tiyani"
+                },
+                {
+                    "start": "ts207",
+                    "end": "ts208",
+                    "text": "ñuka papitush na kawsunchu"
+                },
+                {
+                    "start": "ts211",
+                    "end": "ts212",
+                    "text": "ñukaka ñuka kusawan kausani, ñuka wawakunawan"
+                },
+                {
+                    "start": "ts213",
+                    "end": "ts215",
+                    "text": "kimsa wawata charini"
+                },
+                {
+                    "start": "ts217",
+                    "end": "ts218",
+                    "text": "ñukaka shuk churi primiruka ducita charin, segunduka 10ta charin"
+                },
+                {
+                    "start": "ts219",
+                    "end": "ts220",
+                    "text": "kay ñuka ultimuwaka diez mesesta charin"
+                },
+                {
+                    "start": "ts225",
+                    "end": "ts226",
+                    "text": "na parlananchu"
+                },
+                {
+                    "start": "ts233",
+                    "end": "ts234",
+                    "text": "ya kununka mas antistami ñukanchi mamita yachachijurka shina parlashun kichwapi nisha"
+                },
+                {
+                    "start": "ts235",
+                    "end": "ts236",
+                    "text": "kununka ya tukrinmi chay kichwaka"
+                },
+                {
+                    "start": "ts237",
+                    "end": "ts238",
+                    "text": "ya na parlanchichu ñukanchi ashta"
+                },
+                {
+                    "start": "ts243",
+                    "end": "ts244",
+                    "text": "riksinchik wakimpika rinchik purungap"
+                },
+                {
+                    "start": "ts247",
+                    "end": "ts248",
+                    "text": "ah, shina Otavalukunata, wakimpika Riobambakunata"
+                },
+                {
+                    "start": "ts249",
+                    "end": "ts250",
+                    "text": "ñukaka Diosituta mañani orani"
+                },
+                {
+                    "start": "ts251",
+                    "end": "ts252",
+                    "text": "vangelistami, chi runchi iglesiamunta"
+                },
+                {
+                    "start": "ts253",
+                    "end": "ts254",
+                    "text": "pariju runchi cantungapug, invitusha pushan"
+                },
+                {
+                    "start": "ts259",
+                    "end": "ts260",
+                    "text": "chaymunta mashti cantanan kichwakunapi"
+                },
+                {
+                    "start": "ts261",
+                    "end": "ts262",
+                    "text": "ñukanchi cantunchikmi kichwapi"
+                },
+                {
+                    "start": "ts264",
+                    "end": "ts266",
+                    "text": "ah ah, intindinin ah"
+                },
+                {
+                    "start": "ts269",
+                    "end": "ts270",
+                    "text": "shukyala, shuk idiomapi parlanajun paykunaka"
+                },
+                {
+                    "start": "ts271",
+                    "end": "ts272",
+                    "text": "ñukanchika, kaypi shuk idiomata shinalin"
+                },
+                {
+                    "start": "ts278",
+                    "end": "ts280",
+                    "text": "Santa Anita"
+                },
+                {
+                    "start": "ts427",
+                    "end": "ts431",
+                    "text": "kayamujun"
+                },
+                {
+                    "start": "ts433",
+                    "end": "ts434",
+                    "text": "kusa"
+                },
+                {
+                    "start": "ts724",
+                    "end": "ts726",
+                    "text": "si ha querer la abuelita, si le dije a mi sobrina"
+                },
+                {
+                    "start": "ts733",
+                    "end": "ts734",
+                    "text": "buena fe costata rini, santo domingukaman"
+                },
+                {
+                    "start": "ts735",
+                    "end": "ts736",
+                    "text": "chaypish tinmi vankilistaguna"
+                },
+                {
+                    "start": "ts737",
+                    "end": "ts738",
+                    "text": "chipi runchi autupi buspi runchi"
+                },
+                {
+                    "start": "ts739",
+                    "end": "ts740",
+                    "text": "tandanajusha hermanupurawan"
+                },
+                {
+                    "start": "ts741",
+                    "end": "ts742",
+                    "text": "iglisiaka kay uralapimi parquimunta uraman , iglesiaka monte Sinai ya mashti"
+                },
+                {
+                    "start": "ts743",
+                    "end": "ts744",
+                    "text": "shuti"
+                },
+                {
+                    "start": "ts745",
+                    "end": "ts746",
+                    "text": "chay igliesiamun runchi cada jueves sabadu domingu runchi urungag"
+                },
+                {
+                    "start": "ts747",
+                    "end": "ts748",
+                    "text": "Diusituta mañangapag rini"
+                },
+                {
+                    "start": "ts749",
+                    "end": "ts750",
+                    "text": "ñuka kusamunta ñuka wawakunamunta Diositu regalachun salud"
+                },
+                {
+                    "start": "ts752",
+                    "end": "ts754",
+                    "text": "kay Riobambamun, kay surmun rinchig"
+                },
+                {
+                    "start": "ts755",
+                    "end": "ts756",
+                    "text": "mashti tandanakusha urungapug"
+                },
+                {
+                    "start": "ts757",
+                    "end": "ts758",
+                    "text": "Guamanimun, kay mashti"
+                },
+                {
+                    "start": "ts759",
+                    "end": "ts761",
+                    "text": "kay Oton de Velezmun aerpuertu ladumun"
+                },
+                {
+                    "start": "ts763",
+                    "end": "ts764",
+                    "text": "Quinchi lumaman runchi"
+                },
+                {
+                    "start": "ts767",
+                    "end": "ts769",
+                    "text": "shina purinchi"
+                },
+                {
+                    "start": "ts771",
+                    "end": "ts772",
+                    "text": "yachinmi, shuk idiomapi paykuna (...."
+                },
+                {
+                    "start": "ts774",
+                    "end": "ts776",
+                    "text": "ah chaymu runchi, iglesiaman busmu rinchi"
+                },
+                {
+                    "start": "ts779",
+                    "end": "ts781",
+                    "text": "shina filuwata runchi, shina kishkiwa calle"
+                },
+                {
+                    "start": "ts783",
+                    "end": "ts784",
+                    "text": "si yukanchika ursha rinchi manchañakpi"
+                },
+                {
+                    "start": "ts785",
+                    "end": "ts786",
+                    "text": "ama waykuman shinarichun auto"
+                },
+                {
+                    "start": "ts791",
+                    "end": "ts792",
+                    "text": "chaymash runchugmi hermanunguna tin"
+                },
+                {
+                    "start": "ts794",
+                    "end": "ts796",
+                    "text": "si chaypi tiyanajun ashta"
+                },
+                {
+                    "start": "ts801",
+                    "end": "ts802",
+                    "text": "Oyacachimun runchi chi pisinapi bautiangapag hermanukunata"
+                },
+                {
+                    "start": "ts804",
+                    "end": "ts807",
+                    "text": "si chaymunsh runchigmi"
+                },
+                {
+                    "start": "ts809",
+                    "end": "ts810",
+                    "text": "chaypi shina purinchi ñukanchi"
+                },
+                {
+                    "start": "ts815",
+                    "end": "ts817",
+                    "text": "Ah shuk idiomata parlana paykunaka"
+                }
+            ]
+        }
+    ]
+}

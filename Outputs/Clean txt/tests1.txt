@@ -1,0 +1,535 @@
+[Simeon_po]
+(ts1 - ts2) Entonces grabaciunpi imashuti kapangui
+(ts3 - ts5) kikin
+(ts6 - ts8) kikinka
+(ts11 - ts13) Ishkanti kay oyacutumanta
+(ts16 - ts19) maypi
+(ts23 - ts24) y ashalla parlayta ushapanguichi imashina karka wawa kuitza uras
+(ts25 - ts26) kunankaman imashina kawsay tiyarka  kaypi chaykuna
+(ts27 - ts28) uchila kashpa
+(ts30 - ts32) uchila kashpa imashina karka kay Oyacotopi
+(ts57 - ts58) y kaypi kay imashina chay horas
+(ts59 - ts60) jatun ñan tiyarkachu, o ima chakilla rina karka.
+(ts85 - ts86) maypi mas jatunguichi shina feriaman ringuichi, tianch kaypi feria
+(ts87 - ts88) calderonpi o maypi mayman rina yachanguichi
+(ts107 - ts109) domingo punchachu
+(ts115 - ts116) Entonce ima animalkunata charipanguichi kaypi, kuchi kuy
+(ts117 - ts119) Kuyta charin atalpa 
+(ts120 - ts121) conejopash
+(ts123 - ts124) maijan
+(ts127 - ts128) llama
+(ts130 - ts133) ni llama oveja ni runa llama?
+(ts139 - ts140) chakrakuna tarpuykunata imata tarpunguichik
+(ts162 - ts164) charki, imati kan charkina
+(ts185 - ts186) chaypi wakurin shina chakichina sara chukllukunata
+(ts197 - ts198) payka ashaguta parlachishun , may ima kaypipish
+(ts199 - ts200) wiñarkangui nacirkangui kay secturpi, talvez parlayta ushapangui maypi kawsarkangui 
+(ts201 - ts202) chayhora
+(ts209 - ts210) y piwan kawsarkangui
+(ts214 - ts216) kimsa wawa, ya mashna watata charin paykuna
+(ts221 - ts222) ah uchilagu , alimi
+(ts223 - ts224) kaypi wawakuna mana quichua shimita parlancho
+(ts227 - ts228) ima imashina tukurka chayka porque imauras kikinkuna uchilla karkanguichi parlarka
+(ts229 - ts230) wawakuna, pero kunaoras mana munanchu
+(ts231 - ts232) ima tukurka chaypi
+(ts239 - ts240) shuk llaktamanta runakuna riksinguichi shina kichwa parlakkuna
+(ts241 - ts242) Otavalu, cutupaxi, chimborazo chaykuna 
+(ts245 - ts246) purungapug
+(ts255 - ts256) ah maymanpish 
+(ts257 - ts258) chay rimay chay kichwa intindirichu kikinkunawan o
+(ts263 - ts265) y intindirin chay cotopaxi chimburazukunawan parlashpa
+(ts267 - ts268) ah ah, imashina uyarn como kay pacha o shuk laya
+(ts273 - ts274) kay secturpi maypi ima llaktakunapi kichuata parlan
+(ts275 - ts276) Oyacoto tiyanchu, Calderonpi tiyanchu
+(ts283 - ts285) llano grande, Cocotog
+(ts288 - ts289) cierto?
+(ts291 - ts292) chay Zambizawan, Zambiza gintikuna parlanchu?
+(ts295 - ts296) ima ima ashtawan parlana
+(ts297 - ts298) ima cuintayta ushanguichi, shuk cuintukuna historia de la comunidad
+(ts299 - ts300) o imata, imata parlasha
+(ts304 - ts306) ari shuk historiakuna tiyan kaymanta, cumu ñuka na riksinichu
+(ts307 - ts311) talvez cuintawangui ashtawan Oyacotomanta
+(ts337 - ts339) kaypi kan en comuna presidentewan
+(ts351 - ts353) Ima killapik
+(ts359 - ts361) minga tiyanchu
+(ts367 - ts370) Votaciun tianchu shina directivata churangapa o imashina
+(ts393 - ts394) tonces chay doctorkuna jawapi tiyan nirkangui nachu
+(ts395 - ts396) kaypi tiyanga jambidurkuna yachakkuna shina
+(ts397 - ts398) wichina yachak fichana chaykuna tiyanchu
+(ts411 - ts412) pero chay shina lulunwan fichana chaykuna yachanchu kaypi
+(ts419 - ts420) Igual talvez yapa historiamanta parlashun
+(ts421 - ts422) comunamanta 
+(ts423 - ts424) nose ima
+(ts425 - ts428) kayajunchu?
+(ts429 - ts432) kusa
+(ts435 - ts437) kusapa kikinkunapa kusakuna parlanchu kichwa shimita 
+(ts438 - ts439) parlanchu
+(ts451 - ts452) alli kanman kutin shuk puncha talvez kausakuna kusa munanga jarikunawan
+(ts453 - ts454) shinangapa, filmangapa kuti shuk punlla shamusha 
+(ts457 - ts459) pero shuk punlla shuk cita shina churasha
+(ts465 - ts466) pero nachu asha kullki pagasha nikpi 
+(ts467 - ts468) shamunga media horagu shuk puncha cita rurashun
+(ts473 - ts474) ñuka yuyaypi, shamusha ñuka centrupi kausani
+(ts475 - ts476) riksinguichi chay plaza de santo domingo, chay uranipi kawsani
+(ts477 - ts478) entonces imauras ñuka shamungapa munani, casi cada fin de semana o cada ishkay semana
+(ts479 - ts481) chishi,  vicinukunata 
+(ts483 - ts484) ari as 4 kunata shamuyta ushapani shuk sabado domingo, wakinpi viernes
+(ts485 - ts486) lunes a jueves trabajani chishikunaka viernes sabado domingo ushapani
+(ts488 - ts489) Ari ñuka willasha
+(ts491 - ts492) Ñuka willasha
+(ts493 - ts494) bueno shuk tapuykunata charini, solo parlaymanta kayma kay parlaymanta
+(ts495 - ts496) kaypi  imashina ninguichi barrer
+(ts497 - ts498) barrer kichwapi
+(ts500 - ts503) pichana
+(ts505 - ts506) pichana
+(ts509 - ts513) nube imashina nin, puyu ari
+(ts515 - ts516) imashina, hombre imashina nin kaypi
+(ts519 - ts521) jari
+(ts524 - ts526) y hiervita, hierba
+(ts528 - ts529) jiwa
+(ts534 - ts536) y chay planta chayman sara chagra washaman tiyan
+(ts537 - ts538) ishki jatun como paypak sisa shina ukumanta shamun
+(ts540 - ts541) imashuti kan chay
+(ts549 - ts550) imashuti kan chay, penco nirkangui
+(ts551 - ts552) cabuya, pero planta entero imashuti kan
+(ts556 - ts558) y penco
+(ts563 - ts565) chay ishki planta imashuti kan, shuk shutita charipanchu
+(ts567 - ts570) uyashkanguichi chawar nikpi, chawar mishki
+(ts571 - ts573) chay yaku llukshin chaymanta 
+(ts579 - ts580) a ima shina ninguichi kaypi hoja
+(ts581 - ts582) hoja kichwapi
+(ts583 - ts585) yura kan como tukuyta
+(ts586 - ts588) hojita, panga nikpi panga
+(ts590 - ts593) jatunkunalla
+(ts594 - ts595) ynaga jiwa
+(ts599 - ts600) y frio kaypi, imashina parlan frio
+(ts602 - ts605) ari chiri chiri
+(ts612 - ts615) y shukuna nin tziri o chiri
+(ts617 - ts618) ashalla faltan 5 mintukukaman faltan paktangapa chawpi media hora
+(ts619 - ts620) entonces chay cuentukunata yachapanguichi atug
+(ts621 - ts623) cundur cuentukuna o 
+(ts642 - ts644) nachu abuelukuna parlana yacharka shina atug
+(ts645 - ts646) kunu atukta umachina yachan 
+(ts647 - ts649) shina cuentukuna unaymanta uyashkanguichi
+(ts650 - ts652) cuentukuna tiyanchu shina
+(ts653 - ts654) abuelukula parlarka chayuras television illarka y solo cuentukuna rurana yacharka wakimpi
+(ts655 - ts656) no se si shina karka kay sectorpi
+(ts663 - ts665) tayta mama ni tayta
+(ts695 - ts697) tonces kikimpa mama tianran nirkangui
+(ts703 - ts704) chayuras warmikuna shina churana yacharka, uchila kashpa warmikuna chay shina churana  
+(ts709 - ts711) nachu kay shuk kuti puncha nachu kikimpa mama unanga shina entrevistata rurangapa
+(ts713 - ts715) illanga ama manllachu 
+(ts716 - ts718) ama manchaychu, shuk gringu kan runa shimita parlan ningui shuk gringu kan nima tukunga
+(ts719 - ts721) ama manchapangui ningui
+(ts723 - ts725) shamungapa kuti 
+(ts727 - ts728) kikinka ashtawan parlayta ushapangui ashaguta
+(ts729 - ts730) talvez chay viajikunamanta maykaman rishkangui iglesiamanta
+(ts731 - ts732) ma ima llaktakunata riksingui
+(ts751 - ts753) ima ashnawan rishkagui Santo Dominguman
+(ts760 - ts762) ah chaypi
+(ts765 - ts766) ari ari
+(ts768 - ts770) chay Quinchi ladupi tiyan runakuna kichwata yachanchu 
+(ts773 - ts775) chayta riksini Chumillu
+(ts777 - ts778) ya chay ñan tiyan jawa Quinchimanta, riksini
+(ts780 - ts782) ari filu filu karka chayman wakimbi manchani chayta
+(ts787 - ts788) ñuka rita yachani Oyacachiman
+(ts789 - ts790) uyashkanguichu Oyacachi
+(ts793 - ts795) ari, tiyan achika evangeliokuna chaypi
+(ts797 - ts798) ñuka amigukuna chaypi familia Pariun 
+(ts799 - ts800) achika Pariunkuna tiyan chaypi
+(ts803 - ts805) ah tonces rigsipangui Oyacachita
+(ts806 - ts808) sumak llakta chaypi gustanimi ñuka
+(ts811 - ts812) ah
+(ts813 - ts814) Oyacachipi shuk riman nachu
+(ts816 - ts818) como cantaditu shinalla uyarin chaykunapi 
+(ts823 - ts824) jaja, ñuka uchila kashapa taytamama apamuwarka  Quituman kawsangapag
+(ts825 - ts826) chawpi wata familianti, gustarkani alli alli llakta kan gustani Ecuadurta
+(ts829 - ts830) ari chaypish ali kan pero kipaman universidad kipa
+(ts831 - ts832) ñuka shuk, bueno ñuka warmi kaymanda kan paypa taytamama
+(ts833 - ts834) turi, ñaña tukuy kaypi kan, entonces
+(ts835 - ts836) kawsarkanchi ñukapa tayta mamawan Estados Unidospi
+(ts837 - ts838) asha shuk watakuna, chay kipa Europakman rirkanchi trabajangapag
+(ts839 - ts840) Holandaman, y chay kipa shuk trabajo llukshirka kaypi
+(ts841 - ts842) Chaymanta shamurkanchi kutin kaypa ñuka warmipa familiapakman
+(ts843 - ts844) chayuras ñuka tayta mama kawsarka Quitupi
+(ts845 - ts846) jubilakpi pay, jubilashpa rirka kutin Estados Unidusman
+(ts849 - ts850) paykunapash unayta kawsarka Quitupi
+(ts851 - ts852) ñuka familia siempre Ecuadurwan shuk relacion charirka, shamurkanchi ñakanchi bueno
+(ts853 - ts854) shina como kaypi casararkani kaypi sakisha wawawan kani trabajuwan 
+(ts855 - ts856) warmiwan wawawan kaypi sakisha
+(ts857 - ts858) cada wata rini shukviaje chayman cada wata shamun ishay viaje ñuka taytamama chaypi tupanchi 
+(ts861 - ts863) estados uniduspi
+(ts864 - ts866) na charinchik allpata, tayta mama wasita charin
+(ts868 - ts870) ñuka paniwan kawsan shina shuk lado tayta mama
+(ts871 - ts872) shuk lado pani paypa kusa y  ñuka subrinukuna
+(ts873 - ts874) tukuy paykuna shuk familia ishka lado
+(ts875 - ts877) chaypi kawsan 
+(ts878 - ts880) imashina
+(ts882 - ts884) wakimpi, como setecientos llukshin rina shamunapash
+(ts886 - ts888) ashalla valishka, wakimpi ashalla yalishka kan como mil yalli
+(ts889 - ts890) pero ñuka maskani baratukuna boletukuna mas baratukunata maskani
+(ts891 - ts892) ah chaymanta mana paktani, ña shuk solo viaji watapi rin porque valishka kan
+(ts893 - ts894) wawawan wawa ishkay watakama na paganllu, chay kipa wawapash paganga
+(ts895 - ts897) kunan na aparkanchi navidadpi
+(ts898 - ts900) na ishkay watakaman na paganchi
+(ts901 - ts902) pero mamapa shina changakunapi shina rina kan
+(ts903 - ts905) ña ishakay wata kipa ña asientupi churana, paipash pagana kan
+(ts906 - ts908) ari, sinu makipi shina aparkanchi payta 
+(ts909 - ts910) wawata Estados Unidusman paypak abuelukuna visabuelukunata riksingapa chaypi 
+(ts913 - ts914) mm bueno como ñuka siempre ciudad okupi kawsarkani mana yapa tarpurkanichu 
+(ts915 - ts916) pero tiyan, ñuka llaktapi tiyan
+(ts917 - ts918) algodon tarpuna yachan achikata, algodon churana ruran apangapa
+(ts919 - ts920) e tiyan verduras, shina brocolikuna chaykuna tiyan
+(ts921 - ts922) tiyan avena trigo, chaykunapash tiyan
+(ts923 - ts924) i mas surman rishpa como costashnalla toronga, chashna frutakuna 
+(ts925 - ts926) casi costalaya ñuka llakta, como kunug llakta kan
+(ts927 - ts928) na papa mana wiñanchu ñuka llaktapika 
+(ts929 - ts930) papa ni cebolla na yapa mas kunug kunug plantakuna
+(ts931 - ts933) nara wiñanga ña 
+(ts934 - ts936) tiyanmi piru chay yapa uchilla killu sarakuna nose
+(ts937 - ts938) mishki mishki como dulcishinalla shuk sara 
+(ts940 - ts942) kuykuna pero paykuna mana mikunchik kuyta chayta
+(ts943 - ts944) kuchi tiyan,kuchi, atalpa chaykuna tiyan kuykuna mascota shinalla wawakuna charin
+(ts946 - ts949) kaypi ña yachajurkani 
+(ts950 - ts952) ñuka compadrekuna paykunaka siempre apamun
+(ts953 - ts954) mikuypa y chaypi mikuni
+(ts956 - ts958) ari mishkimi, pero ninawan kusashka munan
+(ts959 - ts960) yamtawan shina gustani, shuk laya sopa shinakuna na yapa gustani
+(ts961 - ts962) yamtawan ña sumak mishkimi
+(ts968 - ts970) haber ari pero ashaguta tapuna munarkani kay kanchamanta 
+(ts971 - ts972) kay kay kancha  kaypimannta kaymantachu
+(ts973 - ts974) kaymanta sara o shuk rantishkachu
+(ts978 - ts979) kaymanta
+(ts991 - ts992) sumakmi aguacatipash uchupash kaymantachu
+(ts993 - ts994) o randishka
+(ts997 - ts998) y shuk clasekuna tiyanchu, roco y chaykuna
+(ts1006 - ts1008) ari
+
+[A_dt]
+
+[A_mb]
+
+[A_gl]
+
+[Simeon_tn]
+
+[Rosario Tupiza_po]
+(ts4 - ts7) Rosario Tupizami kani
+(ts12 - ts14) Kaypi nacidumimchi kuanchika
+(ts15 - ts17) ñuka mamagarin kay jananuwalabi kawsan
+(ts18 - ts20) Kaywalabi, mamita ñuka suedrunash wakta walabi kawsan
+(ts21 - ts22) aqui nacido somos
+(ts29 - ts31) ah nosotros como vivimos, mas antes
+(ts33 - ts35) None
+(ts37 - ts38) ukchikilawami kawzukanchi, escuilamash manash ushak
+(ts39 - ts40) ñuka mamahunaka mana churashi nirkachu iscuilapi, alfabetami kani
+(ts41 - ts42) chirukulami mashti alfabetizaciunman rukani estudianga
+(ts43 - ts44) chimi firmawaltash yachani
+(ts45 - ts46) antiska tiemputaka mana munajukachu churungapag iscuilaman kullki illinmi nisha 
+(ts47 - ts48) chika ñukaka mana yachishkanichu
+(ts49 - ts50) wawki yuka wawki jatunkunataka churarinmi
+(ts51 - ts52) jariunami nisha, warmiunataka mana
+(ts53 - ts54) warmiunaka wawata cuidungawla nisha mana munushka ñuka mamita
+(ts55 - ts56) chika mana ñukaka culigiuima escuela tukuchishkachu kani
+(ts61 - ts62) januk kunun kunun piajipi chilapimi tikan uchuklala ñanwa
+(ts63 - ts64) natikachu jatunga, chyruk
+(ts65 - ts66) unos diez añuwalami amplika ñantaka
+(ts67 - ts68) ñuka alpash chaypi tikami alpatash vulpitami apuka panapu
+(ts69 - ts70) chaymuntaka chaywapi chakiñan walatika uchikila auto yaykunawala
+(ts71 - ts72) kununka ya jatun adoquinadumi ura parquikaman
+(ts73 - ts74) m, ahoraka ya tenemos
+(ts75 - ts76) ñankunata jatunla ñanwata
+(ts77 - ts78) autunuan lla buscunasha urujunmi
+(ts79 - ts80) mashti Carcelinmunta, kay Carcelin jawamuntash urujunmunami shuk azul
+(ts81 - ts82) Guadalajara urujumuna cada 15 minutumi lukshinajun 
+(ts83 - ts84) Quituma maima rugajush, kununka facilidad sia tinimos
+(ts89 - ts90) Ñukanchi kaypi, kay pambapi tihinchik
+(ts91 - ts92) Ñukanchika na mashti trabajunchichu Empleada
+(ts93 - ts94) no nosotroska no trabajanchichu, kaypi tinchi kuchiwata cuidisha
+(ts95 - ts96) Atalpakunata cuidisha , kushiwakunata cuidisha, cunijuhanta cuidishami tinchi
+(ts97 - ts98) ashkuwakunamanda, misiwakunamanda, shinisha feriaman lukshinchik
+(ts99 - ts100) Calderunma, kuchinka kutin kay jananu curvalaman murunchi
+(ts101 - ts102) domingukunata kuchi jatungaka, sinuka kaypi wañuchisha jatunchi aychabi
+(ts103 - ts104) ah shina ñuka jatun, kuti atalpakunata caldiruntami lukshinchik
+(ts105 - ts106) Kuywakuna ashkuhuna misiwakunawanka calderon feriamanmi rinchi domingulta
+(ts108 - ts110) Domingu punchalta jatukmi kuchi, kuywakuna jatuna
+(ts111 - ts112) kayash rinami nan atalpata jatungapa, sarata tarpushkatami mikujunla 
+(ts113 - ts114) ashata riba(...) rinami nin
+(ts118 - ts122) cuniju, chita, llamaltami mana charin
+(ts125 - ts126) llama
+(ts129 - ts131) na kaypika tiyanllu
+(ts132 - ts134) no, solo chitawakunata wagratash na charinchichu
+(ts135 - ts136) maypi mikuna no hay jiwa
+(ts137 - ts138) na charinchichu pish chitawakunash wakinwala charina
+(ts141 - ts142) chagrakunataka tarpunchigmi cada 
+(ts143 - ts144) cada enero, cada noviembre chypi tarpukpimi wakimpi tamia watikpika pudin
+(ts145 - ts146) tarpunchikmi sarawa purutuwa, sapalluwa, sambua
+(ts147 - ts148) inchiwa, inchiwata tarpukani kayna wata chimi inchingunka chan
+(ts149 - ts150) kayna wataka tukukami inchiwata tarpukanimi kayna wataka tamirkami
+(ts151 - ts152) kunun wataka na tamigrilayachu
+(ts153 - ts154) deahika cushichamu sarata tipinchi
+(ts155 - ts156) mashti charki wawata japinchi cuyipi wakichingapu
+(ts157 - ts158) alfaka alfaka mana shamunlachu
+(ts159 - ts160) charki chakishkawatami karunchi kuymun cunijumun
+(ts161 - ts163) ah ah 
+(ts165 - ts166) chikta jatunmi tukunga chukllumunta wichimunmi fakinchi wakichingapa
+(ts167 - ts168) kuyinamunya jiwa ishtimpu karangapu
+(ts169 - ts170) chiwatami ayudachinchi, chimantaka alfaka wakimpi mana shamun wakimpika shamun
+(ts171 - ts172) chimuntaka chiwatami karunchi wakimpika
+(ts173 - ts174) chshinaka sarata tipinchi ishkunchi wakichinchi kanchawata mikungapa
+(ts175 - ts176) sara maskawata turungapa
+(ts177 - ts178) chaitami tarpunchi na jabusma ima kinua imata na tarpunchichu
+(ts179 - ts180) chayka utavalukunapimi chiimi tarpunga, cibadakuna
+(ts181 - ts182) muruchukuna kaypika na, sarawakta sara amarilluwaltami tarpunchi, chaymantaka mana tarpunchichu
+(ts183 - ts184) mana tamian alli
+(ts187 - ts188) chuchukata urungapa wakimpika sarata rurungapa warkunchi
+(ts189 - ts190) na jatunchichu jatuytapash, atalpagukunapug kuchiwakunapukmi wakichinchi
+(ts191 - ts192) sarawataka, na jatunchichu kaypika
+(ts193 - ts194) kaypika uchikila apagukunami cayambikunapika jatun alparuku chymuntami jatuna, ñukanchika mana jatunchichu
+(ts195 - ts196) mikungapa anchawata wakichinchi
+(ts277 - ts279) miguelpi
+(ts281 - ts282) Capillaa, llano grande
+(ts284 - ts286) Cocotogkunash parlanaunma
+(ts287 - ts290) ah pero otru, utru idioma
+(ts293 - ts294) tiangami mayurkuna, mayurkunaka parlanaurunmi
+(ts301 - ts302) imatatug parlashuk, comunata?
+(ts303 - ts305) imata
+(ts308 - ts309) Ñukanchika 
+(ts310 - ts312) Afiliada minchi sigurupi
+(ts313 - ts314) y siguro campesino minchi ñukanchikka
+(ts315 - ts316) ungushalla rinala ninchi hospitalkunaman
+(ts317 - ts318) ña kaypi comunidadpi firmachisha rinalami ninchi
+(ts319 - ts320) jambiringapa chipika, yalli antindina ñukanchi campesinukunata
+(ts321 - ts322) chika comuna presidentikunata mañishami rinchi
+(ts323 - ts324) permisuta, ducturpish tinmi
+(ts325 - ts326) ña seguro campesino, anteska antendia aqui
+(ts327 - ts328) Uyakutu parquimi, kununka wasi illan doctorpo
+(ts329 - ts330) shinashpa jawa san Miguelmanmi rinchi kunun jambiringapaka
+(ts331 - ts332) imata jambirinata yña chimanmi rinchi, kunanga ducturpash illin
+(ts333 - ts334) jawa comunapika antindinmi piru
+(ts335 - ts336) kay Uyakutupimi mana tiyan
+(ts338 - ts340) Comunata pishtata runchimi
+(ts341 - ts342) cada san, kayka san Francisco de Oyakutumi shutika
+(ts343 - ts344) chika cada watami runchi pishtata kay barrio pishtata
+(ts345 - ts346) bandakunawan, orquestakunawan
+(ts347 - ts348) cervezakunawan , tragukunawan runchi
+(ts349 - ts350) wakimpika shingayanchichu, wakimpika na shingayanchichu
+(ts352 - ts354) en 4 de octubre
+(ts355 - ts356) dia de san francisco, ahi es 4 de octubre
+(ts357 - ts358) chimuntaka na imata runchichu ashtawan comunapika  migaukuna tiakpi mingaman lukshinchi 
+(ts360 - ts362) minga tinmi wakimpi cimintiriuta limpiangapa, calliukunata limpiangapug
+(ts363 - ts364) rinchikmi mingama, wakinlapi piru mana
+(ts365 - ts366) kallarisha rinchichu
+(ts368 - ts369) ah tinmi
+(ts371 - ts372) chiru kay enewaltami cambiarinajurka directiva
+(ts373 - ts374) pero mana rikanichu, chayka ñuka primu niglatami uyani presidentipaka
+(ts375 - ts376) primumi
+(ts377 - ts378) chimuntaka piro mana rirkanichu mana ñukaka kay waktalapi kawsani
+(ts379 - ts380) kaparukta mana uyani wichimun run urimun run chingunlami yalli
+(ts381 - ts382) chika mana uyishaka mana rishkanchu
+(ts383 - ts384) primumi presidenti niglata uyani
+(ts385 - ts386) chimuntaka, warmikuna jarikunami yaykunchi
+(ts387 - ts388) shina siguro campesinupika warmikunala kanchi
+(ts389 - ts390) prisidenti, vicepresidente shina warmikunala
+(ts391 - ts392) nada mas
+(ts399 - ts400) mana kaypika ashta ofrecinchichu
+(ts401 - ts402) piru doctorkunala shina
+(ts403 - ts404) spantuk wawakunata mancharishka nishka wawata Caldirunpi rizachiklayami rinchi
+(ts405 - ts406) chaymantaka na ofrecinchichu chi yachakkuna Otavulupi uyashkanchi chikuna
+(ts407 - ts408) kaypika na, kaypika yachikkunapachash na tinchu
+(ts409 - ts410) kay barriupika, shuk barriukunapika tinmi piru kaypi na uyashkanichuma
+(ts413 - ts414) wakinkunala chaymantaka na yachanchichu
+(ts415 - ts416) docturlama rinchi, ungushama nanukpimash ducturlaman
+(ts417 - ts418) chimuntaka na, na maytash rinchichuk
+(ts426 - ts430) kayamujunmi kusalla kayamujunmi
+(ts436 - ts440) parlanami, paykunaka 
+(ts441 - ts442) Ñukanchi edadlatuka mamakuna yachachishkami
+(ts443 - ts444) wawara kuti mana uyitaka uyanakunmi parlanami wawata
+(ts445 - ts446) chika intinanmi vultachitami mana pudin
+(ts447 - ts448) intindinmi, ñuka mamitakarun kichwalapimi parlan kununkama
+(ts449 - ts450) ah ah chaymuntaka intindinimi nimu tigrachitaka mana pudina 
+(ts455 - ts456) kusakunawan parlangapug
+(ts458 - ts460) o ñuka kusaka de lunes a sabado
+(ts461 - ts462) o aveceska domingutan trabaja, no tiene tiempu, mana tiempu charinchu
+(ts463 - ts464) timputa charishash pukllangapakmi rin fulblta bulita pukllan payka
+(ts469 - ts470) shamungui ñakuti imaura kayamunguilama mariaman
+(ts471 - ts472) imawrash kaypika tandanajungapa, jarimambash willangapa
+(ts480 - ts482) tardikunata, kusaka las 4kunata ña chayamun ña
+(ts487 - ts490) tiyanajungami shinaka, willajunguila mariamun
+(ts499 - ts501) uktsha pichingui ninchi
+(ts502 - ts504) o pichana
+(ts507 - ts508) pichana, escobata japisha uktasha japichingui nishami wawakunata mandasha wakimpika rin 
+(ts510 - ts511) puyu
+(ts512 - ts514) puyu ninchi, puyu jundamunmi ñala tamiangami ninchi
+(ts517 - ts518) jari
+(ts520 - ts522) jarika shamungami uktusha yanungui mikunata ninchi
+(ts523 - ts525) yarjingui shamunga nisha
+(ts527 - ts530) jiwa, o libu
+(ts531 - ts532) jiwa, wakimpika runchimi
+(ts533 - ts535) kuywakunaman karangapug alfa mana shamukpi
+(ts539 - ts542) chika kabuyami, cabuyata llukchinamuntami takiru lukshin
+(ts543 - ts544) ña tukuylla waskata ruanami chayka (...)ka
+(ts545 - ts546) chimuntaka ña fukushaka kiru lukshijun, kirutaka wakimpika wakichinchimi aguakatica pakita pallangapug
+(ts547 - ts548) chi kaspiwan pallanchi
+(ts553 - ts554) por eso la planta entero se llama cabuya
+(ts555 - ts557) para hacer cabuya lo que sea
+(ts559 - ts560) pincuka otro es para sacar mishki
+(ts561 - ts562) mishkilatami lukshinchi pencumuntaka, kayka kuti cabuyata waskata ruanami
+(ts564 - ts566) na pinculami ninchi chimuntami mishkita uktunchi, chaymuntami mishkika lukshin
+(ts568 - ts569) chawar mishki
+(ts572 - ts574) ha yaku lukshin baldi uchukilawan kimsa litro chusku litrumi lukshin
+(ts575 - ts576) chimunta cuzinunchi mashti upinchi, wakinkunaka jatugrinami
+(ts577 - ts578) tullupa allinumi kunug jatunchimi chaytash wakimpika
+(ts584 - ts587) hojita
+(ts589 - ts591) pangaka chay sara pangatami ninchi panga
+(ts592 - ts596) ah ah, kay wataka na imata ninchichu, yanga jiwa
+(ts597 - ts598) alpa jiwa ninchi
+(ts601 - ts603) wayra wayrami chiri chirimi ninchi
+(ts604 - ts606) ari, chiri chiri, pero
+(ts607 - ts608) shina lumala wasikunapimi chiri, undunalakunapika kunuglami
+(ts609 - ts610) ah cunuglami, chirigpika chalinata fachalinchi
+(ts611 - ts613) ama chirichun
+(ts614 - ts616) chiri ninchi, asha chiri chirimi ninchi
+(ts622 - ts624) atugta, kununka timpu timpu uchulagpika 
+(ts625 - ts626) tigmi yukaka (chulashaka...) churutami japijurkani wayllambapi 
+(ts627 - ts628) chipika mashti wakanajunmi atugkunaka jarjin 
+(ts629 - ts630) kununka mana runchichu ya churuma kaywalapi runchiya imata runayashayma tarpunchi
+(ts631 - ts632) takshinchi, shina pasunchi mana churumanka rinchichu, kununka atugpash mana rikurinchu
+(ts633 - ts634) timputaka atalpagukunata apuglami atugka
+(ts635 - ts636) yarijin, chika chimkachin atalputaka  kununka kay
+(ts637 - ts638) aeropuertumun rungapug callita rushka kay kunugpi, chaymuntak atugka chingashkami
+(ts639 - ts640) atugsh manchari maitash riringa, kununka illinmi atugka 
+(ts641 - ts643) na rikunichu
+(ts648 - ts651) na uyishkanichu
+(ts657 - ts658) shina shinatakmi karka, pero mana ñukaka abuelukunata riksishkanichu
+(ts659 - ts660) no na riksinichu ni mamagu ni yayagukta na riksirinichu
+(ts661 - ts662) de ahika nu no me han conversado nada
+(ts664 - ts666) mamaka chituku yachachirinmi shina kichwapi parlana pambakunapi rurana
+(ts667 - ts668) shinawantaka yacharinmi mama, mama como kawsanra kununkama
+(ts669 - ts670) chimuntami ñukanchi shinalla rusha tinchi mama cuinta mama yachachishkaka 
+(ts671 - ts672) sakishka ñukanchika kaypi wasipi tiyanchi kusalta chapusha kulkitapush
+(ts673 - ts674) chika kullkish yalli tukurijun kusala trabajukpika jakumta pagana luzmunta pagana
+(ts675 - ts676) tukurunla kullkika
+(ts677 - ts678) trakturkunama pagana yapuchingapa
+(ts679 - ts680) piunkunata churanchi jalmachun na paktashpaka kuanchika sulituwaka na paktunchi
+(ts681 - ts682) piunkunata churushami jalmachinchi jalmachisha wakimpika
+(ts683 - ts684) sinuka mingawatami runchi, ñukanchi familiapura, ñukanchi visinu pura
+(ts685 - ts686) makiwata mañachishami tarpunchi ayudachun ñukash randi ayudaytukungapa
+(ts687 - ts688) chilami runchi kusakunaka na aydasha ninchu, shaykushkami shamunchi nin trabajumanta
+(ts689 - ts690) shinashaka mana ayudashun ninachu pamba ruraytaka 
+(ts691 - ts692) shajushkami nin tiyanajunmi paykunaka teleta rikusha
+(ts693 - ts694) jajaja
+(ts696 - ts698) tianrami mamaka ñukapaka
+(ts699 - ts700) paykunaka anakuwannami ñukanchilami calsunkunata churakushka tiyanchi kunanka
+(ts701 - ts702) anakutami payka umawatishkami kan(...)
+(ts705 - ts706) ari ñuka mamitala shinarakmi todavia anakun , ñukalami calzun churakuni ama chuspi mikuchun 
+(ts707 - ts708) a chuspi mikunga, chakita jajaj
+(ts710 - ts712) uyangami
+(ts714 - ts717) pinganinmi nrkami nin
+(ts720 - ts722) ya 
+(ts819 - ts820) ñukash wawkita tapuni, tapusha parlajunguichu ñukawan
+(ts821 - ts822) ya imata nishata kaymana shamurkangui mama yayata shitashaka
+(ts827 - ts828) kuti chaypi kambug llaktaka kuti imatig
+(ts847 - ts848) ah yachu jubilaka
+(ts859 - ts860) chaypika allpakunataka charinguichu
+(ts862 - ts865) ah ah
+(ts867 - ts869) wasiwatachu charinguichi
+(ts876 - ts879) aviunpika imashinatata pagungui
+(ts881 - ts883) Aviumpika imashinata valin pasajika
+(ts885 - ts887) shukpika 
+(ts896 - ts899) llulluwaka nacha pagan 
+(ts904 - ts907) paylla pagana
+(ts911 - ts912) kuti kan kambug llaktapika imatatak tarpunguichik
+(ts932 - ts935) sara tinchu
+(ts939 - ts941) chaypika tinchuri kuchikuna kuykuna tinchuri
+(ts945 - ts947) mikunataka nachu yachanguichi
+(ts948 - ts951) ah ya cunanka mikunata yachingichu
+(ts955 - ts957) mishkitu
+(ts963 - ts964) ah 
+(ts965 - ts966) ya pues parlakanchi 
+(ts967 - ts969) samashun samashun kanchawata mikungapa
+(ts975 - ts976) kaymunta sarami kun
+(ts977 - ts980) kaishuk aguakatish kaylmuntami kan, kay wanta walapika kawsani
+(ts981 - ts982) yurakunata charini, chaymuntami pallakani
+(ts983 - ts984) kukagug(...) kanchan chitami kaish kaina wata  tarpukani nini kaya inchigmi
+(ts985 - ts986) inchikta tarpukani janag pambapi, chika tukukami
+(ts987 - ts988) ari tukushkatami wakichiryani quinchi uchupug 
+(ts989 - ts990) kanchawan mikungapa, kay kanchaka kaymanta nacidu sarami
+(ts995 - ts996) randishkami uchuka, wakimpika pero charinchimi tarpusha yurawalitaka
+(ts999 - ts1000) na tarpunchichu
+(ts1001 - ts1002) jaku mana tiyan agua potablewalaka no alcanza
+(ts1003 - ts1004) sembra nada...na tarpunchichu, yaku tikpi riegu de aga tikpika tarpunchimanmi
+(ts1005 - ts1007) tukiy  clase de plantitagukunata, yaku mana tikpika mana tarpunchichu
+(ts1009 - ts1010) Chimuntaka tayta Dios yakuwalami sarawanalta  tarpunchi 
+
+[B_dt]
+
+[B_mb]
+
+[B_gl]
+
+[Rosario Tupiza_tn]
+
+[Hermelinda Tituaña_po]
+(ts9 - ts10) Hermelinda Tituaña
+(ts34 - ts36) Taza umala kawsakani jajaj
+(ts203 - ts204) ñukaka kaymunta shinatu nachishkami, ñuka mamitaka ña wañurkan 
+(ts205 - ts206) ñuka kaypi tiyani
+(ts207 - ts208) ñuka papitush na kawsunchu
+(ts211 - ts212) ñukaka ñuka kusawan kausani, ñuka wawakunawan
+(ts213 - ts215) kimsa wawata charini
+(ts217 - ts218) ñukaka shuk churi primiruka ducita charin, segunduka 10ta charin
+(ts219 - ts220) kay ñuka ultimuwaka diez mesesta charin
+(ts225 - ts226) na parlananchu
+(ts233 - ts234) ya kununka mas antistami ñukanchi mamita yachachijurka shina parlashun kichwapi nisha
+(ts235 - ts236) kununka ya tukrinmi chay kichwaka
+(ts237 - ts238) ya na parlanchichu ñukanchi ashta
+(ts243 - ts244) riksinchik wakimpika rinchik purungap
+(ts247 - ts248) ah, shina Otavalukunata, wakimpika Riobambakunata
+(ts249 - ts250) ñukaka Diosituta mañani orani
+(ts251 - ts252) vangelistami, chi runchi iglesiamunta 
+(ts253 - ts254) pariju runchi cantungapug, invitusha pushan 
+(ts259 - ts260) chaymunta mashti cantanan kichwakunapi 
+(ts261 - ts262) ñukanchi cantunchikmi kichwapi
+(ts264 - ts266) ah ah, intindinin ah 
+(ts269 - ts270) shukyala, shuk idiomapi parlanajun paykunaka
+(ts271 - ts272) ñukanchika, kaypi shuk idiomata shinalin
+(ts278 - ts280) Santa Anita
+(ts427 - ts431) kayamujun
+(ts433 - ts434) kusa
+(ts724 - ts726) si ha querer la abuelita, si le dije a mi sobrina
+(ts733 - ts734) buena fe costata rini, santo domingukaman
+(ts735 - ts736) chaypish tinmi vankilistaguna
+(ts737 - ts738) chipi runchi autupi buspi runchi
+(ts739 - ts740) tandanajusha hermanupurawan
+(ts741 - ts742) iglisiaka kay uralapimi parquimunta uraman , iglesiaka monte Sinai ya mashti
+(ts743 - ts744) shuti
+(ts745 - ts746) chay igliesiamun runchi cada jueves sabadu domingu runchi urungag
+(ts747 - ts748) Diusituta mañangapag rini
+(ts749 - ts750) ñuka kusamunta ñuka wawakunamunta Diositu regalachun salud
+(ts752 - ts754) kay Riobambamun, kay surmun rinchig
+(ts755 - ts756) mashti tandanakusha urungapug
+(ts757 - ts758) Guamanimun, kay mashti
+(ts759 - ts761) kay Oton de Velezmun aerpuertu ladumun
+(ts763 - ts764) Quinchi lumaman runchi
+(ts767 - ts769) shina purinchi
+(ts771 - ts772) yachinmi, shuk idiomapi paykuna (....) chumillunman lumamun rinchi 
+(ts774 - ts776) ah chaymu runchi, iglesiaman busmu rinchi
+(ts779 - ts781) shina filuwata runchi, shina kishkiwa calle
+(ts783 - ts784) si yukanchika ursha rinchi manchañakpi
+(ts785 - ts786) ama waykuman shinarichun auto
+(ts791 - ts792) chaymash runchugmi hermanunguna tin
+(ts794 - ts796) si chaypi tiyanajun ashta
+(ts801 - ts802) Oyacachimun runchi chi pisinapi bautiangapag hermanukunata 
+(ts804 - ts807) si chaymunsh runchigmi
+(ts809 - ts810) chaypi shina purinchi ñukanchi
+(ts815 - ts817) Ah shuk idiomata parlana paykunaka
+
+[C_dt]
+
+[C_mb]
+
+[C_gl]
+
+[Hermelinda Tituaña_tn]
+

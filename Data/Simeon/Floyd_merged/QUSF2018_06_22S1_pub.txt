@@ -1,0 +1,2781 @@
+Speaker: Mujer 1
+  Tier Type: po, Annotations Count: 560
+    Time Stamp: ("'ts1'", "'ts2'"), Annotation: chaypi nini
+    Time Stamp: ("'ts3'", "'ts4'"), Annotation: o sino
+    Time Stamp: ("'ts5'", "'ts6'"), Annotation: kuchitaka rrandingi
+    Time Stamp: ("'ts15'", "'ts16'"), Annotation: haaaa
+    Time Stamp: ("'ts17'", "'ts18'"), Annotation: Rociobabi
+    Time Stamp: ("'ts23'", "'ts24'"), Annotation: haaaaaaa
+    Time Stamp: ("'ts25'", "'ts26'"), Annotation: jatusha ninjunmi
+    Time Stamp: ("'ts27'", "'ts28'"), Annotation: enterumpi
+    Time Stamp: ("'ts29'", "'ts30'"), Annotation: sinoga
+    Time Stamp: ("'ts31'", "'ts32'"), Annotation: chaspinami
+    Time Stamp: ("'ts33'", "'ts34'"), Annotation: chaeme nuk
+    Time Stamp: ("'ts35'", "'ts36'"), Annotation: ñuka rrikani
+    Time Stamp: ("'ts38'", "'ts40'"), Annotation: kayna
+    Time Stamp: ("'ts43'", "'ts44'"), Annotation: chika
+    Time Stamp: ("'ts45'", "'ts46'"), Annotation: enterumbi
+    Time Stamp: ("'ts47'", "'ts48'"), Annotation: rrandina nikami
+    Time Stamp: ("'ts49'", "'ts50'"), Annotation: na
+    Time Stamp: ("'ts51'", "'ts52'"), Annotation: guañuchina
+    Time Stamp: ("'ts53'", "'ts55'"), Annotation: enterombi apana
+    Time Stamp: ("'ts58'", "'ts60'"), Annotation: guañuchingapa nirkani
+    Time Stamp: ("'ts61'", "'ts62'"), Annotation: pero
+    Time Stamp: ("'ts63'", "'ts65'"), Annotation: na ushanika
+    Time Stamp: ("'ts67'", "'ts68'"), Annotation: Manolopi
+    Time Stamp: ("'ts69'", "'ts70'"), Annotation: negociajurkani
+    Time Stamp: ("'ts71'", "'ts73'"), Annotation: enteronta rrandirka
+    Time Stamp: ("'ts76'", "'ts78'"), Annotation: ha ha
+    Time Stamp: ("'ts81'", "'ts82'"), Annotation: ciendolarrtami kurka
+    Time Stamp: ("'ts87'", "'ts88'"), Annotation: no se
+    Time Stamp: ("'ts89'", "'ts90'"), Annotation: chiri misayan
+    Time Stamp: ("'ts91'", "'ts92'"), Annotation: (...............)
+    Time Stamp: ("'ts93'", "'ts94'"), Annotation: kulki illan
+    Time Stamp: ("'ts95'", "'ts96'"), Annotation: kaya
+    Time Stamp: ("'ts97'", "'ts98'"), Annotation: (...............)
+    Time Stamp: ("'ts99'", "'ts100'"), Annotation: yachashpaka
+    Time Stamp: ("'ts101'", "'ts102'"), Annotation: jatunaminin
+    Time Stamp: ("'ts105'", "'ts106'"), Annotation: shina apamujurkani
+    Time Stamp: ("'ts111'", "'ts112'"), Annotation: chika
+    Time Stamp: ("'ts113'", "'ts114'"), Annotation: kunanga
+    Time Stamp: ("'ts115'", "'ts116'"), Annotation: Burgabish
+    Time Stamp: ("'ts117'", "'ts118'"), Annotation: cuyda munushpaga
+    Time Stamp: ("'ts119'", "'ts120'"), Annotation: rrandiringi
+    Time Stamp: ("'ts121'", "'ts122'"), Annotation: cuytabash jatunimi
+    Time Stamp: ("'ts123'", "'ts124'"), Annotation: suedraga
+    Time Stamp: ("'ts125'", "'ts126'"), Annotation: guagua cuyguna
+    Time Stamp: ("'ts127'", "'ts128'"), Annotation: tianmi nin
+    Time Stamp: ("'ts129'", "'ts130'"), Annotation: cuyda mnashbaga
+    Time Stamp: ("'ts131'", "'ts132'"), Annotation: rrandiringi
+    Time Stamp: ("'ts133'", "'ts134'"), Annotation: baratunmi cunmi
+    Time Stamp: ("'ts139'", "'ts140'"), Annotation: jiguashpa
+    Time Stamp: ("'ts145'", "'ts146'"), Annotation: ima nish
+    Time Stamp: ("'ts147'", "'ts148'"), Annotation: randishun
+    Time Stamp: ("'ts149'", "'ts151'"), Annotation: baratuma
+    Time Stamp: ("'ts153'", "'ts154'"), Annotation: kutin mikuyka
+    Time Stamp: ("'ts161'", "'ts162'"), Annotation: alfa
+    Time Stamp: ("'ts163'", "'ts164'"), Annotation: alfa
+    Time Stamp: ("'ts165'", "'ts166'"), Annotation: alfa
+    Time Stamp: ("'ts167'", "'ts168'"), Annotation: alfa
+    Time Stamp: ("'ts176'", "'ts178'"), Annotation: cuchi mikida
+    Time Stamp: ("'ts179'", "'ts180'"), Annotation: masque
+    Time Stamp: ("'ts181'", "'ts182'"), Annotation: predinaminin
+    Time Stamp: ("'ts183'", "'ts185'"), Annotation: shug salunkunata
+    Time Stamp: ("'ts187'", "'ts188'"), Annotation: del todo
+    Time Stamp: ("'ts189'", "'ts190'"), Annotation: cuchi
+    Time Stamp: ("'ts191'", "'ts193'"), Annotation: shina
+    Time Stamp: ("'ts195'", "'ts197'"), Annotation: mana pagtan
+    Time Stamp: ("'ts198'", "'ts200'"), Annotation: cuyta
+    Time Stamp: ("'ts201'", "'ts202'"), Annotation: maski
+    Time Stamp: ("'ts203'", "'ts204'"), Annotation: (................)
+    Time Stamp: ("'ts205'", "'ts207'"), Annotation: salungunapi
+    Time Stamp: ("'ts208'", "'ts209'"), Annotation: maski
+    Time Stamp: ("'ts210'", "'ts212'"), Annotation: frenando
+    Time Stamp: ("'ts213'", "'ts214'"), Annotation: (................................)
+    Time Stamp: ("'ts215'", "'ts217'"), Annotation: carisimo chay
+    Time Stamp: ("'ts220'", "'ts222'"), Annotation: mm
+    Time Stamp: ("'ts231'", "'ts232'"), Annotation: nueve con cuarrto
+    Time Stamp: ("'ts233'", "'ts234'"), Annotation: (....................)
+    Time Stamp: ("'ts235'", "'ts236'"), Annotation: (......................)
+    Time Stamp: ("'ts239'", "'ts240'"), Annotation: pero
+    Time Stamp: ("'ts241'", "'ts242'"), Annotation: cobrando
+    Time Stamp: ("'ts243'", "'ts244'"), Annotation: estaba
+    Time Stamp: ("'ts245'", "'ts246'"), Annotation: masque
+    Time Stamp: ("'ts247'", "'ts249'"), Annotation: cubrusha
+    Time Stamp: ("'ts250'", "'ts252'"), Annotation: cada killa
+    Time Stamp: ("'ts254'", "'ts255'"), Annotation: cada pulla
+    Time Stamp: ("'ts257'", "'ts258'"), Annotation: Quitugunapibash
+    Time Stamp: ("'ts259'", "'ts260'"), Annotation: cada killa
+    Time Stamp: ("'ts261'", "'ts262'"), Annotation: pagan kash
+    Time Stamp: ("'ts267'", "'ts268'"), Annotation: diez dolarr
+    Time Stamp: ("'ts275'", "'ts276'"), Annotation: uc
+    Time Stamp: ("'ts277'", "'ts278'"), Annotation: treinta dolar
+    Time Stamp: ("'ts279'", "'ts280'"), Annotation: cincuenta
+    Time Stamp: ("'ts282'", "'ts284'"), Annotation: cincuenta dolarr
+    Time Stamp: ("'ts289'", "'ts290'"), Annotation: mensual
+    Time Stamp: ("'ts291'", "'ts292'"), Annotation: cincuenta
+    Time Stamp: ("'ts293'", "'ts294'"), Annotation: dinokami
+    Time Stamp: ("'ts295'", "'ts296'"), Annotation: treinta saki
+    Time Stamp: ("'ts305'", "'ts306'"), Annotation: no se
+    Time Stamp: ("'ts307'", "'ts308'"), Annotation: tanqueka
+    Time Stamp: ("'ts309'", "'ts310'"), Annotation: mashnacha shugshinakarka
+    Time Stamp: ("'ts311'", "'ts312'"), Annotation: na tapushganichu
+    Time Stamp: ("'ts313'", "'ts314'"), Annotation: shug cuentaga
+    Time Stamp: ("'ts315'", "'ts316'"), Annotation: muchu
+    Time Stamp: ("'ts317'", "'ts319'"), Annotation: (..............)
+    Time Stamp: ("'ts321'", "'ts322'"), Annotation: mucho
+    Time Stamp: ("'ts324'", "'ts326'"), Annotation: kulki illay
+    Time Stamp: ("'ts327'", "'ts328'"), Annotation: kanmanga na
+    Time Stamp: ("'ts329'", "'ts330'"), Annotation: na ofresishkanichu
+    Time Stamp: ("'ts331'", "'ts332'"), Annotation: no se
+    Time Stamp: ("'ts335'", "'ts336'"), Annotation: mikushun
+    Time Stamp: ("'ts337'", "'ts338'"), Annotation: cancela sakirkani
+    Time Stamp: ("'ts339'", "'ts341'"), Annotation: (asin)
+    Time Stamp: ("'ts351'", "'ts352'"), Annotation: mmmm
+    Time Stamp: ("'ts353'", "'ts354'"), Annotation: jaku
+    Time Stamp: ("'ts355'", "'ts356'"), Annotation: primo gash
+    Time Stamp: ("'ts357'", "'ts358'"), Annotation: (.....................)
+    Time Stamp: ("'ts359'", "'ts360'"), Annotation: guagua na ali
+    Time Stamp: ("'ts361'", "'ts362'"), Annotation: ba
+    Time Stamp: ("'ts363'", "'ts364'"), Annotation: baratumi kashka
+    Time Stamp: ("'ts367'", "'ts368'"), Annotation: guallambabi
+    Time Stamp: ("'ts371'", "'ts372'"), Annotation: chaypimi
+    Time Stamp: ("'ts373'", "'ts374'"), Annotation: doce dolar
+    Time Stamp: ("'ts375'", "'ts376'"), Annotation: quince dolarmi kushka
+    Time Stamp: ("'ts377'", "'ts378'"), Annotation: afrechillu
+    Time Stamp: ("'ts379'", "'ts380'"), Annotation: afrechillu
+    Time Stamp: ("'ts383'", "'ts384'"), Annotation: uyangichu
+    Time Stamp: ("'ts385'", "'ts386'"), Annotation: imaurachurachibibash
+    Time Stamp: ("'ts387'", "'ts388'"), Annotation: na churanchi
+    Time Stamp: ("'ts389'", "'ts390'"), Annotation: kuanchika
+    Time Stamp: ("'ts391'", "'ts392'"), Annotation: balanseagunan
+    Time Stamp: ("'ts393'", "'ts394'"), Annotation: (.......................)
+    Time Stamp: ("'ts400'", "'ts402'"), Annotation: morochillo nishga imasti
+    Time Stamp: ("'ts403'", "'ts404'"), Annotation: arrobaguka
+    Time Stamp: ("'ts405'", "'ts406'"), Annotation: cuatro dolarmi kashka
+    Time Stamp: ("'ts407'", "'ts409'"), Annotation: kaypi
+    Time Stamp: ("'ts411'", "'ts413'"), Annotation: baratu ninga
+    Time Stamp: ("'ts415'", "'ts416'"), Annotation: ñuka
+    Time Stamp: ("'ts417'", "'ts418'"), Annotation: morochillushi
+    Time Stamp: ("'ts426'", "'ts429'"), Annotation: eeeeeh
+    Time Stamp: ("'ts431'", "'ts432'"), Annotation: (................)
+    Time Stamp: ("'ts435'", "'ts436'"), Annotation: kaypiga
+    Time Stamp: ("'ts437'", "'ts438'"), Annotation: treinta dolarrr
+    Time Stamp: ("'ts439'", "'ts440'"), Annotation: unoka
+    Time Stamp: ("'ts441'", "'ts442'"), Annotation: chishi vinio gintika
+    Time Stamp: ("'ts443'", "'ts444'"), Annotation: asiloka
+    Time Stamp: ("'ts445'", "'ts446'"), Annotation: dieci seis dolar nirkami
+    Time Stamp: ("'ts449'", "'ts450'"), Annotation: kayruku
+    Time Stamp: ("'ts451'", "'ts452'"), Annotation: shina rrakuluandi
+    Time Stamp: ("'ts453'", "'ts454'"), Annotation: doce dolarr nirka
+    Time Stamp: ("'ts455'", "'ts456'"), Annotation: (.............................)
+    Time Stamp: ("'ts460'", "'ts462'"), Annotation: na tapunichu
+    Time Stamp: ("'ts463'", "'ts464'"), Annotation: curicu urapika
+    Time Stamp: ("'ts471'", "'ts472'"), Annotation: veinti dos nircami
+    Time Stamp: ("'ts477'", "'ts478'"), Annotation: na tapunichu
+    Time Stamp: ("'ts485'", "'ts487'"), Annotation: quinuashu
+    Time Stamp: ("'ts489'", "'ts490'"), Annotation: (.......................)
+    Time Stamp: ("'ts491'", "'ts492'"), Annotation: na nircamari
+    Time Stamp: ("'ts493'", "'ts494'"), Annotation: covachami
+    Time Stamp: ("'ts495'", "'ts496'"), Annotation: guashamaga
+    Time Stamp: ("'ts497'", "'ts498'"), Annotation: vagokunaaaaaaa
+    Time Stamp: ("'ts505'", "'ts506'"), Annotation: shina
+    Time Stamp: ("'ts507'", "'ts508'"), Annotation: na, na, na
+    Time Stamp: ("'ts509'", "'ts510'"), Annotation: (...................)
+    Time Stamp: ("'ts511'", "'ts512'"), Annotation: (.............................)
+    Time Stamp: ("'ts519'", "'ts520'"), Annotation: (..........)
+    Time Stamp: ("'ts521'", "'ts522'"), Annotation: (............................)
+    Time Stamp: ("'ts523'", "'ts524'"), Annotation: shina cainga
+    Time Stamp: ("'ts531'", "'ts532'"), Annotation: mmmmm
+    Time Stamp: ("'ts533'", "'ts534'"), Annotation: (.................)
+    Time Stamp: ("'ts535'", "'ts536'"), Annotation: (.................)
+    Time Stamp: ("'ts537'", "'ts538'"), Annotation: chirlo
+    Time Stamp: ("'ts540'", "'ts542'"), Annotation: diez
+    Time Stamp: ("'ts547'", "'ts548'"), Annotation: haaaaaa
+    Time Stamp: ("'ts549'", "'ts550'"), Annotation: ocho
+    Time Stamp: ("'ts551'", "'ts552'"), Annotation: ma tota
+    Time Stamp: ("'ts553'", "'ts554'"), Annotation: machachinga
+    Time Stamp: ("'ts559'", "'ts560'"), Annotation: ha ah
+    Time Stamp: ("'ts561'", "'ts562'"), Annotation: mayuka
+    Time Stamp: ("'ts563'", "'ts564'"), Annotation: na contashkanichu
+    Time Stamp: ("'ts565'", "'ts566'"), Annotation: unos
+    Time Stamp: ("'ts567'", "'ts569'"), Annotation: quince mingayman
+    Time Stamp: ("'ts583'", "'ts585'"), Annotation: (asinakun)
+    Time Stamp: ("'ts593'", "'ts594'"), Annotation: ashku
+    Time Stamp: ("'ts595'", "'ts596'"), Annotation: kuchi mikunata
+    Time Stamp: ("'ts597'", "'ts598'"), Annotation: rrigashka
+    Time Stamp: ("'ts599'", "'ts600'"), Annotation: chitaka
+    Time Stamp: ("'ts611'", "'ts612'"), Annotation: que hay arrotsito
+    Time Stamp: ("'ts613'", "'ts614'"), Annotation: arrocito
+    Time Stamp: ("'ts615'", "'ts616'"), Annotation: ñañaka
+    Time Stamp: ("'ts617'", "'ts619'"), Annotation: algo mismo esta
+    Time Stamp: ("'ts621'", "'ts622'"), Annotation: algo mismo
+    Time Stamp: ("'ts623'", "'ts624'"), Annotation: antes de
+    Time Stamp: ("'ts625'", "'ts626'"), Annotation: antes de que diga
+    Time Stamp: ("'ts627'", "'ts628'"), Annotation: algo le pasa a ñaña
+    Time Stamp: ("'ts629'", "'ts630'"), Annotation: (...........)
+    Time Stamp: ("'ts631'", "'ts632'"), Annotation: no esta dando problema
+    Time Stamp: ("'ts633'", "'ts634'"), Annotation: no se
+    Time Stamp: ("'ts635'", "'ts636'"), Annotation: esos dos dias
+    Time Stamp: ("'ts637'", "'ts638'"), Annotation: asi me hizo
+    Time Stamp: ("'ts643'", "'ts644'"), Annotation: ando bien
+    Time Stamp: ("'ts645'", "'ts646'"), Annotation: (...............)
+    Time Stamp: ("'ts647'", "'ts648'"), Annotation: dijo
+    Time Stamp: ("'ts651'", "'ts652'"), Annotation: si voy a decir
+    Time Stamp: ("'ts661'", "'ts662'"), Annotation: mmmmmmm
+    Time Stamp: ("'ts663'", "'ts664'"), Annotation: shina nishcaguan
+    Time Stamp: ("'ts665'", "'ts666'"), Annotation: ahi ha de comprender
+    Time Stamp: ("'ts671'", "'ts672'"), Annotation: Elenapapi
+    Time Stamp: ("'ts673'", "'ts674'"), Annotation: (..................)
+    Time Stamp: ("'ts675'", "'ts676'"), Annotation: (..................)
+    Time Stamp: ("'ts679'", "'ts680'"), Annotation: (..................)
+    Time Stamp: ("'ts681'", "'ts682'"), Annotation: primero satish
+    Time Stamp: ("'ts689'", "'ts690'"), Annotation: (mm)
+    Time Stamp: ("'ts691'", "'ts692'"), Annotation: ahi ta
+    Time Stamp: ("'ts693'", "'ts694'"), Annotation: vaya, vaya mijo
+    Time Stamp: ("'ts695'", "'ts696'"), Annotation: (.............)
+    Time Stamp: ("'ts697'", "'ts698'"), Annotation: quieto
+    Time Stamp: ("'ts699'", "'ts700'"), Annotation: (.....................)
+    Time Stamp: ("'ts701'", "'ts702'"), Annotation: no le llames
+    Time Stamp: ("'ts709'", "'ts710'"), Annotation: ari
+    Time Stamp: ("'ts716'", "'ts718'"), Annotation: hijo
+    Time Stamp: ("'ts753'", "'ts754'"), Annotation: ha yaya
+    Time Stamp: ("'ts755'", "'ts756'"), Annotation: entonceska
+    Time Stamp: ("'ts759'", "'ts760'"), Annotation: entonces
+    Time Stamp: ("'ts761'", "'ts762'"), Annotation: que van andar
+    Time Stamp: ("'ts763'", "'ts764'"), Annotation: mas a
+    Time Stamp: ("'ts765'", "'ts766'"), Annotation: Marìaaa
+    Time Stamp: ("'ts767'", "'ts768'"), Annotation: (.................)
+    Time Stamp: ("'ts769'", "'ts770'"), Annotation: (..........)
+    Time Stamp: ("'ts771'", "'ts772'"), Annotation: deahica porque ya
+    Time Stamp: ("'ts773'", "'ts774'"), Annotation: tal vez
+    Time Stamp: ("'ts775'", "'ts776'"), Annotation: ya hay
+    Time Stamp: ("'ts777'", "'ts779'"), Annotation: dijo
+    Time Stamp: ("'ts783'", "'ts784'"), Annotation: para que
+    Time Stamp: ("'ts789'", "'ts790'"), Annotation: no
+    Time Stamp: ("'ts791'", "'ts792'"), Annotation: mami
+    Time Stamp: ("'ts793'", "'ts794'"), Annotation: (............)
+    Time Stamp: ("'ts795'", "'ts796'"), Annotation: Calderon
+    Time Stamp: ("'ts797'", "'ts798'"), Annotation: que
+    Time Stamp: ("'ts799'", "'ts800'"), Annotation: desde denantes
+    Time Stamp: ("'ts801'", "'ts802'"), Annotation: desde de mañanita
+    Time Stamp: ("'ts803'", "'ts804'"), Annotation: (,..................................)
+    Time Stamp: ("'ts805'", "'ts807'"), Annotation: (..................)
+    Time Stamp: ("'ts809'", "'ts810'"), Annotation: otra vez
+    Time Stamp: ("'ts811'", "'ts812'"), Annotation: regrese
+    Time Stamp: ("'ts814'", "'ts816'"), Annotation: que dijiste
+    Time Stamp: ("'ts817'", "'ts818'"), Annotation: que traiga
+    Time Stamp: ("'ts819'", "'ts820'"), Annotation: ahora si
+    Time Stamp: ("'ts821'", "'ts822'"), Annotation: traje plata
+    Time Stamp: ("'ts823'", "'ts824'"), Annotation: malo
+    Time Stamp: ("'ts825'", "'ts826'"), Annotation: fuera
+    Time Stamp: ("'ts827'", "'ts828'"), Annotation: ya le dije
+    Time Stamp: ("'ts829'", "'ts830'"), Annotation: enton esa
+    Time Stamp: ("'ts831'", "'ts832'"), Annotation: esa crema dame trayendo
+    Time Stamp: ("'ts833'", "'ts834'"), Annotation: este
+    Time Stamp: ("'ts835'", "'ts836'"), Annotation: (................)
+    Time Stamp: ("'ts837'", "'ts838'"), Annotation: deme trayendp
+    Time Stamp: ("'ts839'", "'ts840'"), Annotation: (..............)
+    Time Stamp: ("'ts841'", "'ts842'"), Annotation: si vino pues
+    Time Stamp: ("'ts843'", "'ts844'"), Annotation: a las siete de la noche
+    Time Stamp: ("'ts845'", "'ts846'"), Annotation: haiga llegado
+    Time Stamp: ("'ts847'", "'ts848'"), Annotation: pero con mi crema
+    Time Stamp: ("'ts849'", "'ts850'"), Annotation: si llego
+    Time Stamp: ("'ts851'", "'ts852'"), Annotation: tarrde
+    Time Stamp: ("'ts853'", "'ts854'"), Annotation: de ahica
+    Time Stamp: ("'ts855'", "'ts856'"), Annotation: (...................)
+    Time Stamp: ("'ts857'", "'ts858'"), Annotation: algo
+    Time Stamp: ("'ts859'", "'ts860'"), Annotation: han da haciendo
+    Time Stamp: ("'ts861'", "'ts862'"), Annotation: algo , pero anda haciendo
+    Time Stamp: ("'ts863'", "'ts864'"), Annotation: (.................)
+    Time Stamp: ("'ts865'", "'ts866'"), Annotation: no, estas
+    Time Stamp: ("'ts867'", "'ts868'"), Annotation: andando bien
+    Time Stamp: ("'ts869'", "'ts871'"), Annotation: algooooooo
+    Time Stamp: ("'ts875'", "'ts876'"), Annotation: algo
+    Time Stamp: ("'ts877'", "'ts878'"), Annotation: anda dije
+    Time Stamp: ("'ts879'", "'ts880'"), Annotation: yoooooo
+    Time Stamp: ("'ts888'", "'ts891'"), Annotation: si
+    Time Stamp: ("'ts896'", "'ts898'"), Annotation: (.....................)
+    Time Stamp: ("'ts899'", "'ts900'"), Annotation: parlashun
+    Time Stamp: ("'ts901'", "'ts902'"), Annotation: guasho
+    Time Stamp: ("'ts913'", "'ts914'"), Annotation: ha yaya
+    Time Stamp: ("'ts916'", "'ts920'"), Annotation: asin akun
+    Time Stamp: ("'ts956'", "'ts958'"), Annotation: ha
+    Time Stamp: ("'ts959'", "'ts960'"), Annotation: ya ya
+    Time Stamp: ("'ts963'", "'ts964'"), Annotation: kunun, kununga trabajanchirami
+    Time Stamp: ("'ts965'", "'ts968'"), Annotation: asinakun
+    Time Stamp: ("'ts992'", "'ts994'"), Annotation: asinakun
+    Time Stamp: ("'ts995'", "'ts998'"), Annotation: asinakun
+    Time Stamp: ("'ts1000'", "'ts1002'"), Annotation: siesk puede
+    Time Stamp: ("'ts1036'", "'ts1038'"), Annotation: preguntale
+    Time Stamp: ("'ts1039'", "'ts1040'"), Annotation: preguntale
+    Time Stamp: ("'ts1075'", "'ts1076'"), Annotation: shina
+    Time Stamp: ("'ts1077'", "'ts1078'"), Annotation: shinaka
+    Time Stamp: ("'ts1079'", "'ts1080'"), Annotation: china montale
+    Time Stamp: ("'ts1081'", "'ts1082'"), Annotation: kashna
+    Time Stamp: ("'ts1085'", "'ts1086'"), Annotation: may trabajunma rrigpika
+    Time Stamp: ("'ts1087'", "'ts1088'"), Annotation: vaporr olorrga rringami
+    Time Stamp: ("'ts1092'", "'ts1094'"), Annotation: ha ah
+    Time Stamp: ("'ts1095'", "'ts1096'"), Annotation: ñukanchigka
+    Time Stamp: ("'ts1097'", "'ts1098'"), Annotation: kayladupiga
+    Time Stamp: ("'ts1099'", "'ts1101'"), Annotation: shinapacha trabajanchi
+    Time Stamp: ("'ts1105'", "'ts1106'"), Annotation: mm mm
+    Time Stamp: ("'ts1131'", "'ts1132'"), Annotation: cierrto
+    Time Stamp: ("'ts1143'", "'ts1144'"), Annotation: Yupagachi
+    Time Stamp: ("'ts1145'", "'ts1146'"), Annotation: teniamos
+    Time Stamp: ("'ts1147'", "'ts1148'"), Annotation: unguymanta
+    Time Stamp: ("'ts1149'", "'ts1150'"), Annotation: ña shina
+    Time Stamp: ("'ts1151'", "'ts1152'"), Annotation: ocupadaaaaaaaaa
+    Time Stamp: ("'ts1153'", "'ts1154'"), Annotation: unguymanda
+    Time Stamp: ("'ts1155'", "'ts1156'"), Annotation: imapash unguykunatami
+    Time Stamp: ("'ts1157'", "'ts1158'"), Annotation: exagmenjunata
+    Time Stamp: ("'ts1159'", "'ts1160'"), Annotation: ucha puringa
+    Time Stamp: ("'ts1161'", "'ts1163'"), Annotation: pense
+    Time Stamp: ("'ts1171'", "'ts1172'"), Annotation: cuytami
+    Time Stamp: ("'ts1173'", "'ts1174'"), Annotation: ima bash
+    Time Stamp: ("'ts1175'", "'ts1176'"), Annotation: (.................)
+    Time Stamp: ("'ts1177'", "'ts1178'"), Annotation: (........................)
+    Time Stamp: ("'ts1179'", "'ts1180'"), Annotation: (...............)
+    Time Stamp: ("'ts1181'", "'ts1182'"), Annotation: shina
+    Time Stamp: ("'ts1183'", "'ts1184'"), Annotation: kalparianga
+    Time Stamp: ("'ts1185'", "'ts1186'"), Annotation: pense
+    Time Stamp: ("'ts1192'", "'ts1194'"), Annotation: voluntadmi
+    Time Stamp: ("'ts1195'", "'ts1196'"), Annotation: shina
+    Time Stamp: ("'ts1197'", "'ts1198'"), Annotation: puringayagpi
+    Time Stamp: ("'ts1207'", "'ts1208'"), Annotation: haaaa
+    Time Stamp: ("'ts1209'", "'ts1210'"), Annotation: tomame aun dile pues
+    Time Stamp: ("'ts1216'", "'ts1219'"), Annotation: asinakun
+    Time Stamp: ("'ts1232'", "'ts1234'"), Annotation: toma chago
+    Time Stamp: ("'ts1247'", "'ts1248'"), Annotation: (........................)
+    Time Stamp: ("'ts1249'", "'ts1250'"), Annotation: (........................)
+    Time Stamp: ("'ts1251'", "'ts1252'"), Annotation: cogiendo
+    Time Stamp: ("'ts1257'", "'ts1258'"), Annotation: diga mami
+    Time Stamp: ("'ts1259'", "'ts1260'"), Annotation: ya
+    Time Stamp: ("'ts1261'", "'ts1262'"), Annotation: conversado
+    Time Stamp: ("'ts1264'", "'ts1266'"), Annotation: kayta na jundachishkani
+    Time Stamp: ("'ts1267'", "'ts1268'"), Annotation: kaypi jipayanchi
+    Time Stamp: ("'ts1292'", "'ts1294'"), Annotation: las ochota
+    Time Stamp: ("'ts1299'", "'ts1300'"), Annotation: cafeota ufiash shina
+    Time Stamp: ("'ts1302'", "'ts1304'"), Annotation: yakuamanta
+    Time Stamp: ("'ts1305'", "'ts1307'"), Annotation: nish trabajanajunchi
+    Time Stamp: ("'ts1309'", "'ts1310'"), Annotation: mana mikugpi
+    Time Stamp: ("'ts1311'", "'ts1312'"), Annotation: vigsa
+    Time Stamp: ("'ts1313'", "'ts1314'"), Annotation: yarijun
+    Time Stamp: ("'ts1319'", "'ts1320'"), Annotation: yakunimannnn
+    Time Stamp: ("'ts1321'", "'ts1322'"), Annotation: shina
+    Time Stamp: ("'ts1323'", "'ts1324'"), Annotation: yakuniman nin
+    Time Stamp: ("'ts1330'", "'ts1332'"), Annotation: (........................)
+    Time Stamp: ("'ts1337'", "'ts1338'"), Annotation: ñuka ushi shina
+    Time Stamp: ("'ts1339'", "'ts1340'"), Annotation: mana karanata
+    Time Stamp: ("'ts1341'", "'ts1342'"), Annotation: yachanan
+    Time Stamp: ("'ts1344'", "'ts1346'"), Annotation: shina madrugado
+    Time Stamp: ("'ts1347'", "'ts1349'"), Annotation: upinche
+    Time Stamp: ("'ts1386'", "'ts1388'"), Annotation: asinakun
+    Time Stamp: ("'ts1409'", "'ts1411'"), Annotation: (................)
+    Time Stamp: ("'ts1485'", "'ts1486'"), Annotation: (........................)
+    Time Stamp: ("'ts1487'", "'ts1489'"), Annotation: (........................)
+    Time Stamp: ("'ts1511'", "'ts1512'"), Annotation: chayamurkangichu
+    Time Stamp: ("'ts1513'", "'ts1514'"), Annotation: sulula
+    Time Stamp: ("'ts1521'", "'ts1522'"), Annotation: Mariaka nikami
+    Time Stamp: ("'ts1523'", "'ts1524'"), Annotation: chingagami
+    Time Stamp: ("'ts1525'", "'ts1526'"), Annotation: calleman shugshingi nilkami
+    Time Stamp: ("'ts1539'", "'ts1540'"), Annotation: chica
+    Time Stamp: ("'ts1550'", "'ts1552'"), Annotation: haaa
+    Time Stamp: ("'ts1553'", "'ts1554'"), Annotation: Rosi
+    Time Stamp: ("'ts1572'", "'ts1575'"), Annotation: haaa
+    Time Stamp: ("'ts1593'", "'ts1594'"), Annotation: mm mm
+    Time Stamp: ("'ts1607'", "'ts1608'"), Annotation: ñuka hijaguanga
+    Time Stamp: ("'ts1609'", "'ts1610'"), Annotation: tupukangichu
+    Time Stamp: ("'ts1611'", "'ts1612'"), Annotation: ñaja
+    Time Stamp: ("'ts1615'", "'ts1616'"), Annotation: ñuka hijaguanga tupukangichu
+    Time Stamp: ("'ts1617'", "'ts1618'"), Annotation: ñuka hijaguan
+    Time Stamp: ("'ts1619'", "'ts1620'"), Annotation: Mariaguan
+    Time Stamp: ("'ts1628'", "'ts1630'"), Annotation: haaaaa
+    Time Stamp: ("'ts1632'", "'ts1634'"), Annotation: kayna
+    Time Stamp: ("'ts1639'", "'ts1640'"), Annotation: haaaaa
+    Time Stamp: ("'ts1661'", "'ts1662'"), Annotation: nachu kununga
+    Time Stamp: ("'ts1663'", "'ts1664'"), Annotation: Mexicomanga rringi
+    Time Stamp: ("'ts1675'", "'ts1676'"), Annotation: ñukaka
+    Time Stamp: ("'ts1677'", "'ts1678'"), Annotation: agostotami rririjuni
+    Time Stamp: ("'ts1684'", "'ts1686'"), Annotation: Mexicota
+    Time Stamp: ("'ts1691'", "'ts1692'"), Annotation: Panamatash
+    Time Stamp: ("'ts1697'", "'ts1699'"), Annotation: diez diami rrijuni
+    Time Stamp: ("'ts1703'", "'ts1704'"), Annotation: grupupi
+    Time Stamp: ("'ts1712'", "'ts1714'"), Annotation: ashka kulkiguanllu rrina chaymunga
+    Time Stamp: ("'ts1736'", "'ts1738'"), Annotation: puñunaka baratuchu
+    Time Stamp: ("'ts1752'", "'ts1754'"), Annotation: ñukaka
+    Time Stamp: ("'ts1755'", "'ts1756'"), Annotation: pero
+    Time Stamp: ("'ts1757'", "'ts1758'"), Annotation: ya ishtata
+    Time Stamp: ("'ts1759'", "'ts1760'"), Annotation: pagushkami
+    Time Stamp: ("'ts1761'", "'ts1762'"), Annotation: rrikani
+    Time Stamp: ("'ts1767'", "'ts1768'"), Annotation: almuerzunabu
+    Time Stamp: ("'ts1769'", "'ts1770'"), Annotation: hotelgunapash
+    Time Stamp: ("'ts1771'", "'ts1772'"), Annotation: ya pagushka
+    Time Stamp: ("'ts1781'", "'ts1782'"), Annotation: ñuka jushuta mikunata
+    Time Stamp: ("'ts1783'", "'ts1785'"), Annotation: aparrte
+    Time Stamp: ("'ts1786'", "'ts1788'"), Annotation: kulkita apana
+    Time Stamp: ("'ts1791'", "'ts1792'"), Annotation: rrupaka baratuchu
+    Time Stamp: ("'ts1793'", "'ts1794'"), Annotation: chaypika
+    Time Stamp: ("'ts1840'", "'ts1842'"), Annotation: ima punlla
+    Time Stamp: ("'ts1843'", "'ts1844'"), Annotation: chimanga
+    Time Stamp: ("'ts1845'", "'ts1846'"), Annotation: feriaguna ti
+    Time Stamp: ("'ts1858'", "'ts1860'"), Annotation: Virgen de Guadalupeman
+    Time Stamp: ("'ts1861'", "'ts1862'"), Annotation: rririjuni
+    Time Stamp: ("'ts1879'", "'ts1881'"), Annotation: haaaa
+    Time Stamp: ("'ts1887'", "'ts1888'"), Annotation: ariiiiiiii
+    Time Stamp: ("'ts1893'", "'ts1894'"), Annotation: shini ña rrishinishi ña
+    Time Stamp: ("'ts1895'", "'ts1897'"), Annotation: purijuni
+    Time Stamp: ("'ts1915'", "'ts1916'"), Annotation: mmm
+    Time Stamp: ("'ts1921'", "'ts1922'"), Annotation: avionbi ña
+    Time Stamp: ("'ts1923'", "'ts1924'"), Annotation: masque
+    Time Stamp: ("'ts1925'", "'ts1926'"), Annotation: Panababimi
+    Time Stamp: ("'ts1927'", "'ts1928'"), Annotation: rrandishun nin
+    Time Stamp: ("'ts1929'", "'ts1930'"), Annotation: cosaskunataka
+    Time Stamp: ("'ts1931'", "'ts1932'"), Annotation: Panababimi
+    Time Stamp: ("'ts1933'", "'ts1934'"), Annotation: compraman rririnchi
+    Time Stamp: ("'ts1950'", "'ts1954'"), Annotation: haaaaa
+    Time Stamp: ("'ts1957'", "'ts1958'"), Annotation: shinami nirka
+    Time Stamp: ("'ts1959'", "'ts1960'"), Annotation: agenciamunta
+    Time Stamp: ("'ts1961'", "'ts1962'"), Annotation: kaynalami
+    Time Stamp: ("'ts1963'", "'ts1964'"), Annotation: kayamugka
+    Time Stamp: ("'ts1965'", "'ts1966'"), Annotation: papelkunata
+    Time Stamp: ("'ts1967'", "'ts1968'"), Annotation: segurungaba
+    Time Stamp: ("'ts1975'", "'ts1976'"), Annotation: chay
+    Time Stamp: ("'ts1977'", "'ts1978'"), Annotation: papelgunata
+    Time Stamp: ("'ts1979'", "'ts1980'"), Annotation: (........................)
+    Time Stamp: ("'ts1981'", "'ts1982'"), Annotation: (.....................)
+    Time Stamp: ("'ts1983'", "'ts1984'"), Annotation: mm
+    Time Stamp: ("'ts1985'", "'ts1986'"), Annotation: nasha
+    Time Stamp: ("'ts1987'", "'ts1988'"), Annotation: terremutu
+    Time Stamp: ("'ts1989'", "'ts1990'"), Annotation: alpamama kuyunga
+    Time Stamp: ("'ts1991'", "'ts1992'"), Annotation: chaypi
+    Time Stamp: ("'ts1993'", "'ts1994'"), Annotation: ñuka chipi kayga
+    Time Stamp: ("'ts2011'", "'ts2012'"), Annotation: chimi shina nijuni
+    Time Stamp: ("'ts2029'", "'ts2030'"), Annotation: ha ha
+    Time Stamp: ("'ts2032'", "'ts2034'"), Annotation: jinlli chugchurka
+    Time Stamp: ("'ts2037'", "'ts2038'"), Annotation: jinlli chuchuka
+    Time Stamp: ("'ts2049'", "'ts2051'"), Annotation: haaaaaaa
+    Time Stamp: ("'ts2053'", "'ts2056'"), Annotation: haaaaaaa
+    Time Stamp: ("'ts2095'", "'ts2096'"), Annotation: haaaaa
+    Time Stamp: ("'ts2106'", "'ts2108'"), Annotation: apamungi
+    Time Stamp: ("'ts2109'", "'ts2110'"), Annotation: apamungi
+    Time Stamp: ("'ts2117'", "'ts2119'"), Annotation: asin
+    Time Stamp: ("'ts2127'", "'ts2128'"), Annotation: ñukapa guagua
+    Time Stamp: ("'ts2129'", "'ts2130'"), Annotation: ña tukurika
+    Time Stamp: ("'ts2131'", "'ts2132'"), Annotation: kaylami ultimugu
+    Time Stamp: ("'ts2135'", "'ts2136'"), Annotation: guaguapa ña
+    Time Stamp: ("'ts2137'", "'ts2138'"), Annotation: illin
+    Time Stamp: ("'ts2139'", "'ts2140'"), Annotation: guagua
+    Time Stamp: ("'ts2141'", "'ts2142'"), Annotation: gringuata
+    Time Stamp: ("'ts2143'", "'ts2144'"), Annotation: kichupi yachachingapa
+    Time Stamp: ("'ts2165'", "'ts2166'"), Annotation: mmmm
+    Time Stamp: ("'ts2178'", "'ts2181'"), Annotation: ñachu yachajushka
+    Time Stamp: ("'ts2187'", "'ts2188'"), Annotation: (..................)
+    Time Stamp: ("'ts2189'", "'ts2190'"), Annotation: (...................)
+    Time Stamp: ("'ts2195'", "'ts2196'"), Annotation: guakimbiga
+    Time Stamp: ("'ts2197'", "'ts2198'"), Annotation: nachu
+    Time Stamp: ("'ts2199'", "'ts2200'"), Annotation: peongunada
+    Time Stamp: ("'ts2201'", "'ts2202'"), Annotation: imagupapa munajungi
+    Time Stamp: ("'ts2205'", "'ts2206'"), Annotation: payga
+    Time Stamp: ("'ts2207'", "'ts2208'"), Annotation: na trabajanchu
+    Time Stamp: ("'ts2211'", "'ts2212'"), Annotation: pushapungi
+    Time Stamp: ("'ts2213'", "'ts2215'"), Annotation: (...........)
+    Time Stamp: ("'ts2243'", "'ts2244'"), Annotation: haaaaaa
+    Time Stamp: ("'ts2267'", "'ts2268'"), Annotation: mm mm
+    Time Stamp: ("'ts2269'", "'ts2270'"), Annotation: guakimbi
+    Time Stamp: ("'ts2271'", "'ts2273'"), Annotation: maypimbi
+    Time Stamp: ("'ts2276'", "'ts2277'"), Annotation: pushagungi
+    Time Stamp: ("'ts2281'", "'ts2282'"), Annotation: (.........................)
+    Time Stamp: ("'ts2283'", "'ts2284'"), Annotation: pushamungi
+    Time Stamp: ("'ts2287'", "'ts2288'"), Annotation: mmmm
+    Time Stamp: ("'ts2294'", "'ts2297'"), Annotation: asin
+    Time Stamp: ("'ts2299'", "'ts2300'"), Annotation: ñuka cumarita
+    Time Stamp: ("'ts2301'", "'ts2302'"), Annotation: pushamurini
+    Time Stamp: ("'ts2305'", "'ts2306'"), Annotation: rrisha ninmi
+    Time Stamp: ("'ts2307'", "'ts2308'"), Annotation: shina kichuapi
+    Time Stamp: ("'ts2309'", "'ts2310'"), Annotation: chashna puringa
+    Time Stamp: ("'ts2319'", "'ts2320'"), Annotation: (...............)
+    Time Stamp: ("'ts2321'", "'ts2322'"), Annotation: chaypi karan
+    Time Stamp: ("'ts2323'", "'ts2324'"), Annotation: (..........................)
+    Time Stamp: ("'ts2353'", "'ts2355'"), Annotation: haaaa
+    Time Stamp: ("'ts2361'", "'ts2363'"), Annotation: mmm
+    Time Stamp: ("'ts2365'", "'ts2366'"), Annotation: haaa
+    Time Stamp: ("'ts2367'", "'ts2369'"), Annotation: chimachu rrirkangi
+    Time Stamp: ("'ts2380'", "'ts2382'"), Annotation: na
+    Time Stamp: ("'ts2383'", "'ts2386'"), Annotation: rigsirkanichu
+    Time Stamp: ("'ts2387'", "'ts2388'"), Annotation: haaa
+    Time Stamp: ("'ts2389'", "'ts2391'"), Annotation: chay guarmikunachu rrirkangi
+    Time Stamp: ("'ts2413'", "'ts2415'"), Annotation: haaaaa
+    Time Stamp: ("'ts2421'", "'ts2422'"), Annotation: haaaa
+    Time Stamp: ("'ts2439'", "'ts2440'"), Annotation: haaaaa
+    Time Stamp: ("'ts2455'", "'ts2456'"), Annotation: haaaaa
+    Time Stamp: ("'ts2461'", "'ts2462'"), Annotation: cierrto
+    Time Stamp: ("'ts2465'", "'ts2466'"), Annotation: (...................)
+    Time Stamp: ("'ts2467'", "'ts2468'"), Annotation: guagrataka imatata
+    Time Stamp: ("'ts2496'", "'ts2499'"), Annotation: mmm
+    Time Stamp: ("'ts2502'", "'ts2503'"), Annotation: jatunguanpa
+    Time Stamp: ("'ts2505'", "'ts2506'"), Annotation: kachangaya
+    Time Stamp: ("'ts2514'", "'ts2516'"), Annotation: ñukanchika mana charinchichu
+    Time Stamp: ("'ts2517'", "'ts2518'"), Annotation: ima
+    Time Stamp: ("'ts2519'", "'ts2521'"), Annotation: kaypiga imatata
+    Time Stamp: ("'ts2525'", "'ts2527'"), Annotation: mana tinga
+    Time Stamp: ("'ts2531'", "'ts2532'"), Annotation: caybibash
+    Time Stamp: ("'ts2533'", "'ts2534'"), Annotation: lichita
+    Time Stamp: ("'ts2535'", "'ts2536'"), Annotation: (...................)
+    Time Stamp: ("'ts2547'", "'ts2548'"), Annotation: Cayambibga
+    Time Stamp: ("'ts2549'", "'ts2550'"), Annotation: lo que quierami tian
+    Time Stamp: ("'ts2559'", "'ts2560'"), Annotation: ha ha
+    Time Stamp: ("'ts2561'", "'ts2562'"), Annotation: ari
+    Time Stamp: ("'ts2563'", "'ts2564'"), Annotation: yakupash
+    Time Stamp: ("'ts2565'", "'ts2566'"), Annotation: kanchi kaypi
+    Time Stamp: ("'ts2567'", "'ts2568'"), Annotation: kaypiga
+    Time Stamp: ("'ts2569'", "'ts2570'"), Annotation: yakupash illa
+    Time Stamp: ("'ts2571'", "'ts2572'"), Annotation: lastima ninchi
+    Time Stamp: ("'ts2579'", "'ts2580'"), Annotation: (..................)
+    Time Stamp: ("'ts2581'", "'ts2582'"), Annotation: ukunima
+    Time Stamp: ("'ts2583'", "'ts2584'"), Annotation: kalpajushkaka yaku
+    Time Stamp: ("'ts2585'", "'ts2586'"), Annotation: jaaa
+    Time Stamp: ("'ts2587'", "'ts2588'"), Annotation: ishpa yaku ya
+    Time Stamp: ("'ts2591'", "'ts2592'"), Annotation: guagra nijun
+    Time Stamp: ("'ts2593'", "'ts2594'"), Annotation: uagrata
+    Time Stamp: ("'ts2597'", "'ts2598'"), Annotation: yakuka illin
+    Time Stamp: ("'ts2599'", "'ts2600'"), Annotation: shug punlla
+    Time Stamp: ("'ts2603'", "'ts2604'"), Annotation: ima
+    Time Stamp: ("'ts2605'", "'ts2606'"), Annotation: yanu
+    Time Stamp: ("'ts2607'", "'ts2608'"), Annotation: ima yakuan yanunchi
+    Time Stamp: ("'ts2609'", "'ts2610'"), Annotation: tukunchi
+    Time Stamp: ("'ts2616'", "'ts2618'"), Annotation: galumbi
+    Time Stamp: ("'ts2623'", "'ts2624'"), Annotation: (....................)
+    Time Stamp: ("'ts2627'", "'ts2628'"), Annotation: chaychu
+    Time Stamp: ("'ts2629'", "'ts2630'"), Annotation: frio frio esta
+    Time Stamp: ("'ts2633'", "'ts2634'"), Annotation: lashtimaka
+    Time Stamp: ("'ts2635'", "'ts2636'"), Annotation: yakua
+    Time Stamp: ("'ts2637'", "'ts2638'"), Annotation: chashna kausanchu
+    Time Stamp: ("'ts2641'", "'ts2642'"), Annotation: ña
+    Time Stamp: ("'ts2643'", "'ts2644'"), Annotation: na shamunka
+    Time Stamp: ("'ts2645'", "'ts2646'"), Annotation: ñukabash
+    Time Stamp: ("'ts2647'", "'ts2648'"), Annotation: ña sa
+    Time Stamp: ("'ts2649'", "'ts2650'"), Annotation: cuantas bolsas quiere
+    Time Stamp: ("'ts2651'", "'ts2653'"), Annotation: asinakun
+    Time Stamp: ("'ts2655'", "'ts2657'"), Annotation: asinakun
+    Time Stamp: ("'ts2659'", "'ts2660'"), Annotation: esperate
+    Time Stamp: ("'ts2661'", "'ts2663'"), Annotation: que conversen
+    Time Stamp: ("'ts2673'", "'ts2674'"), Annotation: quien
+    Time Stamp: ("'ts2676'", "'ts2678'"), Annotation: haaaaa
+    Time Stamp: ("'ts2679'", "'ts2680'"), Annotation: chay lantuanma
+    Time Stamp: ("'ts2681'", "'ts2682'"), Annotation: chinijuy
+    Time Stamp: ("'ts2683'", "'ts2684'"), Annotation: chay lantuamun
+    Time Stamp: ("'ts2687'", "'ts2688'"), Annotation: guasha rrukunga
+    Time Stamp: ("'ts2703'", "'ts2704'"), Annotation: caraju
+    Time Stamp: ("'ts2705'", "'ts2707'"), Annotation: ashkukuna
+    Time Stamp: ("'ts2710'", "'ts2712'"), Annotation: ashku
+    Time Stamp: ("'ts2713'", "'ts2715'"), Annotation: anchurungi
+    Time Stamp: ("'ts2719'", "'ts2722'"), Annotation: ashku caraju
+    Time Stamp: ("'ts2725'", "'ts2729'"), Annotation: jau
+    Time Stamp: ("'ts2733'", "'ts2734'"), Annotation: alimi, alimi
+    Time Stamp: ("'ts2735'", "'ts2736'"), Annotation: vaya
+    Time Stamp: ("'ts2740'", "'ts2743'"), Annotation: ari
+    Time Stamp: ("'ts2745'", "'ts2746'"), Annotation: mashnaguda rrandirkangi
+    Time Stamp: ("'ts2751'", "'ts2752'"), Annotation: no se
+    Time Stamp: ("'ts2756'", "'ts2758'"), Annotation: no
+    Time Stamp: ("'ts2759'", "'ts2760'"), Annotation: imata parrlachingi
+    Time Stamp: ("'ts2761'", "'ts2762'"), Annotation: cangunapuraman
+Speaker: Mujer 1 A
+  Tier Type: tn, Annotations Count: 560
+    Time Stamp: ('',), Annotation: ahi digo
+    Time Stamp: ('',), Annotation: o sino
+    Time Stamp: ('',), Annotation: vas a comprar chancho
+    Time Stamp: ('',), Annotation: haaaa
+    Time Stamp: ('',), Annotation: donde Rocio
+    Time Stamp: ('',), Annotation: haaaaaaa
+    Time Stamp: ('',), Annotation: voy a vender esta dicendo
+    Time Stamp: ('',), Annotation: todo el chancho
+    Time Stamp: ('',), Annotation: o sino
+    Time Stamp: ('1',), Annotation: esta de chaspar
+    Time Stamp: ('1',), Annotation: traer
+    Time Stamp: ('1',), Annotation: yo me fui
+    Time Stamp: ('1',), Annotation: ayer
+    Time Stamp: ('1',), Annotation: entonces
+    Time Stamp: ('1',), Annotation: todo el chancho
+    Time Stamp: ('1',), Annotation: esta de comprar dijo
+    Time Stamp: ('1',), Annotation: no
+    Time Stamp: ('1',), Annotation: esta de matar
+    Time Stamp: ('1',), Annotation: esta llevar todo
+    Time Stamp: ('2',), Annotation: decia que voy a matar
+    Time Stamp: ('2',), Annotation: pero
+    Time Stamp: ('2',), Annotation: no puedo
+    Time Stamp: ('2',), Annotation: el Manuel
+    Time Stamp: ('2',), Annotation: estaba negociando
+    Time Stamp: ('2',), Annotation: todo el chancho compro
+    Time Stamp: ('2',), Annotation: ha ha
+    Time Stamp: ('2',), Annotation: le dio cien dolares
+    Time Stamp: ('8',), Annotation: no se
+    Time Stamp: ('8',), Annotation: no si se haga frio
+    Time Stamp: ('8',), Annotation: (...............)
+    Time Stamp: ('8',), Annotation: no hay plata
+    Time Stamp: ('8',), Annotation: mañana
+    Time Stamp: ('8',), Annotation: (...............)
+    Time Stamp: ('8',), Annotation: sabiendo
+    Time Stamp: ('9',), Annotation: esta de vender dice
+    Time Stamp: ('9',), Annotation: asi estaba trayendo
+    Time Stamp: ('9',), Annotation: entonces
+    Time Stamp: ('9',), Annotation: ahora
+    Time Stamp: ('9',), Annotation: donde los Burgas
+    Time Stamp: ('9',), Annotation: si quieres cuy
+    Time Stamp: ('9',), Annotation: iras a comprar
+    Time Stamp: ('9',), Annotation: tambien veden cuys
+    Time Stamp: ('9',), Annotation: la suegra
+    Time Stamp: ('9',), Annotation: cuys bebes
+    Time Stamp: ('10',), Annotation: hay dicen
+    Time Stamp: ('10',), Annotation: si quieres cuy
+    Time Stamp: ('10',), Annotation: iras a comprar
+    Time Stamp: ('10',), Annotation: da o vende barato
+    Time Stamp: ('10',), Annotation: cogiendo
+    Time Stamp: ('10',), Annotation: que diciendo
+    Time Stamp: ('10',), Annotation: compramos
+    Time Stamp: ('10',), Annotation: esta barato (economico)
+    Time Stamp: ('10',), Annotation: y si comen
+    Time Stamp: ('10',), Annotation: tierra
+    Time Stamp: ('11',), Annotation: tierra
+    Time Stamp: ('11',), Annotation: tierra
+    Time Stamp: ('11',), Annotation: tierra
+    Time Stamp: ('11',), Annotation: la comida de chancho
+    Time Stamp: ('11',), Annotation: aunque sea
+    Time Stamp: ('11',), Annotation: esta de pedir
+    Time Stamp: ('11',), Annotation: a otros restaurantes
+    Time Stamp: ('11',), Annotation: del todo
+    Time Stamp: ('11',), Annotation: el chancho
+    Time Stamp: ('11',), Annotation: asi
+    Time Stamp: ('12',), Annotation: no alcanza
+    Time Stamp: ('19',), Annotation: cuy
+    Time Stamp: ('19',), Annotation: aunque sea
+    Time Stamp: ('20',), Annotation: (................)
+    Time Stamp: ('20',), Annotation: en los salones
+    Time Stamp: ('20',), Annotation: aunque sea
+    Time Stamp: ('20',), Annotation: ofreciendo
+    Time Stamp: ('21',), Annotation: (................................)
+    Time Stamp: ('21',), Annotation: esta caro
+    Time Stamp: ('21',), Annotation: mm
+    Time Stamp: ('23',), Annotation: las nueve con quince minutos
+    Time Stamp: ('23',), Annotation: (.....................)
+    Time Stamp: ('23',), Annotation: (.......................)
+    Time Stamp: ('23',), Annotation: pero
+    Time Stamp: ('23',), Annotation: cobrando
+    Time Stamp: ('23',), Annotation: estaba
+    Time Stamp: ('23',), Annotation: aun que sea
+    Time Stamp: ('23',), Annotation: cobrando
+    Time Stamp: ('23',), Annotation: cada mes
+    Time Stamp: ('23',), Annotation: cada dia
+    Time Stamp: ('24',), Annotation: en Quito
+    Time Stamp: ('24',), Annotation: cada mes
+    Time Stamp: ('24',), Annotation: han sabido pagar
+    Time Stamp: ('24',), Annotation: diez dolares
+    Time Stamp: ('24',), Annotation: uc
+    Time Stamp: ('24',), Annotation: treinta dolar
+    Time Stamp: ('24',), Annotation: cincuenta
+    Time Stamp: ('24',), Annotation: cincuenta dolar
+    Time Stamp: ('24',), Annotation: mensual
+    Time Stamp: ('24',), Annotation: cincuenta
+    Time Stamp: ('25',), Annotation: si no
+    Time Stamp: ('25',), Annotation: treinta
+    Time Stamp: ('25',), Annotation: no se
+    Time Stamp: ('25',), Annotation: tanques
+    Time Stamp: ('25',), Annotation: cuantos tenian que salir
+    Time Stamp: ('25',), Annotation: no he preguntado
+    Time Stamp: ('25',), Annotation: si otros cuenta
+    Time Stamp: ('25',), Annotation: mucho
+    Time Stamp: ('25',), Annotation: (..............)
+    Time Stamp: ('25',), Annotation: mucho
+    Time Stamp: ('26',), Annotation: si no hay plata
+    Time Stamp: ('26',), Annotation: ni a ustedes
+    Time Stamp: ('26',), Annotation: no he ofrecido
+    Time Stamp: ('26',), Annotation: no se
+    Time Stamp: ('26',), Annotation: comamos
+    Time Stamp: ('26',), Annotation: le deje cancelando
+    Time Stamp: ('26',), Annotation: risas
+    Time Stamp: ('26',), Annotation: mmmm
+    Time Stamp: ('26',), Annotation: vamos
+    Time Stamp: ('26',), Annotation: es primo
+    Time Stamp: ('27',), Annotation: (.....................)
+    Time Stamp: ('27',), Annotation: el bebe no esta bien
+    Time Stamp: ('27',), Annotation: ba
+    Time Stamp: ('27',), Annotation: ha sido economico
+    Time Stamp: ('27',), Annotation: en Guayllabamba
+    Time Stamp: ('27',), Annotation: ahi es
+    Time Stamp: ('27',), Annotation: doce dolares
+    Time Stamp: ('27',), Annotation: hasta quince dolares dan
+    Time Stamp: ('27',), Annotation: afrechillo
+    Time Stamp: ('27',), Annotation: afrechillo
+    Time Stamp: ('28',), Annotation: si escuchas
+    Time Stamp: ('28',), Annotation: cuando pongas
+    Time Stamp: ('28',), Annotation: no ponemos
+    Time Stamp: ('28',), Annotation: nosotros
+    Time Stamp: ('28',), Annotation: con balanceados
+    Time Stamp: ('28',), Annotation: (........................)
+    Time Stamp: ('28',), Annotation: el morochillo dicho
+    Time Stamp: ('28',), Annotation: la arroba
+    Time Stamp: ('28',), Annotation: asido a cuatro dolares
+    Time Stamp: ('28',), Annotation: aqui
+    Time Stamp: ('40',), Annotation: esta barato
+    Time Stamp: ('41',), Annotation: mi
+    Time Stamp: ('41',), Annotation: morochillo
+    Time Stamp: ('41',), Annotation: eeeeeh
+    Time Stamp: ('41',), Annotation: (................)
+    Time Stamp: ('41',), Annotation: aqui
+    Time Stamp: ('41',), Annotation: treinta dolares
+    Time Stamp: ('41',), Annotation: uno
+    Time Stamp: ('41',), Annotation: en la tarde vino gente
+    Time Stamp: ('41',), Annotation: asi toca
+    Time Stamp: ('41',), Annotation: dijo a dieci seis dolares
+    Time Stamp: ('42',), Annotation: esto
+    Time Stamp: ('42',), Annotation: asi con grande
+    Time Stamp: ('42',), Annotation: dijeron a doce dolares
+    Time Stamp: ('42',), Annotation: (.............................)
+    Time Stamp: ('42',), Annotation: no he preguntado
+    Time Stamp: ('42',), Annotation: abajo
+    Time Stamp: ('42',), Annotation: a veinti dos dijo
+    Time Stamp: ('42',), Annotation: no he preguntado
+    Time Stamp: ('42',), Annotation: quinua
+    Time Stamp: ('42',), Annotation: (.......................)
+    Time Stamp: ('43',), Annotation: no dijo
+    Time Stamp: ('43',), Annotation: es la covacha
+    Time Stamp: ('43',), Annotation: alla atras
+    Time Stamp: ('43',), Annotation: son vagossss
+    Time Stamp: ('43',), Annotation: asi
+    Time Stamp: ('43',), Annotation: no, no, no
+    Time Stamp: ('43',), Annotation: (...................)
+    Time Stamp: ('43',), Annotation: (..............................)
+    Time Stamp: ('43',), Annotation: (...........)
+    Time Stamp: ('43',), Annotation: (............................)
+    Time Stamp: ('44',), Annotation: asi caen
+    Time Stamp: ('44',), Annotation: mmmmm
+    Time Stamp: ('44',), Annotation: (...................)
+    Time Stamp: ('44',), Annotation: (..................)
+    Time Stamp: ('44',), Annotation: chirlo (un solo huevo)
+    Time Stamp: ('44',), Annotation: diez
+    Time Stamp: ('44',), Annotation: haaaaa
+    Time Stamp: ('44',), Annotation: ocho
+    Time Stamp: ('44',), Annotation: mas de noche
+    Time Stamp: ('44',), Annotation: nos ha de hacer chumar
+    Time Stamp: ('45',), Annotation: ha ah
+    Time Stamp: ('45',), Annotation: mayo
+    Time Stamp: ('45',), Annotation: no he contado
+    Time Stamp: ('45',), Annotation: unos
+    Time Stamp: ('45',), Annotation: unos quince con los encargados
+    Time Stamp: ('45',), Annotation: risas
+    Time Stamp: ('45',), Annotation: perro
+    Time Stamp: ('45',), Annotation: la comida del chancho
+    Time Stamp: ('45',), Annotation: ha regado
+    Time Stamp: ('45',), Annotation: eso
+    Time Stamp: ('46',), Annotation: hay arrocito
+    Time Stamp: ('46',), Annotation: arrocito
+    Time Stamp: ('46',), Annotation: mi hermana
+    Time Stamp: ('46',), Annotation: algo ismo esta
+    Time Stamp: ('46',), Annotation: algo mismo
+    Time Stamp: ('46',), Annotation: antes de
+    Time Stamp: ('46',), Annotation: antes de que diga
+    Time Stamp: ('46',), Annotation: algo le pasa a mi hermana
+    Time Stamp: ('46',), Annotation: (............)
+    Time Stamp: ('46',), Annotation: no esta dando problema
+    Time Stamp: ('47',), Annotation: nose
+    Time Stamp: ('47',), Annotation: esos dos dias
+    Time Stamp: ('47',), Annotation: asi me hizo
+    Time Stamp: ('47',), Annotation: ando bien
+    Time Stamp: ('47',), Annotation: (.............)
+    Time Stamp: ('47',), Annotation: dijo
+    Time Stamp: ('47',), Annotation: si voy a decir
+    Time Stamp: ('47',), Annotation: mmmmmmm
+    Time Stamp: ('47',), Annotation: con dicho asi
+    Time Stamp: ('47',), Annotation: ahi ha de comprender
+    Time Stamp: ('66',), Annotation: donde la Elena
+    Time Stamp: ('67',), Annotation: (..................)
+    Time Stamp: ('67',), Annotation: (..................)
+    Time Stamp: ('67',), Annotation: (..................)
+    Time Stamp: ('67',), Annotation: el que metio primero
+    Time Stamp: ('67',), Annotation: mm
+    Time Stamp: ('67',), Annotation: ahi esta
+    Time Stamp: ('67',), Annotation: vaya, vaya mijo
+    Time Stamp: ('67',), Annotation: (..............)
+    Time Stamp: ('67',), Annotation: quieto
+    Time Stamp: ('67',), Annotation: (......................)
+    Time Stamp: ('68',), Annotation: no le llames
+    Time Stamp: ('68',), Annotation: si
+    Time Stamp: ('68',), Annotation: hijo
+    Time Stamp: ('68',), Annotation: ha yaya
+    Time Stamp: ('68',), Annotation: entonces
+    Time Stamp: ('68',), Annotation: entonces
+    Time Stamp: ('68',), Annotation: que van andar
+    Time Stamp: ('68',), Annotation: mas
+    Time Stamp: ('68',), Annotation: Maríaaa
+    Time Stamp: ('68',), Annotation: (.................)
+    Time Stamp: ('69',), Annotation: (..........)
+    Time Stamp: ('69',), Annotation: de ahi porque
+    Time Stamp: ('69',), Annotation: tal vez
+    Time Stamp: ('69',), Annotation: ya hay
+    Time Stamp: ('69',), Annotation: dijo
+    Time Stamp: ('69',), Annotation: para que
+    Time Stamp: ('69',), Annotation: no
+    Time Stamp: ('69',), Annotation: mami
+    Time Stamp: ('69',), Annotation: (............)
+    Time Stamp: ('69',), Annotation: Calderon
+    Time Stamp: ('70',), Annotation: que
+    Time Stamp: ('70',), Annotation: desde de antes
+    Time Stamp: ('70',), Annotation: desde de mañanita
+    Time Stamp: ('70',), Annotation: (....................................)
+    Time Stamp: ('70',), Annotation: (...................)
+    Time Stamp: ('70',), Annotation: otra vez
+    Time Stamp: ('70',), Annotation: regrese
+    Time Stamp: ('70',), Annotation: que dijiste
+    Time Stamp: ('70',), Annotation: que traiga
+    Time Stamp: ('70',), Annotation: ahora si
+    Time Stamp: ('71',), Annotation: traje plata
+    Time Stamp: ('71',), Annotation: malo
+    Time Stamp: ('71',), Annotation: fuera
+    Time Stamp: ('71',), Annotation: ya le dije
+    Time Stamp: ('71',), Annotation: entonces esa
+    Time Stamp: ('71',), Annotation: para que me de trayendo esa crema
+    Time Stamp: ('71',), Annotation: este
+    Time Stamp: ('71',), Annotation: (...............)
+    Time Stamp: ('71',), Annotation: deme trayendo
+    Time Stamp: ('71',), Annotation: (..............)
+    Time Stamp: ('72',), Annotation: si vino pues
+    Time Stamp: ('72',), Annotation: a las siete de la noche
+    Time Stamp: ('72',), Annotation: haiga llegado
+    Time Stamp: ('72',), Annotation: con la crema
+    Time Stamp: ('72',), Annotation: si llego
+    Time Stamp: ('72',), Annotation: tarde
+    Time Stamp: ('72',), Annotation: de ahi
+    Time Stamp: ('72',), Annotation: (..................)
+    Time Stamp: ('72',), Annotation: algo
+    Time Stamp: ('72',), Annotation: han da haciendo
+    Time Stamp: ('73',), Annotation: algo, handa haciendo
+    Time Stamp: ('73',), Annotation: (.................)
+    Time Stamp: ('73',), Annotation: no, estas
+    Time Stamp: ('73',), Annotation: andando bien
+    Time Stamp: ('73',), Annotation: algoooooo
+    Time Stamp: ('73',), Annotation: algo
+    Time Stamp: ('73',), Annotation: anda dije
+    Time Stamp: ('73',), Annotation: yooooooo
+    Time Stamp: ('87',), Annotation: si
+    Time Stamp: ('88',), Annotation: (......................)
+    Time Stamp: ('88',), Annotation: seguimosconversando
+    Time Stamp: ('88',), Annotation: mas
+    Time Stamp: ('88',), Annotation: ha yaya
+    Time Stamp: ('88',), Annotation: risas
+    Time Stamp: ('88',), Annotation: ha
+    Time Stamp: ('88',), Annotation: ya ya
+    Time Stamp: ('88',), Annotation: ahora, ahora mismo seguimos trabajando
+    Time Stamp: ('88',), Annotation: risas
+    Time Stamp: ('88',), Annotation: risas
+    Time Stamp: ('89',), Annotation: risas
+    Time Stamp: ('89',), Annotation: siesque puede
+    Time Stamp: ('89',), Annotation: preguntale
+    Time Stamp: ('89',), Annotation: preguntale
+    Time Stamp: ('89',), Annotation: asi
+    Time Stamp: ('89',), Annotation: entonces
+    Time Stamp: ('89',), Annotation: sigue llenando
+    Time Stamp: ('89',), Annotation: asi
+    Time Stamp: ('89',), Annotation: a cualquier trabajo que vayas
+    Time Stamp: ('89',), Annotation: con el vapor el olor se ha de ir
+    Time Stamp: ('90',), Annotation: ha ah
+    Time Stamp: ('90',), Annotation: nosotros
+    Time Stamp: ('90',), Annotation: en este lsdo
+    Time Stamp: ('90',), Annotation: trabajamos asi
+    Time Stamp: ('90',), Annotation: mm mm
+    Time Stamp: ('90',), Annotation: cierto
+    Time Stamp: ('90',), Annotation: en Yupagachi
+    Time Stamp: ('90',), Annotation: teniamos
+    Time Stamp: ('90',), Annotation: enfermedad
+    Time Stamp: ('90',), Annotation: y asi
+    Time Stamp: ('114',), Annotation: ocupadaaaaaaaaa
+    Time Stamp: ('115',), Annotation: por la enfermedad
+    Time Stamp: ('115',), Annotation: o cualquier tipo de enfermedad
+    Time Stamp: ('115',), Annotation: examenes
+    Time Stamp: ('115',), Annotation: va hacer rapido
+    Time Stamp: ('115',), Annotation: pense
+    Time Stamp: ('115',), Annotation: el cuy
+    Time Stamp: ('115',), Annotation: para cualquier cosa
+    Time Stamp: ('115',), Annotation: (..................)
+    Time Stamp: ('115',), Annotation: (........................)
+    Time Stamp: ('115',), Annotation: (................)
+    Time Stamp: ('116',), Annotation: asi
+    Time Stamp: ('116',), Annotation: de un lado para otro
+    Time Stamp: ('116',), Annotation: pense
+    Time Stamp: ('116',), Annotation: por voluntad
+    Time Stamp: ('116',), Annotation: asi
+    Time Stamp: ('116',), Annotation: caminaba pense
+    Time Stamp: ('116',), Annotation: haaaaa
+    Time Stamp: ('116',), Annotation: que siga grabando dile pues
+    Time Stamp: ('116',), Annotation: risas
+    Time Stamp: ('116',), Annotation: toma trago
+    Time Stamp: ('117',), Annotation: (........................)
+    Time Stamp: ('117',), Annotation: (........................)
+    Time Stamp: ('117',), Annotation: cogiendo
+    Time Stamp: ('117',), Annotation: diga mami
+    Time Stamp: ('117',), Annotation: ya
+    Time Stamp: ('117',), Annotation: conversado
+    Time Stamp: ('117',), Annotation: esto no hemos llenado
+    Time Stamp: ('117',), Annotation: aqui nos atrasamos
+    Time Stamp: ('117',), Annotation: a las ocho
+    Time Stamp: ('117',), Annotation: tomando cafe asi no mas
+    Time Stamp: ('118',), Annotation: por el agua
+    Time Stamp: ('118',), Annotation: estamos trabajando
+    Time Stamp: ('118',), Annotation: por no comer
+    Time Stamp: ('118',), Annotation: la barriga
+    Time Stamp: ('118',), Annotation: esta sonando
+    Time Stamp: ('118',), Annotation: agua
+    Time Stamp: ('118',), Annotation: asi
+    Time Stamp: ('118',), Annotation: tengo sed esta dieciendo
+    Time Stamp: ('118',), Annotation: (........................)
+    Time Stamp: ('118',), Annotation: mi hija asi
+    Time Stamp: ('119',), Annotation: no sabe regalar
+    Time Stamp: ('119',), Annotation: nada
+    Time Stamp: ('119',), Annotation: asi en la madrugada
+    Time Stamp: ('119',), Annotation: tomamos
+    Time Stamp: ('119',), Annotation: risas
+    Time Stamp: ('119',), Annotation: (................)
+    Time Stamp: ('119',), Annotation: (........................)
+    Time Stamp: ('119',), Annotation: (........................)
+    Time Stamp: ('119',), Annotation: llegaste sin ninguna dificultad
+    Time Stamp: ('119',), Annotation: solo
+    Time Stamp: ('120',), Annotation: Maria dijo
+    Time Stamp: ('120',), Annotation: se vaya a perder
+    Time Stamp: ('120',), Annotation: saldras a la calle me dijo
+    Time Stamp: ('120',), Annotation: entonces
+    Time Stamp: ('120',), Annotation: haaaa
+    Time Stamp: ('120',), Annotation: Rosi
+    Time Stamp: ('120',), Annotation: haaa
+    Time Stamp: ('120',), Annotation: mm mm
+    Time Stamp: ('120',), Annotation: con mi hija
+    Time Stamp: ('120',), Annotation: te encontraste
+    Time Stamp: ('121',), Annotation: denantes
+    Time Stamp: ('121',), Annotation: te encontraste con mi hija
+    Time Stamp: ('121',), Annotation: con mi hija
+    Time Stamp: ('121',), Annotation: con Maria
+    Time Stamp: ('121',), Annotation: haaaaa
+    Time Stamp: ('121',), Annotation: ayer
+    Time Stamp: ('121',), Annotation: haaaaa
+    Time Stamp: ('121',), Annotation: ahora
+    Time Stamp: ('121',), Annotation: no vas a Mexico
+    Time Stamp: ('121',), Annotation: yo
+    Time Stamp: ('122',), Annotation: en agosto me voy
+    Time Stamp: ('122',), Annotation: a Mexico
+    Time Stamp: ('122',), Annotation: a Pánama
+    Time Stamp: ('122',), Annotation: me estoy yendo por diez dias
+    Time Stamp: ('122',), Annotation: en grupo
+    Time Stamp: ('122',), Annotation: toca ir con bastante dinero alla
+    Time Stamp: ('122',), Annotation: para dormir es economico
+    Time Stamp: ('174',), Annotation: yo
+    Time Stamp: ('174',), Annotation: pero
+    Time Stamp: ('174',), Annotation: ya la estancia
+    Time Stamp: ('174',), Annotation: esta pagado
+    Time Stamp: ('174',), Annotation: me estoy yendo
+    Time Stamp: ('174',), Annotation: el almuerzo
+    Time Stamp: ('175',), Annotation: el hotel
+    Time Stamp: ('175',), Annotation: ya esta pagado
+    Time Stamp: ('175',), Annotation: yo comer cosas ricas
+    Time Stamp: ('175',), Annotation: aparte
+    Time Stamp: ('175',), Annotation: toca llevar plata
+    Time Stamp: ('178',), Annotation: la ropa es economica
+    Time Stamp: ('178',), Annotation: ahi
+    Time Stamp: ('179',), Annotation: que dia
+    Time Stamp: ('179',), Annotation: alla
+    Time Stamp: ('179',), Annotation: hay feria
+    Time Stamp: ('179',), Annotation: a la Virden de Guadalupe
+    Time Stamp: ('179',), Annotation: voy a ir
+    Time Stamp: ('179',), Annotation: haaaa
+    Time Stamp: ('179',), Annotation: siiiiiiiii
+    Time Stamp: ('179',), Annotation: voy a ir dieciendo
+    Time Stamp: ('179',), Annotation: estoy andadno
+    Time Stamp: ('179',), Annotation: mmm
+    Time Stamp: ('180',), Annotation: en el avion
+    Time Stamp: ('180',), Annotation: aunque sea
+    Time Stamp: ('180',), Annotation: en Panama
+    Time Stamp: ('180',), Annotation: vamos a comprar dice
+    Time Stamp: ('180',), Annotation: las cosas
+    Time Stamp: ('180',), Annotation: en Panama
+    Time Stamp: ('180',), Annotation: vamos a ir de compra
+    Time Stamp: ('180',), Annotation: haaaaaa
+    Time Stamp: ('180',), Annotation: asi me dijeron
+    Time Stamp: ('180',), Annotation: de la agencia
+    Time Stamp: ('181',), Annotation: ayer no mas
+    Time Stamp: ('181',), Annotation: me llamaron
+    Time Stamp: ('181',), Annotation: los papeles
+    Time Stamp: ('181',), Annotation: para alistar los papeles
+    Time Stamp: ('181',), Annotation: estos
+    Time Stamp: ('181',), Annotation: papeles
+    Time Stamp: ('181',), Annotation: (.......................)
+    Time Stamp: ('181',), Annotation: (......................)
+    Time Stamp: ('181',), Annotation: mm
+    Time Stamp: ('181',), Annotation: ha de hacer
+    Time Stamp: ('182',), Annotation: temblor (terremoto)
+    Time Stamp: ('182',), Annotation: se ha de mover la tierra
+    Time Stamp: ('182',), Annotation: ahi
+    Time Stamp: ('182',), Annotation: cuando yo este ahi
+    Time Stamp: ('182',), Annotation: por eso estoy diciendo
+    Time Stamp: ('182',), Annotation: ha ah
+    Time Stamp: ('182',), Annotation: temblo duro
+    Time Stamp: ('182',), Annotation: temblo duro
+    Time Stamp: ('182',), Annotation: haaaaaaa
+    Time Stamp: ('182',), Annotation: haaaaaa
+    Time Stamp: ('183',), Annotation: haaaaa
+    Time Stamp: ('183',), Annotation: traeras
+    Time Stamp: ('183',), Annotation: traeras
+    Time Stamp: ('183',), Annotation: risas
+    Time Stamp: ('183',), Annotation: mis hijos
+    Time Stamp: ('183',), Annotation: ya se terminaron
+    Time Stamp: ('183',), Annotation: ella es la ultima
+    Time Stamp: ('183',), Annotation: no hay hijos
+    Time Stamp: ('183',), Annotation: no hay
+    Time Stamp: ('183',), Annotation: niño
+    Time Stamp: ('184',), Annotation: gringo
+    Time Stamp: ('184',), Annotation: para enseñar en kichwa
+    Time Stamp: ('184',), Annotation: mmmm
+    Time Stamp: ('184',), Annotation: ya esta aprendiendo
+    Time Stamp: ('184',), Annotation: (.................)
+    Time Stamp: ('184',), Annotation: (...................)
+    Time Stamp: ('184',), Annotation: a veces
+    Time Stamp: ('184',), Annotation: necesitas
+    Time Stamp: ('184',), Annotation: peones
+    Time Stamp: ('184',), Annotation: para algo necesitas
+    Time Stamp: ('185',), Annotation: el
+    Time Stamp: ('185',), Annotation: no esta trabajando
+    Time Stamp: ('185',), Annotation: dara llevando
+    Time Stamp: ('185',), Annotation: (...........)
+    Time Stamp: ('185',), Annotation: haaaaaa
+    Time Stamp: ('185',), Annotation: mm mm
+    Time Stamp: ('185',), Annotation: derepente
+    Time Stamp: ('185',), Annotation: donde sea
+    Time Stamp: ('185',), Annotation: llevarame
+    Time Stamp: ('185',), Annotation: (.........................)
+    Time Stamp: ('186',), Annotation: traerasle
+    Time Stamp: ('186',), Annotation: mmmmm
+    Time Stamp: ('186',), Annotation: risas
+    Time Stamp: ('186',), Annotation: a mi comadre
+    Time Stamp: ('186',), Annotation: le voy a traer
+    Time Stamp: ('186',), Annotation: me voy dice
+    Time Stamp: ('186',), Annotation: asi en kichua
+    Time Stamp: ('186',), Annotation: asi ha de caminar
+    Time Stamp: ('186',), Annotation: (................)
+    Time Stamp: ('186',), Annotation: ahi sabe estar
+    Time Stamp: ('187',), Annotation: (..........................)
+    Time Stamp: ('234',), Annotation: haaaa
+    Time Stamp: ('234',), Annotation: mmm
+    Time Stamp: ('234',), Annotation: haaa
+    Time Stamp: ('234',), Annotation: alla te fuiste
+    Time Stamp: ('234',), Annotation: no
+    Time Stamp: ('235',), Annotation: conocia
+    Time Stamp: ('235',), Annotation: haaa
+    Time Stamp: ('235',), Annotation: donde esas mujeres te fuistes
+    Time Stamp: ('235',), Annotation: haaaaa
+    Time Stamp: ('235',), Annotation: haaaa
+    Time Stamp: ('235',), Annotation: haaaaa
+    Time Stamp: ('235',), Annotation: haaaaaa
+    Time Stamp: ('235',), Annotation: cierto
+    Time Stamp: ('235',), Annotation: (...................)
+    Time Stamp: ('235',), Annotation: que sacan del ganado
+    Time Stamp: ('236',), Annotation: mmm
+    Time Stamp: ('236',), Annotation: para vender
+    Time Stamp: ('236',), Annotation: ha de mandar
+    Time Stamp: ('236',), Annotation: nosotros no tenemos
+    Time Stamp: ('236',), Annotation: que
+    Time Stamp: ('236',), Annotation: aqui que van
+    Time Stamp: ('236',), Annotation: no hay
+    Time Stamp: ('252',), Annotation: aqui tanmbien
+    Time Stamp: ('252',), Annotation: la leche
+    Time Stamp: ('252',), Annotation: (..................)
+    Time Stamp: ('252',), Annotation: en Cayambe
+    Time Stamp: ('252',), Annotation: lo que quiera hay
+    Time Stamp: ('253',), Annotation: ha ha
+    Time Stamp: ('253',), Annotation: si
+    Time Stamp: ('253',), Annotation: agua tambien
+    Time Stamp: ('253',), Annotation: nosotros aqui
+    Time Stamp: ('253',), Annotation: aqui
+    Time Stamp: ('253',), Annotation: sin agua
+    Time Stamp: ('253',), Annotation: vivimos una lastima
+    Time Stamp: ('253',), Annotation: (..................)
+    Time Stamp: ('253',), Annotation: abajo
+    Time Stamp: ('253',), Annotation: ha estado yendo el agua
+    Time Stamp: ('254',), Annotation: haaaa
+    Time Stamp: ('254',), Annotation: agua de orina
+    Time Stamp: ('254',), Annotation: del ganado
+    Time Stamp: ('258',), Annotation: el ganado
+    Time Stamp: ('259',), Annotation: no hay agua
+    Time Stamp: ('259',), Annotation: un dia
+    Time Stamp: ('259',), Annotation: este
+    Time Stamp: ('259',), Annotation: cocinar
+    Time Stamp: ('259',), Annotation: con que agua cocinamos
+    Time Stamp: ('259',), Annotation: no podemos hacer nada
+    Time Stamp: ('259',), Annotation: en galones
+    Time Stamp: ('259',), Annotation: (....................)
+    Time Stamp: ('259',), Annotation: por eso
+    Time Stamp: ('259',), Annotation: frio, frio esta
+    Time Stamp: ('260',), Annotation: una lastima
+    Time Stamp: ('260',), Annotation: con el agua
+    Time Stamp: ('260',), Annotation: asi vivimos
+    Time Stamp: ('260',), Annotation: ya
+    Time Stamp: ('260',), Annotation: no viene
+    Time Stamp: ('260',), Annotation: yo tambien
+    Time Stamp: ('260',), Annotation: ya esta
+    Time Stamp: ('260',), Annotation: cuantas bosas quiere
+    Time Stamp: ('260',), Annotation: risas
+    Time Stamp: ('260',), Annotation: risas
+    Time Stamp: ('261',), Annotation: esperate
+    Time Stamp: ('261',), Annotation: que conversen
+    Time Stamp: ('261',), Annotation: quien
+    Time Stamp: ('261',), Annotation: haaaaa
+    Time Stamp: ('261',), Annotation: ha ese lado
+    Time Stamp: ('261',), Annotation: estate durmiendo
+    Time Stamp: ('261',), Annotation: ha ese lado
+    Time Stamp: ('261',), Annotation: la espalda
+    Time Stamp: ('261',), Annotation: carajo
+    Time Stamp: ('261',), Annotation: los perros
+    Time Stamp: ('262',), Annotation: perro
+    Time Stamp: ('262',), Annotation: quitaraste
+    Time Stamp: ('262',), Annotation: perro, carambas si
+    Time Stamp: ('262',), Annotation: mande
+    Time Stamp: ('262',), Annotation: bien, bien esta
+    Time Stamp: ('262',), Annotation: vaya
+    Time Stamp: ('262',), Annotation: si
+    Time Stamp: ('262',), Annotation: cuanto ha comprado
+    Time Stamp: ('262',), Annotation: no se
+    Time Stamp: ('262',), Annotation: no
+    Time Stamp: ('263',), Annotation: que hacemos hablar
+    Time Stamp: ('263',), Annotation: entre ustedes
+Speaker: Mujer 2 B
+  Tier Type: po, Annotations Count: 308
+    Time Stamp: ("'ts7'", "'ts8'"), Annotation: kuchidaga
+    Time Stamp: ("'ts9'", "'ts10'"), Annotation: guañuchiggami
+    Time Stamp: ("'ts11'", "'ts12'"), Annotation: kayita
+    Time Stamp: ("'ts13'", "'ts14'"), Annotation: chimbabi
+    Time Stamp: ("'ts19'", "'ts20'"), Annotation: Rocioba
+    Time Stamp: ("'ts21'", "'ts22'"), Annotation: cuñada
+    Time Stamp: ("'ts37'", "'ts39'"), Annotation: haaa
+    Time Stamp: ("'ts41'", "'ts42'"), Annotation: haaa
+    Time Stamp: ("'ts54'", "'ts56'"), Annotation: na guañuchingaka
+    Time Stamp: ("'ts57'", "'ts59'"), Annotation: jatungapa
+    Time Stamp: ("'ts64'", "'ts66'"), Annotation: haaaa
+    Time Stamp: ("'ts72'", "'ts74'"), Annotation: haaaa
+    Time Stamp: ("'ts75'", "'ts77'"), Annotation: comadre
+    Time Stamp: ("'ts79'", "'ts80'"), Annotation: mmmmmm
+    Time Stamp: ("'ts83'", "'ts84'"), Annotation: (...............)
+    Time Stamp: ("'ts103'", "'ts104'"), Annotation: haaaaaaa
+    Time Stamp: ("'ts107'", "'ts108'"), Annotation: allimi
+    Time Stamp: ("'ts109'", "'ts110'"), Annotation: allimi
+    Time Stamp: ("'ts135'", "'ts136'"), Annotation: (................................)
+    Time Stamp: ("'ts137'", "'ts138'"), Annotation: kiwi mikukani
+    Time Stamp: ("'ts141'", "'ts142'"), Annotation: mikika
+    Time Stamp: ("'ts143'", "'ts144'"), Annotation: (...............)
+    Time Stamp: ("'ts150'", "'ts152'"), Annotation: baratunash
+    Time Stamp: ("'ts155'", "'ts156'"), Annotation: mikin
+    Time Stamp: ("'ts157'", "'ts158'"), Annotation: cada punlla
+    Time Stamp: ("'ts159'", "'ts160'"), Annotation: del todo
+    Time Stamp: ("'ts169'", "'ts170'"), Annotation: rruku
+    Time Stamp: ("'ts171'", "'ts172'"), Annotation: tunudami
+    Time Stamp: ("'ts173'", "'ts174'"), Annotation: hay que churan nin
+    Time Stamp: ("'ts175'", "'ts177'"), Annotation: None
+    Time Stamp: ("'ts184'", "'ts186'"), Annotation: mmmmmm
+    Time Stamp: ("'ts192'", "'ts194'"), Annotation: mana pagtanga
+    Time Stamp: ("'ts196'", "'ts199'"), Annotation: na pagtangaka
+    Time Stamp: ("'ts206'", "'ts211'"), Annotation: que va alcanzar
+    Time Stamp: ("'ts223'", "'ts224'"), Annotation: mayjan pungupita
+    Time Stamp: ("'ts225'", "'ts226'"), Annotation: yakutin
+    Time Stamp: ("'ts227'", "'ts228'"), Annotation: ña
+    Time Stamp: ("'ts229'", "'ts230'"), Annotation: ña japirjashi
+    Time Stamp: ("'ts248'", "'ts251'"), Annotation: allila
+    Time Stamp: ("'ts298'", "'ts300'"), Annotation: cuantos
+    Time Stamp: ("'ts301'", "'ts302'"), Annotation: tanques salia
+    Time Stamp: ("'ts318'", "'ts320'"), Annotation: muchay
+    Time Stamp: ("'ts340'", "'ts342'"), Annotation: kununmi rrina
+    Time Stamp: ("'ts343'", "'ts344'"), Annotation: shaminirka
+    Time Stamp: ("'ts345'", "'ts346'"), Annotation: pagtashpaga rrisha
+    Time Stamp: ("'ts347'", "'ts348'"), Annotation: sinoga na
+    Time Stamp: ("'ts349'", "'ts350'"), Annotation: na rrigchu
+    Time Stamp: ("'ts365'", "'ts366'"), Annotation: maypi
+    Time Stamp: ("'ts369'", "'ts370'"), Annotation: haaaa
+    Time Stamp: ("'ts395'", "'ts396'"), Annotation: ima yakubash
+    Time Stamp: ("'ts397'", "'ts398'"), Annotation: baratumi chay vega
+    Time Stamp: ("'ts399'", "'ts401'"), Annotation: chay yoga nishga
+    Time Stamp: ("'ts408'", "'ts410'"), Annotation: shitara na tapurkani
+    Time Stamp: ("'ts412'", "'ts414'"), Annotation: shina nishkami
+    Time Stamp: ("'ts419'", "'ts420'"), Annotation: shina nishkami
+    Time Stamp: ("'ts421'", "'ts422'"), Annotation: (...............)
+    Time Stamp: ("'ts423'", "'ts424'"), Annotation: kikintualta
+    Time Stamp: ("'ts425'", "'ts427'"), Annotation: ha doce dolarrrrr
+    Time Stamp: ("'ts433'", "'ts434'"), Annotation: (.............)
+    Time Stamp: ("'ts447'", "'ts448'"), Annotation: eleeee
+    Time Stamp: ("'ts457'", "'ts458'"), Annotation: que nove
+    Time Stamp: ("'ts459'", "'ts461'"), Annotation: alligalami
+    Time Stamp: ("'ts465'", "'ts466'"), Annotation: urapika
+    Time Stamp: ("'ts467'", "'ts468'"), Annotation: shug puestupika
+    Time Stamp: ("'ts469'", "'ts470'"), Annotation: veinti uno
+    Time Stamp: ("'ts473'", "'ts474'"), Annotation: kununmanga
+    Time Stamp: ("'ts475'", "'ts476'"), Annotation: treinta ma ninga
+    Time Stamp: ("'ts479'", "'ts480'"), Annotation: costal azulguashi
+    Time Stamp: ("'ts481'", "'ts482'"), Annotation: a dieci seisjatunurkami
+    Time Stamp: ("'ts486'", "'ts488'"), Annotation: ha ha
+    Time Stamp: ("'ts499'", "'ts500'"), Annotation: mmmmm
+    Time Stamp: ("'ts501'", "'ts502'"), Annotation: kaypiga
+    Time Stamp: ("'ts503'", "'ts504'"), Annotation: vali valinninchi
+    Time Stamp: ("'ts513'", "'ts514'"), Annotation: antuku
+    Time Stamp: ("'ts515'", "'ts516'"), Annotation: puririni
+    Time Stamp: ("'ts517'", "'ts518'"), Annotation: kayna semana
+    Time Stamp: ("'ts525'", "'ts526'"), Annotation: ñuka
+    Time Stamp: ("'ts527'", "'ts528'"), Annotation: docena cuchiga
+    Time Stamp: ("'ts529'", "'ts530'"), Annotation: ña wiñagun
+    Time Stamp: ("'ts556'", "'ts558'"), Annotation: solo los charitos
+    Time Stamp: ("'ts568'", "'ts570'"), Annotation: kimsa
+    Time Stamp: ("'ts571'", "'ts572'"), Annotation: ña domingotaka
+    Time Stamp: ("'ts573'", "'ts574'"), Annotation: kaya semanaka
+    Time Stamp: ("'ts575'", "'ts577'"), Annotation: jatunamacanga
+    Time Stamp: ("'ts579'", "'ts580'"), Annotation: chay kulkin
+    Time Stamp: ("'ts581'", "'ts582'"), Annotation: españataka
+    Time Stamp: ("'ts584'", "'ts586'"), Annotation: (asinakun)
+    Time Stamp: ("'ts587'", "'ts589'"), Annotation: jari, jari risha
+    Time Stamp: ("'ts601'", "'ts602'"), Annotation: (....................)
+    Time Stamp: ("'ts603'", "'ts604'"), Annotation: kayna giñushkakani ni
+    Time Stamp: ("'ts606'", "'ts608'"), Annotation: ahi eta de irrr
+    Time Stamp: ("'ts639'", "'ts640'"), Annotation: con que
+    Time Stamp: ("'ts641'", "'ts642'"), Annotation: (.................)
+    Time Stamp: ("'ts649'", "'ts650'"), Annotation: mmmmm
+    Time Stamp: ("'ts653'", "'ts654'"), Annotation: si voy a decir dijo
+    Time Stamp: ("'ts655'", "'ts656'"), Annotation: mal mismo
+    Time Stamp: ("'ts657'", "'ts658'"), Annotation: pareja
+    Time Stamp: ("'ts659'", "'ts660'"), Annotation: asi me hizo
+    Time Stamp: ("'ts667'", "'ts668'"), Annotation: (.................................)
+    Time Stamp: ("'ts669'", "'ts670'"), Annotation: ese
+    Time Stamp: ("'ts677'", "'ts678'"), Annotation: mmm
+    Time Stamp: ("'ts683'", "'ts684'"), Annotation: (....................................)
+    Time Stamp: ("'ts703'", "'ts704'"), Annotation: na
+    Time Stamp: ("'ts705'", "'ts706'"), Annotation: makigalata
+    Time Stamp: ("'ts707'", "'ts708'"), Annotation: rrupashka guaguituguka
+    Time Stamp: ("'ts711'", "'ts712'"), Annotation: de ahica
+    Time Stamp: ("'ts713'", "'ts714'"), Annotation: justo se han botado
+    Time Stamp: ("'ts715'", "'ts717'"), Annotation: la cremaaaa
+    Time Stamp: ("'ts719'", "'ts720'"), Annotation: de ahi digo
+    Time Stamp: ("'ts721'", "'ts722'"), Annotation: jala cierrto rrikurkani
+    Time Stamp: ("'ts723'", "'ts724'"), Annotation: (..............................................)
+    Time Stamp: ("'ts725'", "'ts726'"), Annotation: Calderon
+    Time Stamp: ("'ts727'", "'ts728'"), Annotation: voy ha
+    Time Stamp: ("'ts729'", "'ts730'"), Annotation: llamar
+    Time Stamp: ("'ts731'", "'ts732'"), Annotation: digo yo
+    Time Stamp: ("'ts733'", "'ts734'"), Annotation: de ahica
+    Time Stamp: ("'ts735'", "'ts736'"), Annotation: llame
+    Time Stamp: ("'ts737'", "'ts738'"), Annotation: otra
+    Time Stamp: ("'ts739'", "'ts740'"), Annotation: mami
+    Time Stamp: ("'ts741'", "'ts742'"), Annotation: dice
+    Time Stamp: ("'ts743'", "'ts744'"), Annotation: yo, ya acabe plata
+    Time Stamp: ("'ts745'", "'ts746'"), Annotation: haciendo compras
+    Time Stamp: ("'ts747'", "'ts748'"), Annotation: yo, ya no
+    Time Stamp: ("'ts749'", "'ts750'"), Annotation: tengo
+    Time Stamp: ("'ts751'", "'ts752'"), Annotation: plata
+    Time Stamp: ("'ts757'", "'ts758'"), Annotation: ya, ya ya
+    Time Stamp: ("'ts778'", "'ts780'"), Annotation: llamale
+    Time Stamp: ("'ts781'", "'ts782'"), Annotation: (........................)
+    Time Stamp: ("'ts785'", "'ts786'"), Annotation: llamale
+    Time Stamp: ("'ts787'", "'ts788'"), Annotation: llamo
+    Time Stamp: ("'ts806'", "'ts808'"), Annotation: noooo
+    Time Stamp: ("'ts813'", "'ts815'"), Annotation: asin
+    Time Stamp: ("'ts870'", "'ts872'"), Annotation: (.................)
+    Time Stamp: ("'ts873'", "'ts874'"), Annotation: (.....................)
+    Time Stamp: ("'ts883'", "'ts884'"), Annotation: vengan
+    Time Stamp: ("'ts885'", "'ts886'"), Annotation: ayudar
+    Time Stamp: ("'ts887'", "'ts889'"), Annotation: conmigo
+    Time Stamp: ("'ts890'", "'ts892'"), Annotation: no
+    Time Stamp: ("'ts893'", "'ts894'"), Annotation: ocupado
+    Time Stamp: ("'ts895'", "'ts897'"), Annotation: estoy atrasando
+    Time Stamp: ("'ts917'", "'ts921'"), Annotation: asinakun
+    Time Stamp: ("'ts944'", "'ts946'"), Annotation: a la casa
+    Time Stamp: ("'ts947'", "'ts948'"), Annotation: explicashun
+    Time Stamp: ("'ts949'", "'ts950'"), Annotation: o kunan rratuchu explicashun
+    Time Stamp: ("'ts971'", "'ts972'"), Annotation: makiguataka
+    Time Stamp: ("'ts973'", "'ts974'"), Annotation: japigshamuyari
+    Time Stamp: ("'ts979'", "'ts980'"), Annotation: palataga
+    Time Stamp: ("'ts981'", "'ts988'"), Annotation: japi shamungi
+    Time Stamp: ("'ts1006'", "'ts1008'"), Annotation: podishpaga
+    Time Stamp: ("'ts1009'", "'ts1010'"), Annotation: shamui
+    Time Stamp: ("'ts1011'", "'ts1012'"), Annotation: sinoga
+    Time Stamp: ("'ts1013'", "'ts1015'"), Annotation: mana podishpaga
+    Time Stamp: ("'ts1051'", "'ts1052'"), Annotation: ya
+    Time Stamp: ("'ts1053'", "'ts1054'"), Annotation: vez
+    Time Stamp: ("'ts1055'", "'ts1057'"), Annotation: si ha de ser
+    Time Stamp: ("'ts1061'", "'ts1062'"), Annotation: na tiangachu
+    Time Stamp: ("'ts1063'", "'ts1065'"), Annotation: chay cuarentaytreska
+    Time Stamp: ("'ts1107'", "'ts1108'"), Annotation: kan shina nishkaga
+    Time Stamp: ("'ts1109'", "'ts1110'"), Annotation: yaaaaaaaa
+    Time Stamp: ("'ts1111'", "'ts1112'"), Annotation: espera
+    Time Stamp: ("'ts1113'", "'ts1114'"), Annotation: algo
+    Time Stamp: ("'ts1115'", "'ts1116'"), Annotation: algo
+    Time Stamp: ("'ts1117'", "'ts1118'"), Annotation: han de hacer le dije
+    Time Stamp: ("'ts1187'", "'ts1188'"), Annotation: ñuka
+    Time Stamp: ("'ts1189'", "'ts1190'"), Annotation: shina shinga
+    Time Stamp: ("'ts1191'", "'ts1193'"), Annotation: (.............)
+    Time Stamp: ("'ts1217'", "'ts1220'"), Annotation: asinakun
+    Time Stamp: ("'ts1223'", "'ts1224'"), Annotation: esta interesada
+    Time Stamp: ("'ts1225'", "'ts1227'"), Annotation: la conversacion
+    Time Stamp: ("'ts1237'", "'ts1238'"), Annotation: (........................)
+    Time Stamp: ("'ts1239'", "'ts1240'"), Annotation: parrlungapa
+    Time Stamp: ("'ts1241'", "'ts1242'"), Annotation: (asinakuna)
+    Time Stamp: ("'ts1243'", "'ts1244'"), Annotation: (........................)
+    Time Stamp: ("'ts1245'", "'ts1246'"), Annotation: (........................)
+    Time Stamp: ("'ts1277'", "'ts1278'"), Annotation: ja
+    Time Stamp: ("'ts1282'", "'ts1284'"), Annotation: chayarkangichiman
+    Time Stamp: ("'ts1286'", "'ts1289'"), Annotation: que horas
+    Time Stamp: ("'ts1290'", "'ts1293'"), Annotation: siete y mediata
+    Time Stamp: ("'ts1297'", "'ts1298'"), Annotation: las ochota
+    Time Stamp: ("'ts1329'", "'ts1331'"), Annotation: (..............................)
+    Time Stamp: ("'ts1333'", "'ts1335'"), Annotation: asinakun
+    Time Stamp: ("'ts1351'", "'ts1352'"), Annotation: trabajangaba
+    Time Stamp: ("'ts1353'", "'ts1354'"), Annotation: fuerzata churangaba
+    Time Stamp: ("'ts1357'", "'ts1358'"), Annotation: kaypiga
+    Time Stamp: ("'ts1359'", "'ts1360'"), Annotation: Mila
+    Time Stamp: ("'ts1361'", "'ts1362'"), Annotation: tulugata
+    Time Stamp: ("'ts1363'", "'ts1364'"), Annotation: churukani
+    Time Stamp: ("'ts1365'", "'ts1366'"), Annotation: mila
+    Time Stamp: ("'ts1367'", "'ts1368'"), Annotation: atalpumantami
+    Time Stamp: ("'ts1369'", "'ts1371'"), Annotation: kay abonuga shugshin
+    Time Stamp: ("'ts1377'", "'ts1378'"), Annotation: shina atalpaguna
+    Time Stamp: ("'ts1381'", "'ts1382'"), Annotation: yurugatuguanauan
+    Time Stamp: ("'ts1389'", "'ts1390'"), Annotation: shinia
+    Time Stamp: ("'ts1391'", "'ts1392'"), Annotation: cada ishkay
+    Time Stamp: ("'ts1393'", "'ts1394'"), Annotation: killami
+    Time Stamp: ("'ts1395'", "'ts1396'"), Annotation: lokchini
+    Time Stamp: ("'ts1400'", "'ts1402'"), Annotation: kaytaka
+    Time Stamp: ("'ts1403'", "'ts1404'"), Annotation: cada ishkay killami
+    Time Stamp: ("'ts1405'", "'ts1407'"), Annotation: jatuni
+    Time Stamp: ("'ts1410'", "'ts1412'"), Annotation: shinishpa
+    Time Stamp: ("'ts1413'", "'ts1414'"), Annotation: kayta llugchipi
+    Time Stamp: ("'ts1415'", "'ts1416'"), Annotation: kaygumanta
+    Time Stamp: ("'ts1417'", "'ts1418'"), Annotation: kulki illa ña
+    Time Stamp: ("'ts1419'", "'ts1420'"), Annotation: kutin
+    Time Stamp: ("'ts1421'", "'ts1422'"), Annotation: mesonda
+    Time Stamp: ("'ts1424'", "'ts1427'"), Annotation: mallini
+    Time Stamp: ("'ts1433'", "'ts1434'"), Annotation: ari, ari
+    Time Stamp: ("'ts1435'", "'ts1436'"), Annotation: chitami jatuni
+    Time Stamp: ("'ts1441'", "'ts1442'"), Annotation: ha
+    Time Stamp: ("'ts1443'", "'ts1444'"), Annotation: abonotaka
+    Time Stamp: ("'ts1445'", "'ts1446'"), Annotation: guakinbika
+    Time Stamp: ("'ts1447'", "'ts1449'"), Annotation: jatunimi
+    Time Stamp: ("'ts1451'", "'ts1452'"), Annotation: guakimbika
+    Time Stamp: ("'ts1453'", "'ts1454'"), Annotation: pambalami
+    Time Stamp: ("'ts1455'", "'ts1456'"), Annotation: jatunami
+    Time Stamp: ("'ts1457'", "'ts1459'"), Annotation: pambapi
+    Time Stamp: ("'ts1461'", "'ts1462'"), Annotation: ha mm
+    Time Stamp: ("'ts1463'", "'ts1464'"), Annotation: dolormi
+    Time Stamp: ("'ts1465'", "'ts1466'"), Annotation: custun
+    Time Stamp: ("'ts1467'", "'ts1468'"), Annotation: kay
+    Time Stamp: ("'ts1471'", "'ts1472'"), Annotation: dolar cay funda
+    Time Stamp: ("'ts1479'", "'ts1480'"), Annotation: sesentamalo shugshin
+    Time Stamp: ("'ts1481'", "'ts1482'"), Annotation: sesenta yalli mali shugshin
+    Time Stamp: ("'ts1488'", "'ts1490'"), Annotation: (........................)
+    Time Stamp: ("'ts1491'", "'ts1492'"), Annotation: (........................)
+    Time Stamp: ("'ts1493'", "'ts1494'"), Annotation: imaurasta
+    Time Stamp: ("'ts1495'", "'ts1496'"), Annotation: lugshimukangi
+    Time Stamp: ("'ts1497'", "'ts1498'"), Annotation: Quitumanta
+    Time Stamp: ("'ts1503'", "'ts1505'"), Annotation: haaaa
+    Time Stamp: ("'ts1509'", "'ts1510'"), Annotation: haaa
+    Time Stamp: ("'ts1555'", "'ts1556'"), Annotation: haaaa
+    Time Stamp: ("'ts1560'", "'ts1562'"), Annotation: haaaa
+    Time Stamp: ("'ts1563'", "'ts1564'"), Annotation: ñuka ushi nika
+    Time Stamp: ("'ts1571'", "'ts1573'"), Annotation: paymi
+    Time Stamp: ("'ts1574'", "'ts1576'"), Annotation: paymi parrlajurkanchi
+    Time Stamp: ("'ts1577'", "'ts1578'"), Annotation: gringuan
+    Time Stamp: ("'ts1579'", "'ts1580'"), Annotation: trabajananchi
+    Time Stamp: ("'ts1581'", "'ts1582'"), Annotation: nirka
+    Time Stamp: ("'ts1583'", "'ts1584'"), Annotation: payka uyakurkami
+    Time Stamp: ("'ts1586'", "'ts1589'"), Annotation: shina shinaga
+    Time Stamp: ("'ts1590'", "'ts1592'"), Annotation: kachamurina
+    Time Stamp: ("'ts1597'", "'ts1598'"), Annotation: chinganga nirkanimi
+    Time Stamp: ("'ts1601'", "'ts1602'"), Annotation: (asin)
+    Time Stamp: ("'ts1641'", "'ts1642'"), Annotation: maymanta
+    Time Stamp: ("'ts1643'", "'ts1644'"), Annotation: viajemun rriringi
+    Time Stamp: ("'ts1645'", "'ts1646'"), Annotation: kunun,kununga
+    Time Stamp: ("'ts1647'", "'ts1648'"), Annotation: nachu mayman rriringi
+    Time Stamp: ("'ts1705'", "'ts1706'"), Annotation: ashta grupupi rrijuni
+    Time Stamp: ("'ts1709'", "'ts1710'"), Annotation: ashka
+    Time Stamp: ("'ts1711'", "'ts1713'"), Annotation: kulkiguan
+    Time Stamp: ("'ts1764'", "'ts1766'"), Annotation: ña
+    Time Stamp: ("'ts1784'", "'ts1787'"), Annotation: kulkita pana aprrte
+    Time Stamp: ("'ts1891'", "'ts1892'"), Annotation: mmmm
+    Time Stamp: ("'ts1909'", "'ts1911'"), Annotation: chay mikina
+    Time Stamp: ("'ts1953'", "'ts1956'"), Annotation: haaaaaaa
+    Time Stamp: ("'ts2007'", "'ts2009'"), Annotation: ha ha
+    Time Stamp: ("'ts2031'", "'ts2033'"), Annotation: mmmmm
+    Time Stamp: ("'ts2054'", "'ts2057'"), Annotation: haaaaaa
+    Time Stamp: ("'ts2067'", "'ts2068'"), Annotation: guaguaka
+    Time Stamp: ("'ts2069'", "'ts2070'"), Annotation: kikimbuka purinllu
+    Time Stamp: ("'ts2073'", "'ts2074'"), Annotation: ha ha
+    Time Stamp: ("'ts2083'", "'ts2084'"), Annotation: haaaaaa
+    Time Stamp: ("'ts2085'", "'ts2086'"), Annotation: nara puringa
+    Time Stamp: ("'ts2097'", "'ts2098'"), Annotation: (...............)
+    Time Stamp: ("'ts2111'", "'ts2112'"), Annotation: pero
+    Time Stamp: ("'ts2113'", "'ts2114'"), Annotation: convidagungi
+    Time Stamp: ("'ts2118'", "'ts2120'"), Annotation: combidaylla
+    Time Stamp: ("'ts2121'", "'ts2122'"), Annotation: (..................)
+    Time Stamp: ("'ts2123'", "'ts2125'"), Annotation: ñuka guagua illami kanini
+    Time Stamp: ("'ts2145'", "'ts2148'"), Annotation: (asinakun)
+    Time Stamp: ("'ts2191'", "'ts2192'"), Annotation: mamaninata
+    Time Stamp: ("'ts2193'", "'ts2194'"), Annotation: yachakun
+    Time Stamp: ("'ts2214'", "'ts2216'"), Annotation: nachu imagu
+    Time Stamp: ("'ts2217'", "'ts2218'"), Annotation: trabajanaguta
+    Time Stamp: ("'ts2219'", "'ts2220'"), Annotation: charinginchi
+    Time Stamp: ("'ts2221'", "'ts2223'"), Annotation: chabi
+    Time Stamp: ("'ts2225'", "'ts2226'"), Annotation: kay jovenda
+    Time Stamp: ("'ts2272'", "'ts2275'"), Annotation: guakimbiga
+    Time Stamp: ("'ts2289'", "'ts2290'"), Annotation: ñukatabash
+    Time Stamp: ("'ts2291'", "'ts2293'"), Annotation: cachagungi
+    Time Stamp: ("'ts2313'", "'ts2314'"), Annotation: tampoco
+    Time Stamp: ("'ts2315'", "'ts2317'"), Annotation: quiero
+    Time Stamp: ("'ts2327'", "'ts2328'"), Annotation: asin
+    Time Stamp: ("'ts2329'", "'ts2330'"), Annotation: mayta
+    Time Stamp: ("'ts2331'", "'ts2332'"), Annotation: mayta
+    Time Stamp: ("'ts2333'", "'ts2334'"), Annotation: puringi
+    Time Stamp: ("'ts2335'", "'ts2336'"), Annotation: kichuamata
+    Time Stamp: ("'ts2337'", "'ts2338'"), Annotation: mayta, mayta
+    Time Stamp: ("'ts2513'", "'ts2515'"), Annotation: ashka guagra
+    Time Stamp: ("'ts2520'", "'ts2522'"), Annotation: maypi miki na
+    Time Stamp: ("'ts2523'", "'ts2524'"), Annotation: na tinga
+    Time Stamp: ("'ts2539'", "'ts2540'"), Annotation: chaybiga
+    Time Stamp: ("'ts2541'", "'ts2542'"), Annotation: lichita
+    Time Stamp: ("'ts2543'", "'ts2544'"), Annotation: lo que quiera mi
+    Time Stamp: ("'ts2589'", "'ts2590'"), Annotation: mm mm
+    Time Stamp: ("'ts2595'", "'ts2596'"), Annotation: yarjanniri
+    Time Stamp: ("'ts2601'", "'ts2602'"), Annotation: ash llashkakan
+    Time Stamp: ("'ts2611'", "'ts2612'"), Annotation: ima yaku
+    Time Stamp: ("'ts2613'", "'ts2614'"), Annotation: galumbi
+    Time Stamp: ("'ts2615'", "'ts2617'"), Annotation: apamurkanchi
+    Time Stamp: ("'ts2620'", "'ts2622'"), Annotation: mm mm
+    Time Stamp: ("'ts2625'", "'ts2626'"), Annotation: (........................)
+    Time Stamp: ("'ts2631'", "'ts2632'"), Annotation: ari
+    Time Stamp: ("'ts2639'", "'ts2640'"), Annotation: mmm
+    Time Stamp: ("'ts2656'", "'ts2658'"), Annotation: asinakun
+    Time Stamp: ("'ts2709'", "'ts2711'"), Annotation: ushku
+    Time Stamp: ("'ts2723'", "'ts2724'"), Annotation: caraju
+    Time Stamp: ("'ts2739'", "'ts2741'"), Annotation: (..............)
+  Tier Type: tn, Annotations Count: 307
+    Time Stamp: ('5',), Annotation: chancho
+    Time Stamp: ('5',), Annotation: ha de matar
+    Time Stamp: ('5',), Annotation: mañana
+    Time Stamp: ('5',), Annotation: alla
+    Time Stamp: ('5',), Annotation: de Rocio
+    Time Stamp: ('6',), Annotation: la cuñada
+    Time Stamp: ('6',), Annotation: haaa
+    Time Stamp: ('6',), Annotation: haaa
+    Time Stamp: ('6',), Annotation: no ha de matar
+    Time Stamp: ('6',), Annotation: para vender
+    Time Stamp: ('6',), Annotation: haaaa
+    Time Stamp: ('6',), Annotation: haaaa
+    Time Stamp: ('6',), Annotation: comadre
+    Time Stamp: ('6',), Annotation: mmmm
+    Time Stamp: ('15',), Annotation: (...............)
+    Time Stamp: ('16',), Annotation: haaaaaaaa
+    Time Stamp: ('16',), Annotation: esta bien
+    Time Stamp: ('16',), Annotation: esta bien
+    Time Stamp: ('16',), Annotation: (................................)
+    Time Stamp: ('16',), Annotation: comen hierba
+    Time Stamp: ('16',), Annotation: es rico
+    Time Stamp: ('16',), Annotation: (...............)
+    Time Stamp: ('16',), Annotation: asi este barato
+    Time Stamp: ('16',), Annotation: comen
+    Time Stamp: ('16',), Annotation: cada dia
+    Time Stamp: ('17',), Annotation: del todo
+    Time Stamp: ('17',), Annotation: viejas
+    Time Stamp: ('17',), Annotation: musicas
+    Time Stamp: ('17',), Annotation: ponen dicen
+    Time Stamp: ('17',), Annotation: mmmmmm
+    Time Stamp: ('17',), Annotation: no ha de alcanzar
+    Time Stamp: ('17',), Annotation: no ha de alcanzar
+    Time Stamp: ('21',), Annotation: que va alcanzar
+    Time Stamp: ('21',), Annotation: en cual puerta
+    Time Stamp: ('21',), Annotation: de nuevo
+    Time Stamp: ('22',), Annotation: ya
+    Time Stamp: ('22',), Annotation: ya cogeria
+    Time Stamp: ('35',), Annotation: muy bien
+    Time Stamp: ('35',), Annotation: cuantos
+    Time Stamp: ('35',), Annotation: tanques salia
+    Time Stamp: ('35',), Annotation: mucho
+    Time Stamp: ('35',), Annotation: ahora tiene que ir
+    Time Stamp: ('35',), Annotation: dijo que venga
+    Time Stamp: ('35',), Annotation: si alcanzo voy
+    Time Stamp: ('35',), Annotation: sino no
+    Time Stamp: ('35',), Annotation: no se va
+    Time Stamp: ('35',), Annotation: donde
+    Time Stamp: ('36',), Annotation: haaaa
+    Time Stamp: ('36',), Annotation: que agua
+    Time Stamp: ('36',), Annotation: es economico
+    Time Stamp: ('36',), Annotation: ese yoga que dicen
+    Time Stamp: ('36',), Annotation: eso primero no he preguntado
+    Time Stamp: ('55',), Annotation: asi ha dicho
+    Time Stamp: ('55',), Annotation: asi se ha dicho
+    Time Stamp: ('55',), Annotation: (................)
+    Time Stamp: ('55',), Annotation: ese quintal
+    Time Stamp: ('55',), Annotation: ha doce dolares
+    Time Stamp: ('55',), Annotation: (.............)
+    Time Stamp: ('55',), Annotation: encerio
+    Time Stamp: ('55',), Annotation: que no ve
+    Time Stamp: ('55',), Annotation: esta bien
+    Time Stamp: ('56',), Annotation: abajo
+    Time Stamp: ('56',), Annotation: en un puesto
+    Time Stamp: ('56',), Annotation: veinti uno
+    Time Stamp: ('56',), Annotation: en clima calido
+    Time Stamp: ('56',), Annotation: ha treinta esta diciendo
+    Time Stamp: ('56',), Annotation: el costal azul
+    Time Stamp: ('56',), Annotation: a dieciseis estan vendiendo
+    Time Stamp: ('56',), Annotation: ha ha
+    Time Stamp: ('56',), Annotation: mmmmm
+    Time Stamp: ('56',), Annotation: aqui
+    Time Stamp: ('57',), Annotation: todos ayudamos
+    Time Stamp: ('57',), Annotation: antojo
+    Time Stamp: ('57',), Annotation: caminaba
+    Time Stamp: ('57',), Annotation: la anterior semana
+    Time Stamp: ('57',), Annotation: mi
+    Time Stamp: ('57',), Annotation: docena de chanchos
+    Time Stamp: ('57',), Annotation: ya esta creciendo
+    Time Stamp: ('57',), Annotation: solo los chanchitos
+    Time Stamp: ('57',), Annotation: tres
+    Time Stamp: ('57',), Annotation: el domingo
+    Time Stamp: ('58',), Annotation: la proxima semana
+    Time Stamp: ('58',), Annotation: ha de ser de vender
+    Time Stamp: ('58',), Annotation: esa plata
+    Time Stamp: ('58',), Annotation: es para ir a españa
+    Time Stamp: ('58',), Annotation: risas
+    Time Stamp: ('58',), Annotation: bien, pero bien elegante me voy a ir
+    Time Stamp: ('58',), Annotation: (,....................)
+    Time Stamp: ('58',), Annotation: ayer ha estado muerto
+    Time Stamp: ('58',), Annotation: ahi esta de ir
+    Time Stamp: ('58',), Annotation: con que
+    Time Stamp: ('59',), Annotation: (................)
+    Time Stamp: ('59',), Annotation: mmmmm
+    Time Stamp: ('59',), Annotation: si voy a decir dijo
+    Time Stamp: ('59',), Annotation: mal mismo
+    Time Stamp: ('59',), Annotation: la pareja
+    Time Stamp: ('59',), Annotation: asi me hizo
+    Time Stamp: ('59',), Annotation: (.................................)
+    Time Stamp: ('59',), Annotation: ese
+    Time Stamp: ('80',), Annotation: mmm
+    Time Stamp: ('80',), Annotation: (....................................)
+    Time Stamp: ('80',), Annotation: no
+    Time Stamp: ('81',), Annotation: las manos
+    Time Stamp: ('81',), Annotation: que se habia quemado el niño
+    Time Stamp: ('81',), Annotation: de ahi
+    Time Stamp: ('81',), Annotation: justo han botado
+    Time Stamp: ('81',), Annotation: la crema
+    Time Stamp: ('81',), Annotation: de ahi digo
+    Time Stamp: ('81',), Annotation: cierto vi
+    Time Stamp: ('81',), Annotation: (..............................................)
+    Time Stamp: ('81',), Annotation: Calderon
+    Time Stamp: ('81',), Annotation: voy ha
+    Time Stamp: ('82',), Annotation: llamar
+    Time Stamp: ('82',), Annotation: digo yo
+    Time Stamp: ('82',), Annotation: de ahi
+    Time Stamp: ('82',), Annotation: llame
+    Time Stamp: ('82',), Annotation: otra
+    Time Stamp: ('82',), Annotation: mami
+    Time Stamp: ('82',), Annotation: dice
+    Time Stamp: ('82',), Annotation: yo ya acabe la plata
+    Time Stamp: ('82',), Annotation: haciendo compras
+    Time Stamp: ('82',), Annotation: yo, ya no
+    Time Stamp: ('83',), Annotation: tengo
+    Time Stamp: ('83',), Annotation: plata
+    Time Stamp: ('83',), Annotation: ya, ya, ya
+    Time Stamp: ('83',), Annotation: llamale
+    Time Stamp: ('83',), Annotation: (........................)
+    Time Stamp: ('83',), Annotation: llamale
+    Time Stamp: ('83',), Annotation: llamo
+    Time Stamp: ('83',), Annotation: noooo
+    Time Stamp: ('83',), Annotation: risas
+    Time Stamp: ('83',), Annotation: (.................)
+    Time Stamp: ('84',), Annotation: (.....................)
+    Time Stamp: ('94',), Annotation: vengan
+    Time Stamp: ('94',), Annotation: ayudar
+    Time Stamp: ('94',), Annotation: conmigo
+    Time Stamp: ('94',), Annotation: no
+    Time Stamp: ('94',), Annotation: estoy ocupado
+    Time Stamp: ('94',), Annotation: estoy atrasado
+    Time Stamp: ('94',), Annotation: risas
+    Time Stamp: ('94',), Annotation: en lacasa
+    Time Stamp: ('94',), Annotation: le explicamos
+    Time Stamp: ('95',), Annotation: o ahorita le explicamos
+    Time Stamp: ('95',), Annotation: las manos
+    Time Stamp: ('95',), Annotation: ven a coger
+    Time Stamp: ('95',), Annotation: la pala
+    Time Stamp: ('95',), Annotation: vendras a coger
+    Time Stamp: ('95',), Annotation: si puedes
+    Time Stamp: ('95',), Annotation: ven
+    Time Stamp: ('95',), Annotation: si no
+    Time Stamp: ('95',), Annotation: no puedes
+    Time Stamp: ('95',), Annotation: ya
+    Time Stamp: ('96',), Annotation: vez
+    Time Stamp: ('96',), Annotation: si ha de ser
+    Time Stamp: ('96',), Annotation: no ha de a ver
+    Time Stamp: ('96',), Annotation: esa talla cuarenta y tres
+    Time Stamp: ('96',), Annotation: lo que has dicho
+    Time Stamp: ('96',), Annotation: yaaaaaaaa
+    Time Stamp: ('96',), Annotation: espera
+    Time Stamp: ('96',), Annotation: algo
+    Time Stamp: ('96',), Annotation: algo
+    Time Stamp: ('96',), Annotation: algo esta haciendo le dije
+    Time Stamp: ('130',), Annotation: yo
+    Time Stamp: ('130',), Annotation: asi no mas
+    Time Stamp: ('130',), Annotation: (............)
+    Time Stamp: ('130',), Annotation: risas
+    Time Stamp: ('130',), Annotation: esta interesante
+    Time Stamp: ('131',), Annotation: la conversacion
+    Time Stamp: ('131',), Annotation: (........................)
+    Time Stamp: ('131',), Annotation: para sehuir hablando
+    Time Stamp: ('131',), Annotation: risas
+    Time Stamp: ('131',), Annotation: (........................)
+    Time Stamp: ('131',), Annotation: (........................)
+    Time Stamp: ('131',), Annotation: que
+    Time Stamp: ('131',), Annotation: han llegado
+    Time Stamp: ('131',), Annotation: que horas
+    Time Stamp: ('131',), Annotation: a las siete y media
+    Time Stamp: ('132',), Annotation: a las ocho
+    Time Stamp: ('132',), Annotation: (..............................)
+    Time Stamp: ('132',), Annotation: risas
+    Time Stamp: ('132',), Annotation: para trabajar
+    Time Stamp: ('132',), Annotation: para sacar fuerza
+    Time Stamp: ('132',), Annotation: aqui
+    Time Stamp: ('132',), Annotation: Mil
+    Time Stamp: ('132',), Annotation: gallinas
+    Time Stamp: ('132',), Annotation: puse
+    Time Stamp: ('132',), Annotation: mil
+    Time Stamp: ('133',), Annotation: gallinas
+    Time Stamp: ('133',), Annotation: sale este abono
+    Time Stamp: ('133',), Annotation: asi de las gallinas
+    Time Stamp: ('133',), Annotation: blancos
+    Time Stamp: ('133',), Annotation: asi
+    Time Stamp: ('133',), Annotation: cada dos
+    Time Stamp: ('133',), Annotation: meses
+    Time Stamp: ('133',), Annotation: saco
+    Time Stamp: ('133',), Annotation: esto
+    Time Stamp: ('133',), Annotation: cada dos meses
+    Time Stamp: ('134',), Annotation: vendo
+    Time Stamp: ('134',), Annotation: ahi
+    Time Stamp: ('134',), Annotation: sacando esto
+    Time Stamp: ('134',), Annotation: por esto
+    Time Stamp: ('134',), Annotation: sin plata
+    Time Stamp: ('134',), Annotation: de nuevo
+    Time Stamp: ('134',), Annotation: el piso
+    Time Stamp: ('134',), Annotation: lavo
+    Time Stamp: ('134',), Annotation: si, si
+    Time Stamp: ('134',), Annotation: esto vendo
+    Time Stamp: ('135',), Annotation: ha
+    Time Stamp: ('135',), Annotation: el abono
+    Time Stamp: ('135',), Annotation: a veces
+    Time Stamp: ('135',), Annotation: si vendo
+    Time Stamp: ('135',), Annotation: a veces
+    Time Stamp: ('135',), Annotation: en el terreno
+    Time Stamp: ('135',), Annotation: vendo
+    Time Stamp: ('135',), Annotation: en el terreno
+    Time Stamp: ('135',), Annotation: ha mm
+    Time Stamp: ('135',), Annotation: un dolar
+    Time Stamp: ('136',), Annotation: cuesta
+    Time Stamp: ('136',), Annotation: esto
+    Time Stamp: ('136',), Annotation: un dolar este costal
+    Time Stamp: ('136',), Annotation: sale sesenta
+    Time Stamp: ('136',), Annotation: sale mas de sesenta
+    Time Stamp: ('136',), Annotation: (........................)
+    Time Stamp: ('136',), Annotation: (........................)
+    Time Stamp: ('136',), Annotation: a que hora
+    Time Stamp: ('136',), Annotation: saliste
+    Time Stamp: ('136',), Annotation: de Quito
+    Time Stamp: ('137',), Annotation: haaaa
+    Time Stamp: ('137',), Annotation: haaaa
+    Time Stamp: ('137',), Annotation: haaaa
+    Time Stamp: ('137',), Annotation: haaaa
+    Time Stamp: ('137',), Annotation: mi hija dijo
+    Time Stamp: ('137',), Annotation: ella
+    Time Stamp: ('137',), Annotation: ella dijo que habia hablado
+    Time Stamp: ('137',), Annotation: con un gringo
+    Time Stamp: ('137',), Annotation: estaos trabajando
+    Time Stamp: ('137',), Annotation: dijo
+    Time Stamp: ('138',), Annotation: ella estaba escuchando
+    Time Stamp: ('138',), Annotation: asi
+    Time Stamp: ('138',), Annotation: envio
+    Time Stamp: ('138',), Annotation: vaya a perderse dije
+    Time Stamp: ('138',), Annotation: risas
+    Time Stamp: ('138',), Annotation: a donde
+    Time Stamp: ('138',), Annotation: vas a ir deviaje
+    Time Stamp: ('138',), Annotation: en este momento
+    Time Stamp: ('138',), Annotation: no piensa ir algun lado
+    Time Stamp: ('138',), Annotation: me estoy yendo en grupo
+    Time Stamp: ('139',), Annotation: con bastante
+    Time Stamp: ('139',), Annotation: dinero
+    Time Stamp: ('176',), Annotation: ya
+    Time Stamp: ('176',), Annotation: toca llevar plata separado
+    Time Stamp: ('195',), Annotation: mmmm
+    Time Stamp: ('195',), Annotation: esas comidas
+    Time Stamp: ('195',), Annotation: haaaaaaa
+    Time Stamp: ('195',), Annotation: ha ha
+    Time Stamp: ('195',), Annotation: mmmmm
+    Time Stamp: ('195',), Annotation: haaaaaa
+    Time Stamp: ('196',), Annotation: el/la niño/a
+    Time Stamp: ('196',), Annotation: ya esta caminando de usted
+    Time Stamp: ('196',), Annotation: ha ah
+    Time Stamp: ('196',), Annotation: haaaaaa
+    Time Stamp: ('196',), Annotation: aun no camina
+    Time Stamp: ('196',), Annotation: (...............)
+    Time Stamp: ('196',), Annotation: pero
+    Time Stamp: ('196',), Annotation: prestarasme
+    Time Stamp: ('196',), Annotation: me prestas
+    Time Stamp: ('196',), Annotation: (................)
+    Time Stamp: ('197',), Annotation: yo  no tengo hijos
+    Time Stamp: ('197',), Annotation: risas
+    Time Stamp: ('197',), Annotation: mamá
+    Time Stamp: ('197',), Annotation: a decir aprende
+    Time Stamp: ('197',), Annotation: de pronto
+    Time Stamp: ('197',), Annotation: algun trabajo
+    Time Stamp: ('197',), Annotation: tengas
+    Time Stamp: ('197',), Annotation: ahi
+    Time Stamp: ('197',), Annotation: a este joven
+    Time Stamp: ('197',), Annotation: derepente
+    Time Stamp: ('198',), Annotation: a mi tambien
+    Time Stamp: ('198',), Annotation: mandarasme
+    Time Stamp: ('198',), Annotation: tampoco
+    Time Stamp: ('198',), Annotation: quiero
+    Time Stamp: ('198',), Annotation: risas
+    Time Stamp: ('198',), Annotation: por donde
+    Time Stamp: ('198',), Annotation: por donde
+    Time Stamp: ('198',), Annotation: caminas
+    Time Stamp: ('198',), Annotation: por el kichwa
+    Time Stamp: ('198',), Annotation: por donde, por donde
+    Time Stamp: ('238',), Annotation: bastante ganado
+    Time Stamp: ('239',), Annotation: no hay donde que coma
+    Time Stamp: ('239',), Annotation: no hay
+    Time Stamp: ('256',), Annotation: ahi
+    Time Stamp: ('256',), Annotation: la leche
+    Time Stamp: ('256',), Annotation: lo que quiera hay
+    Time Stamp: ('256',), Annotation: mm mm
+    Time Stamp: ('267',), Annotation: me da hambre
+    Time Stamp: ('267',), Annotation: no habia
+    Time Stamp: ('267',), Annotation: con que agua
+    Time Stamp: ('267',), Annotation: en galones
+    Time Stamp: ('267',), Annotation: trajimos
+    Time Stamp: ('268',), Annotation: ,mm mm
+    Time Stamp: ('268',), Annotation: (.............................)
+    Time Stamp: ('268',), Annotation: si
+    Time Stamp: ('268',), Annotation: mmm
+    Time Stamp: ('268',), Annotation: risas
+    Time Stamp: ('268',), Annotation: perro
+    Time Stamp: ('268',), Annotation: carajo
+    Time Stamp: ('268',), Annotation: (...............)
+Speaker: niño 1 C
+  Tier Type: po, Annotations Count: 16
+    Time Stamp: ("'ts85'", "'ts86'"), Annotation: ullilgo
+    Time Stamp: ("'ts216'", "'ts218'"), Annotation: no
+    Time Stamp: ("'ts219'", "'ts221'"), Annotation: cuchi
+    Time Stamp: ("'ts605'", "'ts607'"), Annotation: de la escuela
+    Time Stamp: ("'ts609'", "'ts610'"), Annotation: mi abuela
+    Time Stamp: ("'ts618'", "'ts620'"), Annotation: mi huella
+    Time Stamp: ("'ts685'", "'ts686'"), Annotation: mami
+    Time Stamp: ("'ts881'", "'ts882'"), Annotation: jem
+    Time Stamp: ("'ts1169'", "'ts1170'"), Annotation: murus
+    Time Stamp: ("'ts1949'", "'ts1951'"), Annotation: vaya
+    Time Stamp: ("'ts1952'", "'ts1955'"), Annotation: por alla
+    Time Stamp: ("'ts1973'", "'ts1974'"), Annotation: (...........................)
+    Time Stamp: ("'ts2325'", "'ts2326'"), Annotation: asin
+    Time Stamp: ("'ts2720'", "'ts2726'"), Annotation: None
+    Time Stamp: ("'ts2753'", "'ts2754'"), Annotation: el dice que
+    Time Stamp: ("'ts2755'", "'ts2757'"), Annotation: lo que el Cristian
+  Tier Type: tn, Annotations Count: 16
+    Time Stamp: ('19',), Annotation: ullilgo
+    Time Stamp: ('22',), Annotation: no
+    Time Stamp: ('22',), Annotation: chancho
+    Time Stamp: ('64',), Annotation: de la escuela
+    Time Stamp: ('64',), Annotation: mi abuela
+    Time Stamp: ('64',), Annotation: mi huella
+    Time Stamp: ('87',), Annotation: mami
+    Time Stamp: ('99',), Annotation: jem
+    Time Stamp: ('147',), Annotation: murus
+    Time Stamp: ('202',), Annotation: vaya
+    Time Stamp: ('202',), Annotation: por alla
+    Time Stamp: ('202',), Annotation: (...........................)
+    Time Stamp: ('202',), Annotation: risas
+    Time Stamp: ('270',), Annotation: None
+    Time Stamp: ('270',), Annotation: el dice que
+    Time Stamp: ('270',), Annotation: lo que el Cristian
+Speaker: hombre 1 D
+  Tier Type: po, Annotations Count: 32
+    Time Stamp: ("'ts237'", "'ts238'"), Annotation: estaba yendo a cobrarr
+    Time Stamp: ("'ts285'", "'ts286'"), Annotation: cincuenta mensual
+    Time Stamp: ("'ts297'", "'ts299'"), Annotation: None
+    Time Stamp: ("'ts333'", "'ts334'"), Annotation: mm j
+    Time Stamp: ("'ts381'", "'ts382'"), Annotation: si
+    Time Stamp: ("'ts428'", "'ts430'"), Annotation: kikin ash ninga
+    Time Stamp: ("'ts483'", "'ts484'"), Annotation: quinua
+    Time Stamp: ("'ts544'", "'ts546'"), Annotation: cuanto esta
+    Time Stamp: ("'ts555'", "'ts557'"), Annotation: (asin)
+    Time Stamp: ("'ts576'", "'ts578'"), Annotation: (........)
+    Time Stamp: ("'ts687'", "'ts688'"), Annotation: chuta
+    Time Stamp: ("'ts1020'", "'ts1024'"), Annotation: botas de indigenas pues
+    Time Stamp: ("'ts1025'", "'ts1026'"), Annotation: (asin)
+    Time Stamp: ("'ts1028'", "'ts1030'"), Annotation: no seran asi
+    Time Stamp: ("'ts1031'", "'ts1032'"), Annotation: que
+    Time Stamp: ("'ts1033'", "'ts1034'"), Annotation: que ta
+    Time Stamp: ("'ts1035'", "'ts1037'"), Annotation: que talla es dile
+    Time Stamp: ("'ts1041'", "'ts1042'"), Annotation: que talla de zapato es
+    Time Stamp: ("'ts1056'", "'ts1058'"), Annotation: chucta
+    Time Stamp: ("'ts1059'", "'ts1060'"), Annotation: asin
+    Time Stamp: ("'ts1119'", "'ts1121'"), Annotation: indicale aca
+    Time Stamp: ("'ts1212'", "'ts1214'"), Annotation: por estar la interesada
+    Time Stamp: ("'ts1230'", "'ts1233'"), Annotation: ha
+    Time Stamp: ("'ts1235'", "'ts1236'"), Annotation: yo no tomo
+    Time Stamp: ("'ts1253'", "'ts1254'"), Annotation: (........................)
+    Time Stamp: ("'ts1255'", "'ts1256'"), Annotation: (........................)
+    Time Stamp: ("'ts2662'", "'ts2664'"), Annotation: (...................)
+    Time Stamp: ("'ts2665'", "'ts2666'"), Annotation: cansante
+    Time Stamp: ("'ts2669'", "'ts2670'"), Annotation: kimsa horaspi
+    Time Stamp: ("'ts2671'", "'ts2672'"), Annotation: tiene que dar la vuelta
+    Time Stamp: ("'ts2675'", "'ts2677'"), Annotation: que buscas
+    Time Stamp: ("'ts2695'", "'ts2696'"), Annotation: (..............)
+  Tier Type: tn, Annotations Count: 31
+    Time Stamp: ('38',), Annotation: estaba yendo a cobrar
+    Time Stamp: ('38',), Annotation: cincuenta mensual
+    Time Stamp: ('38',), Annotation: mm j
+    Time Stamp: ('38',), Annotation: si
+    Time Stamp: ('65',), Annotation: usted dice asi
+    Time Stamp: ('65',), Annotation: quinua
+    Time Stamp: ('65',), Annotation: cuanto esta
+    Time Stamp: ('65',), Annotation: risas
+    Time Stamp: ('65',), Annotation: (.........)
+    Time Stamp: ('87',), Annotation: chuta
+    Time Stamp: ('100',), Annotation: botas de indigenas
+    Time Stamp: ('100',), Annotation: risas
+    Time Stamp: ('100',), Annotation: no seran asi
+    Time Stamp: ('100',), Annotation: que
+    Time Stamp: ('100',), Annotation: que talla
+    Time Stamp: ('100',), Annotation: que talla es dile
+    Time Stamp: ('100',), Annotation: que talla de zapato es
+    Time Stamp: ('100',), Annotation: chucta
+    Time Stamp: ('100',), Annotation: risas
+    Time Stamp: ('101',), Annotation: indicale aca
+    Time Stamp: ('148',), Annotation: por estar de interesada
+    Time Stamp: ('148',), Annotation: ha
+    Time Stamp: ('148',), Annotation: yo no tomo
+    Time Stamp: ('148',), Annotation: (........................)
+    Time Stamp: ('148',), Annotation: (........................)
+    Time Stamp: ('270',), Annotation: (...................)
+    Time Stamp: ('270',), Annotation: cansado
+    Time Stamp: ('270',), Annotation: en tres horas
+    Time Stamp: ('271',), Annotation: tiene que dar vuelta
+    Time Stamp: ('271',), Annotation: que buscas
+    Time Stamp: ('271',), Annotation: (...............)
+Speaker: mujer 3 E
+  Tier Type: po, Annotations Count: 73
+    Time Stamp: ("'ts253'", "'ts256'"), Annotation: que no sale bien dijo
+    Time Stamp: ("'ts263'", "'ts264'"), Annotation: mmmmm
+    Time Stamp: ("'ts265'", "'ts266'"), Annotation: a como pagajun
+    Time Stamp: ("'ts269'", "'ts270'"), Annotation: no
+    Time Stamp: ("'ts271'", "'ts272'"), Annotation: paykunaka
+    Time Stamp: ("'ts273'", "'ts274'"), Annotation: treinta dolar
+    Time Stamp: ("'ts281'", "'ts283'"), Annotation: ha mm j
+    Time Stamp: ("'ts287'", "'ts288'"), Annotation: mm
+    Time Stamp: ("'ts303'", "'ts304'"), Annotation: no se
+    Time Stamp: ("'ts323'", "'ts325'"), Annotation: bolo
+    Time Stamp: ("'ts539'", "'ts541'"), Annotation: cuanto chancho tiene tia
+    Time Stamp: ("'ts543'", "'ts545'"), Annotation: mmmmmm
+    Time Stamp: ("'ts588'", "'ts590'"), Annotation: que vendes chiquitas
+    Time Stamp: ("'ts591'", "'ts592'"), Annotation: oh grandes
+    Time Stamp: ("'ts918'", "'ts922'"), Annotation: asinakun
+    Time Stamp: ("'ts940'", "'ts941'"), Annotation: explique
+    Time Stamp: ("'ts943'", "'ts945'"), Annotation: (....)
+    Time Stamp: ("'ts966'", "'ts969'"), Annotation: asinakun
+    Time Stamp: ("'ts975'", "'ts977'"), Annotation: None
+    Time Stamp: ("'ts982'", "'ts984'"), Annotation: None
+    Time Stamp: ("'ts985'", "'ts989'"), Annotation: None
+    Time Stamp: ("'ts991'", "'ts993'"), Annotation: asinakun
+    Time Stamp: ("'ts996'", "'ts999'"), Annotation: asinakun
+    Time Stamp: ("'ts1120'", "'ts1122'"), Annotation: conmigo tan
+    Time Stamp: ("'ts1123'", "'ts1124'"), Annotation: solo a la
+    Time Stamp: ("'ts1125'", "'ts1126'"), Annotation: casa
+    Time Stamp: ("'ts1127'", "'ts1128'"), Annotation: queria
+    Time Stamp: ("'ts1129'", "'ts1130'"), Annotation: chashna manta
+    Time Stamp: ("'ts1133'", "'ts1134'"), Annotation: toy
+    Time Stamp: ("'ts1135'", "'ts1136'"), Annotation: atrazando
+    Time Stamp: ("'ts1137'", "'ts1138'"), Annotation: quizas
+    Time Stamp: ("'ts1139'", "'ts1140'"), Annotation: tu
+    Time Stamp: ("'ts1141'", "'ts1142'"), Annotation: me sabia decir
+    Time Stamp: ("'ts1162'", "'ts1164'"), Annotation: yo tan
+    Time Stamp: ("'ts1165'", "'ts1166'"), Annotation: asi mismo
+    Time Stamp: ("'ts1167'", "'ts1168'"), Annotation: pense
+    Time Stamp: ("'ts1199'", "'ts1200'"), Annotation: como sale
+    Time Stamp: ("'ts1201'", "'ts1202'"), Annotation: como esta
+    Time Stamp: ("'ts1203'", "'ts1204'"), Annotation: trabajando
+    Time Stamp: ("'ts1205'", "'ts1206'"), Annotation: dice en kichua
+    Time Stamp: ("'ts1211'", "'ts1213'"), Annotation: (........................)
+    Time Stamp: ("'ts1215'", "'ts1218'"), Annotation: (asinakun)
+    Time Stamp: ("'ts1221'", "'ts1222'"), Annotation: asin
+    Time Stamp: ("'ts1226'", "'ts1228'"), Annotation: asin
+    Time Stamp: ("'ts1229'", "'ts1231'"), Annotation: (....................)
+    Time Stamp: ("'ts1288'", "'ts1291'"), Annotation: siete y mediata
+    Time Stamp: ("'ts1334'", "'ts1336'"), Annotation: asinakun
+    Time Stamp: ("'ts1385'", "'ts1387'"), Annotation: asinakun
+    Time Stamp: ("'ts1423'", "'ts1425'"), Annotation: nena
+    Time Stamp: ("'ts1595'", "'ts1596'"), Annotation: mmmmm
+    Time Stamp: ("'ts1707'", "'ts1708'"), Annotation: asin
+    Time Stamp: ("'ts1751'", "'ts1753'"), Annotation: haaaa
+    Time Stamp: ("'ts1807'", "'ts1808'"), Annotation: haaaaa
+    Time Stamp: ("'ts1839'", "'ts1841'"), Annotation: haaaaa
+    Time Stamp: ("'ts1889'", "'ts1890'"), Annotation: mmmm
+    Time Stamp: ("'ts2063'", "'ts2064'"), Annotation: mmmmm
+    Time Stamp: ("'ts2065'", "'ts2066'"), Annotation: (............)
+    Time Stamp: ("'ts2105'", "'ts2107'"), Annotation: ya ya
+    Time Stamp: ("'ts2146'", "'ts2149'"), Annotation: (asinakun)
+    Time Stamp: ("'ts2292'", "'ts2295'"), Annotation: asinakun
+    Time Stamp: ("'ts2316'", "'ts2318'"), Annotation: asin
+    Time Stamp: ("'ts2575'", "'ts2576'"), Annotation: mamita
+    Time Stamp: ("'ts2577'", "'ts2578'"), Annotation: kuchipa yaku
+    Time Stamp: ("'ts2619'", "'ts2621'"), Annotation: mmmm
+    Time Stamp: ("'ts2652'", "'ts2654'"), Annotation: asinakun
+    Time Stamp: ("'ts2667'", "'ts2668'"), Annotation: que
+    Time Stamp: ("'ts2692'", "'ts2694'"), Annotation: guasapi
+    Time Stamp: ("'ts2697'", "'ts2698'"), Annotation: este
+    Time Stamp: ("'ts2699'", "'ts2700'"), Annotation: dentro
+    Time Stamp: ("'ts2701'", "'ts2702'"), Annotation: (..........................)
+    Time Stamp: ("'ts2737'", "'ts2738'"), Annotation: cafecito ha comprado
+    Time Stamp: ("'ts2747'", "'ts2748'"), Annotation: tomamos
+    Time Stamp: ("'ts2749'", "'ts2750'"), Annotation: café frio
+  Tier Type: tn, Annotations Count: 73
+    Time Stamp: ('38',), Annotation: que no sale bien dijo
+    Time Stamp: ('39',), Annotation: mmmmm
+    Time Stamp: ('39',), Annotation: a cuanto esta pagando
+    Time Stamp: ('39',), Annotation: no
+    Time Stamp: ('39',), Annotation: ellos
+    Time Stamp: ('39',), Annotation: treinta dolar
+    Time Stamp: ('39',), Annotation: ha mmj
+    Time Stamp: ('39',), Annotation: mm
+    Time Stamp: ('39',), Annotation: no se
+    Time Stamp: ('39',), Annotation: bolo
+    Time Stamp: ('66',), Annotation: cuantos chanchos tiene tia
+    Time Stamp: ('66',), Annotation: mmmmmmm
+    Time Stamp: ('66',), Annotation: que vendes pequeñas
+    Time Stamp: ('66',), Annotation: oh grandes
+    Time Stamp: ('102',), Annotation: risas
+    Time Stamp: ('102',), Annotation: explique
+    Time Stamp: ('102',), Annotation: (....)
+    Time Stamp: ('102',), Annotation: risas
+    Time Stamp: ('102',), Annotation: None
+    Time Stamp: ('102',), Annotation: None
+    Time Stamp: ('102',), Annotation: None
+    Time Stamp: ('102',), Annotation: risas
+    Time Stamp: ('102',), Annotation: risas
+    Time Stamp: ('103',), Annotation: conmigo tambien
+    Time Stamp: ('103',), Annotation: solo a la
+    Time Stamp: ('103',), Annotation: casa
+    Time Stamp: ('103',), Annotation: queria
+    Time Stamp: ('103',), Annotation: por eso
+    Time Stamp: ('103',), Annotation: estoy
+    Time Stamp: ('103',), Annotation: atrazandome
+    Time Stamp: ('103',), Annotation: quizas
+    Time Stamp: ('103',), Annotation: tu
+    Time Stamp: ('103',), Annotation: me sabia decir
+    Time Stamp: ('149',), Annotation: yo tambien
+    Time Stamp: ('149',), Annotation: asi mismo
+    Time Stamp: ('149',), Annotation: pense
+    Time Stamp: ('149',), Annotation: como sale
+    Time Stamp: ('149',), Annotation: como esta
+    Time Stamp: ('149',), Annotation: trabajando
+    Time Stamp: ('149',), Annotation: dice en kichua
+    Time Stamp: ('149',), Annotation: (........................)
+    Time Stamp: ('149',), Annotation: risas
+    Time Stamp: ('150',), Annotation: risas
+    Time Stamp: ('150',), Annotation: risas
+    Time Stamp: ('150',), Annotation: (...................)
+    Time Stamp: ('150',), Annotation: a las siete y media
+    Time Stamp: ('150',), Annotation: risas
+    Time Stamp: ('150',), Annotation: risas
+    Time Stamp: ('150',), Annotation: nena
+    Time Stamp: ('150',), Annotation: mmmmm
+    Time Stamp: ('150',), Annotation: risas
+    Time Stamp: ('177',), Annotation: haaaa
+    Time Stamp: ('203',), Annotation: haaaa
+    Time Stamp: ('203',), Annotation: haaaaa
+    Time Stamp: ('203',), Annotation: mmmm
+    Time Stamp: ('203',), Annotation: mmmmmm
+    Time Stamp: ('203',), Annotation: (...........)
+    Time Stamp: ('203',), Annotation: ya ya
+    Time Stamp: ('204',), Annotation: risas
+    Time Stamp: ('204',), Annotation: risas
+    Time Stamp: ('204',), Annotation: risas
+    Time Stamp: ('256',), Annotation: mamita
+    Time Stamp: ('257',), Annotation: agua de chancho
+    Time Stamp: ('271',), Annotation: mmmm
+    Time Stamp: ('272',), Annotation: risas
+    Time Stamp: ('272',), Annotation: que
+    Time Stamp: ('272',), Annotation: en la espalda
+    Time Stamp: ('272',), Annotation: este
+    Time Stamp: ('272',), Annotation: dentro
+    Time Stamp: ('272',), Annotation: (.........................)
+    Time Stamp: ('272',), Annotation: cafecito ha comprado
+    Time Stamp: ('272',), Annotation: tomamos
+    Time Stamp: ('272',), Annotation: café frio
+Speaker: Simeón
+  Tier Type: po, Annotations Count: 388
+    Time Stamp: ("'ts903'", "'ts904'"), Annotation: ari
+    Time Stamp: ("'ts905'", "'ts906'"), Annotation: shina
+    Time Stamp: ("'ts907'", "'ts908'"), Annotation: parlailla
+    Time Stamp: ("'ts909'", "'ts910'"), Annotation: shina
+    Time Stamp: ("'ts911'", "'ts912'"), Annotation: trabajashpa
+    Time Stamp: ("'ts915'", "'ts919'"), Annotation: o sino
+    Time Stamp: ("'ts923'", "'ts924'"), Annotation: oh
+    Time Stamp: ("'ts925'", "'ts926'"), Annotation: sino
+    Time Stamp: ("'ts927'", "'ts928'"), Annotation: par parlanguichi
+    Time Stamp: ("'ts929'", "'ts930'"), Annotation: ima shinata munashpaka
+    Time Stamp: ("'ts931'", "'ts932'"), Annotation: oh
+    Time Stamp: ("'ts933'", "'ts934'"), Annotation: sino
+    Time Stamp: ("'ts935'", "'ts936'"), Annotation: explicangichi
+    Time Stamp: ("'ts937'", "'ts938'"), Annotation: cashna
+    Time Stamp: ("'ts939'", "'ts942'"), Annotation: ima shina trabajangichi
+    Time Stamp: ("'ts951'", "'ts952'"), Annotation: na
+    Time Stamp: ("'ts953'", "'ts954'"), Annotation: kunan munashpa
+    Time Stamp: ("'ts955'", "'ts957'"), Annotation: imaura munashpaga
+    Time Stamp: ("'ts961'", "'ts962'"), Annotation: tiempota charinchi
+    Time Stamp: ("'ts967'", "'ts970'"), Annotation: ari
+    Time Stamp: ("'ts976'", "'ts978'"), Annotation: ima
+    Time Stamp: ("'ts983'", "'ts987'"), Annotation: ah
+    Time Stamp: ("'ts986'", "'ts990'"), Annotation: bueno
+    Time Stamp: ("'ts997'", "'ts1001'"), Annotation: pero
+    Time Stamp: ("'ts1003'", "'ts1004'"), Annotation: botasta
+    Time Stamp: ("'ts1005'", "'ts1007'"), Annotation: nachu charingichi
+    Time Stamp: ("'ts1014'", "'ts1016'"), Annotation: botasma
+    Time Stamp: ("'ts1017'", "'ts1018'"), Annotation: botasta
+    Time Stamp: ("'ts1019'", "'ts1021'"), Annotation: apamushpa
+    Time Stamp: ("'ts1022'", "'ts1023'"), Annotation: ali kaman
+    Time Stamp: ("'ts1027'", "'ts1029'"), Annotation: na charinichu
+    Time Stamp: ("'ts1043'", "'ts1044'"), Annotation: mmmmm
+    Time Stamp: ("'ts1045'", "'ts1046'"), Annotation: ja
+    Time Stamp: ("'ts1047'", "'ts1048'"), Annotation: demasiado grande
+    Time Stamp: ("'ts1049'", "'ts1050'"), Annotation: cuarenta y tres
+    Time Stamp: ("'ts1064'", "'ts1066'"), Annotation: apamunachari
+    Time Stamp: ("'ts1067'", "'ts1068'"), Annotation: charini
+    Time Stamp: ("'ts1069'", "'ts1070'"), Annotation: allichishka
+    Time Stamp: ("'ts1071'", "'ts1072'"), Annotation: bodeka
+    Time Stamp: ("'ts1073'", "'ts1074'"), Annotation: bodegapi
+    Time Stamp: ("'ts1083'", "'ts1084'"), Annotation: asin
+    Time Stamp: ("'ts1089'", "'ts1090'"), Annotation: haaaa
+    Time Stamp: ("'ts1091'", "'ts1093'"), Annotation: ari
+    Time Stamp: ("'ts1100'", "'ts1102'"), Annotation: ha
+    Time Stamp: ("'ts1103'", "'ts1104'"), Annotation: ya
+    Time Stamp: ("'ts1263'", "'ts1265'"), Annotation: asin
+    Time Stamp: ("'ts1269'", "'ts1270'"), Annotation: asin
+    Time Stamp: ("'ts1271'", "'ts1272'"), Annotation: ima urasmanta
+    Time Stamp: ("'ts1273'", "'ts1274'"), Annotation: trabajangichi
+    Time Stamp: ("'ts1275'", "'ts1276'"), Annotation: kaypi
+    Time Stamp: ("'ts1279'", "'ts1280'"), Annotation: ima horas kayarirkangichi
+    Time Stamp: ("'ts1281'", "'ts1283'"), Annotation: trabajangapa
+    Time Stamp: ("'ts1285'", "'ts1287'"), Annotation: tutama
+    Time Stamp: ("'ts1295'", "'ts1296'"), Annotation: las ochota
+    Time Stamp: ("'ts1301'", "'ts1303'"), Annotation: ari
+    Time Stamp: ("'ts1306'", "'ts1308'"), Annotation: ari
+    Time Stamp: ("'ts1315'", "'ts1316'"), Annotation: ari
+    Time Stamp: ("'ts1317'", "'ts1318'"), Annotation: ari
+    Time Stamp: ("'ts1325'", "'ts1326'"), Annotation: asin
+    Time Stamp: ("'ts1327'", "'ts1328'"), Annotation: ari
+    Time Stamp: ("'ts1343'", "'ts1345'"), Annotation: asin
+    Time Stamp: ("'ts1348'", "'ts1350'"), Annotation: ha cierto
+    Time Stamp: ("'ts1355'", "'ts1356'"), Annotation: ari
+    Time Stamp: ("'ts1370'", "'ts1372'"), Annotation: tulbumanta
+    Time Stamp: ("'ts1373'", "'ts1374'"), Annotation: ari
+    Time Stamp: ("'ts1375'", "'ts1376'"), Annotation: ha ja
+    Time Stamp: ("'ts1379'", "'ts1380'"), Annotation: ari
+    Time Stamp: ("'ts1383'", "'ts1384'"), Annotation: mm j
+    Time Stamp: ("'ts1397'", "'ts1398'"), Annotation: cierto
+    Time Stamp: ("'ts1399'", "'ts1401'"), Annotation: ishkay
+    Time Stamp: ("'ts1406'", "'ts1408'"), Annotation: ari
+    Time Stamp: ("'ts1426'", "'ts1428'"), Annotation: ha ja
+    Time Stamp: ("'ts1429'", "'ts1430'"), Annotation: kay
+    Time Stamp: ("'ts1431'", "'ts1432'"), Annotation: jatungagpachu
+    Time Stamp: ("'ts1437'", "'ts1438'"), Annotation: kay
+    Time Stamp: ("'ts1439'", "'ts1440'"), Annotation: babonopa
+    Time Stamp: ("'ts1448'", "'ts1450'"), Annotation: ari
+    Time Stamp: ("'ts1458'", "'ts1460'"), Annotation: ha ja
+    Time Stamp: ("'ts1469'", "'ts1470'"), Annotation: cierto
+    Time Stamp: ("'ts1473'", "'ts1474'"), Annotation: un dolar
+    Time Stamp: ("'ts1475'", "'ts1476'"), Annotation: mmm
+    Time Stamp: ("'ts1477'", "'ts1478'"), Annotation: mashna funda shugshin
+    Time Stamp: ("'ts1483'", "'ts1484'"), Annotation: haaaa
+    Time Stamp: ("'ts1499'", "'ts1500'"), Annotation: ocho y diez
+    Time Stamp: ("'ts1501'", "'ts1502'"), Annotation: mas o menos
+    Time Stamp: ("'ts1504'", "'ts1506'"), Annotation: shug hora
+    Time Stamp: ("'ts1507'", "'ts1508'"), Annotation: rrurarkani kaykaman
+    Time Stamp: ("'ts1515'", "'ts1516'"), Annotation: ari
+    Time Stamp: ("'ts1517'", "'ts1518'"), Annotation: he
+    Time Stamp: ("'ts1519'", "'ts1520'"), Annotation: Maria guan
+    Time Stamp: ("'ts1527'", "'ts1528'"), Annotation: payta toparkani
+    Time Stamp: ("'ts1529'", "'ts1530'"), Annotation: chay
+    Time Stamp: ("'ts1531'", "'ts1532'"), Annotation: nose mayjaban
+    Time Stamp: ("'ts1533'", "'ts1534'"), Annotation: ushushi kashka
+    Time Stamp: ("'ts1535'", "'ts1536'"), Annotation: shug
+    Time Stamp: ("'ts1537'", "'ts1538'"), Annotation: shug guarmy llugshirka
+    Time Stamp: ("'ts1541'", "'ts1542'"), Annotation: y chaypi
+    Time Stamp: ("'ts1543'", "'ts1544'"), Annotation: makiguan shina señalarka
+    Time Stamp: ("'ts1545'", "'ts1546'"), Annotation: nachu
+    Time Stamp: ("'ts1547'", "'ts1548'"), Annotation: ñuka mamata maskajungi
+    Time Stamp: ("'ts1549'", "'ts1551'"), Annotation: nirka
+    Time Stamp: ("'ts1557'", "'ts1558'"), Annotation: Ñuka rrini
+    Time Stamp: ("'ts1559'", "'ts1561'"), Annotation: Santa Anitanma nirka
+    Time Stamp: ("'ts1565'", "'ts1566'"), Annotation: ari
+    Time Stamp: ("'ts1567'", "'ts1568'"), Annotation: paygua tuparkani
+    Time Stamp: ("'ts1569'", "'ts1570'"), Annotation: kaypi yaykunakangi nirka
+    Time Stamp: ("'ts1585'", "'ts1587'"), Annotation: ari
+    Time Stamp: ("'ts1588'", "'ts1591'"), Annotation: kabalta rrikurka
+    Time Stamp: ("'ts1599'", "'ts1600'"), Annotation: ari
+    Time Stamp: ("'ts1603'", "'ts1604'"), Annotation: (asin)
+    Time Stamp: ("'ts1605'", "'ts1606'"), Annotation: mm j
+    Time Stamp: ("'ts1613'", "'ts1614'"), Annotation: na
+    Time Stamp: ("'ts1621'", "'ts1622'"), Annotation: haaa
+    Time Stamp: ("'ts1623'", "'ts1624'"), Annotation: kay
+    Time Stamp: ("'ts1625'", "'ts1626'"), Annotation: kayna
+    Time Stamp: ("'ts1627'", "'ts1629'"), Annotation: chaypi
+    Time Stamp: ("'ts1631'", "'ts1633'"), Annotation: guasipi karka
+    Time Stamp: ("'ts1635'", "'ts1636'"), Annotation: kaya
+    Time Stamp: ("'ts1637'", "'ts1638'"), Annotation: kayarkani telefonopi
+    Time Stamp: ("'ts1649'", "'ts1650'"), Annotation: kunan chishi
+    Time Stamp: ("'ts1651'", "'ts1652'"), Annotation: guan
+    Time Stamp: ("'ts1653'", "'ts1654'"), Annotation: guasiman
+    Time Stamp: ("'ts1655'", "'ts1656'"), Annotation: pero
+    Time Stamp: ("'ts1657'", "'ts1658'"), Annotation: chaupi punlla
+    Time Stamp: ("'ts1659'", "'ts1660'"), Annotation: o ima horas kaypi tukuchinchi
+    Time Stamp: ("'ts1665'", "'ts1666'"), Annotation: haaa
+    Time Stamp: ("'ts1667'", "'ts1668'"), Annotation: naa
+    Time Stamp: ("'ts1669'", "'ts1670'"), Annotation: naaaa
+    Time Stamp: ("'ts1671'", "'ts1672'"), Annotation: kutin rrinichu
+    Time Stamp: ("'ts1673'", "'ts1674'"), Annotation: (asin)n
+    Time Stamp: ("'ts1679'", "'ts1680'"), Annotation: mayman
+    Time Stamp: ("'ts1681'", "'ts1682'"), Annotation: rrin
+    Time Stamp: ("'ts1683'", "'ts1685'"), Annotation: Mexicota
+    Time Stamp: ("'ts1687'", "'ts1688'"), Annotation: ha
+    Time Stamp: ("'ts1689'", "'ts1690'"), Annotation: cierto
+    Time Stamp: ("'ts1693'", "'ts1694'"), Annotation: ha
+    Time Stamp: ("'ts1695'", "'ts1696'"), Annotation: sumag
+    Time Stamp: ("'ts1698'", "'ts1700'"), Annotation: waooo
+    Time Stamp: ("'ts1701'", "'ts1702'"), Annotation: sumag
+    Time Stamp: ("'ts1715'", "'ts1716'"), Annotation: mmmmm
+    Time Stamp: ("'ts1717'", "'ts1718'"), Annotation: nose
+    Time Stamp: ("'ts1719'", "'ts1720'"), Annotation: depende
+    Time Stamp: ("'ts1721'", "'ts1722'"), Annotation: tian guakimbi
+    Time Stamp: ("'ts1723'", "'ts1724'"), Annotation: baratu bus
+    Time Stamp: ("'ts1725'", "'ts1726'"), Annotation: y
+    Time Stamp: ("'ts1727'", "'ts1728'"), Annotation: restaurante
+    Time Stamp: ("'ts1729'", "'ts1730'"), Annotation: puñuna
+    Time Stamp: ("'ts1731'", "'ts1732'"), Annotation: hotel
+    Time Stamp: ("'ts1733'", "'ts1734'"), Annotation: shinami
+    Time Stamp: ("'ts1735'", "'ts1737'"), Annotation: hotel
+    Time Stamp: ("'ts1739'", "'ts1740'"), Annotation: mmmmmm
+    Time Stamp: ("'ts1741'", "'ts1742'"), Annotation: mejor ali alli kanga
+    Time Stamp: ("'ts1743'", "'ts1744'"), Annotation: kay
+    Time Stamp: ("'ts1745'", "'ts1746'"), Annotation: kaypi
+    Time Stamp: ("'ts1747'", "'ts1748'"), Annotation: ashtaguan baratu kan
+    Time Stamp: ("'ts1749'", "'ts1750'"), Annotation: Mexicoguan ricushpa
+    Time Stamp: ("'ts1763'", "'ts1765'"), Annotation: mmm
+    Time Stamp: ("'ts1773'", "'ts1774'"), Annotation: ya
+    Time Stamp: ("'ts1775'", "'ts1776'"), Annotation: entonces
+    Time Stamp: ("'ts1777'", "'ts1778'"), Annotation: ali kan
+    Time Stamp: ("'ts1779'", "'ts1780'"), Annotation: allikanga chaypi
+    Time Stamp: ("'ts1789'", "'ts1790'"), Annotation: ari
+    Time Stamp: ("'ts1795'", "'ts1796'"), Annotation: mmm
+    Time Stamp: ("'ts1797'", "'ts1798'"), Annotation: mas kashpa
+    Time Stamp: ("'ts1799'", "'ts1800'"), Annotation: tian
+    Time Stamp: ("'ts1801'", "'ts1802'"), Annotation: barato y
+    Time Stamp: ("'ts1803'", "'ts1804'"), Annotation: valishcapash
+    Time Stamp: ("'ts1805'", "'ts1806'"), Annotation: pero
+    Time Stamp: ("'ts1809'", "'ts1810'"), Annotation: ali
+    Time Stamp: ("'ts1811'", "'ts1812'"), Annotation: alli
+    Time Stamp: ("'ts1813'", "'ts1814'"), Annotation: feria
+    Time Stamp: ("'ts1815'", "'ts1816'"), Annotation: mercado
+    Time Stamp: ("'ts1817'", "'ts1818'"), Annotation: shinakunata
+    Time Stamp: ("'ts1819'", "'ts1820'"), Annotation: ma mascashpa
+    Time Stamp: ("'ts1821'", "'ts1822'"), Annotation: na
+    Time Stamp: ("'ts1823'", "'ts1824'"), Annotation: Mexicopi
+    Time Stamp: ("'ts1825'", "'ts1826'"), Annotation: heee
+    Time Stamp: ("'ts1827'", "'ts1828'"), Annotation: almacenkuna
+    Time Stamp: ("'ts1829'", "'ts1830'"), Annotation: valishkakanga
+    Time Stamp: ("'ts1831'", "'ts1832'"), Annotation: pero
+    Time Stamp: ("'ts1833'", "'ts1834'"), Annotation: feriakunapi
+    Time Stamp: ("'ts1835'", "'ts1836'"), Annotation: tal vez
+    Time Stamp: ("'ts1837'", "'ts1838'"), Annotation: alli kanga
+    Time Stamp: ("'ts1847'", "'ts1848'"), Annotation: tiangami
+    Time Stamp: ("'ts1849'", "'ts1850'"), Annotation: no se
+    Time Stamp: ("'ts1851'", "'ts1852'"), Annotation: mayjan
+    Time Stamp: ("'ts1853'", "'ts1854'"), Annotation: ima ciudadman rringi
+    Time Stamp: ("'ts1855'", "'ts1856'"), Annotation: ciudad de Mexico
+    Time Stamp: ("'ts1857'", "'ts1859'"), Annotation: chaypi jatun
+    Time Stamp: ("'ts1863'", "'ts1864'"), Annotation: ari
+    Time Stamp: ("'ts1865'", "'ts1866'"), Annotation: chaypi
+    Time Stamp: ("'ts1867'", "'ts1868'"), Annotation: chay jatun jatun
+    Time Stamp: ("'ts1869'", "'ts1870'"), Annotation: llagta kan
+    Time Stamp: ("'ts1871'", "'ts1872'"), Annotation: casi
+    Time Stamp: ("'ts1873'", "'ts1874'"), Annotation: cada barrio
+    Time Stamp: ("'ts1875'", "'ts1876'"), Annotation: paypa feria
+    Time Stamp: ("'ts1877'", "'ts1878'"), Annotation: charin
+    Time Stamp: ("'ts1880'", "'ts1882'"), Annotation: genteta tapushpa
+    Time Stamp: ("'ts1883'", "'ts1884'"), Annotation: maypi tian feria
+    Time Stamp: ("'ts1885'", "'ts1886'"), Annotation: rrikuchinga paykuna
+    Time Stamp: ("'ts1896'", "'ts1898'"), Annotation: ima
+    Time Stamp: ("'ts1899'", "'ts1900'"), Annotation: shina ñampi
+    Time Stamp: ("'ts1901'", "'ts1902'"), Annotation: shina baratu
+    Time Stamp: ("'ts1903'", "'ts1904'"), Annotation: mikuna tian
+    Time Stamp: ("'ts1905'", "'ts1906'"), Annotation: tacos
+    Time Stamp: ("'ts1907'", "'ts1908'"), Annotation: chaykuna
+    Time Stamp: ("'ts1910'", "'ts1912'"), Annotation: may rringi
+    Time Stamp: ("'ts1913'", "'ts1914'"), Annotation: ari
+    Time Stamp: ("'ts1917'", "'ts1918'"), Annotation: ningi
+    Time Stamp: ("'ts1919'", "'ts1920'"), Annotation: mishki, mishki mikun
+    Time Stamp: ("'ts1935'", "'ts1936'"), Annotation: chaypi
+    Time Stamp: ("'ts1937'", "'ts1938'"), Annotation: (..........)
+    Time Stamp: ("'ts1939'", "'ts1940'"), Annotation: almacenkuna tian
+    Time Stamp: ("'ts1941'", "'ts1942'"), Annotation: chay
+    Time Stamp: ("'ts1943'", "'ts1944'"), Annotation: Panamapi
+    Time Stamp: ("'ts1945'", "'ts1946'"), Annotation: puerto de Panamapi
+    Time Stamp: ("'ts1947'", "'ts1948'"), Annotation: chaykunapi tian
+    Time Stamp: ("'ts1969'", "'ts1970'"), Annotation: mmmmm
+    Time Stamp: ("'ts1971'", "'ts1972'"), Annotation: sumag
+    Time Stamp: ("'ts1995'", "'ts1996'"), Annotation: no se
+    Time Stamp: ("'ts1997'", "'ts1998'"), Annotation: kaypipish
+    Time Stamp: ("'ts1999'", "'ts2000'"), Annotation: shinan
+    Time Stamp: ("'ts2001'", "'ts2002'"), Annotation: chaypipash
+    Time Stamp: ("'ts2003'", "'ts2004'"), Annotation: shinan
+    Time Stamp: ("'ts2005'", "'ts2006'"), Annotation: no se
+    Time Stamp: ("'ts2008'", "'ts2010'"), Annotation: asin
+    Time Stamp: ("'ts2013'", "'ts2014'"), Annotation: chayman
+    Time Stamp: ("'ts2015'", "'ts2016'"), Annotation: kashpa
+    Time Stamp: ("'ts2017'", "'ts2018'"), Annotation: (.........)
+    Time Stamp: ("'ts2019'", "'ts2020'"), Annotation: chayman kagpi
+    Time Stamp: ("'ts2021'", "'ts2022'"), Annotation: shinarka
+    Time Stamp: ("'ts2023'", "'ts2024'"), Annotation: shug punlla
+    Time Stamp: ("'ts2025'", "'ts2026'"), Annotation: alpa mama
+    Time Stamp: ("'ts2027'", "'ts2028'"), Annotation: chugchurka
+    Time Stamp: ("'ts2035'", "'ts2036'"), Annotation: ima
+    Time Stamp: ("'ts2039'", "'ts2040'"), Annotation: ali
+    Time Stamp: ("'ts2041'", "'ts2042'"), Annotation: shinlli karka chaypi
+    Time Stamp: ("'ts2043'", "'ts2044'"), Annotation: tukuy
+    Time Stamp: ("'ts2045'", "'ts2046'"), Annotation: gentekuna
+    Time Stamp: ("'ts2047'", "'ts2048'"), Annotation: llugshirka Universidadmanta
+    Time Stamp: ("'ts2050'", "'ts2052'"), Annotation: guasiman rrirka ña
+    Time Stamp: ("'ts2055'", "'ts2058'"), Annotation: ñakutin
+    Time Stamp: ("'ts2059'", "'ts2060'"), Annotation: yaykurka
+    Time Stamp: ("'ts2061'", "'ts2062'"), Annotation: refugiokunaguan
+    Time Stamp: ("'ts2071'", "'ts2072'"), Annotation: ñuka guagua
+    Time Stamp: ("'ts2075'", "'ts2076'"), Annotation: haaa
+    Time Stamp: ("'ts2077'", "'ts2078'"), Annotation: ari
+    Time Stamp: ("'ts2079'", "'ts2080'"), Annotation: llukajun
+    Time Stamp: ("'ts2081'", "'ts2082'"), Annotation: ashalla
+    Time Stamp: ("'ts2087'", "'ts2088'"), Annotation: nara
+    Time Stamp: ("'ts2089'", "'ts2090'"), Annotation: ña
+    Time Stamp: ("'ts2091'", "'ts2092'"), Annotation: iskun killata charin
+    Time Stamp: ("'ts2093'", "'ts2094'"), Annotation: nara guata pagtan
+    Time Stamp: ("'ts2099'", "'ts2100'"), Annotation: shug sabadu
+    Time Stamp: ("'ts2101'", "'ts2102'"), Annotation: punlla apamushun
+    Time Stamp: ("'ts2103'", "'ts2104'"), Annotation: kayman
+    Time Stamp: ("'ts2115'", "'ts2116'"), Annotation: asin
+    Time Stamp: ("'ts2124'", "'ts2126'"), Annotation: asin
+    Time Stamp: ("'ts2133'", "'ts2134'"), Annotation: mmmmmm
+    Time Stamp: ("'ts2147'", "'ts2150'"), Annotation: (asinakun)
+    Time Stamp: ("'ts2151'", "'ts2152'"), Annotation: ari
+    Time Stamp: ("'ts2153'", "'ts2154'"), Annotation: kaypi sakisha
+    Time Stamp: ("'ts2155'", "'ts2156'"), Annotation: yachachingichi
+    Time Stamp: ("'ts2157'", "'ts2158'"), Annotation: paypa niñera
+    Time Stamp: ("'ts2159'", "'ts2160'"), Annotation: yachanmi
+    Time Stamp: ("'ts2161'", "'ts2162'"), Annotation: Cotopaximanta
+    Time Stamp: ("'ts2163'", "'ts2164'"), Annotation: ñachachikun
+    Time Stamp: ("'ts2167'", "'ts2168'"), Annotation: ña kimsa
+    Time Stamp: ("'ts2169'", "'ts2170'"), Annotation: shimita yachan
+    Time Stamp: ("'ts2171'", "'ts2172'"), Annotation: ingles
+    Time Stamp: ("'ts2173'", "'ts2174'"), Annotation: español
+    Time Stamp: ("'ts2175'", "'ts2176'"), Annotation: kichuatapash
+    Time Stamp: ("'ts2177'", "'ts2179'"), Annotation: yachan
+    Time Stamp: ("'ts2180'", "'ts2182'"), Annotation: pero nimata
+    Time Stamp: ("'ts2183'", "'ts2184'"), Annotation: parlan solo
+    Time Stamp: ("'ts2185'", "'ts2186'"), Annotation: mamá, mamá
+    Time Stamp: ("'ts2203'", "'ts2204'"), Annotation: na
+    Time Stamp: ("'ts2209'", "'ts2210'"), Annotation: ya
+    Time Stamp: ("'ts2222'", "'ts2224'"), Annotation: mmmm
+    Time Stamp: ("'ts2227'", "'ts2228'"), Annotation: no se
+    Time Stamp: ("'ts2229'", "'ts2230'"), Annotation: mas
+    Time Stamp: ("'ts2231'", "'ts2232'"), Annotation: trabajarini
+    Time Stamp: ("'ts2233'", "'ts2234'"), Annotation: guakimbi
+    Time Stamp: ("'ts2235'", "'ts2236'"), Annotation: kichuataaaaa
+    Time Stamp: ("'ts2237'", "'ts2238'"), Annotation: traduccion
+    Time Stamp: ("'ts2239'", "'ts2240'"), Annotation: pay
+    Time Stamp: ("'ts2241'", "'ts2242'"), Annotation: traducciongunata rrurrashpa
+    Time Stamp: ("'ts2245'", "'ts2246'"), Annotation: ha ja
+    Time Stamp: ("'ts2247'", "'ts2248'"), Annotation: pero
+    Time Stamp: ("'ts2249'", "'ts2250'"), Annotation: shug trabajo
+    Time Stamp: ("'ts2251'", "'ts2252'"), Annotation: na yapa charini
+    Time Stamp: ("'ts2253'", "'ts2254'"), Annotation: guakimbi
+    Time Stamp: ("'ts2255'", "'ts2256'"), Annotation: ministinchig
+    Time Stamp: ("'ts2257'", "'ts2258'"), Annotation: guasipi
+    Time Stamp: ("'ts2259'", "'ts2260'"), Annotation: shina
+    Time Stamp: ("'ts2261'", "'ts2262'"), Annotation: construccion
+    Time Stamp: ("'ts2263'", "'ts2264'"), Annotation: chaykuna guakimbi
+    Time Stamp: ("'ts2265'", "'ts2266'"), Annotation: derepente
+    Time Stamp: ("'ts2274'", "'ts2278'"), Annotation: chimba Ana
+    Time Stamp: ("'ts2279'", "'ts2280'"), Annotation: chaykuna
+    Time Stamp: ("'ts2285'", "'ts2286'"), Annotation: ña
+    Time Stamp: ("'ts2296'", "'ts2298'"), Annotation: asin
+    Time Stamp: ("'ts2303'", "'ts2304'"), Annotation: asin
+    Time Stamp: ("'ts2311'", "'ts2312'"), Annotation: asin
+    Time Stamp: ("'ts2339'", "'ts2340'"), Annotation: eeeeeeeeh
+    Time Stamp: ("'ts2341'", "'ts2342'"), Annotation: kaynani rrirkani ni
+    Time Stamp: ("'ts2343'", "'ts2344'"), Annotation: chay
+    Time Stamp: ("'ts2345'", "'ts2346'"), Annotation: rrigsingi
+    Time Stamp: ("'ts2347'", "'ts2348'"), Annotation: Cayambeta yalishpa
+    Time Stamp: ("'ts2349'", "'ts2350'"), Annotation: Olmedo
+    Time Stamp: ("'ts2351'", "'ts2352'"), Annotation: chaykuna
+    Time Stamp: ("'ts2354'", "'ts2356'"), Annotation: La Chimba
+    Time Stamp: ("'ts2357'", "'ts2358'"), Annotation: tian
+    Time Stamp: ("'ts2359'", "'ts2360'"), Annotation: chaypi
+    Time Stamp: ("'ts2362'", "'ts2364'"), Annotation: chayma rrirkani
+    Time Stamp: ("'ts2368'", "'ts2370'"), Annotation: La Chimba
+    Time Stamp: ("'ts2371'", "'ts2372'"), Annotation: chaypi
+    Time Stamp: ("'ts2373'", "'ts2374'"), Annotation: tiaaaaan
+    Time Stamp: ("'ts2375'", "'ts2376'"), Annotation: uyashkangichi
+    Time Stamp: ("'ts2377'", "'ts2378'"), Annotation: Transito Amaguaña
+    Time Stamp: ("'ts2379'", "'ts2381'"), Annotation: Dolores Cacuango
+    Time Stamp: ("'ts2384'", "'ts2385'"), Annotation: kay guarmikuna
+    Time Stamp: ("'ts2390'", "'ts2392'"), Annotation: como
+    Time Stamp: ("'ts2393'", "'ts2394'"), Annotation: na
+    Time Stamp: ("'ts2395'", "'ts2396'"), Annotation: paykuna
+    Time Stamp: ("'ts2397'", "'ts2398'"), Annotation: rrigsishka
+    Time Stamp: ("'ts2399'", "'ts2400'"), Annotation: guarmikuna kan
+    Time Stamp: ("'ts2401'", "'ts2402'"), Annotation: chay
+    Time Stamp: ("'ts2403'", "'ts2404'"), Annotation: llagtamanta
+    Time Stamp: ("'ts2405'", "'ts2406'"), Annotation: chay luchadora guarmikuna
+    Time Stamp: ("'ts2407'", "'ts2408'"), Annotation: años
+    Time Stamp: ("'ts2409'", "'ts2410'"), Annotation: setenta
+    Time Stamp: ("'ts2411'", "'ts2412'"), Annotation: años ochenta
+    Time Stamp: ("'ts2414'", "'ts2416'"), Annotation: shina
+    Time Stamp: ("'ts2417'", "'ts2418'"), Annotation: forma agrariupi
+    Time Stamp: ("'ts2419'", "'ts2420'"), Annotation: pushak guarmikuna karka
+    Time Stamp: ("'ts2423'", "'ts2424'"), Annotation: tian
+    Time Stamp: ("'ts2425'", "'ts2426'"), Annotation: shug
+    Time Stamp: ("'ts2427'", "'ts2428'"), Annotation: centro cultural
+    Time Stamp: ("'ts2429'", "'ts2430'"), Annotation: Transito Amaguaña
+    Time Stamp: ("'ts2431'", "'ts2432'"), Annotation: chaypi
+    Time Stamp: ("'ts2433'", "'ts2434'"), Annotation: museo tia
+    Time Stamp: ("'ts2435'", "'ts2436'"), Annotation: paypag
+    Time Stamp: ("'ts2437'", "'ts2438'"), Annotation: chay guarmi nishga
+    Time Stamp: ("'ts2441'", "'ts2442'"), Annotation: chayta rririni
+    Time Stamp: ("'ts2443'", "'ts2444'"), Annotation: grabangapa
+    Time Stamp: ("'ts2445'", "'ts2446'"), Annotation: shina
+    Time Stamp: ("'ts2447'", "'ts2448'"), Annotation: ima shina
+    Time Stamp: ("'ts2449'", "'ts2450'"), Annotation: kunan grabajuni
+    Time Stamp: ("'ts2451'", "'ts2452'"), Annotation: chaypi shina
+    Time Stamp: ("'ts2453'", "'ts2454'"), Annotation: chaypi grabangapa
+    Time Stamp: ("'ts2457'", "'ts2458'"), Annotation: guagra kapigta
+    Time Stamp: ("'ts2459'", "'ts2460'"), Annotation: grabarkani chayi
+    Time Stamp: ("'ts2463'", "'ts2464'"), Annotation: ari
+    Time Stamp: ("'ts2469'", "'ts2470'"), Annotation: mushug
+    Time Stamp: ("'ts2471'", "'ts2472'"), Annotation: tayta
+    Time Stamp: ("'ts2473'", "'ts2474'"), Annotation: mamá
+    Time Stamp: ("'ts2475'", "'ts2476'"), Annotation: achika
+    Time Stamp: ("'ts2477'", "'ts2478'"), Annotation: guagua
+    Time Stamp: ("'ts2479'", "'ts2480'"), Annotation: shug quince guagrakunata
+    Time Stamp: ("'ts2481'", "'ts2482'"), Annotation: charin
+    Time Stamp: ("'ts2483'", "'ts2484'"), Annotation: cada tutamanta
+    Time Stamp: ("'ts2485'", "'ts2486'"), Annotation: y chishi
+    Time Stamp: ("'ts2487'", "'ts2488'"), Annotation: kapina kan
+    Time Stamp: ("'ts2489'", "'ts2490'"), Annotation: lecheta kachangapa
+    Time Stamp: ("'ts2491'", "'ts2492'"), Annotation: shug
+    Time Stamp: ("'ts2493'", "'ts2494'"), Annotation: distribuidora
+    Time Stamp: ("'ts2495'", "'ts2497'"), Annotation: eeeeeeh
+    Time Stamp: ("'ts2498'", "'ts2500'"), Annotation: chayman
+    Time Stamp: ("'ts2501'", "'ts2504'"), Annotation: com com
+    Time Stamp: ("'ts2507'", "'ts2508'"), Annotation: cada punlla
+    Time Stamp: ("'ts2509'", "'ts2510'"), Annotation: tutamanta
+    Time Stamp: ("'ts2511'", "'ts2512'"), Annotation: y chishi
+    Time Stamp: ("'ts2526'", "'ts2528'"), Annotation: na tian guagra
+    Time Stamp: ("'ts2529'", "'ts2530'"), Annotation: ari
+    Time Stamp: ("'ts2537'", "'ts2538'"), Annotation: asin
+    Time Stamp: ("'ts2545'", "'ts2546'"), Annotation: mmmm
+    Time Stamp: ("'ts2551'", "'ts2552'"), Annotation: ari
+    Time Stamp: ("'ts2553'", "'ts2554'"), Annotation: achika alpa
+    Time Stamp: ("'ts2555'", "'ts2556'"), Annotation: charin
+    Time Stamp: ("'ts2557'", "'ts2558'"), Annotation: verde, verde alpa
+    Time Stamp: ("'ts2573'", "'ts2574'"), Annotation: mmm
+    Time Stamp: ("'ts2685'", "'ts2686'"), Annotation: ña
+    Time Stamp: ("'ts2689'", "'ts2690'"), Annotation: asin
+    Time Stamp: ("'ts2691'", "'ts2693'"), Annotation: ima
+    Time Stamp: ("'ts2706'", "'ts2708'"), Annotation: ashku
+    Time Stamp: ("'ts2714'", "'ts2716'"), Annotation: ashku, ahku
+    Time Stamp: ("'ts2717'", "'ts2718'"), Annotation: risas
+Speaker: Simeón F
+  Tier Type: tn, Annotations Count: 386
+    Time Stamp: ('105',), Annotation: si
+    Time Stamp: ('106',), Annotation: asi
+    Time Stamp: ('106',), Annotation: sigue hablando
+    Time Stamp: ('106',), Annotation: asi
+    Time Stamp: ('106',), Annotation: mientras trabajan
+    Time Stamp: ('106',), Annotation: o sino
+    Time Stamp: ('106',), Annotation: oh
+    Time Stamp: ('106',), Annotation: sino
+    Time Stamp: ('106',), Annotation: sigan conversando
+    Time Stamp: ('106',), Annotation: o como quieran
+    Time Stamp: ('106',), Annotation: oh
+    Time Stamp: ('107',), Annotation: sino
+    Time Stamp: ('107',), Annotation: van explicando
+    Time Stamp: ('107',), Annotation: asi
+    Time Stamp: ('107',), Annotation: como van trabajando
+    Time Stamp: ('107',), Annotation: no
+    Time Stamp: ('107',), Annotation: si quieren ahorita
+    Time Stamp: ('107',), Annotation: o cuando ustedes quieran
+    Time Stamp: ('107',), Annotation: tenemos tiempo
+    Time Stamp: ('107',), Annotation: si
+    Time Stamp: ('107',), Annotation: que
+    Time Stamp: ('108',), Annotation: ah
+    Time Stamp: ('108',), Annotation: bueno
+    Time Stamp: ('108',), Annotation: pero
+    Time Stamp: ('108',), Annotation: las botas
+    Time Stamp: ('108',), Annotation: de pronto tienen
+    Time Stamp: ('108',), Annotation: las botas
+    Time Stamp: ('108',), Annotation: con botas
+    Time Stamp: ('108',), Annotation: trayendo
+    Time Stamp: ('108',), Annotation: seria bueno
+    Time Stamp: ('108',), Annotation: no tengo
+    Time Stamp: ('109',), Annotation: mmmmm
+    Time Stamp: ('109',), Annotation: ja
+    Time Stamp: ('109',), Annotation: demasiado grande
+    Time Stamp: ('109',), Annotation: cuarenta y tres
+    Time Stamp: ('109',), Annotation: era de traer
+    Time Stamp: ('109',), Annotation: tengo
+    Time Stamp: ('109',), Annotation: guardado
+    Time Stamp: ('109',), Annotation: bodega
+    Time Stamp: ('109',), Annotation: en la bodega
+    Time Stamp: ('109',), Annotation: risas
+    Time Stamp: ('110',), Annotation: haaaa
+    Time Stamp: ('110',), Annotation: si
+    Time Stamp: ('110',), Annotation: ha
+    Time Stamp: ('110',), Annotation: ya
+    Time Stamp: ('152',), Annotation: risas
+    Time Stamp: ('152',), Annotation: risas
+    Time Stamp: ('152',), Annotation: de que hora
+    Time Stamp: ('153',), Annotation: empiezan a trabajar
+    Time Stamp: ('153',), Annotation: aqui
+    Time Stamp: ('153',), Annotation: a que hora empezaron
+    Time Stamp: ('153',), Annotation: a trabajar
+    Time Stamp: ('153',), Annotation: de mañanita
+    Time Stamp: ('153',), Annotation: a las ocho
+    Time Stamp: ('153',), Annotation: si
+    Time Stamp: ('153',), Annotation: si
+    Time Stamp: ('153',), Annotation: si
+    Time Stamp: ('153',), Annotation: si
+    Time Stamp: ('154',), Annotation: risas
+    Time Stamp: ('154',), Annotation: si
+    Time Stamp: ('154',), Annotation: risas
+    Time Stamp: ('154',), Annotation: ha cierto
+    Time Stamp: ('154',), Annotation: si
+    Time Stamp: ('154',), Annotation: de gallinas
+    Time Stamp: ('154',), Annotation: si
+    Time Stamp: ('154',), Annotation: ha aj
+    Time Stamp: ('154',), Annotation: si
+    Time Stamp: ('154',), Annotation: mm j
+    Time Stamp: ('155',), Annotation: cierto
+    Time Stamp: ('155',), Annotation: dos
+    Time Stamp: ('155',), Annotation: si
+    Time Stamp: ('155',), Annotation: ha ja
+    Time Stamp: ('155',), Annotation: este
+    Time Stamp: ('155',), Annotation: es para vender
+    Time Stamp: ('155',), Annotation: este
+    Time Stamp: ('155',), Annotation: para abono
+    Time Stamp: ('155',), Annotation: si
+    Time Stamp: ('155',), Annotation: ha ja
+    Time Stamp: ('156',), Annotation: cierto
+    Time Stamp: ('156',), Annotation: un dolar
+    Time Stamp: ('156',), Annotation: mmm
+    Time Stamp: ('156',), Annotation: cuantos costales salen
+    Time Stamp: ('156',), Annotation: haaaa
+    Time Stamp: ('156',), Annotation: ocho y diez
+    Time Stamp: ('156',), Annotation: mas o menos
+    Time Stamp: ('156',), Annotation: una hora
+    Time Stamp: ('156',), Annotation: me hice hasta aca
+    Time Stamp: ('156',), Annotation: si
+    Time Stamp: ('157',), Annotation: he
+    Time Stamp: ('157',), Annotation: con María
+    Time Stamp: ('157',), Annotation: le encontre a ella
+    Time Stamp: ('157',), Annotation: este
+    Time Stamp: ('157',), Annotation: no se de quien
+    Time Stamp: ('157',), Annotation: es la hija
+    Time Stamp: ('157',), Annotation: una
+    Time Stamp: ('157',), Annotation: salio una mujer
+    Time Stamp: ('157',), Annotation: y ahi
+    Time Stamp: ('157',), Annotation: me hizo señales con la mano
+    Time Stamp: ('158',), Annotation: estas
+    Time Stamp: ('158',), Annotation: buscando a mi mama
+    Time Stamp: ('158',), Annotation: me dijo
+    Time Stamp: ('158',), Annotation: yo me voy a
+    Time Stamp: ('158',), Annotation: Santa Anita me dijo
+    Time Stamp: ('158',), Annotation: si
+    Time Stamp: ('158',), Annotation: con ella me encontre
+    Time Stamp: ('158',), Annotation: aqui tienes que entrar dijo
+    Time Stamp: ('158',), Annotation: si
+    Time Stamp: ('158',), Annotation: todo completo vio
+    Time Stamp: ('159',), Annotation: si
+    Time Stamp: ('159',), Annotation: risas
+    Time Stamp: ('159',), Annotation: mm j
+    Time Stamp: ('159',), Annotation: no
+    Time Stamp: ('159',), Annotation: haaa
+    Time Stamp: ('159',), Annotation: este
+    Time Stamp: ('159',), Annotation: ayer
+    Time Stamp: ('159',), Annotation: ahi
+    Time Stamp: ('159',), Annotation: estaba en la casa
+    Time Stamp: ('159',), Annotation: mañana
+    Time Stamp: ('160',), Annotation: le llame en el telefono
+    Time Stamp: ('160',), Annotation: esta tarde
+    Time Stamp: ('160',), Annotation: este
+    Time Stamp: ('160',), Annotation: a la casa
+    Time Stamp: ('160',), Annotation: pero
+    Time Stamp: ('160',), Annotation: al medio dia
+    Time Stamp: ('160',), Annotation: o la hora que termine aqui
+    Time Stamp: ('160',), Annotation: haaa
+    Time Stamp: ('160',), Annotation: noo
+    Time Stamp: ('160',), Annotation: nooo
+    Time Stamp: ('161',), Annotation: ya no voy de nuevo
+    Time Stamp: ('161',), Annotation: risas
+    Time Stamp: ('161',), Annotation: a donde
+    Time Stamp: ('161',), Annotation: vas
+    Time Stamp: ('161',), Annotation:  a Mexico
+    Time Stamp: ('161',), Annotation: ha
+    Time Stamp: ('161',), Annotation: cierto
+    Time Stamp: ('161',), Annotation: ha
+    Time Stamp: ('161',), Annotation: que bien
+    Time Stamp: ('161',), Annotation: waooo
+    Time Stamp: ('162',), Annotation: que bien
+    Time Stamp: ('162',), Annotation: mmmmm
+    Time Stamp: ('162',), Annotation: nose
+    Time Stamp: ('162',), Annotation: hay aveces
+    Time Stamp: ('162',), Annotation: bus economicos
+    Time Stamp: ('162',), Annotation: y
+    Time Stamp: ('162',), Annotation: restaurante
+    Time Stamp: ('162',), Annotation: dormir
+    Time Stamp: ('162',), Annotation: en un hotel
+    Time Stamp: ('163',), Annotation: asi es
+    Time Stamp: ('163',), Annotation: hotel
+    Time Stamp: ('163',), Annotation: mmmmmm
+    Time Stamp: ('163',), Annotation: ha de sr bueno
+    Time Stamp: ('163',), Annotation: este
+    Time Stamp: ('163',), Annotation: aqui
+    Time Stamp: ('177',), Annotation: es mas economico
+    Time Stamp: ('177',), Annotation: viendo con Mexico
+    Time Stamp: ('177',), Annotation: mmm
+    Time Stamp: ('177',), Annotation: ya
+    Time Stamp: ('177',), Annotation: entonces
+    Time Stamp: ('177',), Annotation: esta bueno
+    Time Stamp: ('177',), Annotation: va estar bueno ahi
+    Time Stamp: ('177',), Annotation: si
+    Time Stamp: ('205',), Annotation: mmm
+    Time Stamp: ('205',), Annotation: buscando
+    Time Stamp: ('205',), Annotation: hay
+    Time Stamp: ('205',), Annotation: economico y
+    Time Stamp: ('205',), Annotation: ropa cara
+    Time Stamp: ('205',), Annotation: pero
+    Time Stamp: ('205',), Annotation: bueno
+    Time Stamp: ('205',), Annotation: bueno
+    Time Stamp: ('206',), Annotation: feria
+    Time Stamp: ('206',), Annotation: mercado
+    Time Stamp: ('206',), Annotation: asi
+    Time Stamp: ('206',), Annotation: buscando
+    Time Stamp: ('206',), Annotation: no
+    Time Stamp: ('206',), Annotation: en Mexico
+    Time Stamp: ('206',), Annotation: heee
+    Time Stamp: ('206',), Annotation: en los almacenes
+    Time Stamp: ('206',), Annotation: ha de estar caro
+    Time Stamp: ('206',), Annotation: pero
+    Time Stamp: ('207',), Annotation: en la feria
+    Time Stamp: ('207',), Annotation: tal vez
+    Time Stamp: ('207',), Annotation: ha de estar bueno
+    Time Stamp: ('207',), Annotation: si ha de a ver
+    Time Stamp: ('207',), Annotation: no se
+    Time Stamp: ('207',), Annotation: a donde
+    Time Stamp: ('207',), Annotation: a que ciudad vas
+    Time Stamp: ('207',), Annotation: ciudad de Mexico
+    Time Stamp: ('207',), Annotation: alla es grande
+    Time Stamp: ('207',), Annotation: si
+    Time Stamp: ('208',), Annotation: ahi
+    Time Stamp: ('208',), Annotation: eso es grande grande
+    Time Stamp: ('208',), Annotation: ciudad es
+    Time Stamp: ('208',), Annotation: casi
+    Time Stamp: ('208',), Annotation: cada barrio
+    Time Stamp: ('208',), Annotation: su propia feria
+    Time Stamp: ('208',), Annotation: tienen
+    Time Stamp: ('208',), Annotation: preguntando a las personas
+    Time Stamp: ('208',), Annotation: donde hay la feria
+    Time Stamp: ('208',), Annotation: le han de indicar ellos
+    Time Stamp: ('209',), Annotation: serio
+    Time Stamp: ('209',), Annotation: asi en camino
+    Time Stamp: ('209',), Annotation: asi economico
+    Time Stamp: ('209',), Annotation: comida hay
+    Time Stamp: ('209',), Annotation: tacos
+    Time Stamp: ('209',), Annotation: eso
+    Time Stamp: ('209',), Annotation: donde vas
+    Time Stamp: ('209',), Annotation: si
+    Time Stamp: ('209',), Annotation: has de decir
+    Time Stamp: ('209',), Annotation: comen muy pero muy rico
+    Time Stamp: ('210',), Annotation: ahi
+    Time Stamp: ('210',), Annotation: (...........)
+    Time Stamp: ('210',), Annotation: hay almacenes
+    Time Stamp: ('210',), Annotation: este
+    Time Stamp: ('210',), Annotation: en Panama
+    Time Stamp: ('210',), Annotation: en el puerto de Paama
+    Time Stamp: ('210',), Annotation: hay ahi
+    Time Stamp: ('210',), Annotation: mmmmm
+    Time Stamp: ('210',), Annotation: que bien
+    Time Stamp: ('210',), Annotation: no se
+    Time Stamp: ('211',), Annotation: aqui tambien
+    Time Stamp: ('211',), Annotation: hace
+    Time Stamp: ('211',), Annotation: alla tambien
+    Time Stamp: ('211',), Annotation: hace
+    Time Stamp: ('211',), Annotation: no se
+    Time Stamp: ('211',), Annotation: risa
+    Time Stamp: ('211',), Annotation: estando
+    Time Stamp: ('211',), Annotation: alla
+    Time Stamp: ('211',), Annotation: (.........)
+    Time Stamp: ('211',), Annotation: estando alla
+    Time Stamp: ('212',), Annotation: hizo
+    Time Stamp: ('212',), Annotation: un dia
+    Time Stamp: ('212',), Annotation: la madre tierra
+    Time Stamp: ('212',), Annotation: temblo
+    Time Stamp: ('212',), Annotation: que
+    Time Stamp: ('212',), Annotation: si
+    Time Stamp: ('212',), Annotation: era duro ahi
+    Time Stamp: ('212',), Annotation: toda
+    Time Stamp: ('212',), Annotation: las personas
+    Time Stamp: ('212',), Annotation: salieron de la Universidad
+    Time Stamp: ('213',), Annotation: se fueron a la casa
+    Time Stamp: ('213',), Annotation: de nuevo
+    Time Stamp: ('213',), Annotation: ingresaron
+    Time Stamp: ('213',), Annotation: a los refugios
+    Time Stamp: ('213',), Annotation: mi hijo
+    Time Stamp: ('213',), Annotation: haaa
+    Time Stamp: ('213',), Annotation: si
+    Time Stamp: ('213',), Annotation: esta gateando
+    Time Stamp: ('213',), Annotation: poco
+    Time Stamp: ('213',), Annotation: no
+    Time Stamp: ('214',), Annotation: ya
+    Time Stamp: ('214',), Annotation: tiene siete meses
+    Time Stamp: ('214',), Annotation: aun no tiene un año
+    Time Stamp: ('214',), Annotation: un sabado
+    Time Stamp: ('214',), Annotation: he demos traer
+    Time Stamp: ('214',), Annotation: aca
+    Time Stamp: ('214',), Annotation: risas
+    Time Stamp: ('214',), Annotation: risas
+    Time Stamp: ('214',), Annotation: mmmmmmmmmmm
+    Time Stamp: ('214',), Annotation: risas
+    Time Stamp: ('215',), Annotation: si
+    Time Stamp: ('215',), Annotation: aqui voy a dejar
+    Time Stamp: ('215',), Annotation: apara que leenseñen
+    Time Stamp: ('215',), Annotation: la niñera
+    Time Stamp: ('215',), Annotation: sabe
+    Time Stamp: ('215',), Annotation: es de Cotopaxi
+    Time Stamp: ('215',), Annotation: le esta enseñando
+    Time Stamp: ('215',), Annotation: ya tres
+    Time Stamp: ('215',), Annotation: idiomas sabe
+    Time Stamp: ('215',), Annotation: ingles
+    Time Stamp: ('216',), Annotation: español
+    Time Stamp: ('216',), Annotation: y kichua
+    Time Stamp: ('216',), Annotation: saben
+    Time Stamp: ('216',), Annotation: pero nada sabe
+    Time Stamp: ('216',), Annotation: habla solo
+    Time Stamp: ('216',), Annotation: mamá, mamá
+    Time Stamp: ('216',), Annotation: no
+    Time Stamp: ('216',), Annotation: mmmm
+    Time Stamp: ('216',), Annotation: no se
+    Time Stamp: ('217',), Annotation: mas
+    Time Stamp: ('217',), Annotation: trabajo
+    Time Stamp: ('217',), Annotation: a veces
+    Time Stamp: ('217',), Annotation: en kichua
+    Time Stamp: ('217',), Annotation: traduccion
+    Time Stamp: ('217',), Annotation: el
+    Time Stamp: ('217',), Annotation: haciendo estas traducciones
+    Time Stamp: ('217',), Annotation: ha ja
+    Time Stamp: ('217',), Annotation: pero
+    Time Stamp: ('217',), Annotation: otros trabajos
+    Time Stamp: ('218',), Annotation: no tngo mucho
+    Time Stamp: ('218',), Annotation: a veces
+    Time Stamp: ('218',), Annotation: necesitamos
+    Time Stamp: ('218',), Annotation: en la casa
+    Time Stamp: ('218',), Annotation: asi
+    Time Stamp: ('218',), Annotation: construccion
+    Time Stamp: ('218',), Annotation: eso aveces
+    Time Stamp: ('218',), Annotation: derepente
+    Time Stamp: ('218',), Annotation: Ana de alla
+    Time Stamp: ('218',), Annotation: ellos
+    Time Stamp: ('219',), Annotation: ya
+    Time Stamp: ('219',), Annotation: risas
+    Time Stamp: ('219',), Annotation: risas
+    Time Stamp: ('219',), Annotation: risas
+    Time Stamp: ('219',), Annotation: eeeeeeeeh
+    Time Stamp: ('219',), Annotation: la otra vez me fui
+    Time Stamp: ('219',), Annotation: este este
+    Time Stamp: ('219',), Annotation: conoces
+    Time Stamp: ('219',), Annotation: pasando Cayambe
+    Time Stamp: ('239',), Annotation: Olmedo
+    Time Stamp: ('239',), Annotation: esos lugares
+    Time Stamp: ('239',), Annotation: La Chimba
+    Time Stamp: ('239',), Annotation: hay
+    Time Stamp: ('239',), Annotation: ahi
+    Time Stamp: ('240',), Annotation: alla me fui
+    Time Stamp: ('240',), Annotation: La Chimba
+    Time Stamp: ('240',), Annotation: ahi
+    Time Stamp: ('240',), Annotation: hay
+    Time Stamp: ('240',), Annotation: has escuchado
+    Time Stamp: ('240',), Annotation: Transito Amaguaña
+    Time Stamp: ('240',), Annotation: Dolores Cacuango
+    Time Stamp: ('240',), Annotation: a estas mujeres
+    Time Stamp: ('240',), Annotation: como
+    Time Stamp: ('240',), Annotation: no
+    Time Stamp: ('241',), Annotation: ellos
+    Time Stamp: ('241',), Annotation: han conocido
+    Time Stamp: ('241',), Annotation: a estas  mujeres
+    Time Stamp: ('241',), Annotation: en esa
+    Time Stamp: ('241',), Annotation: comunidades
+    Time Stamp: ('241',), Annotation: mujeres luchadoras(guerreras9
+    Time Stamp: ('241',), Annotation: años
+    Time Stamp: ('241',), Annotation: setenta
+    Time Stamp: ('241',), Annotation: años ochenta
+    Time Stamp: ('241',), Annotation: asi
+    Time Stamp: ('242',), Annotation: en forma
+    Time Stamp: ('242',), Annotation: eran mujeres lideres
+    Time Stamp: ('242',), Annotation: hay
+    Time Stamp: ('242',), Annotation: un
+    Time Stamp: ('242',), Annotation: centro cultural
+    Time Stamp: ('242',), Annotation: Transito Amaguaña
+    Time Stamp: ('242',), Annotation: ahi
+    Time Stamp: ('242',), Annotation: un museo
+    Time Stamp: ('242',), Annotation: de ella
+    Time Stamp: ('242',), Annotation: de esa mujer
+    Time Stamp: ('243',), Annotation: voy a ir alla
+    Time Stamp: ('243',), Annotation: para grabar
+    Time Stamp: ('243',), Annotation: asi
+    Time Stamp: ('243',), Annotation: asi como
+    Time Stamp: ('243',), Annotation: ahorita estoy grabando
+    Time Stamp: ('243',), Annotation: ahi asi
+    Time Stamp: ('243',), Annotation: para grabar ahi
+    Time Stamp: ('243',), Annotation: como sacan leche
+    Time Stamp: ('243',), Annotation: grabe ahi
+    Time Stamp: ('243',), Annotation: si
+    Time Stamp: ('244',), Annotation: nuevo
+    Time Stamp: ('244',), Annotation: papá
+    Time Stamp: ('244',), Annotation: mamá
+    Time Stamp: ('244',), Annotation: bastante
+    Time Stamp: ('244',), Annotation: vaca
+    Time Stamp: ('244',), Annotation: unos quince ganados
+    Time Stamp: ('244',), Annotation: tiene
+    Time Stamp: ('244',), Annotation: cada de mañana
+    Time Stamp: ('244',), Annotation: y tarde
+    Time Stamp: ('244',), Annotation: tiene que ordeñar
+    Time Stamp: ('245',), Annotation: leche para enviar
+    Time Stamp: ('245',), Annotation: a una
+    Time Stamp: ('245',), Annotation: distribuidora
+    Time Stamp: ('245',), Annotation: eeeeeeh
+    Time Stamp: ('245',), Annotation: alla
+    Time Stamp: ('245',), Annotation: como
+    Time Stamp: ('245',), Annotation: cada dia
+    Time Stamp: ('245',), Annotation: en la mañana
+    Time Stamp: ('245',), Annotation: y tarde
+    Time Stamp: ('245',), Annotation: no hay ganado
+    Time Stamp: ('257',), Annotation: si
+    Time Stamp: ('257',), Annotation: risas
+    Time Stamp: ('257',), Annotation: mmmm
+    Time Stamp: ('257',), Annotation: si
+    Time Stamp: ('257',), Annotation: bastante terreno
+    Time Stamp: ('257',), Annotation: tienen
+    Time Stamp: ('257',), Annotation: teerenos muy verdes(lleno de hierba verde)
+    Time Stamp: ('258',), Annotation: mmm
+    Time Stamp: ('273',), Annotation: ya
+    Time Stamp: ('274',), Annotation: risa
+    Time Stamp: ('274',), Annotation: que
+    Time Stamp: ('274',), Annotation: perro
+    Time Stamp: ('274',), Annotation: perro, perro
+    Time Stamp: ('274',), Annotation: risas
+Speaker: niña 1 G
+  Tier Type: po, Annotations Count: 4
+    Time Stamp: ("'ts2721'", "'ts2727'"), Annotation: abuelita
+    Time Stamp: ("'ts2728'", "'ts2730'"), Annotation: nos fuimos a coger
+    Time Stamp: ("'ts2731'", "'ts2732'"), Annotation: todo lo
+    Time Stamp: ("'ts2742'", "'ts2744'"), Annotation: tu no tini
+  Tier Type: tn, Annotations Count: 4
+    Time Stamp: ('275',), Annotation: abuelita
+    Time Stamp: ('275',), Annotation: nos fuimos a coger
+    Time Stamp: ('275',), Annotation: todo lo
+    Time Stamp: ('275',), Annotation: tu no tienes

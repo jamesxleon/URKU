@@ -1,0 +1,275 @@
+File,Speaker,Tier_Labels,Merge_With
+QUSF2018_02_03S1 _pub.txt,A,"dt, Annotations Count: 205, mb, Annotations Count: 205, gl, Annotations Count: 205"
+QUSF2018_02_03S1 _pub.txt,B,"dt, Annotations Count: 243, mb, Annotations Count: 243, gl, Annotations Count: 243"
+QUSF2018_02_03S1 _pub.txt,C,"dt, Annotations Count: 52, mb, Annotations Count: 51, gl, Annotations Count: 51"
+QUSF2018_02_03S1 _pub.txt,Hermelinda Tituaña,"po, Annotations Count: 53, tn, Annotations Count: 53",C
+QUSF2018_02_03S1 _pub.txt,Rosario Tupiza,"po, Annotations Count: 247, tn, Annotations Count: 247",B
+QUSF2018_02_03S1 _pub.txt,Simeon,"po, Annotations Count: 205, tn, Annotations Count: 205",A
+QUSF2018_02_03S2_pub.txt,A,"po, Annotations Count: 715, dt, Annotations Count: 700, mb, Annotations Count: 137, gl, Annotations Count: 127, tn, Annotations Count: 701"
+QUSF2018_02_03S2_pub.txt,B,"po, Annotations Count: 399, dt, Annotations Count: 392, mb, Annotations Count: 101, gl, Annotations Count: 96, tn, Annotations Count: 394"
+QUSF2018_02_09S1_pub.txt,A,"dt, Annotations Count: 81, mb, Annotations Count: 80, gl, Annotations Count: 29, tl, Annotations Count: 67, tn, Annotations Count: 81"
+QUSF2018_02_09S1_pub.txt,B,"dt, Annotations Count: 38, mb, Annotations Count: 38, gl, Annotations Count: 5, tl, Annotations Count: 34, tn, Annotations Count: 38"
+QUSF2018_02_09S1_pub.txt,C,"dt, Annotations Count: 110, mb, Annotations Count: 110, gl, Annotations Count: 63, tl, Annotations Count: 99, tn, Annotations Count: 111"
+QUSF2018_02_09S1_pub.txt,D,"dt, Annotations Count: 115, mb, Annotations Count: 114, gl, Annotations Count: 25, tl, Annotations Count: 101, tn, Annotations Count: 115"
+QUSF2018_02_09S1_pub.txt,E,"dt, Annotations Count: 27, mb, Annotations Count: 26, gl, Annotations Count: 4, tl, Annotations Count: 25, tn, Annotations Count: 27"
+QUSF2018_02_09S1_pub.txt,Simeon,"po, Annotations Count: 115",D
+QUSF2018_02_09S1_pub.txt,señora con sombrero,"po, Annotations Count: 27",E
+QUSF2018_02_09S1_pub.txt,señora de chalinaa,"po, Annotations Count: 38",B
+QUSF2018_02_09S1_pub.txt,señora de saco azul,"po, Annotations Count: 81",A
+QUSF2018_02_09S1_pub.txt,señora de saco blanco,"po, Annotations Count: 111",C
+QUSF2018_02_18S2_pub.txt,A,"dt, Annotations Count: 14, mb, Annotations Count: 13, gl, Annotations Count: 13, tl, Annotations Count: 1"
+QUSF2018_02_18S2_pub.txt,Andres Anrango,"po, Annotations Count: 62, tn, Annotations Count: 62"
+QUSF2018_02_18S2_pub.txt,H,"dt, Annotations Count: 49, mb, Annotations Count: 49, gl, Annotations Count: 49, tl, Annotations Count: 1"
+QUSF2018_02_18S2_pub.txt,Hortencia,"po, Annotations Count: 25, tn, Annotations Count: 25"
+QUSF2018_02_18S2_pub.txt,Nicolas Muzo,"po, Annotations Count: 102, tn, Annotations Count: 102"
+QUSF2018_02_18S2_pub.txt,Ponch rojo 2,"po, Annotations Count: 131",Poncho rojo 2
+QUSF2018_02_18S2_pub.txt,Poncho Rojo,"po, Annotations Count: 38, tn, Annotations Count: 38"
+QUSF2018_02_18S2_pub.txt,Poncho rojo 2,"tn, Annotations Count: 131",H
+QUSF2018_02_18S2_pub.txt,Rebeca,"po, Annotations Count: 34, tn, Annotations Count: 34"
+QUSF2018_02_18S2_pub.txt,Simeon Floyd,"po, Annotations Count: 71, tn, Annotations Count: 71"
+QUSF2018_02_18S2_pub.txt,Sr. Dirige,"po, Annotations Count: 364, tn, Annotations Count: 364",A
+QUSF2018_02_24S1_pub.txt,Anciana saco amarillo,"po, Annotations Count: 246, tn, Annotations Count: 244",B
+QUSF2018_02_24S1_pub.txt,Anciana saco azul,"po, Annotations Count: 278, tn, Annotations Count: 276",C
+QUSF2018_02_24S1_pub.txt,Anciana saco rosado,"po, Annotations Count: 59, tn, Annotations Count: 59",F
+QUSF2018_02_24S1_pub.txt,B,"dt, Annotations Count: 207, mb, Annotations Count: 16, gl, Annotations Count: 16"
+QUSF2018_02_24S1_pub.txt,C,"dt, Annotations Count: 209, mb, Annotations Count: 29, gl, Annotations Count: 26"
+QUSF2018_02_24S1_pub.txt,D,"dt, Annotations Count: 7"
+QUSF2018_02_24S1_pub.txt,F,"dt, Annotations Count: 40"
+QUSF2018_02_24S1_pub.txt,Grabacion,"po, Annotations Count: 2, tn, Annotations Count: 2"
+QUSF2018_02_24S1_pub.txt,Simeon,"po, Annotations Count: 129, tn, Annotations Count: 129", D
+QUSF2018_02_24S1_pub.txt,Voz de telefono,"po, Annotations Count: 2, tn, Annotations Count: 2"
+QUSF2018_02_24S2_pub.txt,D,"po, Annotations Count: 80, tn, Annotations Count: 80"
+QUSF2018_02_24S2_pub.txt,SIMEON  A,"tn, Annotations Count: 720"
+QUSF2018_02_24S2_pub.txt,SIMEON A,"po, Annotations Count: 720",SIMEON  A
+QUSF2018_02_24S2_pub.txt,hombre 1 C,"po, Annotations Count: 798, tn, Annotations Count: 797"
+QUSF2018_02_24S2_pub.txt,mujer 1 B,"po, Annotations Count: 1166, tn, Annotations Count: 1166"
+QUSF2018_03_11S1_pub.txt,A,"dt, Annotations Count: 84, mb, Annotations Count: 75, gl, Annotations Count: 75"
+QUSF2018_03_11S1_pub.txt,B,"dt, Annotations Count: 80, mb, Annotations Count: 77, gl, Annotations Count: 77"
+QUSF2018_03_11S1_pub.txt,C,"dt, Annotations Count: 91, mb, Annotations Count: 88, gl, Annotations Count: 88"
+QUSF2018_03_11S1_pub.txt,D,"dt, Annotations Count: 4, mb, Annotations Count: 4, gl, Annotations Count: 4"
+QUSF2018_03_11S1_pub.txt,Delia,"po, Annotations Count: 139, tn, Annotations Count: 139",A
+QUSF2018_03_11S1_pub.txt,F,"dt, Annotations Count: 6, mb, Annotations Count: 5, gl, Annotations Count: 5"
+QUSF2018_03_11S1_pub.txt,G,"dt, Annotations Count: 1, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2018_03_11S1_pub.txt,Hombre2,"po, Annotations Count: 15, tn, Annotations Count: 15",G
+QUSF2018_03_11S1_pub.txt,Lucia,"po, Annotations Count: 196, tn, Annotations Count: 195",B
+QUSF2018_03_11S1_pub.txt,Mujer3,"po, Annotations Count: 57, tn, Annotations Count: 55",F
+QUSF2018_03_11S1_pub.txt,Niña,"po, Annotations Count: 7, tn, Annotations Count: 7",D
+QUSF2018_03_11S1_pub.txt,Niño,"po, Annotations Count: 22, tn, Annotations Count: 22"
+QUSF2018_03_11S1_pub.txt,Simeon,"po, Annotations Count: 174, tn, Annotations Count: 174",C
+QUSF2018_04_21S1_pub.txt,A,"dt, Annotations Count: 256, mb, Annotations Count: 256, gl, Annotations Count: 242"
+QUSF2018_04_21S1_pub.txt,B,"dt, Annotations Count: 238, mb, Annotations Count: 238, gl, Annotations Count: 234"
+QUSF2018_04_21S1_pub.txt,C,"dt, Annotations Count: 156, mb, Annotations Count: 156, gl, Annotations Count: 154"
+QUSF2018_04_21S1_pub.txt,D,"po, Annotations Count: 3, dt, Annotations Count: 3, mb, Annotations Count: 3, gl, Annotations Count: 3, tn, Annotations Count: 3"
+QUSF2018_04_21S1_pub.txt,E,"po, Annotations Count: 3, dt, Annotations Count: 2, mb, Annotations Count: 2, gl, Annotations Count: 2"
+QUSF2018_04_21S1_pub.txt,hombre 1,"po, Annotations Count: 256, tn, Annotations Count: 256",A
+QUSF2018_04_21S1_pub.txt,mujer 1,"po, Annotations Count: 241, tn, Annotations Count: 240",B
+QUSF2018_04_21S1_pub.txt,simeon,"po, Annotations Count: 159, tn, Annotations Count: 159",C
+QUSF2018_06_22S1_pub.txt,Mujer 1,"po, Annotations Count: 560",Mujer 1 A
+QUSF2018_06_22S1_pub.txt,Mujer 1 A,"tn, Annotations Count: 560"
+QUSF2018_06_22S1_pub.txt,Mujer 2 B,"po, Annotations Count: 308, tn, Annotations Count: 307"
+QUSF2018_06_22S1_pub.txt,Simeón,"po, Annotations Count: 388",Simeón F
+QUSF2018_06_22S1_pub.txt,Simeón F,"tn, Annotations Count: 386"
+QUSF2018_06_22S1_pub.txt,hombre 1 D,"po, Annotations Count: 32, tn, Annotations Count: 31"
+QUSF2018_06_22S1_pub.txt,mujer 3 E,"po, Annotations Count: 73, tn, Annotations Count: 73"
+QUSF2018_06_22S1_pub.txt,niña 1 G,"po, Annotations Count: 4, tn, Annotations Count: 4"
+QUSF2018_06_22S1_pub.txt,niño 1 C,"po, Annotations Count: 16, tn, Annotations Count: 16"
+QUSF2018_06_22S2_pub.txt,A,"dt, Annotations Count: 212, mb, Annotations Count: 56, gl, Annotations Count: 55"
+QUSF2018_06_22S2_pub.txt,B,"dt, Annotations Count: 115, mb, Annotations Count: 35, gl, Annotations Count: 35"
+QUSF2018_06_22S2_pub.txt,C,"dt, Annotations Count: 6, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2018_06_22S2_pub.txt,D,"dt, Annotations Count: 81, mb, Annotations Count: 58, gl, Annotations Count: 58"
+QUSF2018_06_22S2_pub.txt,Hombre gorra,"po, Annotations Count: 6, tn, Annotations Count: 6",C
+QUSF2018_06_22S2_pub.txt,Mujer camiseta blanca,"po, Annotations Count: 117, tn, Annotations Count: 117",B
+QUSF2018_06_22S2_pub.txt,Mujer con gorra,"po, Annotations Count: 213, tn, Annotations Count: 213",A
+QUSF2018_06_22S2_pub.txt,Simeon,"po, Annotations Count: 83, tn, Annotations Count: 83",D
+QUSF2018_08_25S2_pub.txt,A,"dt, Annotations Count: 241, mb, Annotations Count: 77, gl, Annotations Count: 77"
+QUSF2018_08_25S2_pub.txt,B,"dt, Annotations Count: 3, mb, Annotations Count: 3, gl, Annotations Count: 3"
+QUSF2018_08_25S2_pub.txt,C,"dt, Annotations Count: 22, mb, Annotations Count: 3, gl, Annotations Count: 3"
+QUSF2018_08_25S2_pub.txt,D,"dt, Annotations Count: 83, mb, Annotations Count: 29, gl, Annotations Count: 29"
+QUSF2018_08_25S2_pub.txt,E,"dt, Annotations Count: 73, mb, Annotations Count: 44, gl, Annotations Count: 44"
+QUSF2018_08_25S2_pub.txt,F,"dt, Annotations Count: 97"
+QUSF2018_08_25S2_pub.txt,Hombre,"po, Annotations Count: 246, tn, Annotations Count: 245",A
+QUSF2018_08_25S2_pub.txt,Hombre de chompa cafe,"po, Annotations Count: 102, tn, Annotations Count: 102",F
+QUSF2018_08_25S2_pub.txt,Mujer  chalina blanca,"po, Annotations Count: 25",Mujer Chalina blanco
+QUSF2018_08_25S2_pub.txt,Mujer Chalina blanco,"tn, Annotations Count: 25",C
+QUSF2018_08_25S2_pub.txt,Mujer chalina azul,"po, Annotations Count: 74, tn, Annotations Count: 74",E
+QUSF2018_08_25S2_pub.txt,Niño,"po, Annotations Count: 3, tn, Annotations Count: 3",B
+QUSF2018_08_25S2_pub.txt,Simeon,"po, Annotations Count: 86, tn, Annotations Count: 85",D
+QUSF2018_09_02S1_pub.txt,A,"dt, Annotations Count: 283, mb, Annotations Count: 85, gl, Annotations Count: 84"
+QUSF2018_09_02S1_pub.txt,B,"dt, Annotations Count: 205, mb, Annotations Count: 101, gl, Annotations Count: 100"
+QUSF2018_09_02S1_pub.txt,C,"dt, Annotations Count: 14, mb, Annotations Count: 7, gl, Annotations Count: 7"
+QUSF2018_09_02S1_pub.txt,mujer 1,"po, Annotations Count: 295, tn, Annotations Count: 295",A
+QUSF2018_09_02S1_pub.txt,mujer 2,"po, Annotations Count: 211, tn, Annotations Count: 211",B
+QUSF2018_09_02S1_pub.txt,simon,"po, Annotations Count: 23, tn, Annotations Count: 21",C
+QUSF2018_09_02S2_pub.txt,B,"dt, Annotations Count: 175, mb, Annotations Count: 174, gl, Annotations Count: 174, tn, Annotations Count: 180"
+QUSF2018_09_02S2_pub.txt,C,"dt, Annotations Count: 87, mb, Annotations Count: 86, gl, Annotations Count: 86, tn, Annotations Count: 88"
+QUSF2018_09_02S2_pub.txt,E,"dt, Annotations Count: 13, mb, Annotations Count: 13, gl, Annotations Count: 13, tn, Annotations Count: 13"
+QUSF2018_09_02S2_pub.txt,F,"dt, Annotations Count: 2, mb, Annotations Count: 2, gl, Annotations Count: 2, tn, Annotations Count: 2"
+QUSF2018_09_02S2_pub.txt,Mujer,"po, Annotations Count: 91",C
+QUSF2018_09_02S2_pub.txt,Niño,"po, Annotations Count: 3",F
+QUSF2018_09_02S2_pub.txt,hombre,"po, Annotations Count: 180",B
+QUSF2018_09_02S2_pub.txt,señora2,"po, Annotations Count: 13",E
+QUSF2018_09_09S1_pub.txt,A,"dt, Annotations Count: 189, mb, Annotations Count: 189, gl, Annotations Count: 187"
+QUSF2018_09_09S1_pub.txt,B,"dt, Annotations Count: 245, mb, Annotations Count: 244, gl, Annotations Count: 242"
+QUSF2018_09_09S1_pub.txt,C,"dt, Annotations Count: 7, mb, Annotations Count: 7, gl, Annotations Count: 7"
+QUSF2018_09_09S1_pub.txt,D,"dt, Annotations Count: 242, mb, Annotations Count: 237, gl, Annotations Count: 231"
+QUSF2018_09_09S1_pub.txt,E,"dt, Annotations Count: 1, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2018_09_09S1_pub.txt,F,"dt, Annotations Count: 6, mb, Annotations Count: 6, gl, Annotations Count: 5"
+QUSF2018_09_09S1_pub.txt,Hombre 1,"po, Annotations Count: 64, tn, Annotations Count: 11",E
+QUSF2018_09_09S1_pub.txt,Hombre 2,"po, Annotations Count: 23, tn, Annotations Count: 23",F
+QUSF2018_09_09S1_pub.txt,Mujer Joven,"po, Annotations Count: 195, tn, Annotations Count: 195",A
+QUSF2018_09_09S1_pub.txt,Mujer Vieja,"tn, Annotations Count: 252",B
+QUSF2018_09_09S1_pub.txt,Mujer vieja,"po, Annotations Count: 301",Mujer Vieja
+QUSF2018_09_09S1_pub.txt,Niño,"po, Annotations Count: 61, tn, Annotations Count: 7",C
+QUSF2018_09_09S1_pub.txt,Simeon,"po, Annotations Count: 255, tn, Annotations Count: 254",D
+QUSF2018_09_16S1_pub.txt,A,"dt, Annotations Count: 69, mb, Annotations Count: 69, gl, Annotations Count: 69"
+QUSF2018_09_16S1_pub.txt,B,"dt, Annotations Count: 137, mb, Annotations Count: 137, gl, Annotations Count: 137"
+QUSF2018_09_16S1_pub.txt,C,"dt, Annotations Count: 61, mb, Annotations Count: 61, gl, Annotations Count: 61"
+QUSF2018_09_16S1_pub.txt,D,"dt, Annotations Count: 8, mb, Annotations Count: 8, gl, Annotations Count: 8"
+QUSF2018_09_16S1_pub.txt,E,"dt, Annotations Count: 230, mb, Annotations Count: 229, gl, Annotations Count: 223"
+QUSF2018_09_16S1_pub.txt,Miguel,"po, Annotations Count: 139, tn, Annotations Count: 139",B
+QUSF2018_09_16S1_pub.txt,Mujer,"po, Annotations Count: 8, tn, Annotations Count: 8",D
+QUSF2018_09_16S1_pub.txt,Mujer 2,"po, Annotations Count: 12, tn, Annotations Count: 12"
+QUSF2018_09_16S1_pub.txt,Paya Mama,"po, Annotations Count: 70, tn, Annotations Count: 70",A
+QUSF2018_09_16S1_pub.txt,Ruku Tayta,"po, Annotations Count: 231, tn, Annotations Count: 231",E
+QUSF2018_09_16S1_pub.txt,Simeon,"po, Annotations Count: 61, tn, Annotations Count: 61",C
+QUSF2018_09_16S2_pub.txt,A,"dt, Annotations Count: 293, mb, Annotations Count: 293, gl, Annotations Count: 292"
+QUSF2018_09_16S2_pub.txt,B,"dt, Annotations Count: 196, mb, Annotations Count: 196, gl, Annotations Count: 196"
+QUSF2018_09_16S2_pub.txt,C,"dt, Annotations Count: 103, mb, Annotations Count: 103, gl, Annotations Count: 102"
+QUSF2018_09_16S2_pub.txt,D,"dt, Annotations Count: 56, mb, Annotations Count: 56, gl, Annotations Count: 56"
+QUSF2018_09_16S2_pub.txt,hombre 1,"po, Annotations Count: 199",hombre 1_
+QUSF2018_09_16S2_pub.txt,hombre 1_,"tn, Annotations Count: 196",B
+QUSF2018_09_16S2_pub.txt,mujer,"po, Annotations Count: 104",mujer_
+QUSF2018_09_16S2_pub.txt,mujer 1.1,"po, Annotations Count: 293, tn, Annotations Count: 293",A
+QUSF2018_09_16S2_pub.txt,mujer_,"tn, Annotations Count: 103",C
+QUSF2018_09_16S2_pub.txt,simeon,"po, Annotations Count: 56, tn, Annotations Count: 56",D
+QUSF2018_10_09S1_pub.txt,HOMBRE 1 A,"po, Annotations Count: 987, tn, Annotations Count: 987"
+QUSF2018_10_09S1_pub.txt,HOMBRE 2 B,"po, Annotations Count: 1471, tn, Annotations Count: 1471"
+QUSF2018_10_09S1_pub.txt,MUJER 1 C,"po, Annotations Count: 16",MUJERV 1 C
+QUSF2018_10_09S1_pub.txt,MUJERV 1 C,"tn, Annotations Count: 16"
+QUSF2018_10_09S1_pub.txt,Simeon D,"po, Annotations Count: 33, tn, Annotations Count: 33"
+QUSF2018_10_09S2_pub.txt,A,"dt, Annotations Count: 89, mb, Annotations Count: 82, gl, Annotations Count: 79"
+QUSF2018_10_09S2_pub.txt,B,"dt, Annotations Count: 99, mb, Annotations Count: 61, gl, Annotations Count: 61"
+QUSF2018_10_09S2_pub.txt,C,"dt, Annotations Count: 96, mb, Annotations Count: 47, gl, Annotations Count: 45"
+QUSF2018_10_09S2_pub.txt,D,"dt, Annotations Count: 92, mb, Annotations Count: 58, gl, Annotations Count: 58"
+QUSF2018_10_09S2_pub.txt,E,"po, Annotations Count: 155, dt, Annotations Count: 22, tn, Annotations Count: 155"
+QUSF2018_10_09S2_pub.txt,F,"dt, Annotations Count: 1, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2018_10_09S2_pub.txt,mujer,"po, Annotations Count: 164, tn, Annotations Count: 164",D
+QUSF2018_10_09S2_pub.txt,mujer  2,"tn, Annotations Count: 1",F
+QUSF2018_10_09S2_pub.txt,mujer 2,"po, Annotations Count: 1",mujer  2
+QUSF2018_10_09S2_pub.txt,persona 1 simeon,"po, Annotations Count: 103, tn, Annotations Count: 103",A
+QUSF2018_10_09S2_pub.txt,persona 2,"po, Annotations Count: 215, tn, Annotations Count: 215",B
+QUSF2018_10_09S2_pub.txt,persona 3,"po, Annotations Count: 181, tn, Annotations Count: 181",C
+QUSF2018_10_10S2_pub.txt,A,"dt, Annotations Count: 277, mb, Annotations Count: 105, gl, Annotations Count: 105"
+QUSF2018_10_10S2_pub.txt,Adulto mayor,"po, Annotations Count: 282, tn, Annotations Count: 282",A
+QUSF2018_10_10S2_pub.txt,B,"dt, Annotations Count: 282, mb, Annotations Count: 92, gl, Annotations Count: 92"
+QUSF2018_10_10S2_pub.txt,C,"po, Annotations Count: 49, dt, Annotations Count: 47, mb, Annotations Count: 2, gl, Annotations Count: 2, tn, Annotations Count: 49"
+QUSF2018_10_10S2_pub.txt,hombre 1,"po, Annotations Count: 289",hombre 1_
+QUSF2018_10_10S2_pub.txt,hombre 1_,"tn, Annotations Count: 289",B
+QUSF2018_10_10S4_pub.txt,A,"dt, Annotations Count: 104, mb, Annotations Count: 46, gl, Annotations Count: 45, tn, Annotations Count: 105"
+QUSF2018_10_10S4_pub.txt,B,"dt, Annotations Count: 254, mb, Annotations Count: 82, gl, Annotations Count: 79, tn, Annotations Count: 259"
+QUSF2018_10_10S4_pub.txt,señor con gorra,"po, Annotations Count: 110",A
+QUSF2018_10_10S4_pub.txt,señor con sombrero,"po, Annotations Count: 265",B
+QUSF2018_10_14S1_pub.txt,A,"dt, Annotations Count: 201, mb, Annotations Count: 17, gl, Annotations Count: 17"
+QUSF2018_10_14S1_pub.txt,B,"dt, Annotations Count: 189, mb, Annotations Count: 99, gl, Annotations Count: 98"
+QUSF2018_10_14S1_pub.txt,C,"dt, Annotations Count: 646, mb, Annotations Count: 109, gl, Annotations Count: 108"
+QUSF2018_10_14S1_pub.txt,D,"dt, Annotations Count: 268, mb, Annotations Count: 69, gl, Annotations Count: 68"
+QUSF2018_10_14S1_pub.txt,E,"dt, Annotations Count: 362, mb, Annotations Count: 2, gl, Annotations Count: 2"
+QUSF2018_10_14S1_pub.txt,F,"po, Annotations Count: 2, tn, Annotations Count: 1"
+QUSF2018_10_14S1_pub.txt,Simeon,"po, Annotations Count: 310",Simeòn A
+QUSF2018_10_14S1_pub.txt,Simeòn A,"tn, Annotations Count: 307",A
+QUSF2018_10_14S1_pub.txt,hombre 1 B,"po, Annotations Count: 277, tn, Annotations Count: 272",B
+QUSF2018_10_14S1_pub.txt,hombre 2,"po, Annotations Count: 464",hombre 2 E
+QUSF2018_10_14S1_pub.txt,hombre 2 E,"tn, Annotations Count: 464",E
+QUSF2018_10_14S1_pub.txt,mujer 1 C,"po, Annotations Count: 812, tn, Annotations Count: 796",C
+QUSF2018_10_14S1_pub.txt,mujer 2,"po, Annotations Count: 376",mujer 2 D
+QUSF2018_10_14S1_pub.txt,mujer 2 D,"tn, Annotations Count: 371",D
+QUSF2018_12_02S1_pub.txt,A,"dt, Annotations Count: 250, mb, Annotations Count: 250, gl, Annotations Count: 71"
+QUSF2018_12_02S1_pub.txt,B,"dt, Annotations Count: 361, mb, Annotations Count: 359"
+QUSF2018_12_02S1_pub.txt,C,"dt, Annotations Count: 191, mb, Annotations Count: 187, gl, Annotations Count: 62"
+QUSF2018_12_02S1_pub.txt,D,"po, Annotations Count: 7, dt, Annotations Count: 6, mb, Annotations Count: 5, gl, Annotations Count: 1, tn, Annotations Count: 7"
+QUSF2018_12_02S1_pub.txt,hombre1,"po, Annotations Count: 257",A
+QUSF2018_12_02S1_pub.txt,mujer 1,"po, Annotations Count: 203, tn, Annotations Count: 203",C
+QUSF2018_12_02S1_pub.txt,simeon,"po, Annotations Count: 372, tn, Annotations Count: 372",B
+QUSF2018_12_23S1_pub.txt,A,"dt, Annotations Count: 73, mb, Annotations Count: 24, gl, Annotations Count: 24"
+QUSF2018_12_23S1_pub.txt,B,"dt, Annotations Count: 194, mb, Annotations Count: 37, gl, Annotations Count: 37"
+QUSF2018_12_23S1_pub.txt,C,"dt, Annotations Count: 76, mb, Annotations Count: 63, gl, Annotations Count: 63"
+QUSF2018_12_23S1_pub.txt,Camisa Blanca,"tn, Annotations Count: 3",F
+QUSF2018_12_23S1_pub.txt,D,"dt, Annotations Count: 95",Sr. Gorra Amarilla
+QUSF2018_12_23S1_pub.txt,E,"dt, Annotations Count: 48"
+QUSF2018_12_23S1_pub.txt,F,"dt, Annotations Count: 2"
+QUSF2018_12_23S1_pub.txt,G,"dt, Annotations Count: 3"
+QUSF2018_12_23S1_pub.txt,Mario,"po, Annotations Count: 194, tn, Annotations Count: 194",B
+QUSF2018_12_23S1_pub.txt,Mujer,"po, Annotations Count: 3, tn, Annotations Count: 3",G
+QUSF2018_12_23S1_pub.txt,Pocho rojo 1,"po, Annotations Count: 77",Poncho rojo 1
+QUSF2018_12_23S1_pub.txt,Poncho rojo 1,"tn, Annotations Count: 77",C
+QUSF2018_12_23S1_pub.txt,Poncho rojo 2,"po, Annotations Count: 52, tn, Annotations Count: 52",E
+QUSF2018_12_23S1_pub.txt,Simeon,"po, Annotations Count: 79, tn, Annotations Count: 79",A
+QUSF2018_12_23S1_pub.txt,Sr. Gorra Amarilla,"tn, Annotations Count: 96"
+QUSF2018_12_23S1_pub.txt,camisa blanca,"po, Annotations Count: 3",Camisa Blanca
+QUSF2018_12_23S2_pub.txt,A,"dt, Annotations Count: 104, mb, Annotations Count: 104, gl, Annotations Count: 103"
+QUSF2018_12_23S2_pub.txt,B,"dt, Annotations Count: 18, mb, Annotations Count: 18, gl, Annotations Count: 18"
+QUSF2018_12_23S2_pub.txt,C,"dt, Annotations Count: 69, mb, Annotations Count: 69, gl, Annotations Count: 69"
+QUSF2018_12_23S2_pub.txt,D,"dt, Annotations Count: 23, mb, Annotations Count: 23, gl, Annotations Count: 23"
+QUSF2018_12_23S2_pub.txt,E,"dt, Annotations Count: 3, mb, Annotations Count: 3, gl, Annotations Count: 3"
+QUSF2018_12_23S2_pub.txt,F,"dt, Annotations Count: 1, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2018_12_23S2_pub.txt,Hombre 3,"po, Annotations Count: 1, tn, Annotations Count: 1",F
+QUSF2018_12_23S2_pub.txt,Hombre1,"po, Annotations Count: 109, tn, Annotations Count: 109",A
+QUSF2018_12_23S2_pub.txt,Hombre2,"po, Annotations Count: 23, tn, Annotations Count: 23",D
+QUSF2018_12_23S2_pub.txt,Mujer1,"po, Annotations Count: 19, tn, Annotations Count: 19",B
+QUSF2018_12_23S2_pub.txt,Mujer2,"po, Annotations Count: 3, tn, Annotations Count: 3",E
+QUSF2018_12_23S2_pub.txt,Simeon,"po, Annotations Count: 70, tn, Annotations Count: 70",C
+QUSF2019_01_09S1_pub.txt,A,"dt, Annotations Count: 133, mb, Annotations Count: 63, gl, Annotations Count: 63"
+QUSF2019_01_09S1_pub.txt,B,"dt, Annotations Count: 158, mb, Annotations Count: 86, gl, Annotations Count: 86"
+QUSF2019_01_09S1_pub.txt,C,"dt, Annotations Count: 36, mb, Annotations Count: 14, gl, Annotations Count: 14"
+QUSF2019_01_09S1_pub.txt,mujer 1 de rosa,"po, Annotations Count: 161, tn, Annotations Count: 161",B
+QUSF2019_01_09S1_pub.txt,mujer 2,"po, Annotations Count: 43, tn, Annotations Count: 43",C
+QUSF2019_01_09S1_pub.txt,simeon,"po, Annotations Count: 143, tn, Annotations Count: 143",A
+QUSF2019_01_09S2_pub.txt,A,"dt, Annotations Count: 58, mb, Annotations Count: 58, gl, Annotations Count: 57"
+QUSF2019_01_09S2_pub.txt,B,"dt, Annotations Count: 186, mb, Annotations Count: 187, gl, Annotations Count: 185"
+QUSF2019_01_09S2_pub.txt,C,"po, Annotations Count: 49, tn, Annotations Count: 49"
+QUSF2019_01_09S2_pub.txt,mujer 1,"po, Annotations Count: 482, tn, Annotations Count: 480",B
+QUSF2019_01_09S2_pub.txt,simeon,"po, Annotations Count: 369",simeon _
+QUSF2019_01_09S2_pub.txt,simeon _,"tn, Annotations Count: 369",A
+QUSF2019_03_03S1_pub.txt,A,"dt, Annotations Count: 90, mb, Annotations Count: 29, gl, Annotations Count: 29"
+QUSF2019_03_03S1_pub.txt,Abuelita,"po, Annotations Count: 64, tn, Annotations Count: 64",C
+QUSF2019_03_03S1_pub.txt,B,"dt, Annotations Count: 106, mb, Annotations Count: 80, gl, Annotations Count: 80"
+QUSF2019_03_03S1_pub.txt,C,"dt, Annotations Count: 64, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2019_03_03S1_pub.txt,D,"dt, Annotations Count: 31"
+QUSF2019_03_03S1_pub.txt,Entrevistador,"po, Annotations Count: 94, tn, Annotations Count: 94",A
+QUSF2019_03_03S1_pub.txt,Mujer joven,"po, Annotations Count: 107, tn, Annotations Count: 107",B
+QUSF2019_03_03S1_pub.txt,Simeon,"po, Annotations Count: 32, tn, Annotations Count: 32",D
+QUSF2019_03_04S1_pub.txt,A,"dt, Annotations Count: 8, mb, Annotations Count: 6, gl, Annotations Count: 6"
+QUSF2019_03_04S1_pub.txt,B,"dt, Annotations Count: 266, mb, Annotations Count: 106, gl, Annotations Count: 106"
+QUSF2019_03_04S1_pub.txt,C,"dt, Annotations Count: 39"
+QUSF2019_03_04S1_pub.txt,Chica,"po, Annotations Count: 8, tn, Annotations Count: 8",A
+QUSF2019_03_04S1_pub.txt,Mama,"po, Annotations Count: 266, tn, Annotations Count: 266",B
+QUSF2019_03_04S1_pub.txt,Simeon,"po, Annotations Count: 39, tn, Annotations Count: 39",C
+QUSF2019_03_22S1_pub.txt,A,"dt, Annotations Count: 618, mb, Annotations Count: 189, gl, Annotations Count: 185"
+QUSF2019_03_22S1_pub.txt,B,"dt, Annotations Count: 1158, mb, Annotations Count: 400, gl, Annotations Count: 395"
+QUSF2019_03_22S1_pub.txt,C,"dt, Annotations Count: 4, mb, Annotations Count: 1, gl, Annotations Count: 1"
+QUSF2019_03_22S1_pub.txt,María Tutillo,"po, Annotations Count: 1185",María Tutillo
+QUSF2019_03_22S1_pub.txt,María Tutillo,"tn, Annotations Count: 1183",B
+QUSF2019_03_22S1_pub.txt,Simeón,"po, Annotations Count: 680",Simeón A
+QUSF2019_03_22S1_pub.txt,Simeón A,"tn, Annotations Count: 680",A
+QUSF2019_03_22S1_pub.txt,mujer 2,"po, Annotations Count: 4",mujer 2 C
+QUSF2019_03_22S1_pub.txt,mujer 2 C,"tn, Annotations Count: 4",C
+QUSF2019_03_23S2_pub.txt,hombre 1,"po, Annotations Count: 772, tn, Annotations Count: 762"
+QUSF2019_03_23S2_pub.txt,hombre 2,"po, Annotations Count: 5",hombre 2 D
+QUSF2019_03_23S2_pub.txt,hombre 2 D,"tn, Annotations Count: 4"
+QUSF2019_03_23S2_pub.txt,mujer 1,"po, Annotations Count: 22, tn, Annotations Count: 17"
+QUSF2019_03_23S2_pub.txt,mujer 2,"po, Annotations Count: 157, tn, Annotations Count: 156"
+QUSF2019_03_23S2_pub.txt,niño 1,"tn, Annotations Count: 4"
+QUSF2019_03_23S2_pub.txt,niño1,"po, Annotations Count: 4",niño 1
+QUSF2019_03_23S2_pub.txt,simeon 1,"po, Annotations Count: 120, tn, Annotations Count: 118"
+QUSF2019_12_17S1_pub.txt,Segundo Cumbal,"po, Annotations Count: 1326",Segundo Cumbal
+QUSF2019_12_17S1_pub.txt,Segundo Cumbal,"tn, Annotations Count: 1326"
+QUSF2019_12_17S1_pub.txt,Simeon,"po, Annotations Count: 1351, tn, Annotations Count: 1351"
+QUSF2019_12_17S1_pub.txt,mujer 1,"po, Annotations Count: 19, tn, Annotations Count: 19"
+QUSF2019_12_19S1_pub.txt,Hombre 1,"po, Annotations Count: 1922, tn, Annotations Count: 1922"
+QUSF2019_12_19S1_pub.txt,Simeon,"po, Annotations Count: 1045, tn, Annotations Count: 1045"
+QUSF2020_01_04S1_pub.txt,C,"po, Annotations Count: 2, tn, Annotations Count: 2"
+QUSF2020_01_04S1_pub.txt,hombre 1,"po, Annotations Count: 838, tn, Annotations Count: 838"
+QUSF2020_01_04S1_pub.txt,simeon,"po, Annotations Count: 1001, tn, Annotations Count: 1001"
+QUSF2020_01_04S2_pub.txt,Simeon,"po, Annotations Count: 2412, tn, Annotations Count: 2408"
+QUSF2020_01_04S2_pub.txt,hombre 1,"po, Annotations Count: 1620, tn, Annotations Count: 1619"
+QUSF2020_01_04S2_pub.txt,mujer 1,"po, Annotations Count: 12, tn, Annotations Count: 12"

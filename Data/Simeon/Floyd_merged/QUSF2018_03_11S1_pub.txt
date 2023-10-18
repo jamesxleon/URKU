@@ -1,0 +1,2022 @@
+Speaker: Delia
+  Tier Type: po, Annotations Count: 139
+    Time Stamp: ("'ts6'", "'ts8'"), Annotation: (asijun)
+    Time Stamp: ("'ts23'", "'ts24'"), Annotation: aaa
+    Time Stamp: ("'ts25'", "'ts26'"), Annotation: Delia Delfina Sánchez
+    Time Stamp: ("'ts27'", "'ts28'"), Annotation: ¿imapa?
+    Time Stamp: ("'ts49'", "'ts50'"), Annotation: alpa
+    Time Stamp: ("'ts57'", "'ts59'"), Annotation: ashku
+    Time Stamp: ("'ts67'", "'ts68'"), Annotation: a?
+    Time Stamp: ("'ts75'", "'ts76'"), Annotation: kushki
+    Time Stamp: ("'ts87'", "'ts88'"), Annotation: ali
+    Time Stamp: ("'ts89'", "'ts90'"), Annotation: bueno, ¿qué?, ¿qué?
+    Time Stamp: ("'ts94'", "'ts96'"), Annotation: aari
+    Time Stamp: ("'ts97'", "'ts98'"), Annotation: ari
+    Time Stamp: ("'ts101'", "'ts102'"), Annotation: ali, alli
+    Time Stamp: ("'ts107'", "'ts108'"), Annotation: alli, mismo
+    Time Stamp: ("'ts109'", "'ts111'"), Annotation: alli, alli
+    Time Stamp: ("'ts113'", "'ts114'"), Annotation: ¿alli?
+    Time Stamp: ("'ts118'", "'ts120'"), Annotation: aa
+    Time Stamp: ("'ts122'", "'ts124'"), Annotation: alli migingi
+    Time Stamp: ("'ts135'", "'ts136'"), Annotation: ali, no?
+    Time Stamp: ("'ts141'", "'ts142'"), Annotation: alli
+    Time Stamp: ("'ts145'", "'ts146'"), Annotation: alli
+    Time Stamp: ("'ts153'", "'ts154'"), Annotation: alli mi, je je
+    Time Stamp: ("'ts187'", "'ts188'"), Annotation: a?
+    Time Stamp: ("'ts191'", "'ts192'"), Annotation: imashina, imashina
+    Time Stamp: ("'ts200'", "'ts203'"), Annotation: imashina
+    Time Stamp: ("'ts211'", "'ts212'"), Annotation: alli migani
+    Time Stamp: ("'ts215'", "'ts216'"), Annotation: allimi kangi
+    Time Stamp: ("'ts219'", "'ts220'"), Annotation: alli migani
+    Time Stamp: ("'ts221'", "'ts223'"), Annotation: alli migani
+    Time Stamp: ("'ts229'", "'ts230'"), Annotation: allimi kay gringu
+    Time Stamp: ("'ts231'", "'ts232'"), Annotation: (asijun)
+    Time Stamp: ("'ts245'", "'ts246'"), Annotation: warmi
+    Time Stamp: ("'ts253'", "'ts254'"), Annotation: warmi
+    Time Stamp: ("'ts267'", "'ts268'"), Annotation: kari
+    Time Stamp: ("'ts301'", "'ts302'"), Annotation: jiwa
+    Time Stamp: ("'ts307'", "'ts308'"), Annotation: jiwa para cuy
+    Time Stamp: ("'ts319'", "'ts320'"), Annotation: trenza
+    Time Stamp: ("'ts321'", "'ts322'"), Annotation: chimba
+    Time Stamp: ("'ts331'", "'ts332'"), Annotation: (asijun)
+    Time Stamp: ("'ts347'", "'ts348'"), Annotation: ¿imani?
+    Time Stamp: ("'ts355'", "'ts356'"), Annotation: aa, yo hablaba
+    Time Stamp: ("'ts359'", "'ts361'"), Annotation: mi abuelita
+    Time Stamp: ("'ts373'", "'ts374'"), Annotation: gritando hablaba, wautza
+    Time Stamp: ("'ts376'", "'ts378'"), Annotation: wautza, una hacian en la calle
+    Time Stamp: ("'ts383'", "'ts384'"), Annotation: onnsa
+    Time Stamp: ("'ts385'", "'ts386'"), Annotation: hacian con una calle
+    Time Stamp: ("'ts399'", "'ts400'"), Annotation: wautza
+    Time Stamp: ("'ts404'", "'ts406'"), Annotation: wautzai ....  con un asial makashi
+    Time Stamp: ("'ts439'", "'ts440'"), Annotation: si brava era, con asial seguia
+    Time Stamp: ("'ts441'", "'ts442'"), Annotation: seguia
+    Time Stamp: ("'ts444'", "'ts446'"), Annotation: .... de muchachosca, a vecesca no haciendo caso disque sin comida  hiban
+    Time Stamp: ("'ts449'", "'ts450'"), Annotation: ahi mimo ha de venir al taita, pidiendole subir el pantalonca
+    Time Stamp: ("'ts455'", "'ts456'"), Annotation: no hubiese  hubido comida,  mi abuelita
+    Time Stamp: ("'ts458'", "'ts460'"), Annotation: ahora que hay casa de shanshis, ahi habia asi de guabas
+    Time Stamp: ("'ts461'", "'ts462'"), Annotation: árbol de guabas
+    Time Stamp: ("'ts463'", "'ts464'"), Annotation: yaa ahi sabia estar sentado viendo tienda de Manuel Estevez
+    Time Stamp: ("'ts466'", "'ts469'"), Annotation: ahi habia dentrado culebra de ahica
+    Time Stamp: ("'ts470'", "'ts472'"), Annotation: a mi hermanita asi hizo
+    Time Stamp: ("'ts475'", "'ts476'"), Annotation: aja, por malcriado , entonces, si me das con asialca llorando vuelta
+    Time Stamp: ("'ts477'", "'ts480'"), Annotation: habia sacado ... pantalón... habia macado
+    Time Stamp: ("'ts487'", "'ts488'"), Annotation: wambra malcriado
+    Time Stamp: ("'ts489'", "'ts491'"), Annotation: longo, sobrevillarijun, sobrevillarijun decia
+    Time Stamp: ("'ts492'", "'ts494'"), Annotation: sobrevillarishka Dios cashtiganga... alita culibra waykurka
+    Time Stamp: ("'ts504'", "'ts507'"), Annotation: brava era abuelita
+    Time Stamp: ("'ts513'", "'ts515'"), Annotation: abuelita ......
+    Time Stamp: ("'ts516'", "'ts518'"), Annotation: no he conocido ...
+    Time Stamp: ("'ts536'", "'ts538'"), Annotation: ya se moria pues mi hermana,  llorando, pantalón sacando
+    Time Stamp: ("'ts547'", "'ts548'"), Annotation: mikuy shamuy, Delia
+    Time Stamp: ("'ts551'", "'ts552'"), Annotation: aaa, wambrakuna shamuyshi mikungi
+    Time Stamp: ("'ts567'", "'ts568'"), Annotation: aa, ahi un pozo habia
+    Time Stamp: ("'ts571'", "'ts572'"), Annotation: baña alubre
+    Time Stamp: ("'ts573'", "'ts574'"), Annotation: armay yacube
+    Time Stamp: ("'ts595'", "'ts596'"), Annotation: si
+    Time Stamp: ("'ts597'", "'ts598'"), Annotation: hablaban en kichwa, pero
+    Time Stamp: ("'ts601'", "'ts602'"), Annotation: kawsan
+    Time Stamp: ("'ts615'", "'ts616'"), Annotation: aa
+    Time Stamp: ("'ts617'", "'ts618'"), Annotation: si, si
+    Time Stamp: ("'ts621'", "'ts622'"), Annotation: ah ah, que mi suegra
+    Time Stamp: ("'ts625'", "'ts626'"), Annotation: si sabia hablar
+    Time Stamp: ("'ts629'", "'ts630'"), Annotation: cacho, me decia
+    Time Stamp: ("'ts631'", "'ts632'"), Annotation: cachun mikunata shamuy
+    Time Stamp: ("'ts649'", "'ts650'"), Annotation: nietuwan mikuy mikuy shamuy
+    Time Stamp: ("'ts683'", "'ts684'"), Annotation: ¿A quién?
+    Time Stamp: ("'ts689'", "'ts691'"), Annotation: alabado, decia
+    Time Stamp: ("'ts699'", "'ts700'"), Annotation: yaykungapa
+    Time Stamp: ("'ts705'", "'ts706'"), Annotation: yaykuy yaykuy, niki mikungi
+    Time Stamp: ("'ts719'", "'ts720'"), Annotation: mi tío era guapo
+    Time Stamp: ("'ts721'", "'ts722'"), Annotation: tio ... de mi mama
+    Time Stamp: ("'ts723'", "'ts724'"), Annotation: hacia entrar  llaki llaki ha de estar viniendo
+    Time Stamp: ("'ts725'", "'ts726'"), Annotation: hacia entrar
+    Time Stamp: ("'ts757'", "'ts758'"), Annotation: pilota pukllangabu
+    Time Stamp: ("'ts769'", "'ts770'"), Annotation: imata rrajungui
+    Time Stamp: ("'ts803'", "'ts804'"), Annotation: sara pallingabu
+    Time Stamp: ("'ts815'", "'ts817'"), Annotation: (asijun)
+    Time Stamp: ("'ts821'", "'ts822'"), Annotation: sara tipingapa
+    Time Stamp: ("'ts833'", "'ts834'"), Annotation: muchos son pues
+    Time Stamp: ("'ts841'", "'ts842'"), Annotation: José Rumi, llama
+    Time Stamp: ("'ts845'", "'ts846'"), Annotation: otro llama, Sangobaden
+    Time Stamp: ("'ts849'", "'ts850'"), Annotation: singafila que se llama
+    Time Stamp: ("'ts857'", "'ts858'"), Annotation: intik loma
+    Time Stamp: ("'ts859'", "'ts860'"), Annotation: Trigoloma
+    Time Stamp: ("'ts861'", "'ts862'"), Annotation: Trigolomaka ....
+    Time Stamp: ("'ts895'", "'ts896'"), Annotation: singafilo filo
+    Time Stamp: ("'ts907'", "'ts908'"), Annotation: yaku apamungapa nin
+    Time Stamp: ("'ts919'", "'ts920'"), Annotation: agua
+    Time Stamp: ("'ts922'", "'ts924'"), Annotation: un buldo
+    Time Stamp: ("'ts925'", "'ts926'"), Annotation: mm buldo
+    Time Stamp: ("'ts947'", "'ts948'"), Annotation: yanta aparrin, yantataka... yanta aparrin, jaku yantama, decia
+    Time Stamp: ("'ts981'", "'ts982'"), Annotation: abuelita ....
+    Time Stamp: ("'ts983'", "'ts984'"), Annotation: no andabamos ....
+    Time Stamp: ("'ts987'", "'ts988'"), Annotation: cedazo jatungapa
+    Time Stamp: ("'ts998'", "'ts1001'"), Annotation: ya jatun
+    Time Stamp: ("'ts1002'", "'ts1004'"), Annotation: no, no decian, por donde ...
+    Time Stamp: ("'ts1005'", "'ts1006'"), Annotation: ja japanpi
+    Time Stamp: ("'ts1017'", "'ts1018'"), Annotation: ñawi
+    Time Stamp: ("'ts1023'", "'ts1024'"), Annotation: ja ja, singa
+    Time Stamp: ("'ts1028'", "'ts1029'"), Annotation: rrinrri
+    Time Stamp: ("'ts1031'", "'ts1032'"), Annotation: shimi cara
+    Time Stamp: ("'ts1034'", "'ts1036'"), Annotation: rrinrri
+    Time Stamp: ("'ts1041'", "'ts1042'"), Annotation: dedo
+    Time Stamp: ("'ts1045'", "'ts1046'"), Annotation: ma..mi, maki
+    Time Stamp: ("'ts1047'", "'ts1048'"), Annotation: maki
+    Time Stamp: ("'ts1053'", "'ts1054'"), Annotation: chaki
+    Time Stamp: ("'ts1057'", "'ts1058'"), Annotation: kunguri
+    Time Stamp: ("'ts1067'", "'ts1068'"), Annotation: akcha, akcha
+    Time Stamp: ("'ts1071'", "'ts1072'"), Annotation: die... kiru
+    Time Stamp: ("'ts1077'", "'ts1078'"), Annotation: jallu
+    Time Stamp: ("'ts1096'", "'ts1098'"), Annotation: uma... (asijun)
+    Time Stamp: ("'ts1106'", "'ts1107'"), Annotation: siki
+    Time Stamp: ("'ts1109'", "'ts1110'"), Annotation: kaytushpa
+    Time Stamp: ("'ts1123'", "'ts1124'"), Annotation: puñuy siki
+    Time Stamp: ("'ts1129'", "'ts1130'"), Annotation: shinga
+    Time Stamp: ("'ts1133'", "'ts1134'"), Annotation: shinga
+    Time Stamp: ("'ts1171'", "'ts1172'"), Annotation: trabajando, trabajo.... trabajashun
+    Time Stamp: ("'ts1173'", "'ts1174'"), Annotation: trabajo
+    Time Stamp: ("'ts1175'", "'ts1176'"), Annotation: trabajeshun
+    Time Stamp: ("'ts1181'", "'ts1183'"), Annotation: no haika buscando papas
+    Time Stamp: ("'ts1209'", "'ts1210'"), Annotation: ausha, ausha mikir....mikirkangi ....
+    Time Stamp: ("'ts1211'", "'ts1212'"), Annotation: ausha mikitakarin
+  Tier Type: tn, Annotations Count: 139
+    Time Stamp: ('',), Annotation: (risa)
+    Time Stamp: ('',), Annotation: aaa
+    Time Stamp: ('',), Annotation: Delia Delfina Sánchez
+    Time Stamp: ('',), Annotation: ¿para qué?
+    Time Stamp: ('',), Annotation: tierra
+    Time Stamp: ('',), Annotation: perro
+    Time Stamp: ('',), Annotation: a?
+    Time Stamp: ('',), Annotation: dinero
+    Time Stamp: ('',), Annotation: bueno
+    Time Stamp: ('1',), Annotation: bueno, ¿qué?, ¿qué?
+    Time Stamp: ('1',), Annotation: bueno
+    Time Stamp: ('1',), Annotation: bueno
+    Time Stamp: ('1',), Annotation: bueno, bueno
+    Time Stamp: ('1',), Annotation: bueno, mismo
+    Time Stamp: ('1',), Annotation: bueno, bueno
+    Time Stamp: ('1',), Annotation: ¿bueno?
+    Time Stamp: ('1',), Annotation: aa
+    Time Stamp: ('1',), Annotation: estas bien
+    Time Stamp: ('1',), Annotation: bien, no?
+    Time Stamp: ('2',), Annotation: bien
+    Time Stamp: ('2',), Annotation: bien
+    Time Stamp: ('2',), Annotation: bien esta , je je
+    Time Stamp: ('2',), Annotation: a?
+    Time Stamp: ('2',), Annotation: como es, como es
+    Time Stamp: ('2',), Annotation: ¿como es?
+    Time Stamp: ('2',), Annotation: si estoy bien
+    Time Stamp: ('2',), Annotation: si estoy bien
+    Time Stamp: ('2',), Annotation: si estoy bien
+    Time Stamp: ('2',), Annotation: si estoy bien
+    Time Stamp: ('3',), Annotation: si esta bien este gringo
+    Time Stamp: ('3',), Annotation: (risa)
+    Time Stamp: ('23',), Annotation: mujer
+    Time Stamp: ('23',), Annotation: mujer
+    Time Stamp: ('23',), Annotation: hombre
+    Time Stamp: ('29',), Annotation: hierba
+    Time Stamp: ('29',), Annotation: hierba para cuy
+    Time Stamp: ('29',), Annotation: trenza
+    Time Stamp: ('29',), Annotation: trenza
+    Time Stamp: ('29',), Annotation: (risa)
+    Time Stamp: ('30',), Annotation: ¿qué dijo?
+    Time Stamp: ('30',), Annotation: aa, yo hablaba
+    Time Stamp: ('30',), Annotation: mi abuelita
+    Time Stamp: ('30',), Annotation: gritando hablaba, wautza
+    Time Stamp: ('30',), Annotation: wautza, una hacian en la calle
+    Time Stamp: ('37',), Annotation: donde esta
+    Time Stamp: ('37',), Annotation: hacian con una calle
+    Time Stamp: ('37',), Annotation: wautza
+    Time Stamp: ('38',), Annotation: wautzai ....  con un asial te pego
+    Time Stamp: ('43',), Annotation: si brava era, con asial seguia
+    Time Stamp: ('43',), Annotation: seguia
+    Time Stamp: ('43',), Annotation: .... de muchachosca, a vecesca no haciendo caso disque sin comida  hiban
+    Time Stamp: ('44',), Annotation: ahi mimo ha de venir al taita, pidiendole subir el pantalonca
+    Time Stamp: ('44',), Annotation: no hubiese  hubido comida,  mi abuelita
+    Time Stamp: ('44',), Annotation: ahora que hay casa de shanshis, ahi habia asi de guabas
+    Time Stamp: ('44',), Annotation: árbol de guabas
+    Time Stamp: ('44',), Annotation: yaa ahi sabia estar sentado viendo tienda de Manuel Estevez
+    Time Stamp: ('44',), Annotation: ahi habia dentrado culebra de ahica
+    Time Stamp: ('44',), Annotation: a mi hermanita asi hizo
+    Time Stamp: ('44',), Annotation: aja, por malcriado , entonces, si me das con asialca llorando vuelta
+    Time Stamp: ('47',), Annotation: habia sacado ... pantalón... habia macado
+    Time Stamp: ('47',), Annotation: wambra malcriado
+    Time Stamp: ('47',), Annotation: longo, sobrevillarijun, sobrevillarijun decia
+    Time Stamp: ('47',), Annotation: por soberbio Dios ha de  castigar... que bueno que entro la culebra
+    Time Stamp: ('49',), Annotation: brava era abuelita
+    Time Stamp: ('50',), Annotation: abuelita ......
+    Time Stamp: ('50',), Annotation: no he conocido ...
+    Time Stamp: ('50',), Annotation: ya se moria pues mi hermana,  llorando, pantalón sacando
+    Time Stamp: ('53',), Annotation: venga a comer Delia
+    Time Stamp: ('53',), Annotation: aaa, muchachos vengan a comer
+    Time Stamp: ('55',), Annotation: aa, ahi un pozo habia
+    Time Stamp: ('55',), Annotation: baña alubre
+    Time Stamp: ('55',), Annotation: bañese en el agua
+    Time Stamp: ('59',), Annotation: si
+    Time Stamp: ('59',), Annotation: hablaban en kichwa, pero
+    Time Stamp: ('59',), Annotation: viven
+    Time Stamp: ('60',), Annotation: aa
+    Time Stamp: ('61',), Annotation: si, si
+    Time Stamp: ('61',), Annotation: ah ah, que mi suegra
+    Time Stamp: ('61',), Annotation: si sabia hablar
+    Time Stamp: ('61',), Annotation: cacho, me decia
+    Time Stamp: ('61',), Annotation: nuera, venga a comer
+    Time Stamp: ('63',), Annotation: con el nieto venga a comer comer
+    Time Stamp: ('64',), Annotation: ¿A quién?
+    Time Stamp: ('65',), Annotation: alabado, decia
+    Time Stamp: ('69',), Annotation: para entrar
+    Time Stamp: ('69',), Annotation: entre, entre venga a comer
+    Time Stamp: ('69',), Annotation: mi tío era guapo
+    Time Stamp: ('69',), Annotation: tio ... de mi mama
+    Time Stamp: ('69',), Annotation: hacia entrar, triste triste, ha de estar viniendo
+    Time Stamp: ('69',), Annotation: hacia entrar
+    Time Stamp: ('70',), Annotation: a jugar pelota
+    Time Stamp: ('70',), Annotation: ¿Qué estas haciendo?
+    Time Stamp: ('79',), Annotation: cosecha de maíz
+    Time Stamp: ('79',), Annotation: (risa)
+    Time Stamp: ('79',), Annotation: a deshojar maíz
+    Time Stamp: ('79',), Annotation: muchos son pues
+    Time Stamp: ('79',), Annotation: José Rumi, llama
+    Time Stamp: ('79',), Annotation: otro llama, Sangobaden
+    Time Stamp: ('79',), Annotation: nariz punteaguda, que se llama
+    Time Stamp: ('84',), Annotation: Intik (sol) loma
+    Time Stamp: ('84',), Annotation: Trigoloma
+    Time Stamp: ('84',), Annotation: Loma de trigo
+    Time Stamp: ('88',), Annotation: nariz muy puntiaguda
+    Time Stamp: ('88',), Annotation: se dice a traer agua
+    Time Stamp: ('90',), Annotation: agua
+    Time Stamp: ('90',), Annotation: un buldo
+    Time Stamp: ('90',), Annotation: mm buldo
+    Time Stamp: ('93',), Annotation: cargar leña, la leña, cargar leña, vamos  a cargar leña
+    Time Stamp: ('97',), Annotation: abuelita ....
+    Time Stamp: ('97',), Annotation: no andabamos ....
+    Time Stamp: ('97',), Annotation: a vender cedazos
+    Time Stamp: ('97',), Annotation: ya vender
+    Time Stamp: ('97',), Annotation: no, no decian, por donde ...
+    Time Stamp: ('98',), Annotation: a la venta
+    Time Stamp: ('98',), Annotation: ojos
+    Time Stamp: ('98',), Annotation: ja ja nariz
+    Time Stamp: ('98',), Annotation: oreja
+    Time Stamp: ('98',), Annotation: labios
+    Time Stamp: ('102',), Annotation: oreja
+    Time Stamp: ('103',), Annotation: dedo
+    Time Stamp: ('103',), Annotation: ma..mi, mano
+    Time Stamp: ('103',), Annotation: mano
+    Time Stamp: ('103',), Annotation: pie
+    Time Stamp: ('103',), Annotation: rodilla
+    Time Stamp: ('103',), Annotation: cabello, pelo
+    Time Stamp: ('103',), Annotation: die... diente
+    Time Stamp: ('104',), Annotation: lengua
+    Time Stamp: ('104',), Annotation: cabeza... (riendo)
+    Time Stamp: ('109',), Annotation: nalga
+    Time Stamp: ('109',), Annotation: mordiendo
+    Time Stamp: ('109',), Annotation: dormilón
+    Time Stamp: ('110',), Annotation: borracho
+    Time Stamp: ('110',), Annotation: borracho
+    Time Stamp: ('116',), Annotation: trabajando, trabajo.... trabajemos
+    Time Stamp: ('116',), Annotation: trabajo
+    Time Stamp: ('116',), Annotation: trabajemos
+    Time Stamp: ('116',), Annotation: no ahi buscando papas
+    Time Stamp: ('116',), Annotation: tejer, tejer a comer
+    Time Stamp: ('116',), Annotation: tejer y a comer
+  Tier Type: dt, Annotations Count: 84
+    Time Stamp: ('',), Annotation: (asihun)
+    Time Stamp: ('',), Annotation: aaa
+    Time Stamp: ('',), Annotation: Delia Delfina Sánchez
+    Time Stamp: ('',), Annotation: imapa
+    Time Stamp: ('',), Annotation: alpa
+    Time Stamp: ('',), Annotation: ashku
+    Time Stamp: ('',), Annotation: a?
+    Time Stamp: ('',), Annotation: kushki
+    Time Stamp: ('',), Annotation: ali
+    Time Stamp: ('1',), Annotation: bueno, ¿qué?, ¿qué?
+    Time Stamp: ('1',), Annotation: aari
+    Time Stamp: ('1',), Annotation: ari
+    Time Stamp: ('1',), Annotation: ali alli
+    Time Stamp: ('1',), Annotation: alli, mismo
+    Time Stamp: ('1',), Annotation: alli, alli
+    Time Stamp: ('1',), Annotation: ¿alli?
+    Time Stamp: ('1',), Annotation: aa
+    Time Stamp: ('1',), Annotation: allimikanki
+    Time Stamp: ('1',), Annotation: ali, no?
+    Time Stamp: ('2',), Annotation: alli
+    Time Stamp: ('2',), Annotation: alli
+    Time Stamp: ('2',), Annotation: allimi
+    Time Stamp: ('2',), Annotation: a
+    Time Stamp: ('2',), Annotation: imashina, imashina
+    Time Stamp: ('2',), Annotation: imashina
+    Time Stamp: ('2',), Annotation: allimi kani
+    Time Stamp: ('2',), Annotation: allimikani
+    Time Stamp: ('2',), Annotation: allimi kani
+    Time Stamp: ('2',), Annotation: allimi kani
+    Time Stamp: ('3',), Annotation: allimi kay grinku
+    Time Stamp: ('23',), Annotation: warmi
+    Time Stamp: ('23',), Annotation: warmi
+    Time Stamp: ('23',), Annotation: kari
+    Time Stamp: ('29',), Annotation: hiwa
+    Time Stamp: ('29',), Annotation: hiwa para cuy
+    Time Stamp: ('29',), Annotation: trenza
+    Time Stamp: ('29',), Annotation: chimba
+    Time Stamp: ('30',), Annotation: imanin
+    Time Stamp: ('30',), Annotation: aa, yo hablaba
+    Time Stamp: ('30',), Annotation: mi abuelita
+    Time Stamp: ('30',), Annotation: gritando hablaba, wautza
+    Time Stamp: ('30',), Annotation: wautza, una hacian en la calle
+    Time Stamp: ('37',), Annotation: donde esta
+    Time Stamp: ('37',), Annotation: hacian con una calle
+    Time Stamp: ('37',), Annotation: wautza
+    Time Stamp: ('38',), Annotation: wautzai ... con un asial makashi
+    Time Stamp: ('43',), Annotation: si brava era, con asial seguia
+    Time Stamp: ('43',), Annotation: seguia
+    Time Stamp: ('43',), Annotation: .... de muchachosca, a vecesca no haciendo caso disque sin comida  hiban
+    Time Stamp: ('44',), Annotation: ahi mismo ha de venir al taita, pidiendole subir el pantalonka
+    Time Stamp: ('44',), Annotation: no hubiese  hubido comida,  mi abuelita
+    Time Stamp: ('44',), Annotation: ahora que hay casa de shanshis, ahi habia asi de guabas
+    Time Stamp: ('44',), Annotation: árbol de guabas
+    Time Stamp: ('44',), Annotation: yaa ahi sabia estar sentado viendo tienda de Manuel Estevez
+    Time Stamp: ('44',), Annotation: ahi habia dentrado culebra de ahika
+    Time Stamp: ('44',), Annotation: a mi hermanita asi hizo
+    Time Stamp: ('47',), Annotation: sobrevillarishka Dios Kashtikanka... alita culibra waykurka
+    Time Stamp: ('53',), Annotation: wamprakuna shamuyshi mikunki
+    Time Stamp: ('55',), Annotation: armay yakupi
+    Time Stamp: ('61',), Annotation: hachun mikunata shamuy
+    Time Stamp: ('63',), Annotation: nietuwan mikuy mikuy shamuy
+    Time Stamp: ('69',), Annotation: yaykunkapa
+    Time Stamp: ('69',), Annotation: yaykuy yaykuy, niki mikunki
+    Time Stamp: ('70',), Annotation: pilota pukllankapa
+    Time Stamp: ('70',), Annotation: imata rrakunki
+    Time Stamp: ('79',), Annotation: sara pallankapa
+    Time Stamp: ('79',), Annotation: sara tipinkapa
+    Time Stamp: ('79',), Annotation: Joserumi
+    Time Stamp: ('79',), Annotation: sinkahila, que se llama
+    Time Stamp: ('84',), Annotation: Trigolomaka
+    Time Stamp: ('88',), Annotation: yaku apamunkapa nin
+    Time Stamp: ('93',), Annotation: yanta aparrin, yantataka...yanta aparrin, haku yantama, decia
+    Time Stamp: ('97',), Annotation: cedazo hatunkapa
+    Time Stamp: ('98',), Annotation: sinka
+    Time Stamp: ('98',), Annotation: shimi (cara)
+    Time Stamp: ('103',), Annotation: kunkuri
+    Time Stamp: ('104',), Annotation: hallu
+    Time Stamp: ('109',), Annotation: kaytushpa
+    Time Stamp: ('110',), Annotation: shinka
+    Time Stamp: ('110',), Annotation: shinka
+    Time Stamp: ('116',), Annotation: trabajando, trabajo....trabajashu
+    Time Stamp: ('116',), Annotation: trabajashun
+    Time Stamp: ('116',), Annotation: ausha, ausha mikir... mikirkanki
+    Time Stamp: ('116',), Annotation: ausha mikitakarin
+  Tier Type: mb, Annotations Count: 75
+    Time Stamp: ('',), Annotation: (asihun)
+    Time Stamp: ('',), Annotation: aaa
+    Time Stamp: ('',), Annotation: Delia Delfina Sánchez
+    Time Stamp: ('',), Annotation: ima-pa
+    Time Stamp: ('',), Annotation: alpa
+    Time Stamp: ('',), Annotation: ashku
+    Time Stamp: ('',), Annotation: a
+    Time Stamp: ('',), Annotation: kushki
+    Time Stamp: ('',), Annotation: ali
+    Time Stamp: ('1',), Annotation: bueno, ¿qué?, ¿qué?
+    Time Stamp: ('1',), Annotation: aari
+    Time Stamp: ('1',), Annotation: ari
+    Time Stamp: ('1',), Annotation: ali, ali
+    Time Stamp: ('1',), Annotation: alli, mismo
+    Time Stamp: ('1',), Annotation: alli, alli
+    Time Stamp: ('1',), Annotation: alli
+    Time Stamp: ('1',), Annotation: aa
+    Time Stamp: ('1',), Annotation: alli-mi-ka-nki
+    Time Stamp: ('1',), Annotation: ali, no?
+    Time Stamp: ('2',), Annotation: alli
+    Time Stamp: ('2',), Annotation: alli
+    Time Stamp: ('2',), Annotation: alli-mi
+    Time Stamp: ('2',), Annotation: a
+    Time Stamp: ('2',), Annotation: ima-shi-na, ima-shi-na
+    Time Stamp: ('2',), Annotation: ima-shi-na
+    Time Stamp: ('2',), Annotation: alli-mi ka-ni
+    Time Stamp: ('2',), Annotation: alli-mi-ka-ni
+    Time Stamp: ('2',), Annotation: alli-mi ka-ni
+    Time Stamp: ('2',), Annotation: alli-mi ka-ni
+    Time Stamp: ('3',), Annotation: alli-mi kay grin-ku
+    Time Stamp: ('23',), Annotation: warmi
+    Time Stamp: ('23',), Annotation: warmi
+    Time Stamp: ('23',), Annotation: kari
+    Time Stamp: ('29',), Annotation: hiwa
+    Time Stamp: ('29',), Annotation: hiwa para cuy
+    Time Stamp: ('29',), Annotation: trenza
+    Time Stamp: ('29',), Annotation: chimba
+    Time Stamp: ('30',), Annotation: ima-ni-n
+    Time Stamp: ('30',), Annotation: aa, yo hablaba
+    Time Stamp: ('30',), Annotation: mi abuelita
+    Time Stamp: ('30',), Annotation: gritando hablaba, wautza
+    Time Stamp: ('30',), Annotation: wautza, una hacian en la calle
+    Time Stamp: ('37',), Annotation: donde esta
+    Time Stamp: ('37',), Annotation: hacian con una calle
+    Time Stamp: ('37',), Annotation: wautza
+    Time Stamp: ('38',), Annotation: maka-shi
+    Time Stamp: ('43',), Annotation: si brava era, con asial seguia
+    Time Stamp: ('43',), Annotation: seguia
+    Time Stamp: ('43',), Annotation: .... de muchachosca, a vecesca no haciendo caso disque sin comida  hiban
+    Time Stamp: ('44',), Annotation: ahi mismo ha de venir al taita, pidiendole subir el pantalon-ka
+    Time Stamp: ('44',), Annotation: no hubiese  hubido comida,  mi abuelita
+    Time Stamp: ('44',), Annotation: ahora que hay casa de shanshis, ahi habia asi de guabas
+    Time Stamp: ('44',), Annotation: árbol de guabas
+    Time Stamp: ('44',), Annotation: yaa ahi sabia estar sentado viendo tienda de Manuel Estevez
+    Time Stamp: ('44',), Annotation: ahi habia dentrado culebra de ahi-ka
+    Time Stamp: ('44',), Annotation: a mi hermanita asi hizo
+    Time Stamp: ('47',), Annotation: sobrevillari-shka  Dios kashti-kan-ka ... ali-ta culibra wayku-rka
+    Time Stamp: ('53',), Annotation: wampra-kuna shamuy-shi miku-nki
+    Time Stamp: ('55',), Annotation: armay yaku-pi
+    Time Stamp: ('61',), Annotation: hachun mikuna-ta shamuy
+    Time Stamp: ('69',), Annotation: yayku-nka-pa
+    Time Stamp: ('69',), Annotation: yaykuy, yaykuy, niki miku-nki
+    Time Stamp: ('70',), Annotation: pilota puklla-nka-pa
+    Time Stamp: ('70',), Annotation: ima-ta rraku-nki
+    Time Stamp: ('79',), Annotation: sara palla-nka-pa
+    Time Stamp: ('79',), Annotation: sara tipi-nka-pa
+    Time Stamp: ('84',), Annotation: Trigoloma-ka
+    Time Stamp: ('88',), Annotation: yaku apamu-nka-pa
+    Time Stamp: ('93',), Annotation: yanta aparrin, yanta-ta-ka... yanta aparrin, haku yanta-ma, decia
+    Time Stamp: ('97',), Annotation: cedazo hatu-nka-pa
+    Time Stamp: ('109',), Annotation: kaytu-shpa
+    Time Stamp: ('116',), Annotation: trabaja-shun
+    Time Stamp: ('116',), Annotation: trabaja-shun
+    Time Stamp: ('116',), Annotation: ausha, ausha mikir... mikir-ka-nki
+    Time Stamp: ('116',), Annotation: ausha miki-ta-ka-rin
+  Tier Type: gl, Annotations Count: 75
+    Time Stamp: ('156',), Annotation: (risa)
+    Time Stamp: ('157',), Annotation: aaa
+    Time Stamp: ('157',), Annotation: Delia Delfina Sánchez
+    Time Stamp: ('158',), Annotation: qué-HON
+    Time Stamp: ('158',), Annotation: tierra
+    Time Stamp: ('149',), Annotation: perro
+    Time Stamp: ('158',), Annotation: a
+    Time Stamp: ('151',), Annotation: dinero
+    Time Stamp: ('151',), Annotation: bueno
+    Time Stamp: ('158',), Annotation: bueno, ¿qué?, ¿qué?
+    Time Stamp: ('151',), Annotation: bueno
+    Time Stamp: ('152',), Annotation: bueno
+    Time Stamp: ('158',), Annotation: bueno bueno
+    Time Stamp: ('163',), Annotation: alli, mismo
+    Time Stamp: ('163',), Annotation: bueno bueno
+    Time Stamp: ('164',), Annotation: bueno
+    Time Stamp: ('164',), Annotation: aa
+    Time Stamp: ('122',), Annotation: bien-AF.EV-FOC-2
+    Time Stamp: ('165',), Annotation: bien, no?
+    Time Stamp: ('166',), Annotation: bien
+    Time Stamp: ('167',), Annotation: bien
+    Time Stamp: ('122',), Annotation: bien-AF.EV
+    Time Stamp: ('169',), Annotation: a
+    Time Stamp: ('122',), Annotation: cómo-SPEC-NMLZ, cómo-SPEC-NMLZ
+    Time Stamp: ('169',), Annotation: como-SPEC-INF
+    Time Stamp: ('122',), Annotation: bien-AF.EV-FOC-1
+    Time Stamp: ('122',), Annotation: bien-AF.EV-FOC-1
+    Time Stamp: ('122',), Annotation: bien-AF.EV-FOC-1
+    Time Stamp: ('122',), Annotation: bien-AF.EV-FOC-1
+    Time Stamp: ('125',), Annotation: bien-AF.EV-este-extranjero-DIM
+    Time Stamp: ('173',), Annotation: mujer
+    Time Stamp: ('173',), Annotation: mujer
+    Time Stamp: ('177',), Annotation: hombre
+    Time Stamp: ('180',), Annotation: hierba
+    Time Stamp: ('180',), Annotation: hiwa para cuy
+    Time Stamp: ('182',), Annotation: trenza
+    Time Stamp: ('182',), Annotation: trenza
+    Time Stamp: ('127',), Annotation: qué-1-3
+    Time Stamp: ('185',), Annotation: aa, yo hablaba
+    Time Stamp: ('185',), Annotation: mi abuelita
+    Time Stamp: ('189',), Annotation: gritando hablaba, wautza
+    Time Stamp: ('189',), Annotation: wautza, una hacian en la calle
+    Time Stamp: ('189',), Annotation: donde esta
+    Time Stamp: ('189',), Annotation: hacian con una calle
+    Time Stamp: ('189',), Annotation: wautza
+    Time Stamp: ('127',), Annotation: pegar-SPEC
+    Time Stamp: ('193',), Annotation: si brava era, con asial seguia
+    Time Stamp: ('193',), Annotation: seguia
+    Time Stamp: ('193',), Annotation: .... de muchachosca, a vecesca no haciendo caso disque sin comida  hiban
+    Time Stamp: ('196',), Annotation: ahi mismo ha de venir al taita, pidiendole subir el pantalon-FOC
+    Time Stamp: ('196',), Annotation: no hubiese  hubido comida,  mi abuelita
+    Time Stamp: ('196',), Annotation: ahora que hay casa de shanshis, ahi habia asi de guabas
+    Time Stamp: ('196',), Annotation: árbol de guabas
+    Time Stamp: ('196',), Annotation: yaa ahi sabia estar sentado viendo tienda de Manuel Estevez
+    Time Stamp: ('196',), Annotation: ahi habia dentrado culebra de ahi-FOC
+    Time Stamp: ('196',), Annotation: a mi hermanita asi hizo
+    Time Stamp: ('127',), Annotation: por soberbia-PFV Dios kashti-ka-nka   bien-AC,ACC culebra entro-PAST
+    Time Stamp: ('132',), Annotation: niños-PL-vengan-SPEC-comer-2
+    Time Stamp: ('132',), Annotation: bañar agua-LOC
+    Time Stamp: ('132',), Annotation: nuera comida-AC,ACC venga
+    Time Stamp: ('132',), Annotation: entrar-3FUT-HON
+    Time Stamp: ('132',), Annotation: entra, entra, comer-2
+    Time Stamp: ('137',), Annotation: pelota jugar-3FUT-HON
+    Time Stamp: ('137',), Annotation: qué-AC, ACC-hacer-2
+    Time Stamp: ('137',), Annotation: maíz recojer-3FUT-HON
+    Time Stamp: ('138',), Annotation: maíz deshojar-3FUT-HON
+    Time Stamp: ('138',), Annotation: loma de trigo-FOC
+    Time Stamp: ('138',), Annotation: agua traer-3FUT-HON
+    Time Stamp: ('138',), Annotation: leña, traer, leña-AC,ACC-FOC... leña a traer, vamos leña-COND, decia
+    Time Stamp: ('138',), Annotation: cedazo vender-3FUT-HON
+    Time Stamp: ('138',), Annotation: morder-SR
+    Time Stamp: ('138',), Annotation: trabajo-1PL.FUT
+    Time Stamp: ('138',), Annotation: trabajo-1PL.FUT
+    Time Stamp: ('138',), Annotation: tejer, tejer comer-FOC-2
+    Time Stamp: ('138',), Annotation: tejer comer-AC, ACC-FOC-RFLX
+Speaker: Lucia
+  Tier Type: po, Annotations Count: 196
+    Time Stamp: ("'ts3'", "'ts4'"), Annotation: Joyta anda peinate
+    Time Stamp: ("'ts9'", "'ts11'"), Annotation: haber ya, ¡ya mami!
+    Time Stamp: ("'ts13'", "'ts15'"), Annotation: ya mismo
+    Time Stamp: ("'ts21'", "'ts22'"), Annotation: ima shuti kangi, dice, el nombre mami
+    Time Stamp: ("'ts33'", "'ts34'"), Annotation: Lucia Chalco
+    Time Stamp: ("'ts47'", "'ts48'"), Annotation: como se dice tierra, en kichwa
+    Time Stamp: ("'ts55'", "'ts56'"), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ("'ts63'", "'ts65'"), Annotation: ¿la plata?
+    Time Stamp: ("'ts73'", "'ts74'"), Annotation: ¿la plata?, ¿como se dice?
+    Time Stamp: ("'ts84'", "'ts86'"), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ("'ts91'", "'ts92'"), Annotation: en kichwa, ¿bueno?
+    Time Stamp: ("'ts103'", "'ts104'"), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ("'ts110'", "'ts112'"), Annotation: alli, dice
+    Time Stamp: ("'ts117'", "'ts119'"), Annotation: alli migingi,¿ no dicen?
+    Time Stamp: ("'ts126'", "'ts128'"), Annotation: bien estas
+    Time Stamp: ("'ts137'", "'ts138'"), Annotation: ¿Y para decir a Armando, por ejemplo?
+    Time Stamp: ("'ts139'", "'ts140'"), Annotation: ¿Si esta bien, cómo puede decirle?
+    Time Stamp: ("'ts143'", "'ts144'"), Annotation: ¿alli, kingi?
+    Time Stamp: ("'ts151'", "'ts152'"), Annotation: alli, kingi
+    Time Stamp: ("'ts155'", "'ts156'"), Annotation: alli kingi
+    Time Stamp: ("'ts159'", "'ts161'"), Annotation: alli, ginge
+    Time Stamp: ("'ts164'", "'ts166'"), Annotation: ginge
+    Time Stamp: ("'ts174'", "'ts177'"), Annotation: ¿estas bien?
+    Time Stamp: ("'ts185'", "'ts186'"), Annotation: mami
+    Time Stamp: ("'ts189'", "'ts190'"), Annotation: y para preguntar, ¿Cómo esta?
+    Time Stamp: ("'ts195'", "'ts196'"), Annotation: ima shina ginge
+    Time Stamp: ("'ts198'", "'ts201'"), Annotation: shina ginge
+    Time Stamp: ("'ts207'", "'ts208'"), Annotation: ali migin, ali
+    Time Stamp: ("'ts209'", "'ts210'"), Annotation: ¿Y como tiene que contestar?
+    Time Stamp: ("'ts217'", "'ts218'"), Annotation: alli migani
+    Time Stamp: ("'ts222'", "'ts224'"), Annotation: alli migani
+    Time Stamp: ("'ts233'", "'ts234'"), Annotation: Joa peinate
+    Time Stamp: ("'ts243'", "'ts244'"), Annotation: ¿Cómo puede decir mujer y hombre?
+    Time Stamp: ("'ts249'", "'ts250'"), Annotation: ¿Y hombre?
+    Time Stamp: ("'ts251'", "'ts252'"), Annotation: jari
+    Time Stamp: ("'ts256'", "'ts258'"), Annotation: ¿Y hombre?
+    Time Stamp: ("'ts263'", "'ts265'"), Annotation: hombre, hombre
+    Time Stamp: ("'ts269'", "'ts271'"), Annotation: jari
+    Time Stamp: ("'ts277'", "'ts278'"), Annotation: jari
+    Time Stamp: ("'ts283'", "'ts284'"), Annotation: kari
+    Time Stamp: ("'ts291'", "'ts292'"), Annotation: aja
+    Time Stamp: ("'ts299'", "'ts300'"), Annotation: ¿la hierba para los cuyes?
+    Time Stamp: ("'ts304'", "'ts306'"), Annotation: jiwa
+    Time Stamp: ("'ts317'", "'ts318'"), Annotation: ¿La trenza?
+    Time Stamp: ("'ts326'", "'ts328'"), Annotation: (asijun)
+    Time Stamp: ("'ts335'", "'ts336'"), Annotation: ha sabido todo, dice
+    Time Stamp: ("'ts337'", "'ts338'"), Annotation: contestele en kichwa, mami
+    Time Stamp: ("'ts339'", "'ts340'"), Annotation: ha sabido todo, dice
+    Time Stamp: ("'ts341'", "'ts342'"), Annotation: ali, diga
+    Time Stamp: ("'ts349'", "'ts350'"), Annotation: imanindi
+    Time Stamp: ("'ts353'", "'ts354'"), Annotation: ¿Cuándo era pequeña usted, hablaba kichwa?
+    Time Stamp: ("'ts357'", "'ts358'"), Annotation: ¿Con quién?
+    Time Stamp: ("'ts365'", "'ts367'"), Annotation: mamita
+    Time Stamp: ("'ts369'", "'ts370'"), Annotation: se acuerda que no mas decia su abuelita, hableme  mamacita
+    Time Stamp: ("'ts371'", "'ts372'"), Annotation: ¿Qué nomas decia?
+    Time Stamp: ("'ts375'", "'ts377'"), Annotation: ¿wautza?
+    Time Stamp: ("'ts381'", "'ts382'"), Annotation: otra vez mamita
+    Time Stamp: ("'ts387'", "'ts388'"), Annotation: dice wawa con asial te voy a pegar, ahora te voy a pegar
+    Time Stamp: ("'ts390'", "'ts393'"), Annotation: te voy a castigar
+    Time Stamp: ("'ts397'", "'ts398'"), Annotation: haber otra vez mamita
+    Time Stamp: ("'ts401'", "'ts402'"), Annotation: watza, waiza
+    Time Stamp: ("'ts403'", "'ts405'"), Annotation: uno asialta makashi
+    Time Stamp: ("'ts412'", "'ts415'"), Annotation: makashi disque ha sido pegar
+    Time Stamp: ("'ts419'", "'ts420'"), Annotation: juno quiere decir ahora
+    Time Stamp: ("'ts423'", "'ts424'"), Annotation: juno makashi
+    Time Stamp: ("'ts429'", "'ts430'"), Annotation: asialta kuno makashi
+    Time Stamp: ("'ts432'", "'ts434'"), Annotation: el asial es el boyero que llamaban antes
+    Time Stamp: ("'ts437'", "'ts438'"), Annotation: Mami, ¿Era brava la abuelita?
+    Time Stamp: ("'ts447'", "'ts448'"), Annotation: yaa
+    Time Stamp: ("'ts452'", "'ts454'"), Annotation: por malcriado
+    Time Stamp: ("'ts457'", "'ts459'"), Annotation: llamame
+    Time Stamp: ("'ts473'", "'ts474'"), Annotation: por ma... por malcriado
+    Time Stamp: ("'ts481'", "'ts483'"), Annotation: mmm
+    Time Stamp: ("'ts484'", "'ts486'"), Annotation: Ya, ¿Algo mas que decia la abuelita en kichwa? mami
+    Time Stamp: ("'ts495'", "'ts496'"), Annotation: aaaa  ya
+    Time Stamp: ("'ts499'", "'ts500'"), Annotation: longoso como micunara  sober , sobevirca, dice
+    Time Stamp: ("'ts503'", "'ts505'"), Annotation: allita culebra no
+    Time Stamp: ("'ts506'", "'ts508'"), Annotation: yaykurka
+    Time Stamp: ("'ts509'", "'ts510'"), Annotation: yaykurka
+    Time Stamp: ("'ts520'", "'ts522'"), Annotation: no ha querido comer
+    Time Stamp: ("'ts540'", "'ts542'"), Annotation: ya mamita, que mas decia?  ¿Qué mas decia la abuelita?
+    Time Stamp: ("'ts544'", "'ts546'"), Annotation: mamita, ¿ Y como le llamaba la abuelita a usted?
+    Time Stamp: ("'ts549'", "'ts550'"), Annotation: no! ¿Cómo le llamaba para que venga a comer?
+    Time Stamp: ("'ts553'", "'ts554'"), Annotation: yaa
+    Time Stamp: ("'ts556'", "'ts558'"), Annotation: shamuychi mikungi
+    Time Stamp: ("'ts561'", "'ts562'"), Annotation: wambraguna shamuy mukungi
+    Time Stamp: ("'ts565'", "'ts566'"), Annotation: ¿Y cuándo le  decia que se bañe?
+    Time Stamp: ("'ts569'", "'ts570'"), Annotation: yaa
+    Time Stamp: ("'ts575'", "'ts576'"), Annotation: armay yacube
+    Time Stamp: ("'ts581'", "'ts582'"), Annotation: osea, agubri yacube
+    Time Stamp: ("'ts593'", "'ts594'"), Annotation: ¿Y había vecinos que hablaban kichwa también?
+    Time Stamp: ("'ts599'", "'ts600'"), Annotation: ¿Quién nomas?
+    Time Stamp: ("'ts605'", "'ts606'"), Annotation: claro
+    Time Stamp: ("'ts607'", "'ts608'"), Annotation: mami
+    Time Stamp: ("'ts609'", "'ts610'"), Annotation: ¿Y cuando vino a vivir con mamita Rosita?
+    Time Stamp: ("'ts611'", "'ts612'"), Annotation: ja
+    Time Stamp: ("'ts613'", "'ts614'"), Annotation: mamá Rosita ¿Hablaba bastante el kichwa?
+    Time Stamp: ("'ts619'", "'ts620'"), Annotation: abuelita
+    Time Stamp: ("'ts623'", "'ts624'"), Annotation: exacto
+    Time Stamp: ("'ts627'", "'ts628'"), Annotation: ¿Qué le decia a usted?
+    Time Stamp: ("'ts636'", "'ts638'"), Annotation: cachun miquishpa
+    Time Stamp: ("'ts661'", "'ts662'"), Annotation: que vengas a comer la comida
+    Time Stamp: ("'ts677'", "'ts678'"), Annotation: ya
+    Time Stamp: ("'ts679'", "'ts680'"), Annotation: mami, cuando usted iba a otras casas
+    Time Stamp: ("'ts681'", "'ts682'"), Annotation: ¿Cómo decia en kichwa para entrar?
+    Time Stamp: ("'ts685'", "'ts686'"), Annotation: para entrar a .. por ejemplo se iba a visitar
+    Time Stamp: ("'ts687'", "'ts688'"), Annotation: a otras casas, ¿Qué decia usted en kichwa para entrar?
+    Time Stamp: ("'ts692'", "'ts694'"), Annotation: alaba
+    Time Stamp: ("'ts703'", "'ts704'"), Annotation: ¿Y que decia la otra persona, mami?
+    Time Stamp: ("'ts711'", "'ts712'"), Annotation: yaykuy yaykuy
+    Time Stamp: ("'ts713'", "'ts714'"), Annotation: miki mikungi .... entre para que coma la comida
+    Time Stamp: ("'ts715'", "'ts716'"), Annotation: ya
+    Time Stamp: ("'ts717'", "'ts718'"), Annotation: algo más
+    Time Stamp: ("'ts727'", "'ts728'"), Annotation: yaaa
+    Time Stamp: ("'ts729'", "'ts730'"), Annotation: algo mas le preguntamos
+    Time Stamp: ("'ts743'", "'ts744'"), Annotation: preguntale a mamita en killu
+    Time Stamp: ("'ts747'", "'ts748'"), Annotation: ¿Qué mas se puede, preguntar?
+    Time Stamp: ("'ts753'", "'ts754'"), Annotation: mami
+    Time Stamp: ("'ts755'", "'ts756'"), Annotation: Y en kichwa ¿Cómo se dice para ir a jugar futbol?
+    Time Stamp: ("'ts761'", "'ts762'"), Annotation: pilota pukllinga....
+    Time Stamp: ("'ts771'", "'ts772'"), Annotation: eeeso, muy bien
+    Time Stamp: ("'ts773'", "'ts774'"), Annotation: ya ves papito, preguntale tú también, mamita dile
+    Time Stamp: ("'ts775'", "'ts776'"), Annotation: eeee
+    Time Stamp: ("'ts779'", "'ts781'"), Annotation: claaro
+    Time Stamp: ("'ts791'", "'ts792'"), Annotation: michirkangui, wagraguna rikungui
+    Time Stamp: ("'ts795'", "'ts796'"), Annotation: ¿mande?
+    Time Stamp: ("'ts800'", "'ts802'"), Annotation: para ir a cosechar maíz ¿Cómo decian en kichwa mami?
+    Time Stamp: ("'ts806'", "'ts809'"), Annotation: sara pallingaba
+    Time Stamp: ("'ts819'", "'ts820'"), Annotation: no, eso es bajar
+    Time Stamp: ("'ts823'", "'ts824'"), Annotation: yaa, ¿algo más?
+    Time Stamp: ("'ts827'", "'ts828'"), Annotation: claaaro, mami
+    Time Stamp: ("'ts831'", "'ts832'"), Annotation: cuando se hiban arriba a cosechar ¿Cuáles nomas eran los nombres de los cerros?
+    Time Stamp: ("'ts835'", "'ts836'"), Annotation: no no, los cerros
+    Time Stamp: ("'ts838'", "'ts840'"), Annotation: cerros, ¿Cómo se llama?
+    Time Stamp: ("'ts843'", "'ts844'"), Annotation: ya
+    Time Stamp: ("'ts847'", "'ts848'"), Annotation: ya
+    Time Stamp: ("'ts851'", "'ts853'"), Annotation: singapila
+    Time Stamp: ("'ts855'", "'ts856'"), Annotation: hay otro Pintik loma
+    Time Stamp: ("'ts863'", "'ts864'"), Annotation: ya
+    Time Stamp: ("'ts867'", "'ts868'"), Annotation: Trigoloma
+    Time Stamp: ("'ts870'", "'ts873'"), Annotation: Intikloma
+    Time Stamp: ("'ts875'", "'ts876'"), Annotation: Singafilo
+    Time Stamp: ("'ts879'", "'ts880'"), Annotation: aja
+    Time Stamp: ("'ts881'", "'ts883'"), Annotation: filo
+    Time Stamp: ("'ts884'", "'ts885'"), Annotation: singafilo ni
+    Time Stamp: ("'ts886'", "'ts887'"), Annotation: singafilo
+    Time Stamp: ("'ts890'", "'ts893'"), Annotation: aja
+    Time Stamp: ("'ts897'", "'ts898'"), Annotation: umm
+    Time Stamp: ("'ts899'", "'ts900'"), Annotation: ya, algo mas
+    Time Stamp: ("'ts901'", "'ts902'"), Annotation: mami
+    Time Stamp: ("'ts903'", "'ts904'"), Annotation: antes no habia agua, ¿Cómo decia en kichwa para que vaya a traer agua?
+    Time Stamp: ("'ts909'", "'ts910'"), Annotation: yaku apungabu ringui
+    Time Stamp: ("'ts914'", "'ts917'"), Annotation: waiko es quebrada
+    Time Stamp: ("'ts921'", "'ts923'"), Annotation: cubo tenemos
+    Time Stamp: ("'ts927'", "'ts928'"), Annotation: ubuldu, un sitio donde habia una vertiente se llamaba ubuldu
+    Time Stamp: ("'ts931'", "'ts932'"), Annotation: aja
+    Time Stamp: ("'ts934'", "'ts936'"), Annotation: mas allá, mas allá
+    Time Stamp: ("'ts943'", "'ts944'"), Annotation: mami
+    Time Stamp: ("'ts945'", "'ts946'"), Annotation: y para ir los sábados a coger leña, en kichwa ¿Cómo?¿Cómo decia mi abuelita?
+    Time Stamp: ("'ts951'", "'ts953'"), Annotation: kuyantama
+    Time Stamp: ("'ts959'", "'ts960'"), Annotation: algo mas
+    Time Stamp: ("'ts967'", "'ts968'"), Annotation: alguna otra cosa que quiera preguntar usted
+    Time Stamp: ("'ts969'", "'ts970'"), Annotation: y le podemos
+    Time Stamp: ("'ts972'", "'ts974'"), Annotation: a ya
+    Time Stamp: ("'ts975'", "'ts976'"), Annotation: mami
+    Time Stamp: ("'ts977'", "'ts978'"), Annotation: en kichwa la abuelita ¿Cómo decia?
+    Time Stamp: ("'ts979'", "'ts980'"), Annotation: cuando hiban a vender cedazo
+    Time Stamp: ("'ts985'", "'ts986'"), Annotation: pero como se, ¿Cómo decian en kichwa?
+    Time Stamp: ("'ts999'", "'ts1003'"), Annotation: jatunba, jatunbawa
+    Time Stamp: ("'ts1013'", "'ts1014'"), Annotation: mami
+    Time Stamp: ("'ts1015'", "'ts1016'"), Annotation: en kichwa los ojos ¿Cómo se dicen?
+    Time Stamp: ("'ts1021'", "'ts1022'"), Annotation: ¿La nariz?
+    Time Stamp: ("'ts1025'", "'ts1026'"), Annotation: ¿de la boca?
+    Time Stamp: ("'ts1039'", "'ts1040'"), Annotation: mami, ¿las manos?
+    Time Stamp: ("'ts1043'", "'ts1044'"), Annotation: no, ¿En kichwa la mano?
+    Time Stamp: ("'ts1051'", "'ts1052'"), Annotation: ¿El pie?
+    Time Stamp: ("'ts1063'", "'ts1064'"), Annotation: kunguri
+    Time Stamp: ("'ts1081'", "'ts1082'"), Annotation: jallu
+    Time Stamp: ("'ts1085'", "'ts1086'"), Annotation: jallu
+    Time Stamp: ("'ts1099'", "'ts1100'"), Annotation: Johana como se dice esto en kichwa... si sabes
+    Time Stamp: ("'ts1103'", "'ts1105'"), Annotation: pregunta a la mamita, pregunta
+    Time Stamp: ("'ts1112'", "'ts1115'"), Annotation: estan grabando caramba
+    Time Stamp: ("'ts1120'", "'ts1122'"), Annotation: mami, ¿Dormilón como es que se dice en kichwa?
+    Time Stamp: ("'ts1127'", "'ts1128'"), Annotation: ¿Y al chumadito?
+    Time Stamp: ("'ts1131'", "'ts1132'"), Annotation: shinga
+    Time Stamp: ("'ts1145'", "'ts1146'"), Annotation: ya, mmm ¿Qué mas?
+    Time Stamp: ("'ts1149'", "'ts1151'"), Annotation: sacandole la, aqui le saque la verdad a la mamina
+    Time Stamp: ("'ts1165'", "'ts1166'"), Annotation: mami, ¿Puede conversar usted en kichwa como pasaba todo el dia trabajando?
+    Time Stamp: ("'ts1168'", "'ts1170'"), Annotation: cuando era pequeña pero en kichwa
+    Time Stamp: ("'ts1178'", "'ts1180'"), Annotation: ¿En que trabajaba? todito el dia, en kichwa  mamita
+    Time Stamp: ("'ts1199'", "'ts1200'"), Annotation: mamita
+    Time Stamp: ("'ts1201'", "'ts1202'"), Annotation: ¿Si puede decir en kichwa? Todo el dia que tejia
+    Time Stamp: ("'ts1203'", "'ts1204'"), Annotation: usted tejia no cierto, luego se levantaba a cocinar
+    Time Stamp: ("'ts1205'", "'ts1206'"), Annotation: luego daba de comer a nosotros cuando llegabamos de la escuela, otra vez se sentaba a tejer
+    Time Stamp: ("'ts1207'", "'ts1208'"), Annotation: luego ya llegaba papá y le atendia, eso ¿usted puede decir en kichwa?
+    Time Stamp: ("'ts1217'", "'ts1218'"), Annotation: ya
+  Tier Type: tn, Annotations Count: 195
+    Time Stamp: ('6',), Annotation: Joyta anda peinate
+    Time Stamp: ('6',), Annotation: haber ya, ¡ya mami!
+    Time Stamp: ('6',), Annotation: ya mismo
+    Time Stamp: ('6',), Annotation: cúal es su nombre, dice, el nombre mami
+    Time Stamp: ('6',), Annotation: Lucia Chalco
+    Time Stamp: ('6',), Annotation: como se dice tierra, en kichwa
+    Time Stamp: ('6',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('7',), Annotation: ¿la plata?
+    Time Stamp: ('7',), Annotation: ¿la plata?, ¿como se dice?
+    Time Stamp: ('7',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('7',), Annotation: en kichwa, ¿bueno?
+    Time Stamp: ('7',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('7',), Annotation: bueno, dice
+    Time Stamp: ('7',), Annotation: alli migingi,¿ no dicen?
+    Time Stamp: ('7',), Annotation: bien estas
+    Time Stamp: ('7',), Annotation: ¿Y para decir a Armando, por ejemplo?
+    Time Stamp: ('7',), Annotation: ¿Si esta bien, cómo puede decirle?
+    Time Stamp: ('8',), Annotation: ¿esta bien?
+    Time Stamp: ('8',), Annotation: bien, estas
+    Time Stamp: ('8',), Annotation: estas bien
+    Time Stamp: ('8',), Annotation: bien dice
+    Time Stamp: ('8',), Annotation: ginge
+    Time Stamp: ('8',), Annotation: ¿estas bien?
+    Time Stamp: ('8',), Annotation: mami
+    Time Stamp: ('8',), Annotation: y para preguntar, ¿Cómo esta?
+    Time Stamp: ('8',), Annotation: ¿como estas?
+    Time Stamp: ('8',), Annotation: ¿como estas?
+    Time Stamp: ('9',), Annotation: si estoy bien, bien
+    Time Stamp: ('9',), Annotation: ¿Y como tiene que contestar?
+    Time Stamp: ('9',), Annotation: si estoy bien
+    Time Stamp: ('9',), Annotation: si estoy bien
+    Time Stamp: ('23',), Annotation: Joa peinate
+    Time Stamp: ('24',), Annotation: ¿Cómo puede decir mujer y hombre?
+    Time Stamp: ('24',), Annotation: ¿Y hombre?
+    Time Stamp: ('24',), Annotation: hombre
+    Time Stamp: ('24',), Annotation: ¿Y hombre?
+    Time Stamp: ('24',), Annotation: hombre, hombre
+    Time Stamp: ('24',), Annotation: hombre
+    Time Stamp: ('24',), Annotation: hombre
+    Time Stamp: ('24',), Annotation: hombre
+    Time Stamp: ('24',), Annotation: aja
+    Time Stamp: ('31',), Annotation: ¿la hierba para los cuyes?
+    Time Stamp: ('31',), Annotation: hierba
+    Time Stamp: ('31',), Annotation: ¿La trenza?
+    Time Stamp: ('31',), Annotation: (risa)
+    Time Stamp: ('31',), Annotation: ha sabido todo, dice
+    Time Stamp: ('32',), Annotation: contestele en kichwa, mami
+    Time Stamp: ('32',), Annotation: ha sabido todo, dice
+    Time Stamp: ('32',), Annotation: bien, diga
+    Time Stamp: ('32',), Annotation: que dices
+    Time Stamp: ('32',), Annotation: ¿Cuándo era pequeña usted, hablaba kichwa?
+    Time Stamp: ('32',), Annotation: ¿Con quién?
+    Time Stamp: ('32',), Annotation: mamita
+    Time Stamp: ('32',), Annotation: se acuerda que no mas decia su abuelita, hableme  mamacita
+    Time Stamp: ('32',), Annotation: ¿Qué nomas decia?
+    Time Stamp: ('32',), Annotation: ¿wautza?
+    Time Stamp: ('38',), Annotation: otra vez mamita
+    Time Stamp: ('38',), Annotation: dice wawa con asial te voy a pegar, ahora te voy a pegar
+    Time Stamp: ('38',), Annotation: te voy a castigar
+    Time Stamp: ('38',), Annotation: haber otra vez mamita
+    Time Stamp: ('38',), Annotation: watza, waiza
+    Time Stamp: ('39',), Annotation: con un asial te pego
+    Time Stamp: ('40',), Annotation: makashi disque ha sido pegar
+    Time Stamp: ('41',), Annotation: huno quiere decir ahora
+    Time Stamp: ('41',), Annotation: hoy te pego
+    Time Stamp: ('41',), Annotation: hoy te pego con el asial
+    Time Stamp: ('41',), Annotation: el asial es el boyero que llamaban antes
+    Time Stamp: ('41',), Annotation: Mami, ¿Era brava la abuelita?
+    Time Stamp: ('45',), Annotation: yaa
+    Time Stamp: ('46',), Annotation: por malcriado
+    Time Stamp: ('46',), Annotation: llamame
+    Time Stamp: ('46',), Annotation: por ma... por malcriado
+    Time Stamp: ('48',), Annotation: mmm
+    Time Stamp: ('49',), Annotation: aaaa  ya
+    Time Stamp: ('49',), Annotation: longoso como micunara  sober , sobevirca, dice
+    Time Stamp: ('49',), Annotation: como la culebra
+    Time Stamp: ('51',), Annotation: dentró
+    Time Stamp: ('51',), Annotation: dentró
+    Time Stamp: ('51',), Annotation: no ha querido comer
+    Time Stamp: ('54',), Annotation: ya mamita, que mas decia?  ¿Qué mas decia la abuelita?
+    Time Stamp: ('54',), Annotation: mamita, ¿ Y como le llamaba la abuelita a usted?
+    Time Stamp: ('54',), Annotation: no! ¿Cómo le llamaba para que venga a comer?
+    Time Stamp: ('54',), Annotation: yaa
+    Time Stamp: ('56',), Annotation: vengan a comer
+    Time Stamp: ('56',), Annotation: muchachos vengan a comer
+    Time Stamp: ('56',), Annotation: ¿Y cuándo le  decia que se bañe?
+    Time Stamp: ('56',), Annotation: yaa
+    Time Stamp: ('56',), Annotation: bañase en el agua
+    Time Stamp: ('56',), Annotation: osea, bañase en el agua
+    Time Stamp: ('59',), Annotation: ¿Y había vecinos que hablaban kichwa también?
+    Time Stamp: ('59',), Annotation: ¿Quién nomas?
+    Time Stamp: ('59',), Annotation: claro
+    Time Stamp: ('60',), Annotation: mami
+    Time Stamp: ('60',), Annotation: ¿Y cuando vino a vivir con mamita Rosita?
+    Time Stamp: ('60',), Annotation: ja
+    Time Stamp: ('60',), Annotation: mamá Rosita ¿Hablaba bastante el kichwa?
+    Time Stamp: ('62',), Annotation: abuelita
+    Time Stamp: ('62',), Annotation: exacto
+    Time Stamp: ('62',), Annotation: ¿Qué le decia a usted?
+    Time Stamp: ('63',), Annotation: nuera comiendo
+    Time Stamp: ('65',), Annotation: que vengas a comer la comida
+    Time Stamp: ('65',), Annotation: ya
+    Time Stamp: ('65',), Annotation: mami, cuando usted iba a otras casas
+    Time Stamp: ('65',), Annotation: ¿Cómo decia en kichwa para entrar?
+    Time Stamp: ('65',), Annotation: para entrar a .. por ejemplo se iba a visitar
+    Time Stamp: ('65',), Annotation: a otras casas, ¿Qué decia usted en kichwa para entrar?
+    Time Stamp: ('65',), Annotation: alaba
+    Time Stamp: ('70',), Annotation: ¿Y que decia la otra persona, mami?
+    Time Stamp: ('71',), Annotation: entre, entre
+    Time Stamp: ('71',), Annotation: entre para que coma, entre para que coma la comida
+    Time Stamp: ('71',), Annotation: ya
+    Time Stamp: ('71',), Annotation: algo más
+    Time Stamp: ('71',), Annotation: yaaa
+    Time Stamp: ('71',), Annotation: algo mas le preguntamos
+    Time Stamp: ('71',), Annotation: preguntale a mamita en kichwa
+    Time Stamp: ('71',), Annotation: ¿Qué mas se puede, preguntar?
+    Time Stamp: ('71',), Annotation: mami
+    Time Stamp: ('71',), Annotation: Y en kichwa ¿Cómo se dice para ir a jugar futbol?
+    Time Stamp: ('72',), Annotation: a jugar pelota
+    Time Stamp: ('72',), Annotation: eeeso, muy bien
+    Time Stamp: ('76',), Annotation: ya ves papito, preguntale tú también, mamita dile
+    Time Stamp: ('76',), Annotation: eeee
+    Time Stamp: ('76',), Annotation: claaro
+    Time Stamp: ('77',), Annotation: pastoreaste, cuidaste a los ganados
+    Time Stamp: ('77',), Annotation: ¿mande?
+    Time Stamp: ('80',), Annotation: para ir a cosechar maíz ¿Cómo decian en kichwa mami?
+    Time Stamp: ('80',), Annotation: cosechar maíz
+    Time Stamp: ('80',), Annotation: no, eso es bajar
+    Time Stamp: ('80',), Annotation: yaa, ¿algo más?
+    Time Stamp: ('80',), Annotation: claaaro, mami
+    Time Stamp: ('81',), Annotation: cuando se hiban arriba a cosechar ¿Cuáles nomas eran los nombres de los cerros?
+    Time Stamp: ('81',), Annotation: no no, los cerros
+    Time Stamp: ('81',), Annotation: cerros, ¿Cómo se llama?
+    Time Stamp: ('81',), Annotation: ya
+    Time Stamp: ('81',), Annotation: ya
+    Time Stamp: ('85',), Annotation: singapila
+    Time Stamp: ('85',), Annotation: hay otro Pintik loma
+    Time Stamp: ('85',), Annotation: ya
+    Time Stamp: ('85',), Annotation: Trigoloma
+    Time Stamp: ('85',), Annotation: loma de sol
+    Time Stamp: ('86',), Annotation: Singafilo
+    Time Stamp: ('87',), Annotation: aja
+    Time Stamp: ('87',), Annotation: filo
+    Time Stamp: ('87',), Annotation: nariz puntiaguda di
+    Time Stamp: ('87',), Annotation: nariz puntiaguda
+    Time Stamp: ('88',), Annotation: aja
+    Time Stamp: ('88',), Annotation: umm
+    Time Stamp: ('88',), Annotation: ya, algo mas
+    Time Stamp: ('89',), Annotation: mami
+    Time Stamp: ('89',), Annotation: antes no habia agua, ¿Cómo decia en kichwa para que vaya a traer agua?
+    Time Stamp: ('90',), Annotation: ira a traer agua
+    Time Stamp: ('91',), Annotation: waiko es quebrada
+    Time Stamp: ('91',), Annotation: cubo tenemos
+    Time Stamp: ('91',), Annotation: ubuldu, un sitio donde habia una vertiente se llamaba ubuldu
+    Time Stamp: ('91',), Annotation: aja
+    Time Stamp: ('91',), Annotation: mas allá, mas allá
+    Time Stamp: ('93',), Annotation: mami
+    Time Stamp: ('94',), Annotation: y para ir los sábados a coger leña, en kichwa ¿Cómo?¿Cómo decia mi abuelita?
+    Time Stamp: ('94',), Annotation: a la leña
+    Time Stamp: ('94',), Annotation: algo mas
+    Time Stamp: ('94',), Annotation: alguna otra cosa que quiera preguntar usted
+    Time Stamp: ('94',), Annotation: y le podemos
+    Time Stamp: ('94',), Annotation: a ya
+    Time Stamp: ('94',), Annotation: mami
+    Time Stamp: ('94',), Annotation: en kichwa la abuelita ¿Cómo decia?
+    Time Stamp: ('94',), Annotation: cuando hiban a vender cedazo
+    Time Stamp: ('99',), Annotation: pero como se, ¿Cómo decian en kichwa?
+    Time Stamp: ('99',), Annotation: a vender, para la venta
+    Time Stamp: ('99',), Annotation: mami
+    Time Stamp: ('99',), Annotation: en kichwa los ojos ¿Cómo se dicen?
+    Time Stamp: ('99',), Annotation: ¿La nariz?
+    Time Stamp: ('100',), Annotation: ¿de la boca?
+    Time Stamp: ('105',), Annotation: mami, ¿las manos?
+    Time Stamp: ('105',), Annotation: no, ¿En kichwa la mano?
+    Time Stamp: ('105',), Annotation: ¿El pie?
+    Time Stamp: ('105',), Annotation: rodilla
+    Time Stamp: ('105',), Annotation: lengua
+    Time Stamp: ('105',), Annotation: lengua
+    Time Stamp: ('105',), Annotation: Johana como se dice esto en kichwa... si sabes
+    Time Stamp: ('110',), Annotation: pregunta a la mamita, pregunta
+    Time Stamp: ('110',), Annotation: estan grabando caramba
+    Time Stamp: ('110',), Annotation: mami, ¿Dormilón como es que se dice en kichwa?
+    Time Stamp: ('111',), Annotation: ¿Y al chumadito?
+    Time Stamp: ('111',), Annotation: borracho
+    Time Stamp: ('111',), Annotation: ya,mmm ¿Qué mas?
+    Time Stamp: ('114',), Annotation: sacandole la, aqui le saque la verdad a la mamina
+    Time Stamp: ('115',), Annotation: mami, ¿Puede conversar usted en kichwa como pasaba todo el dia trabajando?
+    Time Stamp: ('117',), Annotation: cuando era pequeña pero en kichwa
+    Time Stamp: ('117',), Annotation: ¿En que trabajaba? todito el dia, en kichwa  mamita
+    Time Stamp: ('117',), Annotation: mamita
+    Time Stamp: ('117',), Annotation: ¿Si puede decir en kichwa? Todo el dia que tejia
+    Time Stamp: ('117',), Annotation: usted tejia no cierto, luego se levantaba a cocinar
+    Time Stamp: ('117',), Annotation: luego daba de comer a nosotros cuando llegabamos de la escuela, otra vez se sentaba a tejer
+    Time Stamp: ('117',), Annotation: luego ya llegaba papá y le atendia, eso ¿usted puede decir en kichwa?
+    Time Stamp: ('118',), Annotation: ya
+  Tier Type: dt, Annotations Count: 80
+    Time Stamp: ('6',), Annotation: Joyta anda peinate
+    Time Stamp: ('6',), Annotation: haber ya !mami!
+    Time Stamp: ('6',), Annotation: ya mismo
+    Time Stamp: ('6',), Annotation: ima shuti kanki, dice el nombre mami
+    Time Stamp: ('6',), Annotation: Lucia Chalco
+    Time Stamp: ('6',), Annotation: como se dice tierra, en kichwa
+    Time Stamp: ('6',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('7',), Annotation: ¿la plata?
+    Time Stamp: ('7',), Annotation: ¿la plata?, ¿como se dice?
+    Time Stamp: ('7',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('7',), Annotation: en kichwa, ¿bueno?
+    Time Stamp: ('7',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('7',), Annotation: alli, dice
+    Time Stamp: ('7',), Annotation: alimi kankii,¿ no dicen?
+    Time Stamp: ('7',), Annotation: bien estas
+    Time Stamp: ('7',), Annotation: ¿Y para decir a Armando, por ejemplo?
+    Time Stamp: ('7',), Annotation: ¿Si esta bien, cómo puede decirle?
+    Time Stamp: ('8',), Annotation: ¿alli, kanki?
+    Time Stamp: ('8',), Annotation: alli, kanki
+    Time Stamp: ('8',), Annotation: alli kanki
+    Time Stamp: ('8',), Annotation: alli ninki
+    Time Stamp: ('8',), Annotation: kanki
+    Time Stamp: ('8',), Annotation: ¿estas bien?
+    Time Stamp: ('8',), Annotation: mami
+    Time Stamp: ('8',), Annotation: y para preguntar, ¿Cómo esta?
+    Time Stamp: ('8',), Annotation: imashina kanki
+    Time Stamp: ('9',), Annotation: alimi kanki ali
+    Time Stamp: ('9',), Annotation: ¿Y como tiene que contestar?
+    Time Stamp: ('9',), Annotation: allimi kani
+    Time Stamp: ('9',), Annotation: alimi kanki
+    Time Stamp: ('23',), Annotation: Joa peinate
+    Time Stamp: ('24',), Annotation: ¿Cómo puede decir mujer y hombre?
+    Time Stamp: ('24',), Annotation: ¿Y hombre?
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: ¿Y hombre?
+    Time Stamp: ('24',), Annotation: hombre, hombre
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: aja
+    Time Stamp: ('31',), Annotation: ¿la hierba para los cuyes?
+    Time Stamp: ('31',), Annotation: hiwa
+    Time Stamp: ('31',), Annotation: ¿La trenza?
+    Time Stamp: ('31',), Annotation: ha sabido todo, dice
+    Time Stamp: ('32',), Annotation: contestele en kichwa, mami
+    Time Stamp: ('32',), Annotation: ha sabido todo, dice
+    Time Stamp: ('32',), Annotation: ali, diga
+    Time Stamp: ('32',), Annotation: imaninki
+    Time Stamp: ('32',), Annotation: ¿Cuándo era pequeña usted, hablaba kichwa?
+    Time Stamp: ('32',), Annotation: ¿Con quién?
+    Time Stamp: ('32',), Annotation: mamita
+    Time Stamp: ('32',), Annotation: se acuerda que no mas decia su abuelita, hableme  mamacita
+    Time Stamp: ('32',), Annotation: ¿Qué nomas decia?
+    Time Stamp: ('32',), Annotation: ¿wautza?
+    Time Stamp: ('38',), Annotation: otra vez mamita
+    Time Stamp: ('38',), Annotation: dice wawa con asial te voy a pegar, ahora te voy a pegar
+    Time Stamp: ('38',), Annotation: te voy a castigar
+    Time Stamp: ('38',), Annotation: haber otra vez mamita
+    Time Stamp: ('38',), Annotation: watza, waiza
+    Time Stamp: ('39',), Annotation: uno asialta makashi
+    Time Stamp: ('40',), Annotation: makashi disque ha sido pegar
+    Time Stamp: ('41',), Annotation: huno quiere decir ahora
+    Time Stamp: ('41',), Annotation: huno makashi
+    Time Stamp: ('41',), Annotation: asialta kuno makashi
+    Time Stamp: ('41',), Annotation: el asial es el boyero que llamaban antes
+    Time Stamp: ('41',), Annotation: Mami, ¿Era brava la abuelita?
+    Time Stamp: ('45',), Annotation: yaa
+    Time Stamp: ('46',), Annotation: por malcriado
+    Time Stamp: ('46',), Annotation: llamame
+    Time Stamp: ('51',), Annotation: yaykurka
+    Time Stamp: ('56',), Annotation: shamuychi mikunki
+    Time Stamp: ('56',), Annotation: wamprakuna shamuy mikunki
+    Time Stamp: ('56',), Annotation: armay yakupi
+    Time Stamp: ('63',), Annotation: hachun mikushpa
+    Time Stamp: ('72',), Annotation: pilota pukllanka...
+    Time Stamp: ('77',), Annotation: michirkanki, wakrakuna rikunki
+    Time Stamp: ('80',), Annotation: sara pallankapa
+    Time Stamp: ('85',), Annotation: sinkapila
+    Time Stamp: ('90',), Annotation: yaku apankapa rinki
+    Time Stamp: ('111',), Annotation: shinka
+  Tier Type: mb, Annotations Count: 77
+    Time Stamp: ('6',), Annotation: Joyta anda peinate
+    Time Stamp: ('6',), Annotation: haber ya !mami!
+    Time Stamp: ('6',), Annotation: ya mismo
+    Time Stamp: ('6',), Annotation: ima shuti kan-ki dice el nombre mami
+    Time Stamp: ('6',), Annotation: Lucia Chalco
+    Time Stamp: ('6',), Annotation: como se dice tierra, en kichwa
+    Time Stamp: ('6',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('7',), Annotation: la plata
+    Time Stamp: ('7',), Annotation: ¿la plata?, ¿como se dice?
+    Time Stamp: ('7',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('7',), Annotation: en kichwa, ¿bueno?
+    Time Stamp: ('7',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('7',), Annotation: alli, dice
+    Time Stamp: ('7',), Annotation: ali-mi ka-nki ¿no dicen?
+    Time Stamp: ('7',), Annotation: bien estas
+    Time Stamp: ('7',), Annotation: ¿Y para decir a Armando, por ejemplo?
+    Time Stamp: ('7',), Annotation: ¿Si esta bien, cómo puede decirle?
+    Time Stamp: ('8',), Annotation: alli ka-nki
+    Time Stamp: ('8',), Annotation: alli ka-nki
+    Time Stamp: ('8',), Annotation: alli ka-nki
+    Time Stamp: ('8',), Annotation: alli ni-nki
+    Time Stamp: ('8',), Annotation: ka-nki
+    Time Stamp: ('8',), Annotation: ¿estas bien?
+    Time Stamp: ('8',), Annotation: mami
+    Time Stamp: ('8',), Annotation: y para preguntar, ¿Cómo esta?
+    Time Stamp: ('8',), Annotation: ima-shi-na ka-nki
+    Time Stamp: ('9',), Annotation: ali-mi ka-nki
+    Time Stamp: ('9',), Annotation: ¿Y como tiene que contestar?
+    Time Stamp: ('9',), Annotation: alli-mi ka-ni
+    Time Stamp: ('9',), Annotation: ali-mi ka-nki
+    Time Stamp: ('23',), Annotation: Joa peinate
+    Time Stamp: ('24',), Annotation: ¿Cómo puede decir mujer y hombre?
+    Time Stamp: ('24',), Annotation: ¿Y hombre?
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: ¿Y hombre?
+    Time Stamp: ('24',), Annotation: hombre, hombre
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: kari
+    Time Stamp: ('24',), Annotation: aja
+    Time Stamp: ('31',), Annotation: ¿la hierba para los cuyes?
+    Time Stamp: ('31',), Annotation: hiwa
+    Time Stamp: ('31',), Annotation: ¿La trenza?
+    Time Stamp: ('31',), Annotation: ha sabido todo, dice
+    Time Stamp: ('32',), Annotation: contestele en kichwa, mami
+    Time Stamp: ('32',), Annotation: ha sabido todo, dice
+    Time Stamp: ('32',), Annotation: ali, diga
+    Time Stamp: ('32',), Annotation: ima-ni-nki
+    Time Stamp: ('32',), Annotation: ¿Cuándo era pequeña usted, hablaba kichwa?
+    Time Stamp: ('32',), Annotation: ¿Con quién?
+    Time Stamp: ('32',), Annotation: mamita
+    Time Stamp: ('32',), Annotation: se acuerda que no mas decia su abuelita, hableme  mamacita
+    Time Stamp: ('32',), Annotation: ¿Qué nomas decia?
+    Time Stamp: ('32',), Annotation: ¿wautza?
+    Time Stamp: ('38',), Annotation: otra vez mamita
+    Time Stamp: ('38',), Annotation: dice wawa con asial te voy a pegar, ahora te voy a pegar
+    Time Stamp: ('38',), Annotation: te voy a castigar
+    Time Stamp: ('38',), Annotation: haber otra vez mamita
+    Time Stamp: ('38',), Annotation: watza, waiza
+    Time Stamp: ('39',), Annotation: uno asial-ta maka-shi
+    Time Stamp: ('40',), Annotation: maka-shi disque ha sido pegar
+    Time Stamp: ('41',), Annotation: huno quiere decir ahora
+    Time Stamp: ('41',), Annotation: huno maka-shi
+    Time Stamp: ('41',), Annotation: asial-ta kuno maka-shi
+    Time Stamp: ('41',), Annotation: el asial es el boyero que llamaban antes
+    Time Stamp: ('41',), Annotation: Mami, ¿Era brava la abuelita?
+    Time Stamp: ('45',), Annotation: yaa
+    Time Stamp: ('46',), Annotation: por malcriado
+    Time Stamp: ('46',), Annotation: llamame
+    Time Stamp: ('51',), Annotation: yayku-rka
+    Time Stamp: ('56',), Annotation: shamuy-chi miku-nki
+    Time Stamp: ('56',), Annotation: wampra-kuna shamuy miku-nki
+    Time Stamp: ('56',), Annotation: armay yaku-pi
+    Time Stamp: ('63',), Annotation: hachun miku-shpa
+    Time Stamp: ('77',), Annotation: michir-ka-nki wakra-kuna riku-nki
+    Time Stamp: ('80',), Annotation: sara palla-nka-pa
+    Time Stamp: ('90',), Annotation: yaku apa-nka-pa ri-nki
+  Tier Type: gl, Annotations Count: 77
+    Time Stamp: ('156',), Annotation: Joyta anda peinate
+    Time Stamp: ('156',), Annotation: haber ya !mami!
+    Time Stamp: ('157',), Annotation: ya mismo
+    Time Stamp: ('148',), Annotation: que nombre es usted-2 dice el nombre mami
+    Time Stamp: ('159',), Annotation: Lucia Chalco
+    Time Stamp: ('159',), Annotation: como se dice tierra, en kichwa
+    Time Stamp: ('159',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('159',), Annotation: la plata
+    Time Stamp: ('159',), Annotation: ¿la plata?, ¿como se dice?
+    Time Stamp: ('159',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('159',), Annotation: en kichwa, ¿bueno?
+    Time Stamp: ('159',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('164',), Annotation: bueno, dice
+    Time Stamp: ('164',), Annotation: bien-AF.EV ser-2 ¿no dicen?
+    Time Stamp: ('165',), Annotation: bien estas
+    Time Stamp: ('165',), Annotation: ¿Y para decir a Armando, por ejemplo?
+    Time Stamp: ('166',), Annotation: ¿Si esta bien, cómo puede decirle?
+    Time Stamp: ('166',), Annotation: bien ser-2
+    Time Stamp: ('167',), Annotation: bien ser-2
+    Time Stamp: ('167',), Annotation: bien ser-2
+    Time Stamp: ('168',), Annotation: bien decir-2
+    Time Stamp: ('168',), Annotation: ser-2
+    Time Stamp: ('170',), Annotation: ¿estas bien?
+    Time Stamp: ('170',), Annotation: mami
+    Time Stamp: ('170',), Annotation: y para preguntar, ¿Cómo esta?
+    Time Stamp: ('124',), Annotation: cómo-SPEC-NMLZ-FOC-2
+    Time Stamp: ('172',), Annotation: bien-AF.EV ser-2
+    Time Stamp: ('172',), Annotation: ¿Y como tiene que contestar?
+    Time Stamp: ('124',), Annotation: bien-AF.EV-FOC-1
+    Time Stamp: ('173',), Annotation: bien-AF.EV ser-2
+    Time Stamp: ('174',), Annotation: Joa peinate
+    Time Stamp: ('174',), Annotation: ¿Cómo puede decir mujer y hombre?
+    Time Stamp: ('174',), Annotation: ¿Y hombre?
+    Time Stamp: ('174',), Annotation: hombre
+    Time Stamp: ('174',), Annotation: ¿Y hombre?
+    Time Stamp: ('177',), Annotation: hombre, hombre
+    Time Stamp: ('177',), Annotation: hombre
+    Time Stamp: ('177',), Annotation: hombre
+    Time Stamp: ('177',), Annotation: hombre
+    Time Stamp: ('179',), Annotation: aja
+    Time Stamp: ('181',), Annotation: ¿la hierba para los cuyes?
+    Time Stamp: ('181',), Annotation: hierba
+    Time Stamp: ('183',), Annotation: ¿La trenza?
+    Time Stamp: ('183',), Annotation: ha sabido todo, dice
+    Time Stamp: ('183',), Annotation: contestele en kichwa, mami
+    Time Stamp: ('183',), Annotation: ha sabido todo, dice
+    Time Stamp: ('183',), Annotation: ali, diga
+    Time Stamp: ('128',), Annotation: qué-1-2
+    Time Stamp: ('186',), Annotation: ¿Cuándo era pequeña usted, hablaba kichwa?
+    Time Stamp: ('186',), Annotation: ¿Con quién?
+    Time Stamp: ('186',), Annotation: mamita
+    Time Stamp: ('186',), Annotation: se acuerda que no mas decia su abuelita, hableme  mamacita
+    Time Stamp: ('186',), Annotation: ¿Qué nomas decia?
+    Time Stamp: ('190',), Annotation: ¿wautza?
+    Time Stamp: ('190',), Annotation: otra vez mamita
+    Time Stamp: ('190',), Annotation: dice wawa con asial te voy a pegar, ahora te voy a pegar
+    Time Stamp: ('190',), Annotation: te voy a castigar
+    Time Stamp: ('191',), Annotation: haber otra vez mamita
+    Time Stamp: ('191',), Annotation: watza, waiza
+    Time Stamp: ('128',), Annotation: uno asial-AC,ACC- pegar-SPEC
+    Time Stamp: ('192',), Annotation: pegar-SPEC disque ha sido pegar
+    Time Stamp: ('192',), Annotation: huno quiere decir ahora
+    Time Stamp: ('192',), Annotation: hoy pegar-SPEC
+    Time Stamp: ('128',), Annotation: asial-AC,ACC - hoy - pegar-SPEC
+    Time Stamp: ('194',), Annotation: el asial es el boyero que llamaban antes
+    Time Stamp: ('194',), Annotation: Mami, ¿Era brava la abuelita?
+    Time Stamp: ('197',), Annotation: yaa
+    Time Stamp: ('197',), Annotation: por malcriado
+    Time Stamp: ('198',), Annotation: llamame
+    Time Stamp: ('128',), Annotation: entro-PAST
+    Time Stamp: ('133',), Annotation: vengan-CAUS-comer-2
+    Time Stamp: ('133',), Annotation: niños-PL vengan -2
+    Time Stamp: ('134',), Annotation: bañar agua-LOC
+    Time Stamp: ('134',), Annotation: nuera comer-SR
+    Time Stamp: ('140',), Annotation: pastar-FOC-2 ganado-PL ver-2
+    Time Stamp: ('141',), Annotation: maíz recojer-3FUT-HON
+    Time Stamp: ('141',), Annotation: agua traer-3FUT-HON ir-2
+Speaker: Simeon
+  Tier Type: po, Annotations Count: 174
+    Time Stamp: ("'ts1'", "'ts2'"), Annotation: ok
+    Time Stamp: ("'ts5'", "'ts7'"), Annotation: ya estoy, estoy grabando
+    Time Stamp: ("'ts10'", "'ts12'"), Annotation: primero
+    Time Stamp: ("'ts14'", "'ts16'"), Annotation: primero, queria preguntar
+    Time Stamp: ("'ts17'", "'ts18'"), Annotation: eee, les voy a preguntar en kichwa y despúes en castellano
+    Time Stamp: ("'ts19'", "'ts20'"), Annotation: eee,¿ Ima shuti kangi?
+    Time Stamp: ("'ts29'", "'ts30'"), Annotation: ya!
+    Time Stamp: ("'ts31'", "'ts32'"), Annotation: ¿Y usted?
+    Time Stamp: ("'ts35'", "'ts36'"), Annotation: Lucia Chalco
+    Time Stamp: ("'ts37'", "'ts38'"), Annotation: eee
+    Time Stamp: ("'ts39'", "'ts40'"), Annotation: voy a preguntar unas palabras en kichwa
+    Time Stamp: ("'ts41'", "'ts42'"), Annotation: eem
+    Time Stamp: ("'ts43'", "'ts44'"), Annotation: estabamos diciendo antes
+    Time Stamp: ("'ts45'", "'ts46'"), Annotation: ¿Cómo es que se dice, Tierra?
+    Time Stamp: ("'ts51'", "'ts52'"), Annotation: alpa
+    Time Stamp: ("'ts53'", "'ts54'"), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ("'ts58'", "'ts60'"), Annotation: ashku
+    Time Stamp: ("'ts61'", "'ts62'"), Annotation: ¿dinero?
+    Time Stamp: ("'ts69'", "'ts70'"), Annotation: ella sabe!
+    Time Stamp: ("'ts77'", "'ts78'"), Annotation: kushki
+    Time Stamp: ("'ts79'", "'ts80'"), Annotation: eee
+    Time Stamp: ("'ts81'", "'ts82'"), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ("'ts93'", "'ts95'"), Annotation: ari
+    Time Stamp: ("'ts99'", "'ts100'"), Annotation: ¿ali?, ¿alli?
+    Time Stamp: ("'ts121'", "'ts123'"), Annotation: aaa
+    Time Stamp: ("'ts125'", "'ts127'"), Annotation: alli migingi, como decir, tu estas bien
+    Time Stamp: ("'ts129'", "'ts130'"), Annotation: alli miquin
+    Time Stamp: ("'ts131'", "'ts132'"), Annotation: si yo digo, yo estoy bien
+    Time Stamp: ("'ts133'", "'ts134'"), Annotation: ¿Cómo digo?
+    Time Stamp: ("'ts147'", "'ts148'"), Annotation: alli, aja
+    Time Stamp: ("'ts157'", "'ts158'"), Annotation: aja, ¿alli ningi?
+    Time Stamp: ("'ts160'", "'ts162'"), Annotation: alli, kinge
+    Time Stamp: ("'ts163'", "'ts165'"), Annotation: alli kinge
+    Time Stamp: ("'ts167'", "'ts168'"), Annotation: y, y cuando yo digo, si yo, yo puedo preguntar, ¿imanalla?
+    Time Stamp: ("'ts169'", "'ts170'"), Annotation: o ¿Cómo estas?
+    Time Stamp: ("'ts171'", "'ts172'"), Annotation: o, allichu, kingi
+    Time Stamp: ("'ts173'", "'ts175'"), Annotation: o algo asi
+    Time Stamp: ("'ts176'", "'ts178'"), Annotation: para preguntar, Si usted esta bien, ¿Cómo haria?
+    Time Stamp: ("'ts179'", "'ts180'"), Annotation: para decir, ¿Cómo esta?
+    Time Stamp: ("'ts183'", "'ts184'"), Annotation: pregunta si ella sabe, para preguntar ¿Cómo esta?
+    Time Stamp: ("'ts197'", "'ts199'"), Annotation: ima shina kinge
+    Time Stamp: ("'ts202'", "'ts204'"), Annotation: imashina kinge, aja
+    Time Stamp: ("'ts205'", "'ts206'"), Annotation: y la i ahi, ¿Cómo puedo yo contestar?, Si estoy bien
+    Time Stamp: ("'ts213'", "'ts214'"), Annotation: allimi kani
+    Time Stamp: ("'ts225'", "'ts226'"), Annotation: aja, alli migani
+    Time Stamp: ("'ts227'", "'ts228'"), Annotation: haber
+    Time Stamp: ("'ts235'", "'ts236'"), Annotation: haber, que mas, eee
+    Time Stamp: ("'ts237'", "'ts238'"), Annotation: si yo quiero decir, eee
+    Time Stamp: ("'ts239'", "'ts240'"), Annotation: mujer y hombre, ¿Cómo puedo decir, mujer y hombre?
+    Time Stamp: ("'ts247'", "'ts248'"), Annotation: ¿Y hombre?
+    Time Stamp: ("'ts270'", "'ts272'"), Annotation: kari
+    Time Stamp: ("'ts274'", "'ts276'"), Annotation: kari, dice
+    Time Stamp: ("'ts289'", "'ts290'"), Annotation: hay como varias pronunciaciones
+    Time Stamp: ("'ts293'", "'ts294'"), Annotation: para decir la ... la hierbita
+    Time Stamp: ("'ts295'", "'ts297'"), Annotation: que se va a ver para los cuyes, como se llama la hierba
+    Time Stamp: ("'ts303'", "'ts305'"), Annotation: jiwa
+    Time Stamp: ("'ts309'", "'ts310'"), Annotation: jiwa, cuypa jiwa
+    Time Stamp: ("'ts311'", "'ts312'"), Annotation: eee
+    Time Stamp: ("'ts313'", "'ts314'"), Annotation: haber
+    Time Stamp: ("'ts315'", "'ts316'"), Annotation: ¿Cómo digo, trenza?
+    Time Stamp: ("'ts323'", "'ts324'"), Annotation: chimba
+    Time Stamp: ("'ts325'", "'ts327'"), Annotation: ha sabido todo
+    Time Stamp: ("'ts329'", "'ts330'"), Annotation: tukuyta yachashkangi
+    Time Stamp: ("'ts343'", "'ts344'"), Annotation: uchilla, uchilla kashpa piwan kichwata parlan, parlarkangi
+    Time Stamp: ("'ts345'", "'ts346'"), Annotation: uchilla kashpa piwan parlarkangi kichwa shimi
+    Time Stamp: ("'ts351'", "'ts352'"), Annotation: ¿Cuándo era chiquito con quién hablaba la lengua kichwa?
+    Time Stamp: ("'ts360'", "'ts362'"), Annotation: abuelita
+    Time Stamp: ("'ts363'", "'ts364'"), Annotation: ¿Se puede acordar de algunas cosas que decia la abuela, como hablaba ella?
+    Time Stamp: ("'ts366'", "'ts368'"), Annotation: para ir repitiendo
+    Time Stamp: ("'ts379'", "'ts380'"), Annotation: noo, mana uyarkanichu, no, yo puedo pregun...  decir de nuevo
+    Time Stamp: ("'ts395'", "'ts396'"), Annotation: puede repe..repetir lo que dijo ella que yo no le escuche en kichwa, puede repetir
+    Time Stamp: ("'ts407'", "'ts408'"), Annotation: mmm
+    Time Stamp: ("'ts409'", "'ts410'"), Annotation: como yo voy..... makana
+    Time Stamp: ("'ts417'", "'ts418'"), Annotation: aja
+    Time Stamp: ("'ts421'", "'ts422'"), Annotation: aja
+    Time Stamp: ("'ts431'", "'ts433'"), Annotation:  a ya
+    Time Stamp: ("'ts435'", "'ts436'"), Annotation: ¿Asi le decia la abuela? , ¿Era brava?
+    Time Stamp: ("'ts443'", "'ts445'"), Annotation: yaaa
+    Time Stamp: ("'ts465'", "'ts467'"), Annotation: mmm
+    Time Stamp: ("'ts482'", "'ts485'"), Annotation: que otras cosas mas decia la abuela talvez, ¿que mas?
+    Time Stamp: ("'ts490'", "'ts493'"), Annotation: para escuchar
+    Time Stamp: ("'ts497'", "'ts498'"), Annotation: puede repetir otra vez, yo no le escuche bien
+    Time Stamp: ("'ts501'", "'ts502'"), Annotation: aaa
+    Time Stamp: ("'ts511'", "'ts512'"), Annotation: aja
+    Time Stamp: ("'ts531'", "'ts532'"), Annotation: aja
+    Time Stamp: ("'ts543'", "'ts545'"), Annotation: cuando queria que vengan, ¿Cómo decia?
+    Time Stamp: ("'ts555'", "'ts557'"), Annotation: wambrakuna shamuychi?
+    Time Stamp: ("'ts559'", "'ts560'"), Annotation: aja
+    Time Stamp: ("'ts563'", "'ts564'"), Annotation: wambrakuna shamuna
+    Time Stamp: ("'ts577'", "'ts578'"), Annotation: armay  yacube
+    Time Stamp: ("'ts579'", "'ts580'"), Annotation: agugri
+    Time Stamp: ("'ts583'", "'ts584'"), Annotation: aja
+    Time Stamp: ("'ts585'", "'ts586'"), Annotation: mmm     a
+    Time Stamp: ("'ts587'", "'ts588'"), Annotation: haber, y
+    Time Stamp: ("'ts589'", "'ts590'"), Annotation: otra gente del barrio hablaba?
+    Time Stamp: ("'ts591'", "'ts592'"), Annotation: otro, otros vecinos en esa epoca
+    Time Stamp: ("'ts633'", "'ts634'"), Annotation: cachun
+    Time Stamp: ("'ts635'", "'ts637'"), Annotation: aja
+    Time Stamp: ("'ts645'", "'ts646'"), Annotation: ya
+    Time Stamp: ("'ts651'", "'ts652'"), Annotation: mikuy shamuy, asi puede decir a los nietos
+    Time Stamp: ("'ts654'", "'ts657'"), Annotation: miki shamuy
+    Time Stamp: ("'ts663'", "'ts664'"), Annotation: (asijun)
+    Time Stamp: ("'ts665'", "'ts666'"), Annotation: esta bueno
+    Time Stamp: ("'ts667'", "'ts668'"), Annotation: haber
+    Time Stamp: ("'ts669'", "'ts670'"), Annotation: cuando uno aqui, cuando llegaba a entrar a la casa de alguien
+    Time Stamp: ("'ts671'", "'ts672'"), Annotation: tenia que pedir permiso
+    Time Stamp: ("'ts675'", "'ts676'"), Annotation: ¿Cómo se decia?
+    Time Stamp: ("'ts690'", "'ts693'"), Annotation: ¿Alabado?
+    Time Stamp: ("'ts695'", "'ts696'"), Annotation: aja
+    Time Stamp: ("'ts697'", "'ts698'"), Annotation: ¿Y como respondes?
+    Time Stamp: ("'ts701'", "'ts702'"), Annotation: yaykungapa
+    Time Stamp: ("'ts707'", "'ts708'"), Annotation: mm  ya
+    Time Stamp: ("'ts709'", "'ts710'"), Annotation: yaykuy yaykuy
+    Time Stamp: ("'ts731'", "'ts732'"), Annotation: eee
+    Time Stamp: ("'ts735'", "'ts737'"), Annotation: Quiere preguntar ¿Cómo se pregunta?
+    Time Stamp: ("'ts739'", "'ts740'"), Annotation: ¿Qué quieres saber, como decir?
+    Time Stamp: ("'ts745'", "'ts746'"), Annotation: la abuela le puede enseñar
+    Time Stamp: ("'ts759'", "'ts760'"), Annotation: pukllangapa
+    Time Stamp: ("'ts763'", "'ts764'"), Annotation: pullingabu
+    Time Stamp: ("'ts777'", "'ts778'"), Annotation: ¿Sabian caminar asi por la montaña, por el Ilalo?
+    Time Stamp: ("'ts782'", "'ts784'"), Annotation: michishpa
+    Time Stamp: ("'ts785'", "'ts786'"), Annotation: michirkangui
+    Time Stamp: ("'ts793'", "'ts794'"), Annotation: wagrakuna
+    Time Stamp: ("'ts799'", "'ts801'"), Annotation: saara, ¿sara chakra tian jawapi?
+    Time Stamp: ("'ts807'", "'ts810'"), Annotation: pallingaba
+    Time Stamp: ("'ts825'", "'ts826'"), Annotation: deee las, los cerros aca arriban, ahi ¿Tienen nombre los puestos?
+    Time Stamp: ("'ts829'", "'ts830'"), Annotation: como no
+    Time Stamp: ("'ts865'", "'ts866'"), Annotation: ¿Cómo es? Tibulon
+    Time Stamp: ("'ts869'", "'ts871'"), Annotation: Trigoloma a yaya
+    Time Stamp: ("'ts872'", "'ts874'"), Annotation: ¿Intikloma?
+    Time Stamp: ("'ts877'", "'ts878'"), Annotation: Singafilo de ¿singa?
+    Time Stamp: ("'ts911'", "'ts912'"), Annotation: ¿Maiman? ¿waikuman? ¿pukyuman? ¿waikuman?
+    Time Stamp: ("'ts913'", "'ts915'"), Annotation: ¿Donde habia que ...?
+    Time Stamp: ("'ts916'", "'ts918'"), Annotation: la quebrada ¿Dondé se encontraba el agua por aqui?
+    Time Stamp: ("'ts929'", "'ts930'"), Annotation: ¿ubuldu?
+    Time Stamp: ("'ts933'", "'ts935'"), Annotation: ¿Cómo para acá, para alla?, ¿Dondé es?
+    Time Stamp: ("'ts940'", "'ts942'"), Annotation: yaaa
+    Time Stamp: ("'ts952'", "'ts955'"), Annotation: yantama
+    Time Stamp: ("'ts957'", "'ts958'"), Annotation: yaa
+    Time Stamp: ("'ts961'", "'ts962'"), Annotation: si quiere dejamos ahi, primer paso
+    Time Stamp: ("'ts963'", "'ts965'"), Annotation: ¿Quieren seguir un poco?
+    Time Stamp: ("'ts997'", "'ts1000'"), Annotation: se dice más, ¿katunjabu? o ¿jatungabu?
+    Time Stamp: ("'ts1011'", "'ts1012'"), Annotation: ¿Cómo se dice ojo?
+    Time Stamp: ("'ts1019'", "'ts1020'"), Annotation: ñawi
+    Time Stamp: ("'ts1033'", "'ts1035'"), Annotation: shimi cara, rrinrri
+    Time Stamp: ("'ts1049'", "'ts1050'"), Annotation: maki
+    Time Stamp: ("'ts1055'", "'ts1056'"), Annotation: chaki
+    Time Stamp: ("'ts1059'", "'ts1060'"), Annotation: kunguri
+    Time Stamp: ("'ts1065'", "'ts1066'"), Annotation: ¿akcha?
+    Time Stamp: ("'ts1069'", "'ts1070'"), Annotation: ¿kaykuna?
+    Time Stamp: ("'ts1073'", "'ts1074'"), Annotation: ¿kiru?
+    Time Stamp: ("'ts1079'", "'ts1080'"), Annotation: jallu, ¿imashina ningui?
+    Time Stamp: ("'ts1083'", "'ts1084'"), Annotation: ¿jallu?
+    Time Stamp: ("'ts1087'", "'ts1088'"), Annotation: jallu, kiru..., shimi... singa
+    Time Stamp: ("'ts1093'", "'ts1094'"), Annotation: uma
+    Time Stamp: ("'ts1101'", "'ts1102'"), Annotation: pregunta a la abuela
+    Time Stamp: ("'ts1117'", "'ts1118'"), Annotation: cuando, cuando están, cuando estan asi muy dormilón le saben decir .... puñuy siki
+    Time Stamp: ("'ts1119'", "'ts1121'"), Annotation: ¿Si ha oido?
+    Time Stamp: ("'ts1125'", "'ts1126'"), Annotation: dormilón y borrachón es ...
+    Time Stamp: ("'ts1135'", "'ts1137'"), Annotation: shinga aaa
+    Time Stamp: ("'ts1141'", "'ts1142'"), Annotation: ¿No le dicen machaysiki?
+    Time Stamp: ("'ts1143'", "'ts1144'"), Annotation: esque en algunas partes saben hablar así, por eso pregunto
+    Time Stamp: ("'ts1147'", "'ts1148'"), Annotation: si ha sabido bastante pues
+    Time Stamp: ("'ts1150'", "'ts1152'"), Annotation: aja, para hablar como en una oración mas larga, como para decir
+    Time Stamp: ("'ts1153'", "'ts1154'"), Annotation: que si puede decir en kichwa, como pasaba el dia
+    Time Stamp: ("'ts1155'", "'ts1156'"), Annotation: cuando se hiba al trabajo y que hacia, despues cuando volvia, no se si hay como contar  ¿un poquito mas largo?
+    Time Stamp: ("'ts1157'", "'ts1159'"), Annotation: y ahi
+    Time Stamp: ("'ts1163'", "'ts1164'"), Annotation: un poquito pero, un poquito de como pasaba el día, cuando era chiquita talvez  puede contar
+    Time Stamp: ("'ts1177'", "'ts1179'"), Annotation: trabajarkani, pero ¿En que trabajaba ? chagrapi, michishpa
+    Time Stamp: ("'ts1182'", "'ts1184'"), Annotation: ¿Awashpa?
+    Time Stamp: ("'ts1191'", "'ts1192'"), Annotation: si, pero cuando, cuando hable puede hablar una oración largo como
+    Time Stamp: ("'ts1193'", "'ts1194'"), Annotation: jakun urkuman jiwata japingapa
+    Time Stamp: ("'ts1195'", "'ts1196'"), Annotation: pero para continuar un poco mas nose
+    Time Stamp: ("'ts1215'", "'ts1216'"), Annotation: ¿Qué tal si descansamos por ahora?
+  Tier Type: tn, Annotations Count: 174
+    Time Stamp: ('12',), Annotation: ok
+    Time Stamp: ('12',), Annotation: ya estoy, estoy grabando
+    Time Stamp: ('12',), Annotation: primero
+    Time Stamp: ('12',), Annotation: primero, queria preguntar
+    Time Stamp: ('12',), Annotation: eee, les voy a preguntar en kichwa y despúes en castellano
+    Time Stamp: ('13',), Annotation: eee, ¿Cúal es su nombre?
+    Time Stamp: ('13',), Annotation: ya!
+    Time Stamp: ('13',), Annotation: ¿Y usted?
+    Time Stamp: ('13',), Annotation: Lucia Chalco
+    Time Stamp: ('13',), Annotation: eee
+    Time Stamp: ('13',), Annotation: voy a preguntar unas palabras en kichwa
+    Time Stamp: ('13',), Annotation: eem
+    Time Stamp: ('13',), Annotation: estabamos diciendo antes
+    Time Stamp: ('13',), Annotation: ¿Cómo es que se dice, Tierra?
+    Time Stamp: ('13',), Annotation: tierra
+    Time Stamp: ('14',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('14',), Annotation: perro
+    Time Stamp: ('14',), Annotation: ¿dinero?
+    Time Stamp: ('14',), Annotation: ella sabe!
+    Time Stamp: ('14',), Annotation: dinero
+    Time Stamp: ('14',), Annotation: eee
+    Time Stamp: ('14',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('14',), Annotation: si
+    Time Stamp: ('14',), Annotation: ¿bueno?, ¿bueno?
+    Time Stamp: ('14',), Annotation: aaa
+    Time Stamp: ('15',), Annotation: esta bien, como decir, tu estas bien
+    Time Stamp: ('15',), Annotation: estoy bien
+    Time Stamp: ('15',), Annotation: si yo digo, yo estoy bien
+    Time Stamp: ('15',), Annotation: ¿Cómo digo?
+    Time Stamp: ('15',), Annotation: bien, aja
+    Time Stamp: ('15',), Annotation: aja, ¿estas bien?
+    Time Stamp: ('15',), Annotation: estas bien?
+    Time Stamp: ('15',), Annotation: estas bien
+    Time Stamp: ('15',), Annotation: y, y cuando yo digo, si yo, yo puedo preguntar, ¿Cómo estas?
+    Time Stamp: ('15',), Annotation: o ¿Cómo estas?
+    Time Stamp: ('16',), Annotation: o, ¿Si estas bien?
+    Time Stamp: ('16',), Annotation: o algo asi
+    Time Stamp: ('16',), Annotation: para preguntar, Si usted esta bien, ¿Cómo haria?
+    Time Stamp: ('16',), Annotation: para decir, ¿Cómo esta?
+    Time Stamp: ('16',), Annotation: pregunta si ella sabe, para preguntar ¿Cómo esta?
+    Time Stamp: ('16',), Annotation: ¿como estas?
+    Time Stamp: ('16',), Annotation: ¿como estas? , aja
+    Time Stamp: ('16',), Annotation: y la i ahi, ¿Cómo puedo yo contestar?, Si estoy bien
+    Time Stamp: ('16',), Annotation: si estoy bien
+    Time Stamp: ('16',), Annotation: aja, si estoy bien
+    Time Stamp: ('17',), Annotation: haber
+    Time Stamp: ('25',), Annotation: haber, que mas, eee
+    Time Stamp: ('26',), Annotation: si yo quiero decir, eee
+    Time Stamp: ('26',), Annotation: mujer y hombre, ¿Cómo puedo decir, mujer y hombre?
+    Time Stamp: ('26',), Annotation: ¿Y hombre?
+    Time Stamp: ('129',), Annotation: hombre
+    Time Stamp: ('26',), Annotation: hombre, dice
+    Time Stamp: ('26',), Annotation: hay como varias pronunciaciones
+    Time Stamp: ('26',), Annotation: para decir la ... la hierbi
+    Time Stamp: ('26',), Annotation: que se va a ver para los cuyes, como se llama la hierba
+    Time Stamp: ('34',), Annotation: hierba
+    Time Stamp: ('34',), Annotation: hierba, hierba para los cuyes
+    Time Stamp: ('34',), Annotation: eee
+    Time Stamp: ('34',), Annotation: haber
+    Time Stamp: ('34',), Annotation: ¿Cómo digo, trenza?
+    Time Stamp: ('35',), Annotation: chimba
+    Time Stamp: ('35',), Annotation: ha sabido todo
+    Time Stamp: ('35',), Annotation: se ha sabido todo
+    Time Stamp: ('35',), Annotation: pequeña, de pequeña con quién hablo, hablaba el idioma kichwa
+    Time Stamp: ('35',), Annotation: de pequeña con quién hablo el idioma kichwa
+    Time Stamp: ('35',), Annotation: ¿Cuándo era chiquito con quién hablaba la lengua kichwa?
+    Time Stamp: ('35',), Annotation: abuelita
+    Time Stamp: ('35',), Annotation: ¿Se puede acordar de algunas cosas que decia la abuela, como hablaba ella?
+    Time Stamp: ('35',), Annotation: para ir repitiendo
+    Time Stamp: ('39',), Annotation: noo, no pude escucharle, no, yo puedo pregun...  decir de nuevo
+    Time Stamp: ('39',), Annotation: puede repe..repetir lo que dijo ella que yo no le escuche en kichwa, puede repetir
+    Time Stamp: ('39',), Annotation: mmm
+    Time Stamp: ('40',), Annotation: como yo voy..... pegarte
+    Time Stamp: ('42',), Annotation: aja
+    Time Stamp: ('42',), Annotation: aja
+    Time Stamp: ('42',), Annotation: a ya
+    Time Stamp: ('42',), Annotation: ¿Asi le decia la abuela? , ¿Era brava?
+    Time Stamp: ('46',), Annotation: yaaa
+    Time Stamp: ('46',), Annotation: mmm
+    Time Stamp: ('48',), Annotation: que otras cosas mas decia la abuela talvez, ¿que mas?
+    Time Stamp: ('48',), Annotation: para escuchar
+    Time Stamp: ('49',), Annotation: puede repetir otra vez, yo no le escuche bien
+    Time Stamp: ('50',), Annotation: aaa
+    Time Stamp: ('51',), Annotation: aja
+    Time Stamp: ('51',), Annotation: aja
+    Time Stamp: ('55',), Annotation: cuando queria que vengan, ¿Cómo decia?
+    Time Stamp: ('55',), Annotation: muchachos vengan?
+    Time Stamp: ('57',), Annotation: aja
+    Time Stamp: ('57',), Annotation: muchachos vengan
+    Time Stamp: ('57',), Annotation: bañese en el agua
+    Time Stamp: ('57',), Annotation: None
+    Time Stamp: ('57',), Annotation: aja
+    Time Stamp: ('57',), Annotation: mmm   a
+    Time Stamp: ('57',), Annotation: haber, y
+    Time Stamp: ('57',), Annotation: otra gente del barrio hablaba?
+    Time Stamp: ('58',), Annotation: otro, otros vecinos en esa epoca
+    Time Stamp: ('63',), Annotation: nuera
+    Time Stamp: ('63',), Annotation: aja
+    Time Stamp: ('63',), Annotation: ya
+    Time Stamp: ('63',), Annotation: venga a comer, asi puede decir a los nietos
+    Time Stamp: ('66',), Annotation: venga a comer
+    Time Stamp: ('66',), Annotation: (risa)
+    Time Stamp: ('66',), Annotation: esta bueno
+    Time Stamp: ('67',), Annotation: haber
+    Time Stamp: ('67',), Annotation: cuando uno aqui, cuando llegaba a entrar a la casa de alguien
+    Time Stamp: ('67',), Annotation: tenia que pedir permiso
+    Time Stamp: ('67',), Annotation: ¿Cómo se decia?
+    Time Stamp: ('67',), Annotation: ¿Alabado?
+    Time Stamp: ('67',), Annotation: aja
+    Time Stamp: ('69',), Annotation: ¿Y como respondes?
+    Time Stamp: ('73',), Annotation: para entrar
+    Time Stamp: ('73',), Annotation: mm ya
+    Time Stamp: ('73',), Annotation: entre, entre
+    Time Stamp: ('73',), Annotation: eee
+    Time Stamp: ('73',), Annotation: Quiere preguntar ¿Cómo se pregunta?
+    Time Stamp: ('74',), Annotation: ¿Qué quieres saber, como decir?
+    Time Stamp: ('74',), Annotation: la abuela le puede enseñar
+    Time Stamp: ('74',), Annotation: a jugar
+    Time Stamp: ('74',), Annotation: a jugar
+    Time Stamp: ('77',), Annotation: ¿Sabian caminar asi por la montaña,  por el Ilalo?
+    Time Stamp: ('77',), Annotation: pastoreando
+    Time Stamp: ('77',), Annotation: ¿pastoreaste?
+    Time Stamp: ('78',), Annotation: los ganados
+    Time Stamp: ('82',), Annotation: maiz, ¿Hay sembrio de maiz arriba?
+    Time Stamp: ('82',), Annotation: cosechar
+    Time Stamp: ('82',), Annotation: deee las, los cerros aca arriban, ahi ¿Tienen nombre los puestos?
+    Time Stamp: ('82',), Annotation: como no
+    Time Stamp: ('86',), Annotation: ¿Cómo es? Tibulon
+    Time Stamp: ('86',), Annotation: Trigoloma a yaya
+    Time Stamp: ('86',), Annotation: ¿Intikloma?
+    Time Stamp: ('87',), Annotation: Singafilo de ¿singa?
+    Time Stamp: ('92',), Annotation: ¿De dondé? ¿la quebrada?, ¿vertiente?, ¿la quebrada?
+    Time Stamp: ('92',), Annotation: ¿Donde habia que ...?
+    Time Stamp: ('92',), Annotation: la quebrada ¿Dondé se encontraba el agua por aqui?
+    Time Stamp: ('92',), Annotation: ¿ubuldu?
+    Time Stamp: ('92',), Annotation: ¿Cómo para acá, para alla?, ¿Dondé es?
+    Time Stamp: ('92',), Annotation: yaaa
+    Time Stamp: ('95',), Annotation: a la leña
+    Time Stamp: ('96',), Annotation: yaa
+    Time Stamp: ('96',), Annotation: si quiere dejamos ahi, primer paso
+    Time Stamp: ('96',), Annotation: ¿Quieren seguir un poco?
+    Time Stamp: ('100',), Annotation: se dice más ¿a la venta?
+    Time Stamp: ('100',), Annotation: ¿Cómo se dice ojo?
+    Time Stamp: ('100',), Annotation: ojos
+    Time Stamp: ('101',), Annotation: labios, oreja
+    Time Stamp: ('106',), Annotation: mano
+    Time Stamp: ('106',), Annotation: pie
+    Time Stamp: ('106',), Annotation: rodilla
+    Time Stamp: ('106',), Annotation: ¿cabello?
+    Time Stamp: ('106',), Annotation: ¿Y estos?
+    Time Stamp: ('107',), Annotation: ¿diente?
+    Time Stamp: ('107',), Annotation: lengua ¿Cómo dices?
+    Time Stamp: ('107',), Annotation: ¿lengua?
+    Time Stamp: ('107',), Annotation: lengua, diente....,boca.... nariz
+    Time Stamp: ('107',), Annotation: cabeza
+    Time Stamp: ('107',), Annotation: pregunta a la abuela
+    Time Stamp: ('111',), Annotation: cuando, cuando están, cuando estan asi muy dormilón le saben decir .... puñuy siki
+    Time Stamp: ('112',), Annotation: ¿Si ha oido?
+    Time Stamp: ('112',), Annotation: dormilón y borrachón es ...
+    Time Stamp: ('112',), Annotation: borracho, aaa
+    Time Stamp: ('112',), Annotation: ¿No le dicen borracho?
+    Time Stamp: ('112',), Annotation: esque en algunas partes saben hablar así, por eso pregunto
+    Time Stamp: ('112',), Annotation: si ha sabido bastante pues
+    Time Stamp: ('114',), Annotation: aja, para hablar como en una oración mas larga, como para decir
+    Time Stamp: ('114',), Annotation: que si puede decir en kichwa, como pasaba el dia
+    Time Stamp: ('114',), Annotation: cuando se hiba al trabajo y que hacia, despues cuando volvia, no se si hay como contar  ¿un poquito mas largo?
+    Time Stamp: ('115',), Annotation: y ahi
+    Time Stamp: ('115',), Annotation: un poquito pero, un poquito de como pasaba el día, cuando era chiquita talvez  puede contar
+    Time Stamp: ('118',), Annotation: trabaje, pero ¿En que trabajaba ? en la chakra, pastoreando
+    Time Stamp: ('119',), Annotation: ¿Tejiendo?
+    Time Stamp: ('119',), Annotation: si, pero cuando, cuando hable puede hablar una oración largo como
+    Time Stamp: ('119',), Annotation: vamos al cerro a recojer hierba
+    Time Stamp: ('119',), Annotation: pero para continuar un poco mas nose
+    Time Stamp: ('119',), Annotation: ¿Qué tal si descansamos por ahora?
+  Tier Type: dt, Annotations Count: 91
+    Time Stamp: ('12',), Annotation: ok
+    Time Stamp: ('12',), Annotation: ya estoy, estoy grabando
+    Time Stamp: ('12',), Annotation: primero
+    Time Stamp: ('12',), Annotation: primero queria preguntar
+    Time Stamp: ('12',), Annotation: eee, les voy a preguntar en kichwa y despúes en castellano
+    Time Stamp: ('13',), Annotation: ¿Ima skuti kanki?
+    Time Stamp: ('13',), Annotation: ya
+    Time Stamp: ('13',), Annotation: ¿Y usted?
+    Time Stamp: ('13',), Annotation: Lucia Chalco
+    Time Stamp: ('13',), Annotation: eee
+    Time Stamp: ('13',), Annotation: voy a preguntar unas palabras en kichwa
+    Time Stamp: ('13',), Annotation: eem
+    Time Stamp: ('13',), Annotation: estabamos diciendo antes
+    Time Stamp: ('13',), Annotation: ¿Cómo es que se dice, Tierra?
+    Time Stamp: ('13',), Annotation: alpa
+    Time Stamp: ('14',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('14',), Annotation: ashku
+    Time Stamp: ('14',), Annotation: ¿dinero?
+    Time Stamp: ('14',), Annotation: ella sabe!
+    Time Stamp: ('14',), Annotation: kushki
+    Time Stamp: ('14',), Annotation: eee
+    Time Stamp: ('14',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('14',), Annotation: ari
+    Time Stamp: ('14',), Annotation: ¿ali?, ¿alli?
+    Time Stamp: ('14',), Annotation: aaa
+    Time Stamp: ('15',), Annotation: allimi kanki, como decir, tu estas bien
+    Time Stamp: ('15',), Annotation: allimi kan
+    Time Stamp: ('15',), Annotation: si yo digo, yo estoy bien
+    Time Stamp: ('15',), Annotation: ¿Cómo digo?
+    Time Stamp: ('15',), Annotation: alli, aja
+    Time Stamp: ('15',), Annotation: aja alli ninki
+    Time Stamp: ('15',), Annotation: alli kanki
+    Time Stamp: ('15',), Annotation: alli kanki
+    Time Stamp: ('15',), Annotation: y, y cuando yo digo, si yo, yo puedo preguntar, ¿imanalla?
+    Time Stamp: ('15',), Annotation: o ¿Cómo estas?
+    Time Stamp: ('16',), Annotation: o, alichu, kanki
+    Time Stamp: ('16',), Annotation: o algo asi
+    Time Stamp: ('16',), Annotation: para preguntar, Si usted esta bien, ¿Cómo haria?
+    Time Stamp: ('16',), Annotation: para decir, ¿Cómo esta?
+    Time Stamp: ('16',), Annotation: pregunta si ella sabe, para preguntar ¿Cómo esta?
+    Time Stamp: ('16',), Annotation: imashina kanki
+    Time Stamp: ('16',), Annotation: imashina kanki aja
+    Time Stamp: ('16',), Annotation: y la i ahi, ¿Cómo puedo yo contestar?, Si estoy bien
+    Time Stamp: ('16',), Annotation: allimi kani
+    Time Stamp: ('16',), Annotation: aja. allimikani
+    Time Stamp: ('17',), Annotation: haber
+    Time Stamp: ('25',), Annotation: haber, que mas, eee
+    Time Stamp: ('26',), Annotation: si yo quiero decir, eee
+    Time Stamp: ('26',), Annotation: mujer y hombre, ¿Cómo puedo decir, mujer y hombre?
+    Time Stamp: ('26',), Annotation: ¿Y hombre?
+    Time Stamp: ('129',), Annotation: kari
+    Time Stamp: ('26',), Annotation: kari, dice
+    Time Stamp: ('26',), Annotation: hay como varias pronunciaciones
+    Time Stamp: ('26',), Annotation: para decir la ... la hierbita
+    Time Stamp: ('26',), Annotation: que se va a ver para los cuyes, como se llama la hierba
+    Time Stamp: ('34',), Annotation: hiwa
+    Time Stamp: ('34',), Annotation: hiwa, cuypa hiwa
+    Time Stamp: ('34',), Annotation: haber
+    Time Stamp: ('34',), Annotation: ¿Cómo digo, trenza?
+    Time Stamp: ('35',), Annotation: chimba
+    Time Stamp: ('35',), Annotation: ha sabido todo
+    Time Stamp: ('35',), Annotation: tukuyta yachashkanki
+    Time Stamp: ('35',), Annotation: uchilla, uchillakashpa piwan kichwata parlan, parlarkanki
+    Time Stamp: ('35',), Annotation: uchillakashpa piwan parlarkanki kichwashimi
+    Time Stamp: ('35',), Annotation: ¿Cuándo era chiquito con quién hablaba la lengua kichwa?
+    Time Stamp: ('35',), Annotation: abuelita
+    Time Stamp: ('35',), Annotation: ¿Se puede acordar de algunas cosas que decia la abuela, como hablaba ella?
+    Time Stamp: ('35',), Annotation: para ir repitiendo
+    Time Stamp: ('39',), Annotation: mana uyarkanichu
+    Time Stamp: ('39',), Annotation: puede repe..repetir lo que dijo ella que yo no le escuche en kichwa, puede repetir
+    Time Stamp: ('40',), Annotation: como yo voy ... makana
+    Time Stamp: ('42',), Annotation: a ya
+    Time Stamp: ('42',), Annotation: ¿Asi le decia la abuela? , ¿Era brava?
+    Time Stamp: ('46',), Annotation: yaaa
+    Time Stamp: ('55',), Annotation: wamprakuna shamuychi
+    Time Stamp: ('57',), Annotation: wamprakuna shamuna
+    Time Stamp: ('63',), Annotation: hachun
+    Time Stamp: ('74',), Annotation: pukllankapa
+    Time Stamp: ('74',), Annotation: pukllankapa
+    Time Stamp: ('77',), Annotation: michishpa
+    Time Stamp: ('77',), Annotation: michirkanki
+    Time Stamp: ('78',), Annotation: wakrakuna
+    Time Stamp: ('82',), Annotation: saara, saara chakra tian hawapi
+    Time Stamp: ('82',), Annotation: pallankapa
+    Time Stamp: ('92',), Annotation: maiman, waikuman, pukyuman, waikuman
+    Time Stamp: ('106',), Annotation: kunkuri
+    Time Stamp: ('107',), Annotation: hallu, imashina ninki
+    Time Stamp: ('112',), Annotation: shinka
+    Time Stamp: ('118',), Annotation: trabaharkani, pero ¿en que trabajaba? chakrapi, michishpa
+    Time Stamp: ('119',), Annotation: awashpa
+    Time Stamp: ('119',), Annotation: haku urkuman hiwata hapinkapa
+  Tier Type: mb, Annotations Count: 88
+    Time Stamp: ('12',), Annotation: ok
+    Time Stamp: ('12',), Annotation: ya estoy, estoy grabando
+    Time Stamp: ('12',), Annotation: primero
+    Time Stamp: ('12',), Annotation: primero queria preguntar
+    Time Stamp: ('12',), Annotation: eee, les voy a preguntar en kichwa y despúes en castellano
+    Time Stamp: ('13',), Annotation: ¿Ima shuti ka-nki?
+    Time Stamp: ('13',), Annotation: ya
+    Time Stamp: ('13',), Annotation: ¿Y usted?
+    Time Stamp: ('13',), Annotation: Lucia Chalco
+    Time Stamp: ('13',), Annotation: eee
+    Time Stamp: ('13',), Annotation: voy a preguntar unas palabras en kichwa
+    Time Stamp: ('13',), Annotation: eem
+    Time Stamp: ('13',), Annotation: estabamos diciendo antes
+    Time Stamp: ('13',), Annotation: ¿Cómo es que se dice, Tierra?
+    Time Stamp: ('13',), Annotation: alpa
+    Time Stamp: ('14',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('14',), Annotation: ashku
+    Time Stamp: ('14',), Annotation: ¿dinero?
+    Time Stamp: ('14',), Annotation: ella sabe
+    Time Stamp: ('14',), Annotation: kushki
+    Time Stamp: ('14',), Annotation: eee
+    Time Stamp: ('14',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('14',), Annotation: ari
+    Time Stamp: ('14',), Annotation: ¿ali?, ¿alli?
+    Time Stamp: ('14',), Annotation: aaa
+    Time Stamp: ('15',), Annotation: alli-mi ka-nki, como decir, tu estas bien
+    Time Stamp: ('15',), Annotation: alli-mi kan
+    Time Stamp: ('15',), Annotation: si yo digo, yo estoy bien
+    Time Stamp: ('15',), Annotation: ¿Cómo digo?
+    Time Stamp: ('15',), Annotation: alli, aja
+    Time Stamp: ('15',), Annotation: aja alli ni-nki
+    Time Stamp: ('15',), Annotation: alli ka-nki
+    Time Stamp: ('15',), Annotation: alli ka-nki
+    Time Stamp: ('15',), Annotation: y, y cuando yo digo, si yo, yo puedo preguntar, ima-na-lla
+    Time Stamp: ('15',), Annotation: o ¿Cómo estas?
+    Time Stamp: ('16',), Annotation: o ali-chu ka-nki
+    Time Stamp: ('16',), Annotation: o algo asi
+    Time Stamp: ('16',), Annotation: para preguntar, Si usted esta bien, ¿Cómo haria?
+    Time Stamp: ('16',), Annotation: para decir, ¿Cómo esta?
+    Time Stamp: ('16',), Annotation: pregunta si ella sabe, para preguntar ¿Cómo esta?
+    Time Stamp: ('16',), Annotation: ima-shi-na ka-nki
+    Time Stamp: ('16',), Annotation: ima-shi-na ka-nki aja
+    Time Stamp: ('16',), Annotation: y la i ahi, ¿Cómo puedo yo contestar?, Si estoy bien
+    Time Stamp: ('16',), Annotation: alli-mi ka-ni
+    Time Stamp: ('16',), Annotation: alli-mi-ka-ni
+    Time Stamp: ('17',), Annotation: haber
+    Time Stamp: ('25',), Annotation: haber, que mas, eee
+    Time Stamp: ('26',), Annotation: si yo quiero decir, eee
+    Time Stamp: ('26',), Annotation: mujer y hombre, ¿Cómo puedo decir, mujer y hombre?
+    Time Stamp: ('26',), Annotation: ¿Y hombre?
+    Time Stamp: ('129',), Annotation: kari
+    Time Stamp: ('26',), Annotation: kari dice
+    Time Stamp: ('26',), Annotation: hay como varias pronunciaciones
+    Time Stamp: ('26',), Annotation: para decir la ... la hierbita
+    Time Stamp: ('26',), Annotation: que se va a ver para los cuyes, como se llama la hierba
+    Time Stamp: ('34',), Annotation: hiwa
+    Time Stamp: ('34',), Annotation: hiwa kuy-pa hiwa
+    Time Stamp: ('34',), Annotation: haber
+    Time Stamp: ('34',), Annotation: ¿Cómo digo, trenza?
+    Time Stamp: ('35',), Annotation: chimba
+    Time Stamp: ('35',), Annotation: ha sabido todo
+    Time Stamp: ('35',), Annotation: tukuy-ta yacha-shka-nki
+    Time Stamp: ('35',), Annotation: uchilla, uchilla-ka-shpa piwan kichwa-ta parlan, parlar-ka-nki
+    Time Stamp: ('35',), Annotation: uchilla-ka-shpa piwan parlar-ka-nki kichwa-shi-mi
+    Time Stamp: ('35',), Annotation: ¿Cuándo era chiquito con quién hablaba la lengua kichwa?
+    Time Stamp: ('35',), Annotation: abuelita
+    Time Stamp: ('35',), Annotation: ¿Se puede acordar de algunas cosas que decia la abuela, como hablaba ella?
+    Time Stamp: ('35',), Annotation: para ir repitiendo
+    Time Stamp: ('39',), Annotation: mana uyar-ka-ni-chu
+    Time Stamp: ('39',), Annotation: puede repe..repetir lo que dijo ella que yo no le escuche en kichwa, puede repetir
+    Time Stamp: ('40',), Annotation: como yo voy ... maka-na
+    Time Stamp: ('42',), Annotation: a ya
+    Time Stamp: ('42',), Annotation: ¿Asi le decia la abuela? , ¿Era brava?
+    Time Stamp: ('46',), Annotation: yaaa
+    Time Stamp: ('55',), Annotation: wampra-kuna shamuy-chi
+    Time Stamp: ('57',), Annotation: wampra-kuna shamu-na
+    Time Stamp: ('63',), Annotation: hachun
+    Time Stamp: ('74',), Annotation: puklla-nka-pa
+    Time Stamp: ('77',), Annotation: michi-shpa
+    Time Stamp: ('77',), Annotation: micrir-ka-nki
+    Time Stamp: ('78',), Annotation: wakra-kuna
+    Time Stamp: ('82',), Annotation: sara, sara chakra tian hawa-pi
+    Time Stamp: ('82',), Annotation: palla-nka-pa
+    Time Stamp: ('92',), Annotation: mai-man, waiku-man, pukyu-man, waiku-man
+    Time Stamp: ('107',), Annotation: hallu, ima-shi-na ni-nki
+    Time Stamp: ('118',), Annotation: trabahar-ka-ni, pero¿en que trabajaba? chakra-pi, michi-shpa
+    Time Stamp: ('119',), Annotation: awa-shpa
+    Time Stamp: ('119',), Annotation: haku urku-man hiwa-ta hapi-nka-pa
+  Tier Type: gl, Annotations Count: 88
+    Time Stamp: ('146',), Annotation: None
+    Time Stamp: ('156',), Annotation: ya estoy, estoy grabando
+    Time Stamp: ('157',), Annotation: primero
+    Time Stamp: ('157',), Annotation: primero queria preguntar
+    Time Stamp: ('157',), Annotation: eee, les voy a preguntar en kichwa y despúes en castellano
+    Time Stamp: ('124',), Annotation: ¿qué nombre es usted-2?
+    Time Stamp: ('160',), Annotation: ya
+    Time Stamp: ('160',), Annotation: ¿Y usted?
+    Time Stamp: ('161',), Annotation: Lucia Chalco
+    Time Stamp: ('161',), Annotation: eee
+    Time Stamp: ('161',), Annotation: voy a preguntar unas palabras en kichwa
+    Time Stamp: ('161',), Annotation: eem
+    Time Stamp: ('161',), Annotation: estabamos diciendo antes
+    Time Stamp: ('161',), Annotation: ¿Cómo es que se dice, Tierra?
+    Time Stamp: ('161',), Annotation: tierra
+    Time Stamp: ('161',), Annotation: ¿Cómo se dice, perro?
+    Time Stamp: ('150',), Annotation: perro
+    Time Stamp: ('150',), Annotation: dinero
+    Time Stamp: ('150',), Annotation: ella sabe
+    Time Stamp: ('153',), Annotation: dinero
+    Time Stamp: ('161',), Annotation: eee
+    Time Stamp: ('161',), Annotation: ¿Cómo se dice, bueno?
+    Time Stamp: ('153',), Annotation: si
+    Time Stamp: ('162',), Annotation: bueno bueno
+    Time Stamp: ('146',), Annotation: aaa
+    Time Stamp: ('165',), Annotation: bien-AF.EV ser-2  como decir, tu estas bien
+    Time Stamp: ('165',), Annotation: bien-AF.EV ser
+    Time Stamp: ('166',), Annotation: si yo digo, yo estoy bien
+    Time Stamp: ('166',), Annotation: ¿Cómo digo?
+    Time Stamp: ('167',), Annotation: bien aja
+    Time Stamp: ('167',), Annotation: aja bien decir-2
+    Time Stamp: ('168',), Annotation: bien ser-2
+    Time Stamp: ('168',), Annotation: bien ser-2
+    Time Stamp: ('124',), Annotation: y y cuando yo digo, si yo, yo puedo preguntar como-NMLZ-LIM
+    Time Stamp: ('168',), Annotation: o ¿Cómo estas?
+    Time Stamp: ('169',), Annotation: o bien-Q ser-2
+    Time Stamp: ('171',), Annotation: o algo asi
+    Time Stamp: ('171',), Annotation: para preguntar, Si usted esta bien, ¿Cómo haria?
+    Time Stamp: ('171',), Annotation: para decir, ¿Cómo esta?
+    Time Stamp: ('171',), Annotation: pregunta si ella sabe, para preguntar ¿Cómo esta?
+    Time Stamp: ('125',), Annotation: cómo-SPEC-NMLZ-FOC-2
+    Time Stamp: ('173',), Annotation: como-SPEC-INF ser-2 aja
+    Time Stamp: ('173',), Annotation: y la i ahi, ¿Cómo puedo yo contestar?, Si estoy bien
+    Time Stamp: ('125',), Annotation: bien-AF.EV -FOC-1
+    Time Stamp: ('126',), Annotation: bien-AF.EV-FOC-1
+    Time Stamp: ('176',), Annotation: haber
+    Time Stamp: ('176',), Annotation: haber, que mas, eee
+    Time Stamp: ('176',), Annotation: si yo quiero decir, eee
+    Time Stamp: ('176',), Annotation: mujer y hombre, ¿Cómo puedo decir, mujer y hombre?
+    Time Stamp: ('176',), Annotation: ¿Y hombre?
+    Time Stamp: ('178',), Annotation: hombre
+    Time Stamp: ('178',), Annotation: hombre dice
+    Time Stamp: ('178',), Annotation: hay como varias pronunciaciones
+    Time Stamp: ('180',), Annotation: para decir la ... la hierbita
+    Time Stamp: ('180',), Annotation: que se va a ver para los cuyes, como se llama la hierba
+    Time Stamp: ('181',), Annotation: hierba
+    Time Stamp: ('181',), Annotation: hierba cuy-HON hierba
+    Time Stamp: ('184',), Annotation: haber
+    Time Stamp: ('184',), Annotation: ¿Cómo digo, trenza?
+    Time Stamp: ('184',), Annotation: chimba
+    Time Stamp: ('184',), Annotation: ha sabido todo
+    Time Stamp: ('130',), Annotation: todo-AC, ACC-saber-PFV-2
+    Time Stamp: ('130',), Annotation: pequeña, pequeña-FOC-SR con quién kichwa-AC, ACC hablar, hablar-FOC-2
+    Time Stamp: ('130',), Annotation: pequeña-FOC-SR-con quién hablar-FOC-2 kichwa-SPEC-AF.EV
+    Time Stamp: ('187',), Annotation: ¿Cuándo era chiquito con quién hablaba la lengua kichwa?
+    Time Stamp: ('187',), Annotation: abuelita
+    Time Stamp: ('187',), Annotation: ¿Se puede acordar de algunas cosas que decia la abuela, como hablaba ella?
+    Time Stamp: ('188',), Annotation: para ir repitiendo
+    Time Stamp: ('130',), Annotation: no escuchar-FOC-1-NEG,Q
+    Time Stamp: ('191',), Annotation: puede repe..repetir lo que dijo ella que yo no le escuche en kichwa, puede repetir
+    Time Stamp: ('130',), Annotation: como yo voy ... pegar-NMLZ
+    Time Stamp: ('194',), Annotation: a ya
+    Time Stamp: ('194',), Annotation: ¿Asi le decia la abuela? , ¿Era brava?
+    Time Stamp: ('195',), Annotation: yaaa
+    Time Stamp: ('135',), Annotation: niños-PL-vengan-CAUS
+    Time Stamp: ('135',), Annotation: niños-PL vengan-NMLZ
+    Time Stamp: ('135',), Annotation: nuera
+    Time Stamp: ('142',), Annotation: jugar - 3FUT-HON
+    Time Stamp: ('143',), Annotation: pastar-SR
+    Time Stamp: ('143',), Annotation: pastar-FOC-2
+    Time Stamp: ('143',), Annotation: ganado-PL
+    Time Stamp: ('143',), Annotation: maíz, hay sembrio de maíz arriba-LOC
+    Time Stamp: ('143',), Annotation: recojer-3FUT-HON
+    Time Stamp: ('143',), Annotation: donde-AL, ALL, rio-AL, ALL, vertiente-AL, ALL rio-AL, ALL
+    Time Stamp: ('143',), Annotation: lengua, cómo-SPEC-NMLZ- decir-2
+    Time Stamp: ('143',), Annotation: trabahar-FOC-1, pero ¿en que trabajaba? sembrio-LOC, pastar-SR
+    Time Stamp: ('143',), Annotation: tejer-SR
+    Time Stamp: ('143',), Annotation: vamos al cerro-AL, ALL hierba-AC, ACC recojer-3FUT-HON
+Speaker: Niña
+  Tier Type: po, Annotations Count: 7
+    Time Stamp: ("'ts64'", "'ts66'"), Annotation: kushki
+    Time Stamp: ("'ts105'", "'ts106'"), Annotation: alli
+    Time Stamp: ("'ts264'", "'ts266'"), Annotation: Karen (risa)
+    Time Stamp: ("'ts273'", "'ts275'"), Annotation: Karen (risa)
+    Time Stamp: ("'ts468'", "'ts471'"), Annotation: se ve la mina
+    Time Stamp: ("'ts813'", "'ts814'"), Annotation: ¿Cuándo esta trepando al árbol?
+    Time Stamp: ("'ts1027'", "'ts1030'"), Annotation: la oreja, rinri
+  Tier Type: tn, Annotations Count: 7
+    Time Stamp: ('21',), Annotation: dinero
+    Time Stamp: ('21',), Annotation: bueno
+    Time Stamp: ('27',), Annotation: Karen (risa)
+    Time Stamp: ('27',), Annotation: Karen (risa)
+    Time Stamp: ('47',), Annotation: se ve la mina
+    Time Stamp: ('83',), Annotation: ¿Cuándo esta trepando al árbol?
+    Time Stamp: ('101',), Annotation: la oreja, rinri
+  Tier Type: dt, Annotations Count: 4
+    Time Stamp: ('21',), Annotation: kushki
+    Time Stamp: ('21',), Annotation: alli
+    Time Stamp: ('27',), Annotation: Karen
+    Time Stamp: ('27',), Annotation: Karen
+  Tier Type: mb, Annotations Count: 4
+    Time Stamp: ('21',), Annotation: kushki
+    Time Stamp: ('21',), Annotation: alli
+    Time Stamp: ('27',), Annotation: Karen
+    Time Stamp: ('27',), Annotation: Karen
+  Tier Type: gl, Annotations Count: 4
+    Time Stamp: ('150',), Annotation: dinero
+    Time Stamp: ('163',), Annotation: bueno
+    Time Stamp: ('179',), Annotation: Karen
+    Time Stamp: ('179',), Annotation: Karen
+Speaker: Niño
+  Tier Type: po, Annotations Count: 22
+    Time Stamp: ("'ts71'", "'ts72'"), Annotation: kushki
+    Time Stamp: ("'ts83'", "'ts85'"), Annotation: bueno
+    Time Stamp: ("'ts115'", "'ts116'"), Annotation: alli, migingi, le saben decir
+    Time Stamp: ("'ts149'", "'ts150'"), Annotation: alli, ningi
+    Time Stamp: ("'ts181'", "'ts182'"), Annotation: alli
+    Time Stamp: ("'ts193'", "'ts194'"), Annotation: alli alli
+    Time Stamp: ("'ts241'", "'ts242'"), Annotation: hombre, mujer
+    Time Stamp: ("'ts296'", "'ts298'"), Annotation: alfalfa
+    Time Stamp: ("'ts427'", "'ts428'"), Annotation: hoy te pego
+    Time Stamp: ("'ts514'", "'ts517'"), Annotation: nosé si salio en la camara ....
+    Time Stamp: ("'ts658'", "'ts660'"), Annotation: ¿Y qué significa?
+    Time Stamp: ("'ts733'", "'ts734'"), Annotation: ¿Cómo se pregunta?
+    Time Stamp: ("'ts736'", "'ts738'"), Annotation: no yo nosé
+    Time Stamp: ("'ts765'", "'ts766'"), Annotation: ¿Cómo se pregunta que, ... cuando esta haciendo algo?
+    Time Stamp: ("'ts837'", "'ts839'"), Annotation: ¿Cómo era?
+    Time Stamp: ("'ts1007'", "'ts1009'"), Annotation: los números
+    Time Stamp: ("'ts1037'", "'ts1038'"), Annotation: ¿Y el rabo?
+    Time Stamp: ("'ts1089'", "'ts1090'"), Annotation: rrinrri
+    Time Stamp: ("'ts1104'", "'ts1108'"), Annotation: mamá, ¿Cómo se llama esto en kichwa?
+    Time Stamp: ("'ts1111'", "'ts1113'"), Annotation: yo sol, yo solo
+    Time Stamp: ("'ts1114'", "'ts1116'"), Annotation: ayy
+    Time Stamp: ("'ts1139'", "'ts1140'"), Annotation: shinga marilin
+  Tier Type: tn, Annotations Count: 22
+    Time Stamp: ('22',), Annotation: dinero
+    Time Stamp: ('22',), Annotation: bueno
+    Time Stamp: ('22',), Annotation: alli, migingi, le saben decir
+    Time Stamp: ('22',), Annotation: bien, diras
+    Time Stamp: ('22',), Annotation: bien
+    Time Stamp: ('22',), Annotation: bien bien
+    Time Stamp: ('27',), Annotation: hombre, mujer
+    Time Stamp: ('37',), Annotation: alfalfa
+    Time Stamp: ('42',), Annotation: hoy te pego
+    Time Stamp: ('52',), Annotation: nosé si salio en la camara ....
+    Time Stamp: ('68',), Annotation: ¿Y qué significa?
+    Time Stamp: ('75',), Annotation: ¿Cómo se pregunta?
+    Time Stamp: ('75',), Annotation: no yo nosé
+    Time Stamp: ('75',), Annotation: ¿Cómo se pregunta que, ... cuando esta haciendo algo?
+    Time Stamp: ('83',), Annotation: ¿Cómo era?
+    Time Stamp: ('101',), Annotation: los números
+    Time Stamp: ('103',), Annotation: ¿Y el rabo?
+    Time Stamp: ('108',), Annotation: oreja
+    Time Stamp: ('113',), Annotation: mamá, ¿Cómo se llama esto en kichwa?
+    Time Stamp: ('113',), Annotation: yo sol, yo solo
+    Time Stamp: ('113',), Annotation: ayy
+    Time Stamp: ('113',), Annotation: borracho ...
+Speaker: Mujer3
+  Tier Type: po, Annotations Count: 57
+    Time Stamp: ("'ts255'", "'ts257'"), Annotation: jari
+    Time Stamp: ("'ts259'", "'ts261'"), Annotation: ¿Jari o kari?
+    Time Stamp: ("'ts281'", "'ts282'"), Annotation: jari
+    Time Stamp: ("'ts285'", "'ts286'"), Annotation: kari
+    Time Stamp: ("'ts287'", "'ts288'"), Annotation: jari
+    Time Stamp: ("'ts333'", "'ts334'"), Annotation: ari, ali
+    Time Stamp: ("'ts392'", "'ts394'"), Annotation: castigar
+    Time Stamp: ("'ts411'", "'ts413'"), Annotation: makashi
+    Time Stamp: ("'ts414'", "'ts416'"), Annotation: pegar
+    Time Stamp: ("'ts425'", "'ts426'"), Annotation: juno makashi
+    Time Stamp: ("'ts451'", "'ts453'"), Annotation: por malcriado
+    Time Stamp: ("'ts478'", "'ts479'"), Annotation: haber ¿Qué mas le vamos a ....
+    Time Stamp: ("'ts519'", "'ts521'"), Annotation: no ha querido comer
+    Time Stamp: ("'ts523'", "'ts524'"), Annotation: se ha ido a estar por ahi por,  por las piedras y se le entra la
+    Time Stamp: ("'ts525'", "'ts526'"), Annotation: se sube la culebra, por eso le ha dicho, bueno que te ha entrado la culebra, entonces
+    Time Stamp: ("'ts527'", "'ts528'"), Annotation: allimi nishka
+    Time Stamp: ("'ts529'", "'ts530'"), Annotation: culebrata  yay  yaykurka
+    Time Stamp: ("'ts533'", "'ts534'"), Annotation: que quiere decir que la
+    Time Stamp: ("'ts535'", "'ts537'"), Annotation: que bueno!! que la culebra te ha entrado por malcriada
+    Time Stamp: ("'ts539'", "'ts541'"), Annotation: ya, que mas decia, que mas decia
+    Time Stamp: ("'ts639'", "'ts640'"), Annotation: jachun miquidad
+    Time Stamp: ("'ts641'", "'ts642'"), Annotation: mikuy shamun
+    Time Stamp: ("'ts643'", "'ts644'"), Annotation: que quiere decir, nuera venga a comer la comida
+    Time Stamp: ("'ts647'", "'ts648'"), Annotation: jachun
+    Time Stamp: ("'ts653'", "'ts655'"), Annotation: eeeso
+    Time Stamp: ("'ts656'", "'ts659'"), Annotation: miki shamuy
+    Time Stamp: ("'ts673'", "'ts674'"), Annotation: ya
+    Time Stamp: ("'ts741'", "'ts742'"), Annotation: preguntale
+    Time Stamp: ("'ts749'", "'ts750'"), Annotation: carro en kichwa
+    Time Stamp: ("'ts767'", "'ts768'"), Annotation: imata rrajungui
+    Time Stamp: ("'ts780'", "'ts783'"), Annotation: cerro
+    Time Stamp: ("'ts787'", "'ts789'"), Annotation: michirkangui
+    Time Stamp: ("'ts805'", "'ts808'"), Annotation: sara pallingaba
+    Time Stamp: ("'ts811'", "'ts812'"), Annotation: oh japingapa también
+    Time Stamp: ("'ts816'", "'ts818'"), Annotation: urijun
+    Time Stamp: ("'ts882'", "'ts888'"), Annotation: pero pero al principio, el terreno era asi tiro fino en la loma
+    Time Stamp: ("'ts892'", "'ts894'"), Annotation: singafilo
+    Time Stamp: ("'ts905'", "'ts906'"), Annotation: yakuta apak
+    Time Stamp: ("'ts937'", "'ts938'"), Annotation: habiá una vertiente
+    Time Stamp: ("'ts939'", "'ts941'"), Annotation: se llamaba ...... en el agua
+    Time Stamp: ("'ts949'", "'ts950'"), Annotation: jaku yantama
+    Time Stamp: ("'ts954'", "'ts956'"), Annotation: yantama
+    Time Stamp: ("'ts964'", "'ts966'"), Annotation: preguntele alguna otra cosa
+    Time Stamp: ("'ts989'", "'ts990'"), Annotation: celazu ja...
+    Time Stamp: ("'ts991'", "'ts992'"), Annotation: jaku cedazo jatukgri
+    Time Stamp: ("'ts993'", "'ts994'"), Annotation: cedazo jatungabu
+    Time Stamp: ("'ts995'", "'ts996'"), Annotation: jatungabu, claro mi ...
+    Time Stamp: ("'ts1008'", "'ts1010'"), Annotation: aa ya
+    Time Stamp: ("'ts1061'", "'ts1062'"), Annotation: kunguri
+    Time Stamp: ("'ts1075'", "'ts1076'"), Annotation: kirukuna
+    Time Stamp: ("'ts1095'", "'ts1097'"), Annotation: uma
+    Time Stamp: ("'ts1136'", "'ts1138'"), Annotation: shinga, marikinga
+    Time Stamp: ("'ts1158'", "'ts1162'"), Annotation: asi como la señora que sabe conversar asi de largo no
+    Time Stamp: ("'ts1167'", "'ts1169'"), Annotation: cuando era pequeña
+    Time Stamp: ("'ts1185'", "'ts1186'"), Annotation: ¿Y que significa awashpa?
+    Time Stamp: ("'ts1187'", "'ts1188'"), Annotation: ¿Qué significa awashpa?
+    Time Stamp: ("'ts1197'", "'ts1198'"), Annotation: digale que diga, todo el dia pasaba tejiendo o haciendo eso en kichwa haber si puede
+  Tier Type: tn, Annotations Count: 55
+    Time Stamp: ('28',), Annotation: hombre
+    Time Stamp: ('28',), Annotation: ¿Hombre u hombre?
+    Time Stamp: ('28',), Annotation: hombre
+    Time Stamp: ('28',), Annotation: hombre
+    Time Stamp: ('28',), Annotation: hombre
+    Time Stamp: ('37',), Annotation: si, bien
+    Time Stamp: ('40',), Annotation: castigar
+    Time Stamp: ('43',), Annotation: pegar
+    Time Stamp: ('43',), Annotation: pegar
+    Time Stamp: ('43',), Annotation: hoy te pego
+    Time Stamp: ('47',), Annotation: por malcriado
+    Time Stamp: ('48',), Annotation: haber ¿Qué mas le vamos a ...
+    Time Stamp: ('52',), Annotation: no ha querido comer
+    Time Stamp: ('52',), Annotation: se ha ido a estar por ahi por,  por las piedras y se le entra la
+    Time Stamp: ('52',), Annotation: se sube la culebra, por eso le ha dicho, bueno que te ha entrado la culebra, entonces
+    Time Stamp: ('52',), Annotation: que bueno!!  le ha dicho
+    Time Stamp: ('52',), Annotation: que se te haya entrado la culebra
+    Time Stamp: ('52',), Annotation: que quiere decir que la
+    Time Stamp: ('52',), Annotation: que bueno!! que la culebra te ha entrado por malcriada
+    Time Stamp: ('53',), Annotation: ya, que mas decia, que mas decia
+    Time Stamp: ('64',), Annotation: que quiere decir, nuera venga a comer la comida
+    Time Stamp: ('64',), Annotation: nuera
+    Time Stamp: ('64',), Annotation: eeeso
+    Time Stamp: ('68',), Annotation: venga a comer
+    Time Stamp: ('68',), Annotation: ya
+    Time Stamp: ('75',), Annotation: preguntale
+    Time Stamp: ('76',), Annotation: carro en kichwa
+    Time Stamp: ('76',), Annotation: imata rrajungui
+    Time Stamp: ('78',), Annotation: cerro
+    Time Stamp: ('78',), Annotation: ¿pastoreaste?
+    Time Stamp: ('83',), Annotation: cosechar maíz
+    Time Stamp: ('83',), Annotation: oh para recojer también
+    Time Stamp: ('83',), Annotation: bajar
+    Time Stamp: ('88',), Annotation: pero pero al principio, el terreno era asi tiro fino en la loma
+    Time Stamp: ('89',), Annotation: punta de nariz
+    Time Stamp: ('89',), Annotation: traer agua
+    Time Stamp: ('93',), Annotation: habiá una vertiente
+    Time Stamp: ('93',), Annotation: se llamaba ...... en el agua
+    Time Stamp: ('96',), Annotation: vamos a la leña
+    Time Stamp: ('96',), Annotation: la leña
+    Time Stamp: ('96',), Annotation: preguntele alguna otra cosa
+    Time Stamp: ('101',), Annotation: cedazo para ...
+    Time Stamp: ('102',), Annotation: cedazo para harina a la venta
+    Time Stamp: ('102',), Annotation: a vender cedazos
+    Time Stamp: ('102',), Annotation:  a la venta, claro ...
+    Time Stamp: ('102',), Annotation: aa ya
+    Time Stamp: ('108',), Annotation: rodilla
+    Time Stamp: ('109',), Annotation: dientes
+    Time Stamp: ('109',), Annotation: cabeza
+    Time Stamp: ('114',), Annotation: borracho...
+    Time Stamp: ('115',), Annotation: asi como la señora que sabe conversar asi de largo no
+    Time Stamp: ('120',), Annotation: cuando era pequeña
+    Time Stamp: ('120',), Annotation: ¿Y qué significa awashpa?
+    Time Stamp: ('120',), Annotation: ¿Qué significa awashpa?
+    Time Stamp: ('120',), Annotation: digale que diga, todo el dia pasaba tejiendo o haciendo eso en kichwa haber si puede
+  Tier Type: dt, Annotations Count: 6
+    Time Stamp: ('37',), Annotation: ari, ali
+    Time Stamp: ('52',), Annotation: allimi nishka
+    Time Stamp: ('52',), Annotation: culebrat yay...yaykurka
+    Time Stamp: ('76',), Annotation: imata rrakunki
+    Time Stamp: ('78',), Annotation: michirkanki
+    Time Stamp: ('83',), Annotation: oh hapinkapa
+  Tier Type: mb, Annotations Count: 5
+    Time Stamp: ('52',), Annotation: alli-mi nishka
+    Time Stamp: ('52',), Annotation: culebra-ta yayku-rka
+    Time Stamp: ('76',), Annotation: ima-ta rraku-nki
+    Time Stamp: ('78',), Annotation: michir-ka-nki
+    Time Stamp: ('83',), Annotation: hapi-nka-pa
+  Tier Type: gl, Annotations Count: 5
+    Time Stamp: ('131',), Annotation: bien-AF.EV le ha dicho
+    Time Stamp: ('131',), Annotation: culebra-AC,ACC entró-PAST
+    Time Stamp: ('145',), Annotation: qué-AC, ACC- hacer-2
+    Time Stamp: ('145',), Annotation: pastar-FOC-2
+    Time Stamp: ('145',), Annotation: recojer-3FUT-HON
+Speaker: Hombre2
+  Tier Type: po, Annotations Count: 15
+    Time Stamp: ("'ts260'", "'ts262'"), Annotation: varón
+    Time Stamp: ("'ts279'", "'ts280'"), Annotation: kari
+    Time Stamp: ("'ts389'", "'ts391'"), Annotation: te voy a castigar
+    Time Stamp: ("'ts603'", "'ts604'"), Annotation: deben haber hablado ya
+    Time Stamp: ("'ts751'", "'ts752'"), Annotation: carro en kichwa
+    Time Stamp: ("'ts788'", "'ts790'"), Annotation: michirkangui, michirkangui wagrakunata, llamakunata
+    Time Stamp: ("'ts797'", "'ts798'"), Annotation: ¿Para maiz, con ....?
+    Time Stamp: ("'ts852'", "'ts854'"), Annotation: Pintik loma
+    Time Stamp: ("'ts889'", "'ts891'"), Annotation: ¿Qué tenia forma de nariz?
+    Time Stamp: ("'ts971'", "'ts973'"), Annotation: antes ella vendia cedazos, para ir a vender cedazos
+    Time Stamp: ("'ts1091'", "'ts1092'"), Annotation: rrinrri
+    Time Stamp: ("'ts1160'", "'ts1161'"), Annotation: una conversación
+    Time Stamp: ("'ts1189'", "'ts1190'"), Annotation: ahi es el problema, ya ve
+    Time Stamp: ("'ts1213'", "'ts1214'"), Annotation: ya no ....
+    Time Stamp: ("'ts1219'", "'ts1220'"), Annotation: yaa
+  Tier Type: tn, Annotations Count: 15
+    Time Stamp: ('29',), Annotation: varón
+    Time Stamp: ('29',), Annotation: hombre
+    Time Stamp: ('40',), Annotation: te voy a castigar
+    Time Stamp: ('61',), Annotation: deben haber hablado ya
+    Time Stamp: ('76',), Annotation: carro en kichwa
+    Time Stamp: ('78',), Annotation: pastoreaste, ¿pastoreaste a los ganados, las ovejas?
+    Time Stamp: ('84',), Annotation: ¿Para maiz, con ....?
+    Time Stamp: ('86',), Annotation: Pintik loma
+    Time Stamp: ('90',), Annotation: ¿Qué tenia forma de nariz?
+    Time Stamp: ('97',), Annotation: antes ella vendia cedazos, para ir a vender cedazos
+    Time Stamp: ('109',), Annotation: oreja
+    Time Stamp: ('115',), Annotation: una conversación
+    Time Stamp: ('120',), Annotation: ahi es el problema, ya ve
+    Time Stamp: ('121',), Annotation: ya no ....
+    Time Stamp: ('121',), Annotation: yaa
+  Tier Type: dt, Annotations Count: 1
+    Time Stamp: ('78',), Annotation: michirkanki, michirkanki wakrakunata, llamakunata
+  Tier Type: mb, Annotations Count: 1
+    Time Stamp: ('78',), Annotation: michir-ka-nki, michir-ka-nki wakra-kuna-ta, llama-kuna-ta
+  Tier Type: gl, Annotations Count: 1
+    Time Stamp: ('146',), Annotation: pastar-FOC-2, pastar-FOC-2 ganado-PL-AC, ACC, oveja-PL-2

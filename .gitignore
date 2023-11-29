@@ -1,3 +1,5 @@
 # .gitignore
 Data/Tests/
-Outputs/Clean txt/testing/
+Outputs/
+Data/Done/
+Data/
